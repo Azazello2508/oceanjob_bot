@@ -15,13 +15,13 @@ CHAT_ID = os.environ["TELEGRAM_CHAT_ID"]
 # Какие должности искать (без учёта регистра)
 KEYWORDS = [
     "chief officer", "c/o", "chief mate", "jdpo",
-    "second officer", "2nd officer", "2/o", "dp basic",
+    "second officer", "2nd officer", "2/o", "dp basic", "dp induction",
     # оффшорные сокращения
     "co/dpo", "co/sdpo", "2o/dpo", "ch/off", "choff",
     # русские названия
     "старпом", "старший помощник", "ст. помощник", "ст.помощник",
 ]
-KEYWORDS_VERSION = 3
+KEYWORDS_VERSION = 4
 
 
 # Публичные Telegram-каналы с вакансиями: имя канала из ссылки t.me/ИМЯ
