@@ -112,7 +112,8 @@ SITES = {
     "seacareer.com": {
         "pages": ["https://www.seacareer.com/chief-officer-sdpo-jobs/",
                   "https://www.seacareer.com/deck-officer-jobs/",
-                  "https://www.seacareer.com/junior-deck-officer-jobs/"],
+                  "https://www.seacareer.com/junior-deck-officer-jobs/",
+                  "https://www.seacareer.com/offshore-jobs/"],
         "pattern": r"/i(\d+)/[\w-]+/?$",
         "base": "https://www.seacareer.com",
     },
@@ -126,6 +127,17 @@ SITES = {
                   "https://www.seajobs.ru/ru/vacancies?page=2"],
         "pattern": r"/vacancy/(\d+)",
         "base": "https://seajobs.ru",
+    },
+    "maritime-union.com": {
+        "pages": ["https://maritime-union.com/jobs",
+                  "https://maritime-union.com/jobs?p=2"],
+        "pattern": r"/job/(\d+)",
+        "base": "https://maritime-union.com",
+    },
+    "seafarerjobs.com": {
+        "pages": ["https://www.seafarerjobs.com/hot-jobs"],
+        "pattern": r"/hot-jobs/(\d+)",
+        "base": "https://www.seafarerjobs.com",
     },
 }
 
