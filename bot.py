@@ -166,7 +166,8 @@ def get_channel(name):
             post = msg["data-post"]  # вида "имя/12345"
             jobs.append({
                 "id": "tg-" + post,
-                "title": text[:400] + ("…" if len(text) > 400 else ""),
+                "title": text[:1500] + ("…" if len(text) > 1500 else ""),
+                "found": [k for k in KEYWORDS if k in text.lower()],
                 "url": "https://t.me/" + post,
                 "fp": fingerprint(text),
             })
@@ -220,7 +221,9 @@ def main():
             if fp and fp in seen:
                 print(f"Дубль, пропускаю: {job['url']}")
                 continue
-            send(f"🚢 {job['title']}\n\n{label}\n{job['url']}")
+            found = job.get("found")
+            head = f"🔎 Найдено: {', '.join(found)}\n\n" if found else ""
+            send(f"{head}🚢 {job['title']}\n\n{label}\n{job['url']}")
             sent += 1
             if fp:
                 seen.add(fp)
