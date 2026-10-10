@@ -101,6 +101,44 @@ def get_ukrcrewing():
     return jobs
 
 
+# Простые сайты: страницы со списком вакансий и шаблон ссылки на одну вакансию
+SITES = {
+    "martide.com": {
+        "pages": ["https://www.martide.com/en/jobs/chief-officer",
+                  "https://www.martide.com/en/jobs/second-officer"],
+        "pattern": r"/en/jobs/[\w-]+-(\d+)/?$",
+        "base": "https://www.martide.com",
+    },
+    "seacareer.com": {
+        "pages": ["https://www.seacareer.com/chief-officer-sdpo-jobs/",
+                  "https://www.seacareer.com/deck-officer-jobs/",
+                  "https://www.seacareer.com/junior-deck-officer-jobs/"],
+        "pattern": r"/i(\d+)/[\w-]+/?$",
+        "base": "https://www.seacareer.com",
+    },
+}
+
+
+def get_site(name):
+    """Собирает вакансии с сайта из SITES: ищет ссылки по шаблону и фильтрует по словам."""
+    site = SITES[name]
+    jobs, ids = [], set()
+    for page in site["pages"]:
+        html = requests.get(page, headers=HEADERS, timeout=30).text
+        for a in BeautifulSoup(html, "html.parser").find_all("a", href=True):
+            m = re.search(site["pattern"], a["href"])
+            title = a.get_text(" ", strip=True)
+            if not m or not title:
+                continue
+            job_id = f"{name}-{m.group(1)}"
+            if job_id in ids or not any(k in title.lower() for k in KEYWORDS):
+                continue
+            ids.add(job_id)
+            url = a["href"] if a["href"].startswith("http") else site["base"] + a["href"]
+            jobs.append({"id": job_id, "title": title, "url": url})
+    return jobs
+
+
 def fingerprint(text):
     """«Отпечаток» текста вакансии: одинаков у одного и того же поста в разных каналах.
     Убираем ссылки, @имена, эмодзи и знаки — оставляем буквы и цифры."""
@@ -150,6 +188,7 @@ def main():
 
     sources = [("crewell", "crewell.net", get_crewell),
                ("ukrcrewing", "ukrcrewing.com.ua", get_ukrcrewing)]
+    sources += [(name, name, lambda name=name: get_site(name)) for name in SITES]
     sources += [(f"tg:{c}", f"Telegram: @{c}", lambda c=c: get_channel(c)) for c in CHANNELS]
 
     sent = 0
