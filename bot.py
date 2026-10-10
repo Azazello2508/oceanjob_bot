@@ -1,5 +1,6 @@
 """Проверяет новые вакансии Chief Officer на crewell.net и присылает их в Telegram."""
 
+import hashlib
 import json
 import os
 import re
@@ -100,6 +101,16 @@ def get_ukrcrewing():
     return jobs
 
 
+def fingerprint(text):
+    """«Отпечаток» текста вакансии: одинаков у одного и того же поста в разных каналах.
+    Убираем ссылки, @имена, эмодзи и знаки — оставляем буквы и цифры."""
+    t = re.sub(r"https?://\S+|@\w+", " ", text.lower())
+    t = re.sub(r"[^\w]+", " ", t).strip()
+    if len(t) < 60:  # слишком короткий текст — легко спутать разные вакансии
+        return None
+    return "fp-" + hashlib.md5(t[:300].encode()).hexdigest()[:16]
+
+
 def get_channel(name):
     """Читает последние посты публичного канала через его веб-страницу t.me/s/ИМЯ."""
     html = requests.get(f"https://t.me/s/{name}", headers=HEADERS, timeout=30).text
@@ -119,6 +130,7 @@ def get_channel(name):
                 "id": "tg-" + post,
                 "title": text[:400] + ("…" if len(text) > 400 else ""),
                 "url": "https://t.me/" + post,
+                "fp": fingerprint(text),
             })
     jobs.reverse()  # на странице старые сверху, а нам нужно новые сверху
     return jobs
@@ -165,9 +177,17 @@ def main():
             to_send = [j for j in jobs if j["id"] not in seen]
 
         for job in reversed(to_send):  # от старых к новым
+            fp = job.get("fp")
+            if fp and fp in seen:
+                print(f"Дубль, пропускаю: {job['url']}")
+                continue
             send(f"🚢 {job['title']}\n\n{label}\n{job['url']}")
-        sent += len(to_send)
+            sent += 1
+            if fp:
+                seen.add(fp)
         seen.update(j["id"] for j in jobs)
+        # Запоминаем отпечатки и уже известных постов, чтобы их копии в других каналах не пришли
+        seen.update(j["fp"] for j in jobs if j.get("fp"))
 
     if report:
         send("Подключены новые источники. Старые посты не присылаю, дальше — только новые.\n\n"
