@@ -1,0 +1,39 @@
+name: Проверка вакансий
+
+on:
+  schedule:
+    - cron: "17 * * * *"   # каждый час
+  workflow_dispatch:        # кнопка ручного запуска
+
+permissions:
+  contents: write           # чтобы сохранять seen.json
+
+concurrency:
+  group: check
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install -r requirements.txt
+
+      - name: Проверить вакансии
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python bot.py
+
+      - name: Запомнить отправленные
+        run: |
+          git config user.name "oceanjob-bot"
+          git config user.email "oceanjob-bot@users.noreply.github.com"
+          git add seen.json
+          git diff --cached --quiet || git commit -m "Обновить список вакансий"
+          git push
