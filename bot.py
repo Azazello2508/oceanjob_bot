@@ -139,6 +139,12 @@ SITES = {
         "pattern": r"/hot-jobs/(\d+)",
         "base": "https://www.seafarerjobs.com",
     },
+    "rigzone.com": {
+        "pages": [f"https://www.rigzone.com/oil/jobs/search/?sk={q}"
+                  for q in ["chief+officer", "chief+mate", "second+officer", "dpo"]],
+        "pattern": r"/oil/jobs/postings/(\d+)_",
+        "base": "https://www.rigzone.com",
+    },
 }
 
 
