@@ -18,7 +18,12 @@ KEYWORDS = ["chief officer", "chief mate"]
 CHANNEL_KEYWORDS = KEYWORDS + ["c/o", "старпом", "старший помощник", "ст. помощник", "ст.помощник"]
 
 # Публичные Telegram-каналы с вакансиями: имя канала из ссылки t.me/ИМЯ
-CHANNELS = []
+CHANNELS = [
+    "maritimeforum", "seajobfinder", "onboard_su", "CREW_ARIA", "marinejobs",
+    "crewingua", "jobfor_seamen", "seamenjob", "andreeyVstart", "job_for_seaman",
+    "marineman_ltd", "balticcareer", "BSMCSCUKRAINE", "olive_crew", "allcrewing",
+    "crewtrud", "merchantFleetJob", "JobForMariners", "seamenvacancy", "merchantNavyrealjob",
+]
 
 # Страница crewell с вакансиями старших офицеров
 CREWELL_URL = "https://crewell.net/en/vacancies/?positionGroup=109"
@@ -65,8 +70,11 @@ def get_channel(name):
     """Читает последние посты публичного канала через его веб-страницу t.me/s/ИМЯ."""
     html = requests.get(f"https://t.me/s/{name}", headers=HEADERS, timeout=30).text
     soup = BeautifulSoup(html, "html.parser")
+    messages = soup.select("div.tgme_widget_message[data-post]")
+    if not messages:
+        raise ValueError("у канала нет открытой веб-страницы или он закрытый")
     jobs = []
-    for msg in soup.select("div.tgme_widget_message[data-post]"):
+    for msg in messages:
         box = msg.select_one("div.tgme_widget_message_text")
         if not box:
             continue
@@ -100,21 +108,23 @@ def main():
     sources += [(f"tg:{c}", f"Telegram: @{c}", lambda c=c: get_channel(c)) for c in CHANNELS]
 
     sent = 0
+    report = []  # отчёт о новых источниках — придёт одним сообщением
     for key, label, fetch in sources:
+        marker = "source-" + key
         try:
             jobs = fetch()
         except Exception as e:  # один сломавшийся источник не должен ломать остальные
             print(f"Ошибка в источнике {label}: {e}")
+            if marker not in seen and "fail-" + key not in seen:
+                report.append(f"❌ {label} — не открылся (сообщу об этом один раз)")
+                seen.add("fail-" + key)
             continue
         print(f"{label}: найдено {len(jobs)}")
 
-        marker = "source-" + key
         if marker not in seen:
-            # Источник новый: присылаем 3 свежие, остальные просто запоминаем,
-            # чтобы не завалить чат старыми вакансиями.
-            send(f"✅ Подключён источник {label}. Найдено вакансий: {len(jobs)}. "
-                 f"Вот до 3 самых свежих, дальше — только новые.")
-            to_send = jobs[:3]
+            # Источник новый: старые вакансии не присылаем, просто запоминаем.
+            report.append(f"✅ {label} — подходящих постов сейчас: {len(jobs)}")
+            to_send = []
             seen.add(marker)
         else:
             to_send = [j for j in jobs if j["id"] not in seen]
@@ -123,6 +133,10 @@ def main():
             send(f"🚢 {job['title']}\n\n{label}\n{job['url']}")
         sent += len(to_send)
         seen.update(j["id"] for j in jobs)
+
+    if report:
+        send("Подключены новые источники. Старые посты не присылаю, дальше — только новые.\n\n"
+             + "\n".join(report))
 
     save_seen(seen)
     print(f"Отправлено: {sent}")
