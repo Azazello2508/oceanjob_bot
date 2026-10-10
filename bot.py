@@ -16,12 +16,13 @@ CHAT_ID = os.environ["TELEGRAM_CHAT_ID"]
 KEYWORDS = [
     "chief officer", "c/o", "chief mate", "jdpo",
     "second officer", "2nd officer", "2/o", "dp basic", "dp induction",
+    "2off", "2nd off", "2/off",
     # оффшорные сокращения
     "co/dpo", "co/sdpo", "2o/dpo", "ch/off", "choff",
     # русские названия
     "старпом", "старший помощник", "ст. помощник", "ст.помощник",
 ]
-KEYWORDS_VERSION = 4
+KEYWORDS_VERSION = 5
 
 
 # Публичные Telegram-каналы с вакансиями: имя канала из ссылки t.me/ИМЯ
@@ -184,6 +185,16 @@ def fingerprint(text):
     return "fp-" + hashlib.md5(t[:300].encode()).hexdigest()[:16]
 
 
+# Самый большой номер поста, увиденный в каждом канале за эту проверку
+LAST_POST = {}
+
+
+def num(job_id):
+    """Номер вакансии/поста из её id (последнее число)."""
+    nums = re.findall(r"\d+", job_id)
+    return int(nums[-1]) if nums else 0
+
+
 def get_channel(name):
     """Читает последние посты публичного канала через его веб-страницу t.me/s/ИМЯ."""
     html = requests.get(f"https://t.me/s/{name}", headers=HEADERS, timeout=30).text
@@ -191,6 +202,7 @@ def get_channel(name):
     messages = soup.select("div.tgme_widget_message[data-post]")
     if not messages:
         raise ValueError("у канала нет открытой веб-страницы или он закрытый")
+    LAST_POST[f"tg:{name}"] = max(num(m["data-post"]) for m in messages)
     jobs = []
     for msg in messages:
         box = msg.select_one("div.tgme_widget_message_text")
@@ -222,14 +234,16 @@ def send(text):
 def main():
     seen = load_seen() or set()
 
-    sources = [("crewell", "crewell.net", get_crewell),
-               ("ukrcrewing", "ukrcrewing.com.ua", get_ukrcrewing)]
-    sources += [(name, name, lambda name=name: get_site(name)) for name in SITES]
-    sources += [(f"tg:{c}", f"Telegram: @{c}", lambda c=c: get_channel(c)) for c in CHANNELS]
+    # (ключ, подпись, функция, начало id вакансий этого источника)
+    sources = [("crewell", "crewell.net", get_crewell, "crewell-"),
+               ("ukrcrewing", "ukrcrewing.com.ua", get_ukrcrewing, "ukrcrewing-")]
+    sources += [(n, n, lambda n=n: get_site(n), f"{n}-") for n in SITES]
+    sources += [(f"tg:{c}", f"Telegram: @{c}", lambda c=c: get_channel(c), f"tg-{c}/")
+                for c in CHANNELS]
 
     sent = 0
     report = []  # отчёт о новых источниках — придёт одним сообщением
-    for key, label, fetch in sources:
+    for key, label, fetch, prefix in sources:
         # Версия набора ключевых слов. При смене слов увеличиваем её — тогда
         # все источники подключаются заново и старые посты не присылаются разом.
         marker = f"source-v{KEYWORDS_VERSION}-" + key
@@ -243,16 +257,29 @@ def main():
             continue
         print(f"{label}: найдено {len(jobs)}")
 
+        # Последний номер поста, который бот уже видел в этом источнике
+        hw_old = [x for x in seen if x.startswith(f"hw|{key}|")]
+        last = max([int(x.rsplit("|", 1)[1]) for x in hw_old] +
+                   [num(x) for x in seen if x.startswith(prefix)] or [0]) or None
+
         if marker not in seen:
-            # Источник новый (или сменились слова): старые вакансии не присылаем, просто запоминаем.
-            # В отчёт пишем только действительно новые источники.
             was_connected = any(x.startswith("source-v") and x.endswith("-" + key) for x in seen)
             if not was_connected:
+                # Источник новый: старые вакансии не присылаем, просто запоминаем.
                 report.append(f"✅ {label} — подходящих постов сейчас: {len(jobs)}")
-            to_send = []
+                to_send = []
+            else:
+                # Сменились ключевые слова: старые посты не присылаем,
+                # но всё, что вышло после прошлой проверки, — присылаем.
+                to_send = [j for j in jobs if j["id"] not in seen and last and num(j["id"]) > last]
             seen.add(marker)
         else:
             to_send = [j for j in jobs if j["id"] not in seen]
+
+        # Запоминаем самый новый пост источника
+        top = max([LAST_POST.get(key, 0)] + [num(j["id"]) for j in jobs] + [last or 0])
+        seen.difference_update(hw_old)
+        seen.add(f"hw|{key}|{top}")
 
         for job in reversed(to_send):  # от старых к новым
             fp = job.get("fp")
