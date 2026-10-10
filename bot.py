@@ -14,6 +14,12 @@ CHAT_ID = os.environ["TELEGRAM_CHAT_ID"]
 # Какие должности искать (без учёта регистра)
 KEYWORDS = ["chief officer", "chief mate"]
 
+# Для Telegram-каналов: в постах пишут по-разному, поэтому слов больше
+CHANNEL_KEYWORDS = KEYWORDS + ["c/o", "старпом", "старший помощник", "ст. помощник", "ст.помощник"]
+
+# Публичные Telegram-каналы с вакансиями: имя канала из ссылки t.me/ИМЯ
+CHANNELS = []
+
 # Страница crewell с вакансиями старших офицеров
 CREWELL_URL = "https://crewell.net/en/vacancies/?positionGroup=109"
 
@@ -55,6 +61,27 @@ def get_crewell():
     return jobs
 
 
+def get_channel(name):
+    """Читает последние посты публичного канала через его веб-страницу t.me/s/ИМЯ."""
+    html = requests.get(f"https://t.me/s/{name}", headers=HEADERS, timeout=30).text
+    soup = BeautifulSoup(html, "html.parser")
+    jobs = []
+    for msg in soup.select("div.tgme_widget_message[data-post]"):
+        box = msg.select_one("div.tgme_widget_message_text")
+        if not box:
+            continue
+        text = box.get_text("\n", strip=True)
+        if any(k in text.lower() for k in CHANNEL_KEYWORDS):
+            post = msg["data-post"]  # вида "имя/12345"
+            jobs.append({
+                "id": "tg-" + post,
+                "title": text[:400] + ("…" if len(text) > 400 else ""),
+                "url": "https://t.me/" + post,
+            })
+    jobs.reverse()  # на странице старые сверху, а нам нужно новые сверху
+    return jobs
+
+
 def send(text):
     r = requests.post(
         f"https://api.telegram.org/bot{TOKEN}/sendMessage",
@@ -65,26 +92,40 @@ def send(text):
 
 
 def main():
-    jobs = get_crewell()
-    print(f"Найдено вакансий: {len(jobs)}")
-    seen = load_seen()
+    seen = load_seen() or set()
+    if any(s.startswith("crewell-") for s in seen):
+        seen.add("source-crewell")  # crewell уже подключали раньше
 
-    if seen is None:
-        # Первый запуск: присылаем 3 свежие и запоминаем все остальные,
-        # чтобы не завалить чат старыми вакансиями.
-        send(f"✅ Бот запущен. Сейчас на crewell {len(jobs)} вакансий Chief Officer. "
-             f"Вот 3 самые свежие, дальше буду присылать только новые.")
-        to_send = jobs[:3]
-        seen = set()
-    else:
-        to_send = [j for j in jobs if j["id"] not in seen]
+    sources = [("crewell", "crewell.net", get_crewell)]
+    sources += [(f"tg:{c}", f"Telegram: @{c}", lambda c=c: get_channel(c)) for c in CHANNELS]
 
-    for job in reversed(to_send):  # от старых к новым
-        send(f"🚢 {job['title']}\ncrewell.net\n{job['url']}")
+    sent = 0
+    for key, label, fetch in sources:
+        try:
+            jobs = fetch()
+        except Exception as e:  # один сломавшийся источник не должен ломать остальные
+            print(f"Ошибка в источнике {label}: {e}")
+            continue
+        print(f"{label}: найдено {len(jobs)}")
 
-    seen.update(j["id"] for j in jobs)
+        marker = "source-" + key
+        if marker not in seen:
+            # Источник новый: присылаем 3 свежие, остальные просто запоминаем,
+            # чтобы не завалить чат старыми вакансиями.
+            send(f"✅ Подключён источник {label}. Найдено вакансий: {len(jobs)}. "
+                 f"Вот до 3 самых свежих, дальше — только новые.")
+            to_send = jobs[:3]
+            seen.add(marker)
+        else:
+            to_send = [j for j in jobs if j["id"] not in seen]
+
+        for job in reversed(to_send):  # от старых к новым
+            send(f"🚢 {job['title']}\n\n{label}\n{job['url']}")
+        sent += len(to_send)
+        seen.update(j["id"] for j in jobs)
+
     save_seen(seen)
-    print(f"Отправлено: {len(to_send)}")
+    print(f"Отправлено: {sent}")
 
 
 if __name__ == "__main__":
