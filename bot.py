@@ -12,10 +12,12 @@ TOKEN = os.environ["TELEGRAM_TOKEN"]
 CHAT_ID = os.environ["TELEGRAM_CHAT_ID"]
 
 # Какие должности искать (без учёта регистра)
-KEYWORDS = ["chief officer", "chief mate"]
+KEYWORDS = [
+    "chief officer", "c/o", "chief mate", "jdpo",
+    "second officer", "2nd officer", "2/o", "dp basic",
+]
+KEYWORDS_VERSION = 2
 
-# Для Telegram-каналов: в постах пишут по-разному, поэтому слов больше
-CHANNEL_KEYWORDS = KEYWORDS + ["c/o", "старпом", "старший помощник", "ст. помощник", "ст.помощник"]
 
 # Публичные Telegram-каналы с вакансиями: имя канала из ссылки t.me/ИМЯ
 CHANNELS = [
@@ -25,8 +27,11 @@ CHANNELS = [
     "crewtrud", "merchantFleetJob", "JobForMariners", "seamenvacancy", "merchantNavyrealjob",
 ]
 
-# Страница crewell с вакансиями старших офицеров
-CREWELL_URL = "https://crewell.net/en/vacancies/?positionGroup=109"
+# Страницы crewell: старшие офицеры (Chief Officer) и вахтенные (2nd Officer)
+CREWELL_URLS = [
+    "https://crewell.net/en/vacancies/?positionGroup=109",
+    "https://crewell.net/en/vacancies/?positionGroup=110",
+]
 
 # Файл, где запоминаем уже отправленные вакансии
 SEEN_FILE = Path("seen.json")
@@ -46,10 +51,12 @@ def save_seen(seen):
 
 def get_crewell():
     """Возвращает список вакансий: [{'id', 'title', 'url'}], новые сверху."""
-    html = requests.get(CREWELL_URL, headers=HEADERS, timeout=30).text
-    soup = BeautifulSoup(html, "html.parser")
+    links = []
+    for page in CREWELL_URLS:
+        html = requests.get(page, headers=HEADERS, timeout=30).text
+        links += BeautifulSoup(html, "html.parser").find_all("a", href=True)
     jobs, ids = [], set()
-    for a in soup.find_all("a", href=True):
+    for a in links:
         m = re.search(r"/vacancies/(\d+)/?$", a["href"])
         title = a.get_text(" ", strip=True)
         if not m or not title or "apply" in title.lower():
@@ -79,7 +86,7 @@ def get_channel(name):
         if not box:
             continue
         text = box.get_text("\n", strip=True)
-        if any(k in text.lower() for k in CHANNEL_KEYWORDS):
+        if any(k in text.lower() for k in KEYWORDS):
             post = msg["data-post"]  # вида "имя/12345"
             jobs.append({
                 "id": "tg-" + post,
@@ -101,8 +108,6 @@ def send(text):
 
 def main():
     seen = load_seen() or set()
-    if any(s.startswith("crewell-") for s in seen):
-        seen.add("source-crewell")  # crewell уже подключали раньше
 
     sources = [("crewell", "crewell.net", get_crewell)]
     sources += [(f"tg:{c}", f"Telegram: @{c}", lambda c=c: get_channel(c)) for c in CHANNELS]
@@ -110,7 +115,9 @@ def main():
     sent = 0
     report = []  # отчёт о новых источниках — придёт одним сообщением
     for key, label, fetch in sources:
-        marker = "source-" + key
+        # Версия набора ключевых слов. При смене слов увеличиваем её — тогда
+        # все источники подключаются заново и старые посты не присылаются разом.
+        marker = f"source-v{KEYWORDS_VERSION}-" + key
         try:
             jobs = fetch()
         except Exception as e:  # один сломавшийся источник не должен ломать остальные
