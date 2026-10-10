@@ -25,6 +25,9 @@ CHANNELS = [
     "crewingua", "jobfor_seamen", "seamenjob", "andreeyVstart", "job_for_seaman",
     "marineman_ltd", "balticcareer", "BSMCSCUKRAINE", "olive_crew", "allcrewing",
     "crewtrud", "merchantFleetJob", "JobForMariners", "seamenvacancy", "merchantNavyrealjob",
+    "shipscreweu", "supermariner_ua", "SM_job_center", "offshorecv", "offshorevacancies",
+    "help_seafarers", "OffshoreFleetJob", "ALPHACREW", "OnlyOffshore", "roster_marine",
+    "galaxymaritimeua", "oilrigs", "vshipsoffshore",
 ]
 
 # Страницы crewell: старшие офицеры (Chief Officer) и вахтенные (2nd Officer)
