@@ -116,6 +116,17 @@ SITES = {
         "pattern": r"/i(\d+)/[\w-]+/?$",
         "base": "https://www.seacareer.com",
     },
+    "crewlinker.com": {
+        "pages": ["https://www.crewlinker.com/job-openings"],
+        "pattern": r"/job-posting/(\d+)",
+        "base": "https://www.crewlinker.com",
+    },
+    "seajobs.ru": {
+        "pages": ["https://www.seajobs.ru/ru/vacancies?page=1",
+                  "https://www.seajobs.ru/ru/vacancies?page=2"],
+        "pattern": r"/vacancy/(\d+)",
+        "base": "https://seajobs.ru",
+    },
 }
 
 
@@ -131,7 +142,9 @@ def get_site(name):
             if not m or not title:
                 continue
             job_id = f"{name}-{m.group(1)}"
-            if job_id in ids or not any(k in title.lower() for k in KEYWORDS):
+            # Ищем слова и в тексте ссылки, и в самом адресе (там часто есть должность)
+            where = (title + " " + a["href"].replace("-", " ")).lower()
+            if job_id in ids or not any(k in where for k in KEYWORDS):
                 continue
             ids.add(job_id)
             url = a["href"] if a["href"].startswith("http") else site["base"] + a["href"]
