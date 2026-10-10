@@ -77,6 +77,28 @@ def get_crewell():
     return jobs
 
 
+def get_ukrcrewing():
+    """Блок «New Vacancies» на главной ukrcrewing: 10 самых свежих вакансий."""
+    html = requests.get("https://ukrcrewing.com.ua/en", headers=HEADERS, timeout=30).text
+    soup = BeautifulSoup(html, "html.parser")
+    jobs, ids = [], set()
+    for a in soup.find_all("a", href=True):
+        m = re.search(r"/vacancy/(\d+)", a["href"])
+        title = a.get_text(" ", strip=True)
+        if not m or not title:
+            continue
+        job_id = "ukrcrewing-" + m.group(1)
+        if job_id in ids or not any(k in title.lower() for k in KEYWORDS):
+            continue
+        ids.add(job_id)
+        row = a.find_parent("tr")  # строка таблицы: судно, срок, дата, зарплата
+        if row:
+            title = row.get_text(" · ", strip=True)
+        jobs.append({"id": job_id, "title": title,
+                     "url": f"https://ukrcrewing.com.ua/en/vacancy/{m.group(1)}"})
+    return jobs
+
+
 def get_channel(name):
     """Читает последние посты публичного канала через его веб-страницу t.me/s/ИМЯ."""
     html = requests.get(f"https://t.me/s/{name}", headers=HEADERS, timeout=30).text
@@ -113,7 +135,8 @@ def send(text):
 def main():
     seen = load_seen() or set()
 
-    sources = [("crewell", "crewell.net", get_crewell)]
+    sources = [("crewell", "crewell.net", get_crewell),
+               ("ukrcrewing", "ukrcrewing.com.ua", get_ukrcrewing)]
     sources += [(f"tg:{c}", f"Telegram: @{c}", lambda c=c: get_channel(c)) for c in CHANNELS]
 
     sent = 0
