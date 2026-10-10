@@ -55,41 +55,6 @@ def save_seen(seen):
     SEEN_FILE.write_text(json.dumps(sorted(seen), indent=0))
 
 
-# Похожие вакансии: храним «набор слов» последних постов, чтобы ловить перепосты,
-# даже если текст немного изменён (другие контакты, хэштеги, шапка канала)
-RECENT_FILE = Path("recent.json")
-RECENT_MAX = 600       # сколько последних постов помнить
-SIMILARITY = 0.6       # доля общих слов, начиная с которой пост считается повтором
-MIN_WORDS = 12         # короткие тексты не сравниваем — легко спутать разные вакансии
-
-
-def words(text):
-    t = re.sub(r"https?://\S+|@\w+|#\w+|\S+@\S+", " ", text.lower())
-    return {w for w in re.findall(r"\w+", t) if len(w) > 1}
-
-
-def load_recent():
-    if RECENT_FILE.exists():
-        return {k: set(v) for k, v in json.loads(RECENT_FILE.read_text()).items()}
-    return {}
-
-
-def save_recent(recent):
-    items = list(recent.items())[-RECENT_MAX:]
-    RECENT_FILE.write_text(json.dumps({k: sorted(v) for k, v in items}, ensure_ascii=False))
-
-
-def is_repeat(job_id, ws, recent):
-    """True, если среди запомненных постов (из других источников) есть очень похожий."""
-    if len(ws) < MIN_WORDS:
-        return False
-    for other_id, other in recent.items():
-        if other_id != job_id and len(other) >= MIN_WORDS:
-            if len(ws & other) / len(ws | other) >= SIMILARITY:
-                return True
-    return False
-
-
 def get_crewell():
     """Возвращает список вакансий: [{'id', 'title', 'url'}], новые сверху."""
     links = []
@@ -218,7 +183,6 @@ def get_channel(name):
                 "found": [k for k in KEYWORDS if k in text.lower()],
                 "url": "https://t.me/" + post,
                 "fp": fingerprint(text),
-                "text": text,
             })
     jobs.reverse()  # на странице старые сверху, а нам нужно новые сверху
     return jobs
@@ -235,7 +199,6 @@ def send(text):
 
 def main():
     seen = load_seen() or set()
-    recent = load_recent()
 
     sources = [("crewell", "crewell.net", get_crewell),
                ("ukrcrewing", "ukrcrewing.com.ua", get_ukrcrewing)]
@@ -268,8 +231,7 @@ def main():
 
         for job in reversed(to_send):  # от старых к новым
             fp = job.get("fp")
-            ws = words(job.get("text") or job["title"])
-            if (fp and fp in seen) or is_repeat(job["id"], ws, recent):
+            if fp and fp in seen:
                 print(f"Дубль, пропускаю: {job['url']}")
                 continue
             found = job.get("found")
@@ -281,18 +243,12 @@ def main():
         seen.update(j["id"] for j in jobs)
         # Запоминаем отпечатки и уже известных постов, чтобы их копии в других каналах не пришли
         seen.update(j["fp"] for j in jobs if j.get("fp"))
-        for j in jobs:  # запоминаем слова всех подходящих постов, включая старые
-            ws = words(j.get("text") or j["title"])
-            if len(ws) >= MIN_WORDS:
-                recent.pop(j["id"], None)
-                recent[j["id"]] = ws
 
     if report:
         send("Подключены новые источники. Старые посты не присылаю, дальше — только новые.\n\n"
              + "\n".join(report))
 
     save_seen(seen)
-    save_recent(recent)
     print(f"Отправлено: {sent}")
 
 
