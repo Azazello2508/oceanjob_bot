@@ -16,8 +16,12 @@ CHAT_ID = os.environ["TELEGRAM_CHAT_ID"]
 KEYWORDS = [
     "chief officer", "c/o", "chief mate", "jdpo",
     "second officer", "2nd officer", "2/o", "dp basic",
+    # оффшорные сокращения
+    "co/dpo", "co/sdpo", "2o/dpo", "ch/off", "choff",
+    # русские названия
+    "старпом", "старший помощник", "ст. помощник", "ст.помощник",
 ]
-KEYWORDS_VERSION = 2
+KEYWORDS_VERSION = 3
 
 
 # Публичные Telegram-каналы с вакансиями: имя канала из ссылки t.me/ИМЯ
@@ -240,8 +244,11 @@ def main():
         print(f"{label}: найдено {len(jobs)}")
 
         if marker not in seen:
-            # Источник новый: старые вакансии не присылаем, просто запоминаем.
-            report.append(f"✅ {label} — подходящих постов сейчас: {len(jobs)}")
+            # Источник новый (или сменились слова): старые вакансии не присылаем, просто запоминаем.
+            # В отчёт пишем только действительно новые источники.
+            was_connected = any(x.startswith("source-v") and x.endswith("-" + key) for x in seen)
+            if not was_connected:
+                report.append(f"✅ {label} — подходящих постов сейчас: {len(jobs)}")
             to_send = []
             seen.add(marker)
         else:
