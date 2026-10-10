@@ -36,4 +36,8 @@ jobs:
           git config user.email "oceanjob-bot@users.noreply.github.com"
           git add seen.json
           git diff --cached --quiet || git commit -m "Обновить список вакансий"
-          git push
+          # Если за время проверки в репозиторий что-то добавили — подтянуть и повторить
+          for i in 1 2 3; do
+            git pull --rebase -q origin main && git push && break
+            sleep 5
+          done
