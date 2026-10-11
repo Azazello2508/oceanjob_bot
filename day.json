@@ -287,13 +287,46 @@
 "fp": "fp-f69d391eca691e87",
 "new": false,
 "time": "2026-10-11T16:49:43+00:00"
+},
+{
+"title": "Second Officer",
+"url": "https://t.me/maritimeforum/248880",
+"source": "Telegram: @maritimeforum",
+"found": [
+"second officer"
+],
+"fp": "fp-fbb5add1d417112e",
+"new": false,
+"time": "2026-10-11T16:54:00+00:00"
+},
+{
+"title": "Chief Officer",
+"url": "https://t.me/maritimeforum/248881",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-560ab0a4f17c6f43",
+"new": false,
+"time": "2026-10-11T16:54:07+00:00"
+},
+{
+"title": "Список закрытых каналов в",
+"url": "https://t.me/rekamore_su/162038",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-de84ab9948b9e3a9",
+"new": false,
+"time": "2026-10-11T16:03:01+00:00"
 }
 ],
 "msg_ids": [
-78,
-79
+80,
+81
 ],
-"last_list": "2026-10-11T16:52:08.015723+00:00",
+"last_list": "2026-10-11T17:37:29.597107+00:00",
 "today_ids": [
 "crewell-460781",
 "seajobs.ru-17449"
