@@ -274,12 +274,26 @@
 "fp": "fp-2f1978f9a0495eba",
 "new": false,
 "time": "2026-10-11T15:00:01+00:00"
+},
+{
+"title": "VACANCY:",
+"url": "https://t.me/maritimeforum/248873",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer",
+"c/o",
+"2/o"
+],
+"fp": "fp-f69d391eca691e87",
+"new": false,
+"time": "2026-10-11T16:49:43+00:00"
 }
 ],
 "msg_ids": [
-77
+78,
+79
 ],
-"last_list": "2026-10-11T15:22:11.963159+00:00",
+"last_list": "2026-10-11T16:52:08.015723+00:00",
 "today_ids": [
 "crewell-460781",
 "seajobs.ru-17449"
