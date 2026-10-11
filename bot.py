@@ -1,8 +1,10 @@
 """Проверяет новые вакансии Chief Officer на crewell.net и присылает их в Telegram."""
 
 import hashlib
+import html
 import json
 import os
+from datetime import datetime, timedelta, timezone
 import re
 from pathlib import Path
 
@@ -222,17 +224,94 @@ def get_channel(name):
     return jobs
 
 
-def send(text):
-    r = requests.post(
-        f"https://api.telegram.org/bot{TOKEN}/sendMessage",
-        data={"chat_id": CHAT_ID, "text": text},
-        timeout=30,
-    )
+def send(text, html_mode=False):
+    data = {"chat_id": CHAT_ID, "text": text, "disable_web_page_preview": "true"}
+    if html_mode:
+        data["parse_mode"] = "HTML"
+    r = requests.post(f"https://api.telegram.org/bot{TOKEN}/sendMessage", data=data, timeout=30)
     r.raise_for_status()
+    return r.json()["result"]["message_id"]
+
+
+def delete(message_id):
+    try:
+        requests.post(f"https://api.telegram.org/bot{TOKEN}/deleteMessage",
+                      data={"chat_id": CHAT_ID, "message_id": message_id}, timeout=30)
+    except Exception as e:
+        print(f"Не удалось удалить сообщение {message_id}: {e}")
+
+
+# ---------- Список вакансий за день ----------
+DAY_FILE = Path("day.json")
+LOCAL_TZ = timezone(timedelta(hours=4))   # время Батуми
+LIST_EVERY = timedelta(hours=2)           # как часто обновлять список
+MAX_LEN = 3800                            # лимит Telegram — 4096 знаков на сообщение
+
+
+def load_day():
+    if DAY_FILE.exists():
+        return json.loads(DAY_FILE.read_text())
+    return {"date": "", "jobs": [], "msg_ids": [], "last_list": ""}
+
+
+def save_day(day):
+    DAY_FILE.write_text(json.dumps(day, ensure_ascii=False, indent=0))
+
+
+def short(text, limit=160):
+    """Первая содержательная строка поста — для краткого списка."""
+    for line in text.splitlines():
+        line = line.strip(" -•*🔥⚓️🚢⚡️❗️")
+        if len(line) > 3:
+            text = line
+            break
+    return text if len(text) <= limit else text[:limit].rstrip() + "…"
+
+
+def render(day):
+    """Готовит текст списка (может получиться несколько сообщений)."""
+    jobs = sorted(day["jobs"], key=lambda j: (not j["new"], j["time"]), reverse=False)
+    new = [j for j in jobs if j["new"]]
+    old = [j for j in jobs if not j["new"]]
+    old.sort(key=lambda j: j["time"], reverse=True)
+    new.sort(key=lambda j: j["time"], reverse=True)
+    head = (f"📋 <b>Вакансии за {day['date'][8:10]}.{day['date'][5:7]}</b> — всего {len(jobs)}, "
+            f"новых {len(new)}\n(обновлено в {datetime.now(LOCAL_TZ):%H:%M})\n")
+    blocks = []
+    for j in new + old:
+        mark = "🆕 <b>НОВАЯ</b>\n" if j["new"] else ""
+        found = f"🔎 {html.escape(', '.join(j['found']))}\n" if j.get("found") else ""
+        blocks.append(f"{mark}{found}🚢 {html.escape(j['title'])}\n"
+                      f"<i>{html.escape(j['source'])}</i> · <a href=\"{html.escape(j['url'])}\">открыть</a>")
+    parts, cur = [], head
+    for b in blocks:
+        if len(cur) + len(b) + 2 > MAX_LEN:
+            parts.append(cur)
+            cur = ""
+        cur += "\n" + b + "\n"
+    parts.append(cur)
+    return parts
+
+
+def publish(day):
+    for mid in day["msg_ids"]:
+        delete(mid)
+    day["msg_ids"] = [send(part, html_mode=True) for part in render(day)] if day["jobs"] else []
+    for j in day["jobs"]:
+        j["new"] = False
+    day["last_list"] = datetime.now(timezone.utc).isoformat()
 
 
 def main():
     seen = load_seen() or set()
+    day = load_day()
+    today = datetime.now(LOCAL_TZ).strftime("%Y-%m-%d")
+    new_day = day["date"] != today
+    if new_day:
+        # Новый день: вчерашний список убираем, начинаем новый
+        for mid in day["msg_ids"]:
+            delete(mid)
+        day = {"date": today, "jobs": [], "msg_ids": [], "last_list": ""}
 
     # (ключ, подпись, функция, начало id вакансий этого источника)
     sources = [("crewell", "crewell.net", get_crewell, "crewell-"),
@@ -286,9 +365,13 @@ def main():
             if fp and fp in seen:
                 print(f"Дубль, пропускаю: {job['url']}")
                 continue
-            found = job.get("found")
-            head = f"🔎 Найдено: {', '.join(found)}\n\n" if found else ""
-            send(f"{head}🚢 {job['title']}\n\n{label}\n{job['url']}")
+            if any(j["url"] == job["url"] for j in day["jobs"]):
+                continue  # уже есть в сегодняшнем списке
+            day["jobs"].append({
+                "title": short(job["title"]), "url": job["url"], "source": label,
+                "found": job.get("found") or [], "new": True,
+                "time": datetime.now(timezone.utc).isoformat(),
+            })
             sent += 1
             if fp:
                 seen.add(fp)
@@ -300,8 +383,17 @@ def main():
         send("Подключены новые источники. Старые посты не присылаю, дальше — только новые.\n\n"
              + "\n".join(report))
 
+    # Список обновляем раз в 2 часа, и только если появились новые вакансии
+    has_new = any(j["new"] for j in day["jobs"])
+    last = datetime.fromisoformat(day["last_list"]) if day["last_list"] else None
+    due = last is None or datetime.now(timezone.utc) - last >= LIST_EVERY - timedelta(minutes=10)
+    if has_new and due:
+        publish(day)
+        print("Список обновлён")
+
+    save_day(day)
     save_seen(seen)
-    print(f"Отправлено: {sent}")
+    print(f"Новых вакансий: {sent}")
 
 
 if __name__ == "__main__":
