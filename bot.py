@@ -189,6 +189,8 @@ def fingerprint(text):
 
 # Самый большой номер поста, увиденный в каждом канале за эту проверку
 LAST_POST = {}
+# До какого номера поста листать канал назад (если сегодня канал уже читали)
+STOP_AT = {}
 
 
 def num(job_id):
@@ -197,30 +199,52 @@ def num(job_id):
     return int(nums[-1]) if nums else 0
 
 
-def get_channel(name):
-    """Читает последние посты публичного канала через его веб-страницу t.me/s/ИМЯ."""
-    html = requests.get(f"https://t.me/s/{name}", headers=HEADERS, timeout=30).text
-    soup = BeautifulSoup(html, "html.parser")
-    messages = soup.select("div.tgme_widget_message[data-post]")
+def today_start():
+    """Начало текущих суток по времени Батуми."""
+    now = datetime.now(LOCAL_TZ)
+    return now.replace(hour=0, minute=0, second=0, microsecond=0)
+
+
+def get_channel(name, max_pages=6):
+    """Читает посты публичного канала (веб-страница t.me/s/ИМЯ) за сегодняшний день.
+    Страница показывает ~20 последних постов, поэтому листаем назад, пока не дойдём до вчера."""
+    url = f"https://t.me/s/{name}"
+    messages = []
+    for _ in range(max_pages):
+        html_page = requests.get(url, headers=HEADERS, timeout=30).text
+        page = BeautifulSoup(html_page, "html.parser").select("div.tgme_widget_message[data-post]")
+        if not page:
+            break
+        messages += page
+        times = [t["datetime"] for t in BeautifulSoup(html_page, "html.parser").select("time[datetime]")]
+        oldest_time = min((datetime.fromisoformat(t) for t in times), default=None)
+        if oldest_time is None or oldest_time < today_start():
+            break
+        if STOP_AT.get(name) and min(num(m["data-post"]) for m in page) <= STOP_AT[name]:
+            break  # дальше — посты, которые бот уже видел
+        url = f"https://t.me/s/{name}?before={min(num(m['data-post']) for m in page)}"
     if not messages:
         raise ValueError("у канала нет открытой веб-страницы или он закрытый")
     LAST_POST[f"tg:{name}"] = max(num(m["data-post"]) for m in messages)
-    jobs = []
+    jobs, ids = [], set()
     for msg in messages:
+        post = msg["data-post"]  # вида "имя/12345"
         box = msg.select_one("div.tgme_widget_message_text")
-        if not box:
+        if not box or post in ids:
             continue
+        ids.add(post)
         text = box.get_text("\n", strip=True)
         if any(k in text.lower() for k in KEYWORDS):
-            post = msg["data-post"]  # вида "имя/12345"
+            t = msg.select_one("a.tgme_widget_message_date time[datetime]") or msg.select_one("time[datetime]")
             jobs.append({
                 "id": "tg-" + post,
                 "title": text[:1500] + ("…" if len(text) > 1500 else ""),
                 "found": [k for k in KEYWORDS if k in text.lower()],
                 "url": "https://t.me/" + post,
                 "fp": fingerprint(text),
+                "date": datetime.fromisoformat(t["datetime"]).isoformat() if t else None,
             })
-    jobs.reverse()  # на странице старые сверху, а нам нужно новые сверху
+    jobs.sort(key=lambda j: num(j["id"]), reverse=True)  # новые сверху
     return jobs
 
 
@@ -244,7 +268,7 @@ def delete(message_id):
 # ---------- Список вакансий за день ----------
 DAY_FILE = Path("day.json")
 LOCAL_TZ = timezone(timedelta(hours=4))   # время Батуми
-LIST_EVERY = timedelta(hours=2)           # как часто обновлять список
+LIST_EVERY = timedelta(minutes=45)        # как часто обновлять список
 MAX_LEN = 3800                            # лимит Telegram — 4096 знаков на сообщение
 
 
@@ -281,7 +305,8 @@ def render(day):
     for j in new + old:
         mark = "🆕 <b>НОВАЯ</b>\n" if j["new"] else ""
         found = f"🔎 {html.escape(', '.join(j['found']))}\n" if j.get("found") else ""
-        blocks.append(f"{mark}{found}🚢 {html.escape(j['title'])}\n"
+        when = datetime.fromisoformat(j["time"]).astimezone(LOCAL_TZ).strftime("%H:%M")
+        blocks.append(f"{mark}{found}🕒 {when} · 🚢 {html.escape(j['title'])}\n"
                       f"<i>{html.escape(j['source'])}</i> · <a href=\"{html.escape(j['url'])}\">открыть</a>")
     parts, cur = [], head
     for b in blocks:
@@ -326,6 +351,10 @@ def main():
         # Версия набора ключевых слов. При смене слов увеличиваем её — тогда
         # все источники подключаются заново и старые посты не присылаются разом.
         marker = f"source-v{KEYWORDS_VERSION}-" + key
+        hw_old = [x for x in seen if x.startswith(f"hw|{key}|")]
+        covered = f"cov|{key}|{today}" in seen
+        if key.startswith("tg:") and covered and hw_old:
+            STOP_AT[key[3:]] = int(hw_old[0].rsplit("|", 1)[1])
         try:
             jobs = fetch()
         except Exception as e:  # один сломавшийся источник не должен ломать остальные
@@ -336,58 +365,66 @@ def main():
             continue
         print(f"{label}: найдено {len(jobs)}")
 
-        # Последний номер поста, который бот уже видел в этом источнике
-        hw_old = [x for x in seen if x.startswith(f"hw|{key}|")]
-        last = max([int(x.rsplit("|", 1)[1]) for x in hw_old] +
-                   [num(x) for x in seen if x.startswith(prefix)] or [0]) or None
-
-        if marker not in seen:
+        is_channel = key.startswith("tg:")
+        first_time = marker not in seen
+        if first_time:
             was_connected = any(x.startswith("source-v") and x.endswith("-" + key) for x in seen)
             if not was_connected:
-                # Источник новый: старые вакансии не присылаем, просто запоминаем.
                 report.append(f"✅ {label} — подходящих постов сейчас: {len(jobs)}")
-                to_send = []
-            else:
-                # Сменились ключевые слова: старые посты не присылаем,
-                # но всё, что вышло после прошлой проверки, — присылаем.
-                to_send = [j for j in jobs if j["id"] not in seen and last and num(j["id"]) > last]
             seen.add(marker)
-        else:
-            to_send = [j for j in jobs if j["id"] not in seen]
 
-        # Запоминаем самый новый пост источника
-        top = max([LAST_POST.get(key, 0)] + [num(j["id"]) for j in jobs] + [last or 0])
-        seen.difference_update(hw_old)
-        seen.add(f"hw|{key}|{top}")
-
-        for job in reversed(to_send):  # от старых к новым
+        day_urls = {j["url"] for j in day["jobs"]}
+        day_fps = {j.get("fp") for j in day["jobs"] if j.get("fp")}
+        for job in reversed(jobs):  # от старых к новым
+            known = job["id"] in seen
+            if is_channel:
+                # У постов в каналах есть дата — берём всё, что опубликовано сегодня
+                when = datetime.fromisoformat(job["date"]) if job.get("date") else None
+                if not when or when < today_start():
+                    continue
+            else:
+                # У сайтов даты нет — «сегодняшняя» = впервые увидели сегодня.
+                # При первом подключении сайта его старые вакансии не берём.
+                if first_time and not was_connected:
+                    continue
+                if known and job["id"] not in day.get("today_ids", []):
+                    continue
+                when = datetime.now(timezone.utc)
             fp = job.get("fp")
-            if fp and fp in seen:
-                print(f"Дубль, пропускаю: {job['url']}")
-                continue
-            if any(j["url"] == job["url"] for j in day["jobs"]):
-                continue  # уже есть в сегодняшнем списке
+            if job["url"] in day_urls or (fp and fp in day_fps):
+                continue  # уже в списке (или точная копия из другого канала)
+            if not known and fp and fp in seen:
+                continue  # точная копия поста, который был раньше
             day["jobs"].append({
                 "title": short(job["title"]), "url": job["url"], "source": label,
-                "found": job.get("found") or [], "new": True,
-                "time": datetime.now(timezone.utc).isoformat(),
+                "found": job.get("found") or [], "fp": fp,
+                "new": not known,
+                "time": when.astimezone(timezone.utc).isoformat(),
             })
-            sent += 1
+            day_urls.add(job["url"])
             if fp:
-                seen.add(fp)
+                day_fps.add(fp)
+            if not known:
+                sent += 1
         seen.update(j["id"] for j in jobs)
-        # Запоминаем отпечатки и уже известных постов, чтобы их копии в других каналах не пришли
         seen.update(j["fp"] for j in jobs if j.get("fp"))
+        # Запоминаем самый новый пост и то, что сегодня канал уже прочитан целиком
+        top = max([LAST_POST.get(key, 0)] + [num(j["id"]) for j in jobs]
+                  + [int(x.rsplit("|", 1)[1]) for x in hw_old])
+        seen.difference_update(hw_old)
+        seen.add(f"hw|{key}|{top}")
+        seen.difference_update({x for x in seen if x.startswith(f"cov|{key}|")})
+        seen.add(f"cov|{key}|{today}")
 
     if report:
-        send("Подключены новые источники. Старые посты не присылаю, дальше — только новые.\n\n"
+        send("Подключены новые источники:\n\n"
              + "\n".join(report))
 
-    # Список обновляем раз в 2 часа, и только если появились новые вакансии
+    # Список обновляем раз в 45 минут, и только если появились новые вакансии
     has_new = any(j["new"] for j in day["jobs"])
     last = datetime.fromisoformat(day["last_list"]) if day["last_list"] else None
     due = last is None or datetime.now(timezone.utc) - last >= LIST_EVERY - timedelta(minutes=10)
-    if has_new and due:
+    if (has_new and due) or day.pop("force", False):
         publish(day)
         print("Список обновлён")
 
