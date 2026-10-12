@@ -178,10 +178,77 @@
 "fp": "fp-f6e6a44efd687e15",
 "new": false,
 "time": "2026-10-12T05:35:03+00:00"
+},
+{
+"title": "Second Officer",
+"url": "https://t.me/maritimeforum/248926",
+"source": "Telegram: @maritimeforum",
+"found": [
+"second officer"
+],
+"fp": "fp-f8e5e4d3173a489b",
+"new": false,
+"time": "2026-10-12T06:02:38+00:00"
+},
+{
+"title": "AQUAMARINE SHIPPING LLC",
+"url": "https://t.me/crewingua/44295",
+"source": "Telegram: @crewingua",
+"found": [
+"chief officer"
+],
+"fp": "fp-e84e6732b461fcc8",
+"new": false,
+"time": "2026-10-12T06:32:03+00:00"
+},
+{
+"title": "VACANCY: THIRD ENGINEER",
+"url": "https://t.me/jobfor_seamen/12437",
+"source": "Telegram: @jobfor_seamen",
+"found": [
+"second officer"
+],
+"fp": "fp-2431ff8d9275bebc",
+"new": false,
+"time": "2026-10-12T06:29:42+00:00"
+},
+{
+"title": "Компания ООО \"Морское агентство Транзит-Экспресс\" приглашает на работу:",
+"url": "https://t.me/rekamore_su/162080",
+"source": "Telegram: @rekamore_su",
+"found": [
+"ch/off"
+],
+"fp": "fp-96b0f0511615354c",
+"new": false,
+"time": "2026-10-12T06:20:05+00:00"
+},
+{
+"title": "Компания ООО “Трэвелер Шиппинг” приглашает на работу:",
+"url": "https://t.me/rekamore_su/162085",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-7b11d3df56d80ade",
+"new": false,
+"time": "2026-10-12T06:29:05+00:00"
+},
+{
+"title": "Компания  ООО «Волгофлот» приглашает на работу:",
+"url": "https://t.me/rekamore_su/162087",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-6a4f23c50a24f5f5",
+"new": false,
+"time": "2026-10-12T06:31:03+00:00"
 }
 ],
 "msg_ids": [
-86
+87,
+88
 ],
-"last_list": "2026-10-12T05:41:35.596320+00:00"
+"last_list": "2026-10-12T06:33:23.161919+00:00"
 }
