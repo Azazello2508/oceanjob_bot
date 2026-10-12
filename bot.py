@@ -254,7 +254,24 @@ def send(text, html_mode=False):
         data["parse_mode"] = "HTML"
     r = requests.post(f"https://api.telegram.org/bot{TOKEN}/sendMessage", data=data, timeout=30)
     r.raise_for_status()
-    return r.json()["result"]["message_id"]
+    global LAST_SENT
+    LAST_SENT = r.json()["result"]["message_id"]
+    return LAST_SENT
+
+
+LAST_SENT = 0
+
+
+def clear_chat(from_id, to_id):
+    """Удаляет из чата все сообщения с номерами from_id..to_id (и бота, и ваши).
+    Telegram позволяет удалять только сообщения младше 48 часов — остальные пропускаются."""
+    ids = list(range(max(1, from_id), to_id + 1))
+    for i in range(0, len(ids), 100):
+        try:
+            requests.post(f"https://api.telegram.org/bot{TOKEN}/deleteMessages",
+                          json={"chat_id": CHAT_ID, "message_ids": ids[i:i + 100]}, timeout=30)
+        except Exception as e:
+            print(f"Не удалось очистить чат: {e}")
 
 
 def delete(message_id):
@@ -333,10 +350,12 @@ def main():
     today = datetime.now(LOCAL_TZ).strftime("%Y-%m-%d")
     new_day = day["date"] != today
     if new_day:
-        # Новый день: вчерашний список убираем, начинаем новый
-        for mid in day["msg_ids"]:
-            delete(mid)
-        day = {"date": today, "jobs": [], "msg_ids": [], "last_list": ""}
+        # Новый день: очищаем чат за прошлые дни и начинаем новый список
+        last_id = max([day.get("last_msg_id", 0)] + day["msg_ids"])
+        if last_id:
+            clear_chat(day.get("cleared_upto", last_id - 1000) + 1, last_id)
+        day = {"date": today, "jobs": [], "msg_ids": [], "last_list": "",
+               "cleared_upto": last_id or day.get("cleared_upto", 0)}
 
     # (ключ, подпись, функция, начало id вакансий этого источника)
     sources = [("crewell", "crewell.net", get_crewell, "crewell-"),
@@ -428,6 +447,8 @@ def main():
         publish(day)
         print("Список обновлён")
 
+    if LAST_SENT:
+        day["last_msg_id"] = LAST_SENT
     save_day(day)
     save_seen(seen)
     print(f"Новых вакансий: {sent}")
