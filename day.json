@@ -11,12 +11,48 @@
 "fp": "fp-6856614ec27334b1",
 "new": false,
 "time": "2026-10-13T20:33:29+00:00"
+},
+{
+"title": "2nd Officer on General Cargo Vessel",
+"url": "https://crewell.net/en/vacancies/461309/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-13T21:31:14.854750+00:00"
+},
+{
+"title": "Chief Officer on General Cargo Vessel",
+"url": "https://crewell.net/en/vacancies/461297/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-13T21:31:14.854777+00:00"
+},
+{
+"title": "Chief Officer on General Cargo Vessel",
+"url": "https://crewell.net/en/vacancies/461305/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-13T21:31:14.854788+00:00"
+},
+{
+"title": "Chief Officer on Container Ship",
+"url": "https://crewell.net/en/vacancies/461308/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-13T21:31:14.854794+00:00"
 }
 ],
 "msg_ids": [
-271
+272
 ],
-"last_list": "2026-10-13T20:56:52.644536+00:00",
-"cleared_upto": 270,
-"last_msg_id": 271
+"last_list": "2026-10-13T21:32:11.063044+00:00",
+"cleared_upto": 271,
+"last_msg_id": 272
 }
