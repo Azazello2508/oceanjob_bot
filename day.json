@@ -98,12 +98,91 @@
 "fp": "fp-449ecd8236d043a7",
 "new": false,
 "time": "2026-10-13T05:26:01+00:00"
+},
+{
+"title": "Second Officer",
+"url": "https://t.me/maritimeforum/249164",
+"source": "Telegram: @maritimeforum",
+"found": [
+"second officer"
+],
+"fp": "fp-8de8bb26a715493c",
+"new": false,
+"time": "2026-10-13T06:26:16+00:00"
+},
+{
+"title": "Chief Officer",
+"url": "https://t.me/maritimeforum/249165",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-839c993162b5a8e0",
+"new": false,
+"time": "2026-10-13T06:26:23+00:00"
+},
+{
+"title": "AQUAMARINE SHIPPING LLC",
+"url": "https://t.me/crewingua/44318",
+"source": "Telegram: @crewingua",
+"found": [
+"chief officer",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-e9777e5fe3e960e6",
+"new": false,
+"time": "2026-10-13T06:25:48+00:00"
+},
+{
+"title": "AQUAMARINE SHIPPING LLC",
+"url": "https://t.me/crewingua/44319",
+"source": "Telegram: @crewingua",
+"found": [
+"chief officer"
+],
+"fp": "fp-c1e42d14a10c5d18",
+"new": false,
+"time": "2026-10-13T06:31:48+00:00"
+},
+{
+"title": "VACANCY: CHIEF OFFICER",
+"url": "https://t.me/jobfor_seamen/12450",
+"source": "Telegram: @jobfor_seamen",
+"found": [
+"chief officer"
+],
+"fp": "fp-165d741cb340bd2b",
+"new": false,
+"time": "2026-10-13T06:29:28+00:00"
+},
+{
+"title": "Судоходная компания приглашает на работу:",
+"url": "https://t.me/rekamore_su/162163",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-695ee7b47178afa1",
+"new": false,
+"time": "2026-10-13T05:32:03+00:00"
+},
+{
+"title": "Судоходная компания \"Eco Shipping\" приглашает на работу:",
+"url": "https://t.me/rekamore_su/162168",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-f6e6a44efd687e15",
+"new": false,
+"time": "2026-10-13T05:35:06+00:00"
 }
 ],
 "msg_ids": [
-176
+177
 ],
-"last_list": "2026-10-13T05:41:54.269433+00:00",
+"last_list": "2026-10-13T06:32:27.479196+00:00",
 "cleared_upto": 174,
-"last_msg_id": 176
+"last_msg_id": 177
 }
