@@ -1,10 +1,22 @@
 {
 "date": "2026-10-14",
-"jobs": [],
-"msg_ids": [
-270
+"jobs": [
+{
+"title": "El Faro — The Final Bridge Recording",
+"url": "https://t.me/Crew_Radar/2678",
+"source": "Telegram: @Crew_Radar",
+"found": [
+"chief mate"
 ],
-"last_list": "2026-10-13T20:04:01.522612+00:00",
-"cleared_upto": 269,
-"last_msg_id": 270
+"fp": "fp-6856614ec27334b1",
+"new": false,
+"time": "2026-10-13T20:33:29+00:00"
+}
+],
+"msg_ids": [
+271
+],
+"last_list": "2026-10-13T20:56:52.644536+00:00",
+"cleared_upto": 270,
+"last_msg_id": 271
 }
