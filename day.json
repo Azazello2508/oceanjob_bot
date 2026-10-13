@@ -13,12 +13,97 @@
 "fp": "fp-eae46b73b5449c1e",
 "new": false,
 "time": "2026-10-13T04:39:04+00:00"
+},
+{
+"title": "2nd Officer on LPG",
+"url": "https://crewell.net/en/vacancies/461086/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-13T05:41:04.555201+00:00"
+},
+{
+"title": "Chief Officer on AHT",
+"url": "https://crewell.net/en/vacancies/461081/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-13T05:41:04.555227+00:00"
+},
+{
+"title": "Компания ООО \"Легаси Марин\" приглашает на работу:",
+"url": "https://t.me/rekamore_su/162140",
+"source": "Telegram: @rekamore_su",
+"found": [
+"chief officer",
+"старший помощник"
+],
+"fp": "fp-0784658e93222b75",
+"new": false,
+"time": "2026-10-13T04:12:04+00:00"
+},
+{
+"title": "Компания ООО «Смарт Шиппинг» приглашает на работу:",
+"url": "https://t.me/rekamore_su/162143",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-2adaab38d14501f8",
+"new": false,
+"time": "2026-10-13T04:20:06+00:00"
+},
+{
+"title": "Компания ООО «Борская судоходная компания» приглашает на работу:",
+"url": "https://t.me/rekamore_su/162144",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-78419582d363efb6",
+"new": false,
+"time": "2026-10-13T04:24:03+00:00"
+},
+{
+"title": "Компания \"ООО НМТП\" (Сахалинская область г. Невельск) приглашает на работу:",
+"url": "https://t.me/rekamore_su/162145",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-b34f75a061f2b291",
+"new": false,
+"time": "2026-10-13T04:25:04+00:00"
+},
+{
+"title": "Компания ООО \"СК ТРАНСФЛОТ\" приглашает на работу:",
+"url": "https://t.me/rekamore_su/162146",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-763245a5386b8877",
+"new": false,
+"time": "2026-10-13T04:26:04+00:00"
+},
+{
+"title": "В судоходную компанию требуются специалисты:",
+"url": "https://t.me/rekamore_su/162156",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-449ecd8236d043a7",
+"new": false,
+"time": "2026-10-13T05:26:01+00:00"
 }
 ],
 "msg_ids": [
-175
+176
 ],
-"last_list": "2026-10-13T04:57:16.406030+00:00",
+"last_list": "2026-10-13T05:41:54.269433+00:00",
 "cleared_upto": 174,
-"last_msg_id": 175
+"last_msg_id": 176
 }
