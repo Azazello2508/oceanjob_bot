@@ -1852,20 +1852,78 @@
 "fp": null,
 "new": false,
 "time": "2026-10-13T14:14:32+00:00"
+},
+{
+"title": "CO/SDPO needed",
+"url": "https://t.me/marinejobs/41988",
+"source": "Telegram: @marinejobs",
+"found": [
+"co/sdpo"
+],
+"fp": "fp-d66bf03f054d8ea9",
+"new": false,
+"time": "2026-10-13T15:08:38+00:00"
+},
+{
+"title": "Chief Officer",
+"url": "https://t.me/marinejobs/41989",
+"source": "Telegram: @marinejobs",
+"found": [
+"chief officer"
+],
+"fp": "fp-2ffc91893029a5b3",
+"new": false,
+"time": "2026-10-13T15:10:54+00:00"
+},
+{
+"title": "DANAOS UKRAINE — NEW CREW POSITIONS",
+"url": "https://t.me/marinejobs/41990",
+"source": "Telegram: @marinejobs",
+"found": [
+"chief officer",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-17b1b264798ea4c0",
+"new": false,
+"time": "2026-10-13T15:12:49+00:00"
+},
+{
+"title": "Chief Officer Vacancy",
+"url": "https://t.me/marinejobs/41992",
+"source": "Telegram: @marinejobs",
+"found": [
+"chief officer"
+],
+"fp": "fp-9662a78e2e49009d",
+"new": false,
+"time": "2026-10-13T15:16:57+00:00"
+},
+{
+"title": "DECK OFFICERS (51)",
+"url": "https://t.me/marineman_ltd/48112",
+"source": "Telegram: @marineman_ltd",
+"found": [
+"chief officer",
+"second officer"
+],
+"fp": "fp-32132c9d143d8b0f",
+"new": false,
+"time": "2026-10-13T15:00:01+00:00"
 }
 ],
 "msg_ids": [
-222,
-223,
-224,
-225,
-226,
-227,
-228,
-229
+230,
+231,
+232,
+233,
+234,
+235,
+236,
+237
 ],
-"last_list": "2026-10-13T14:46:44.513241+00:00",
-"cleared_upto": 0,
-"last_msg_id": 229,
+"last_list": "2026-10-13T15:27:51.600714+00:00",
+"cleared_upto": 229,
+"last_msg_id": 237,
 "force": true
 }
