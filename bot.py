@@ -155,6 +155,14 @@ SITES = {
 }
 
 
+# Тексты ссылок, которые не являются названием вакансии
+JUNK_TITLES = {"details & apply", "details", "apply", "view", "view & apply »", "view & apply",
+               "read more", "more", "подробнее"}
+# На этих сайтах у вакансий номера идут по порядку: новая вакансия = номер больше прежних
+SEQUENTIAL = {"crewell", "ukrcrewing", "seajobs.ru", "seacareer.com", "maritime-union.com",
+              "crewlinker.com", "rigzone.com", "seafarerjobs.com"}
+
+
 def get_site(name):
     """Собирает вакансии с сайта из SITES: ищет ссылки по шаблону и фильтрует по словам."""
     site = SITES[name]
@@ -164,7 +172,7 @@ def get_site(name):
         for a in BeautifulSoup(html, "html.parser").find_all("a", href=True):
             m = re.search(site["pattern"], a["href"])
             title = a.get_text(" ", strip=True)
-            if not m or not title:
+            if not m or not title or title.lower() in JUNK_TITLES:
                 continue
             job_id = f"{name}-{m.group(1)}"
             # Ищем слова и в тексте ссылки, и в самом адресе (там часто есть должность)
@@ -267,11 +275,17 @@ def clear_chat(from_id, to_id):
     Telegram позволяет удалять только сообщения младше 48 часов — остальные пропускаются."""
     ids = list(range(max(1, from_id), to_id + 1))
     for i in range(0, len(ids), 100):
+        batch = ids[i:i + 100]
         try:
-            requests.post(f"https://api.telegram.org/bot{TOKEN}/deleteMessages",
-                          json={"chat_id": CHAT_ID, "message_ids": ids[i:i + 100]}, timeout=30)
+            r = requests.post(f"https://api.telegram.org/bot{TOKEN}/deleteMessages",
+                              json={"chat_id": CHAT_ID, "message_ids": batch}, timeout=30)
+            ok = r.json().get("ok")
         except Exception as e:
-            print(f"Не удалось очистить чат: {e}")
+            print(f"Пакетное удаление не сработало: {e}")
+            ok = False
+        if not ok:
+            for mid in batch:
+                delete(mid)
 
 
 def delete(message_id):
@@ -335,10 +349,15 @@ def render(day):
     return parts
 
 
-def publish(day):
-    for mid in day["msg_ids"]:
-        delete(mid)
-    day["msg_ids"] = [send(part, html_mode=True) for part in render(day)] if day["jobs"] else []
+def publish(day, report=None):
+    parts = render(day) if day["jobs"] else ["📋 Вакансий за сегодня пока нет."]
+    if report:
+        parts[0] = "Подключены новые источники:\n" + html.escape("\n".join(report)) + "\n\n" + parts[0]
+    new_ids = [send(part, html_mode=True) for part in parts]
+    # Удаляем из чата всё, что было до нового списка: старые списки, сообщения прошлых дней
+    clear_chat(day.get("cleared_upto", 0) + 1, min(new_ids) - 1)
+    day["cleared_upto"] = min(new_ids) - 1
+    day["msg_ids"] = new_ids
     for j in day["jobs"]:
         j["new"] = False
     day["last_list"] = datetime.now(timezone.utc).isoformat()
@@ -351,11 +370,8 @@ def main():
     new_day = day["date"] != today
     if new_day:
         # Новый день: очищаем чат за прошлые дни и начинаем новый список
-        last_id = max([day.get("last_msg_id", 0)] + day["msg_ids"])
-        if last_id:
-            clear_chat(day.get("cleared_upto", last_id - 1000) + 1, last_id)
         day = {"date": today, "jobs": [], "msg_ids": [], "last_list": "",
-               "cleared_upto": last_id or day.get("cleared_upto", 0)}
+               "cleared_upto": day.get("cleared_upto", 0), "force": True}
 
     # (ключ, подпись, функция, начало id вакансий этого источника)
     sources = [("crewell", "crewell.net", get_crewell, "crewell-"),
@@ -392,6 +408,7 @@ def main():
                 report.append(f"✅ {label} — подходящих постов сейчас: {len(jobs)}")
             seen.add(marker)
 
+        site_max = max([num(x) for x in seen if x.startswith(prefix)] or [0])
         day_urls = {j["url"] for j in day["jobs"]}
         day_fps = {j.get("fp") for j in day["jobs"] if j.get("fp")}
         for job in reversed(jobs):  # от старых к новым
@@ -408,6 +425,8 @@ def main():
                     continue
                 if known and job["id"] not in day.get("today_ids", []):
                     continue
+                if not known and key in SEQUENTIAL and num(job["id"]) <= site_max:
+                    continue  # старая вакансия, которую сайт снова показал — не сегодняшняя
                 when = datetime.now(timezone.utc)
             fp = job.get("fp")
             if job["url"] in day_urls or (fp and fp in day_fps):
@@ -435,16 +454,13 @@ def main():
         seen.difference_update({x for x in seen if x.startswith(f"cov|{key}|")})
         seen.add(f"cov|{key}|{today}")
 
-    if report:
-        send("Подключены новые источники:\n\n"
-             + "\n".join(report))
 
     # Список обновляем раз в 45 минут, и только если появились новые вакансии
     has_new = any(j["new"] for j in day["jobs"])
     last = datetime.fromisoformat(day["last_list"]) if day["last_list"] else None
     due = last is None or datetime.now(timezone.utc) - last >= LIST_EVERY - timedelta(minutes=10)
-    if (has_new and due) or day.pop("force", False):
-        publish(day)
+    if (has_new and due) or report or day.pop("force", False):
+        publish(day, report)
         print("Список обновлён")
 
     if LAST_SENT:

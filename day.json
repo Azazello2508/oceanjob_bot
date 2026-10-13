@@ -951,15 +951,6 @@
 "time": "2026-10-13T10:56:09.130603+00:00"
 },
 {
-"title": "Details & apply",
-"url": "https://www.martide.com/en/jobs/inter-gulf-marine-offshore-vessel-chief-officer-608586",
-"source": "martide.com",
-"found": [],
-"fp": null,
-"new": false,
-"time": "2026-10-13T10:56:10.447435+00:00"
-},
-{
 "title": "Chief Officer",
 "url": "https://t.me/maritimeforum/249245",
 "source": "Telegram: @maritimeforum",
@@ -1500,15 +1491,6 @@
 "time": "2026-10-13T13:12:16.452284+00:00"
 },
 {
-"title": "Details & apply",
-"url": "https://www.martide.com/en/jobs/star-sea-management-crew-transfer-vessel-ctv-chief-officer-485426",
-"source": "martide.com",
-"found": [],
-"fp": null,
-"new": false,
-"time": "2026-10-13T13:12:17.871572+00:00"
-},
-{
 "title": "На приёмку новых судов проекта RSD 59, DWT 8144 требуется:",
 "url": "https://t.me/onboard_su/20437",
 "source": "Telegram: @onboard_su",
@@ -1883,6 +1865,7 @@
 229
 ],
 "last_list": "2026-10-13T14:46:44.513241+00:00",
-"cleared_upto": 174,
-"last_msg_id": 229
+"cleared_upto": 0,
+"last_msg_id": 229,
+"force": true
 }
