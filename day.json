@@ -1951,19 +1951,28 @@
 "fp": "fp-f04abff1f5894aee",
 "new": false,
 "time": "2026-10-13T18:00:37+00:00"
+},
+{
+"title": "2nd Officer on Oil/chemical tanker",
+"url": "https://crewell.net/en/vacancies/461290/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-13T19:15:37.504538+00:00"
 }
 ],
 "msg_ids": [
-254,
-255,
-256,
-257,
-258,
-259,
-260,
-261
+262,
+263,
+264,
+265,
+266,
+267,
+268,
+269
 ],
-"last_list": "2026-10-13T18:30:55.773622+00:00",
-"cleared_upto": 253,
-"last_msg_id": 261
+"last_list": "2026-10-13T19:16:28.750649+00:00",
+"cleared_upto": 261,
+"last_msg_id": 269
 }
