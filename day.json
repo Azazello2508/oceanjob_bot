@@ -1,7 +1,24 @@
 {
 "date": "2026-10-13",
-"jobs": [],
-"msg_ids": [],
-"last_list": "",
-"cleared_upto": 174
+"jobs": [
+{
+"title": "ARAMCO OFFSHORE — MASSIVE HIRING!",
+"url": "https://t.me/seajobfinder/41626",
+"source": "Telegram: @seajobfinder",
+"found": [
+"chief officer",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-eae46b73b5449c1e",
+"new": false,
+"time": "2026-10-13T04:39:04+00:00"
+}
+],
+"msg_ids": [
+175
+],
+"last_list": "2026-10-13T04:57:16.406030+00:00",
+"cleared_upto": 174,
+"last_msg_id": 175
 }
