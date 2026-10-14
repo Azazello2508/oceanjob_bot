@@ -1446,17 +1446,165 @@
 "fp": "fp-b1773f34d7c44c13",
 "new": false,
 "time": "2026-10-14T11:23:02+00:00"
+},
+{
+"title": "2nd Officer on Oil/chemical tanker",
+"url": "https://crewell.net/en/vacancies/461422/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-14T13:22:17.775911+00:00"
+},
+{
+"title": "2nd Officer on Crude oil tanker",
+"url": "https://crewell.net/en/vacancies/461427/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-14T13:22:17.775937+00:00"
+},
+{
+"title": "2nd Officer on PSV DP2",
+"url": "https://crewell.net/en/vacancies/461435/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-14T13:22:17.775945+00:00"
+},
+{
+"title": "2nd Officer on Dry cargo vessel",
+"url": "https://crewell.net/en/vacancies/461455/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-14T13:22:17.775950+00:00"
+},
+{
+"title": "Chief Officer on Crude oil tanker",
+"url": "https://crewell.net/en/vacancies/461425/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-14T13:22:17.775956+00:00"
+},
+{
+"title": "Chief Officer on Diving support vessel",
+"url": "https://crewell.net/en/vacancies/461440/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-14T13:22:17.775960+00:00"
+},
+{
+"title": "Chief Officer on Oil tanker",
+"url": "https://crewell.net/en/vacancies/461452/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-14T13:22:17.775965+00:00"
+},
+{
+"title": "Chief Officer on Oil/chemical tanker",
+"url": "https://crewell.net/en/vacancies/461453/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-14T13:22:17.775969+00:00"
+},
+{
+"title": "Chief Officer",
+"url": "https://seajobs.ru/ru/vacancy/17512/chief-officer-crude-oil-tanker",
+"source": "seajobs.ru",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-14T13:22:28.869819+00:00"
+},
+{
+"title": "2nd Officer",
+"url": "https://seajobs.ru/ru/vacancy/17514/2nd-officer-crude-oil-tanker",
+"source": "seajobs.ru",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-14T13:22:28.869844+00:00"
+},
+{
+"title": "URGENT VACANCIES — LNG TANKER",
+"url": "https://t.me/maritimeforum/249638",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer",
+"c/o"
+],
+"fp": "fp-c57d41b32c9ffa7e",
+"new": false,
+"time": "2026-10-14T12:46:43+00:00"
+},
+{
+"title": "Position:",
+"url": "https://t.me/CREW_ARIA/13673",
+"source": "Telegram: @CREW_ARIA",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-21e2f2f46cb9d338",
+"new": false,
+"time": "2026-10-14T12:56:40+00:00"
+},
+{
+"title": "Container Vacancies",
+"url": "https://t.me/crewingua/44349",
+"source": "Telegram: @crewingua",
+"found": [
+"chief officer"
+],
+"fp": "fp-b7d55a916f9be202",
+"new": false,
+"time": "2026-10-14T13:02:18+00:00"
+},
+{
+"title": "14-10-2026",
+"url": "https://t.me/TSMexp/832",
+"source": "Telegram: @TSMexp",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-782cc8e4b3199353",
+"new": false,
+"time": "2026-10-14T12:48:40+00:00"
+},
+{
+"title": "13-10-2026",
+"url": "https://t.me/TSMexp/833",
+"source": "Telegram: @TSMexp",
+"found": [
+"co/sdpo"
+],
+"fp": "fp-e1cf29ef49cb1256",
+"new": false,
+"time": "2026-10-14T12:48:44+00:00"
 }
 ],
 "msg_ids": [
-301,
-302,
-303,
-304,
-305,
-306
+307,
+308,
+309,
+310,
+311,
+312
 ],
-"last_list": "2026-10-14T12:42:31.080656+00:00",
-"cleared_upto": 300,
-"last_msg_id": 306
+"last_list": "2026-10-14T13:23:09.406957+00:00",
+"cleared_upto": 306,
+"last_msg_id": 312
 }
