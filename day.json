@@ -70,12 +70,30 @@
 "fp": "fp-f510c3c9cc0cdda5",
 "new": false,
 "time": "2026-10-14T04:31:49+00:00"
+},
+{
+"title": "2nd Officer on Bunkering tanker",
+"url": "https://crewell.net/en/vacancies/461316/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-14T05:53:13.037891+00:00"
+},
+{
+"title": "Chief Officer on General Cargo Vessel",
+"url": "https://crewell.net/en/vacancies/461315/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-14T05:53:13.037923+00:00"
 }
 ],
 "msg_ids": [
-274
+275
 ],
-"last_list": "2026-10-14T05:06:29.202131+00:00",
-"cleared_upto": 273,
-"last_msg_id": 274
+"last_list": "2026-10-14T05:54:13.729880+00:00",
+"cleared_upto": 274,
+"last_msg_id": 275
 }
