@@ -2011,19 +2011,88 @@
 "fp": "fp-c5ab374f820be688",
 "new": false,
 "time": "2026-10-14T15:30:21+00:00"
+},
+{
+"title": "2nd Officer on LNG",
+"url": "https://crewell.net/en/vacancies/461503/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-14T16:19:04.020160+00:00"
+},
+{
+"title": "Chief Officer on LNG",
+"url": "https://crewell.net/en/vacancies/461499/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-14T16:19:04.020191+00:00"
+},
+{
+"title": "Chief Officer on Container Ship",
+"url": "https://crewell.net/en/vacancies/461509/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-14T16:19:04.020200+00:00"
+},
+{
+"title": "Chief Officer on General Cargo Vessel",
+"url": "https://crewell.net/en/vacancies/461510/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-14T16:19:04.020209+00:00"
+},
+{
+"title": "Chief Officer Wanted",
+"url": "https://t.me/marinejobs/42039",
+"source": "Telegram: @marinejobs",
+"found": [
+"chief officer"
+],
+"fp": "fp-d5f26d183a06b818",
+"new": false,
+"time": "2026-10-14T15:40:03+00:00"
+},
+{
+"title": "DP2 Jackup Barge Marine Crew Required",
+"url": "https://t.me/marinejobs/42042",
+"source": "Telegram: @marinejobs",
+"found": [
+"chief mate"
+],
+"fp": "fp-9d50206a7f5799f1",
+"new": false,
+"time": "2026-10-14T15:47:54+00:00"
+},
+{
+"title": "Offshore Heavy Lift Crane Vessel Crew Required",
+"url": "https://t.me/marinejobs/42043",
+"source": "Telegram: @marinejobs",
+"found": [
+"chief mate"
+],
+"fp": "fp-fcd0537e0e0f050d",
+"new": false,
+"time": "2026-10-14T15:50:30+00:00"
 }
 ],
 "msg_ids": [
-327,
-328,
-329,
-330,
-331,
-332,
-333,
-334
+335,
+336,
+337,
+338,
+339,
+340,
+341,
+342
 ],
-"last_list": "2026-10-14T15:39:45.096584+00:00",
-"cleared_upto": 326,
-"last_msg_id": 334
+"last_list": "2026-10-14T16:19:51.555876+00:00",
+"cleared_upto": 334,
+"last_msg_id": 342
 }
