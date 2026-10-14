@@ -88,12 +88,54 @@
 "fp": null,
 "new": false,
 "time": "2026-10-14T05:53:13.037923+00:00"
+},
+{
+"title": "Chief Officer on Crew boat",
+"url": "https://crewell.net/en/vacancies/461322/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-14T06:41:27.207929+00:00"
+},
+{
+"title": "Судоходная компания \"Eco Shipping\" приглашает на работу:",
+"url": "https://t.me/rekamore_su/162262",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-f6e6a44efd687e15",
+"new": false,
+"time": "2026-10-14T05:35:03+00:00"
+},
+{
+"title": "Компания ООО \"СК ТРАНСФЛОТ\" приглашает на работу:",
+"url": "https://t.me/rekamore_su/162270",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-f341965059f2cff0",
+"new": false,
+"time": "2026-10-14T06:25:02+00:00"
+},
+{
+"title": "Компания ООО «Борская судоходная компания» приглашает на работу:",
+"url": "https://t.me/rekamore_su/162279",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-1a932e931b298ec2",
+"new": false,
+"time": "2026-10-14T06:34:01+00:00"
 }
 ],
 "msg_ids": [
-275
+276
 ],
-"last_list": "2026-10-14T05:54:13.729880+00:00",
-"cleared_upto": 274,
-"last_msg_id": 275
+"last_list": "2026-10-14T06:42:15.654120+00:00",
+"cleared_upto": 275,
+"last_msg_id": 276
 }
