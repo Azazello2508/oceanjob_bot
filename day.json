@@ -2244,20 +2244,42 @@
 "fp": "fp-65cb2d36be9dd5d7",
 "new": false,
 "time": "2026-10-14T17:45:26+00:00"
+},
+{
+"title": "Chief Officer on Oil/chemical tanker",
+"url": "https://crewell.net/en/vacancies/461593/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-14T18:41:03.928967+00:00"
+},
+{
+"title": "Position publishing service was stopped for the night.",
+"url": "https://t.me/marinecareerorg/17730",
+"source": "Telegram: @marinecareerorg",
+"found": [
+"chief officer",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-2526ca7bf4c5906b",
+"new": false,
+"time": "2026-10-14T18:00:05+00:00"
 }
 ],
 "msg_ids": [
-352,
-353,
-354,
-355,
-356,
-357,
-358,
-359,
-360
+361,
+362,
+363,
+364,
+365,
+366,
+367,
+368,
+369
 ],
-"last_list": "2026-10-14T17:55:27.393712+00:00",
-"cleared_upto": 351,
-"last_msg_id": 360
+"last_list": "2026-10-14T18:42:14.684849+00:00",
+"cleared_upto": 360,
+"last_msg_id": 369
 }
