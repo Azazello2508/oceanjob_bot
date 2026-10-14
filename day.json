@@ -1756,18 +1756,115 @@
 "fp": "fp-67380e1d335a202c",
 "new": false,
 "time": "2026-10-14T13:53:01+00:00"
+},
+{
+"title": "2nd Officer on PSV DP2",
+"url": "https://crewell.net/en/vacancies/461473/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-14T14:56:07.075792+00:00"
+},
+{
+"title": "Chief Officer on Bulk carrier",
+"url": "https://crewell.net/en/vacancies/461471/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-14T14:56:07.075821+00:00"
+},
+{
+"title": "Second Officer",
+"url": "https://t.me/maritimeforum/249670",
+"source": "Telegram: @maritimeforum",
+"found": [
+"second officer"
+],
+"fp": "fp-1b5823b6772660df",
+"new": false,
+"time": "2026-10-14T14:37:33+00:00"
+},
+{
+"title": "Second Officer",
+"url": "https://t.me/maritimeforum/249696",
+"source": "Telegram: @maritimeforum",
+"found": [
+"second officer"
+],
+"fp": "fp-3f779ae037706066",
+"new": false,
+"time": "2026-10-14T14:48:40+00:00"
+},
+{
+"title": "Second Officer",
+"url": "https://t.me/maritimeforum/249698",
+"source": "Telegram: @maritimeforum",
+"found": [
+"second officer"
+],
+"fp": "fp-f90915d979cfe3ec",
+"new": false,
+"time": "2026-10-14T14:48:53+00:00"
+},
+{
+"title": "FOR  OIL/CHEM  TANKER  DWT 17000",
+"url": "https://t.me/crewingua/44354",
+"source": "Telegram: @crewingua",
+"found": [
+"2off"
+],
+"fp": "fp-ac4c766a82ff8a5f",
+"new": false,
+"time": "2026-10-14T14:48:06+00:00"
+},
+{
+"title": "БАЛКЕР  75000 DWT",
+"url": "https://t.me/crewingua/44356",
+"source": "Telegram: @crewingua",
+"found": [
+"2off",
+"choff"
+],
+"fp": "fp-bc8a7dbdd60b10eb",
+"new": false,
+"time": "2026-10-14T14:49:04+00:00"
+},
+{
+"title": "Chief Officer",
+"url": "https://t.me/seamenjob/105627",
+"source": "Telegram: @seamenjob",
+"found": [
+"chief officer"
+],
+"fp": "fp-79d107ffdfa78472",
+"new": false,
+"time": "2026-10-14T14:21:04+00:00"
+},
+{
+"title": "Tankers. Job selection for 14/10/2026",
+"url": "https://t.me/SM_job_center/2410",
+"source": "Telegram: @SM_job_center",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-0b87636ec7b99751",
+"new": false,
+"time": "2026-10-14T14:15:08+00:00"
 }
 ],
 "msg_ids": [
-313,
-314,
-315,
-316,
-317,
-318,
-319
+320,
+321,
+322,
+323,
+324,
+325,
+326
 ],
-"last_list": "2026-10-14T14:09:32.371818+00:00",
-"cleared_upto": 312,
-"last_msg_id": 319
+"last_list": "2026-10-14T14:56:58.375464+00:00",
+"cleared_upto": 319,
+"last_msg_id": 326
 }
