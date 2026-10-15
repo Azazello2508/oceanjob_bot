@@ -12,12 +12,24 @@
 "fp": "fp-450aebb94405df0a",
 "new": false,
 "time": "2026-10-15T21:15:13+00:00"
+},
+{
+"title": "Seafarer Hiring – Ukrainian Nationals Only",
+"url": "https://t.me/marinejobs/42112",
+"source": "Telegram: @marinejobs",
+"found": [
+"chief officer",
+"second officer"
+],
+"fp": "fp-21f493bd6c164ba2",
+"new": false,
+"time": "2026-10-15T23:32:53+00:00"
 }
 ],
 "msg_ids": [
-481
+482
 ],
-"last_list": "2026-10-15T21:36:11.623247+00:00",
-"cleared_upto": 480,
-"last_msg_id": 481
+"last_list": "2026-10-15T23:46:54.109025+00:00",
+"cleared_upto": 481,
+"last_msg_id": 482
 }
