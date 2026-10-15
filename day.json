@@ -1753,18 +1753,78 @@
 "fp": "fp-c9d954eb1b02ce1c",
 "new": false,
 "time": "2026-10-15T13:53:57+00:00"
+},
+{
+"title": "2nd Officer on Oil/chemical tanker",
+"url": "https://crewell.net/en/vacancies/461754/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-15T14:55:23.345632+00:00"
+},
+{
+"title": "2nd Officer on Oil/chemical tanker",
+"url": "https://crewell.net/en/vacancies/461759/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-15T14:55:23.345660+00:00"
+},
+{
+"title": "Chief Officer on Oil/chemical tanker",
+"url": "https://crewell.net/en/vacancies/461758/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-15T14:55:23.345671+00:00"
+},
+{
+"title": "Chief Officer on LNG",
+"url": "https://crewell.net/en/vacancies/461748/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-15T14:55:23.345678+00:00"
+},
+{
+"title": "ab/ welder to join Trailing Suction Hopper",
+"url": "https://t.me/maritimeforum/249893",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-d2b490c36cd4cc87",
+"new": false,
+"time": "2026-10-15T14:19:40+00:00"
+},
+{
+"title": "https://jobatsea.online/job/623708/top-urgent-codpo-ahts-dp2-360-380-usd-pd-at-alpha-crew-ltd/",
+"url": "https://t.me/offshorevacancies/46692",
+"source": "Telegram: @offshorevacancies",
+"found": [
+"co/dpo"
+],
+"fp": "fp-7fd62e9c3720e78e",
+"new": false,
+"time": "2026-10-15T14:21:15+00:00"
 }
 ],
 "msg_ids": [
-423,
-424,
-425,
-426,
-427,
-428,
-429
+430,
+431,
+432,
+433,
+434,
+435,
+436
 ],
-"last_list": "2026-10-15T14:15:55.372676+00:00",
-"cleared_upto": 422,
-"last_msg_id": 429
+"last_list": "2026-10-15T14:56:58.027087+00:00",
+"cleared_upto": 429,
+"last_msg_id": 436
 }
