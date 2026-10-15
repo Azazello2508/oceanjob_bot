@@ -1,10 +1,23 @@
 {
 "date": "2026-10-16",
-"jobs": [],
-"msg_ids": [
-480
+"jobs": [
+{
+"title": "Marine Crewing Agency Everest",
+"url": "https://t.me/rekamore_su/162449",
+"source": "Telegram: @rekamore_su",
+"found": [
+"chief officer",
+"2off"
 ],
-"last_list": "2026-10-15T20:03:54.620836+00:00",
-"cleared_upto": 479,
-"last_msg_id": 480
+"fp": "fp-450aebb94405df0a",
+"new": false,
+"time": "2026-10-15T21:15:13+00:00"
+}
+],
+"msg_ids": [
+481
+],
+"last_list": "2026-10-15T21:36:11.623247+00:00",
+"cleared_upto": 480,
+"last_msg_id": 481
 }
