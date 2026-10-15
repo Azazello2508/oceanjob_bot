@@ -45,12 +45,47 @@
 "fp": "fp-a408146e07fccaea",
 "new": false,
 "time": "2026-10-15T05:32:03+00:00"
+},
+{
+"title": "ВАКАНСИЯ: SECOND OFFICER (2ND OFFICER)",
+"url": "https://t.me/maritimeforum/249739",
+"source": "Telegram: @maritimeforum",
+"found": [
+"second officer",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-6fa023fcc9f80d7b",
+"new": false,
+"time": "2026-10-15T06:36:31+00:00"
+},
+{
+"title": "Судоходная компания \"Eco Shipping\" приглашает на работу:",
+"url": "https://t.me/rekamore_su/162381",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-f6e6a44efd687e15",
+"new": false,
+"time": "2026-10-15T05:35:05+00:00"
+},
+{
+"title": "НА Т/Х ТИП «ОМСКИЙ» И «ВОЛГО-БАЛТ» ТРЕБУЕТСЯ:",
+"url": "https://t.me/rekamore_su/162385",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-c497f749f649d7ed",
+"new": false,
+"time": "2026-10-15T06:03:46+00:00"
 }
 ],
 "msg_ids": [
-381
+382
 ],
-"last_list": "2026-10-15T05:54:22.424148+00:00",
-"cleared_upto": 380,
-"last_msg_id": 381
+"last_list": "2026-10-15T06:42:51.241479+00:00",
+"cleared_upto": 381,
+"last_msg_id": 382
 }
