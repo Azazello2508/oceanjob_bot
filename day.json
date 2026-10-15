@@ -1974,19 +1974,167 @@
 "fp": "fp-b4c136125302d4d0",
 "new": false,
 "time": "2026-10-15T15:51:09+00:00"
+},
+{
+"title": "2nd Officer on General Cargo Vessel",
+"url": "https://crewell.net/en/vacancies/461777/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-15T17:10:30.156222+00:00"
+},
+{
+"title": "Chief Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/366190",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-15T17:10:31.361100+00:00"
+},
+{
+"title": "2nd Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/366191",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-15T17:10:31.361126+00:00"
+},
+{
+"title": "2nd Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/366192",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-15T17:10:31.361132+00:00"
+},
+{
+"title": "Chief Officer",
+"url": "https://t.me/maritimeforum/249898",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-facacb9425e9f715",
+"new": false,
+"time": "2026-10-15T16:24:19+00:00"
+},
+{
+"title": "Chief Officer",
+"url": "https://t.me/maritimeforum/249913",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer",
+"second officer"
+],
+"fp": "fp-9f9162afa022554a",
+"new": false,
+"time": "2026-10-15T16:37:23+00:00"
+},
+{
+"title": "Second Officer",
+"url": "https://t.me/maritimeforum/249920",
+"source": "Telegram: @maritimeforum",
+"found": [
+"second officer"
+],
+"fp": "fp-b151fd653cb59836",
+"new": false,
+"time": "2026-10-15T16:44:56+00:00"
+},
+{
+"title": "Chief Officer",
+"url": "https://t.me/maritimeforum/249933",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-fff5b1b4c47ed80b",
+"new": false,
+"time": "2026-10-15T16:46:23+00:00"
+},
+{
+"title": "Chief Officer",
+"url": "https://t.me/maritimeforum/249937",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-eb6e843492e4811e",
+"new": false,
+"time": "2026-10-15T16:54:41+00:00"
+},
+{
+"title": "Second Officer",
+"url": "https://t.me/maritimeforum/249938",
+"source": "Telegram: @maritimeforum",
+"found": [
+"second officer"
+],
+"fp": "fp-e43334c8a4f70bf4",
+"new": false,
+"time": "2026-10-15T16:57:03+00:00"
+},
+{
+"title": "Chief Officer",
+"url": "https://t.me/maritimeforum/249939",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-c6e2984a70d3c036",
+"new": false,
+"time": "2026-10-15T16:57:10+00:00"
+},
+{
+"title": "ONLY FOR CITIZENS OF UKRAINE!!!!!!!",
+"url": "https://t.me/seajobfinder/41724",
+"source": "Telegram: @seajobfinder",
+"found": [
+"2nd off"
+],
+"fp": "fp-b3d3827edc905a8a",
+"new": false,
+"time": "2026-10-15T16:35:51+00:00"
+},
+{
+"title": "Orca Crew Services B.V. is looking for:",
+"url": "https://t.me/seajobfinder/41732",
+"source": "Telegram: @seajobfinder",
+"found": [
+"chief mate"
+],
+"fp": "fp-fb08eee400e0d007",
+"new": false,
+"time": "2026-10-15T16:58:44+00:00"
+},
+{
+"title": "Список закрытых каналов в",
+"url": "https://t.me/rekamore_su/162447",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-de84ab9948b9e3a9",
+"new": false,
+"time": "2026-10-15T16:03:01+00:00"
 }
 ],
 "msg_ids": [
-445,
-446,
-447,
-448,
-449,
-450,
-451,
-452
+453,
+454,
+455,
+456,
+457,
+458,
+459,
+460,
+461
 ],
-"last_list": "2026-10-15T16:16:48.546958+00:00",
-"cleared_upto": 444,
-"last_msg_id": 452
+"last_list": "2026-10-15T17:11:20.555656+00:00",
+"cleared_upto": 452,
+"last_msg_id": 461
 }
