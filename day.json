@@ -1903,19 +1903,68 @@
 "fp": "fp-1352d9fb9ef9649c",
 "new": false,
 "time": "2026-10-16T12:46:56+00:00"
+},
+{
+"title": "2nd Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/366319",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-16T14:55:40.141046+00:00"
+},
+{
+"title": "Chief Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/366321",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-16T14:55:40.141068+00:00"
+},
+{
+"title": "2nd Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/366322",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-16T14:55:40.141074+00:00"
+},
+{
+"title": "COLUMBIA Shipmanagement Ukraine are hiring PCTC vessel!",
+"url": "https://t.me/maritimeforum/250172",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-b1e2cd1f9cc6de6c",
+"new": false,
+"time": "2026-10-16T14:55:31+00:00"
+},
+{
+"title": "Chief Officer",
+"url": "https://t.me/offshoreatsea/24209",
+"source": "Telegram: @offshoreatsea",
+"found": [
+"chief officer"
+],
+"fp": "fp-1eea6a7ab2feaf0c",
+"new": false,
+"time": "2026-10-16T14:30:38+00:00"
 }
 ],
 "msg_ids": [
-532,
-533,
-534,
-535,
-536,
-537,
-538,
-539
+540,
+541,
+542,
+543,
+544,
+545,
+546,
+547
 ],
-"last_list": "2026-10-16T14:12:47.598924+00:00",
-"cleared_upto": 531,
-"last_msg_id": 539
+"last_list": "2026-10-16T14:56:28.500456+00:00",
+"cleared_upto": 539,
+"last_msg_id": 547
 }
