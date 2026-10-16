@@ -2065,19 +2065,37 @@
 "fp": "fp-7b168429fd29f4df",
 "new": false,
 "time": "2026-10-16T15:11:20+00:00"
+},
+{
+"title": "2nd Officer on Ro-Ro",
+"url": "https://crewell.net/en/vacancies/461972/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-16T16:15:38.379139+00:00"
+},
+{
+"title": "Chief Officer on Ro-Ro",
+"url": "https://crewell.net/en/vacancies/461971/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-16T16:15:38.379164+00:00"
 }
 ],
 "msg_ids": [
-548,
-549,
-550,
-551,
-552,
-553,
-554,
-555
+556,
+557,
+558,
+559,
+560,
+561,
+562,
+563
 ],
-"last_list": "2026-10-16T15:34:21.613535+00:00",
-"cleared_upto": 547,
-"last_msg_id": 555
+"last_list": "2026-10-16T16:16:32.734581+00:00",
+"cleared_upto": 555,
+"last_msg_id": 563
 }
