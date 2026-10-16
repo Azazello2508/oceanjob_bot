@@ -24,12 +24,23 @@
 "fp": "fp-21f493bd6c164ba2",
 "new": false,
 "time": "2026-10-15T23:32:53+00:00"
+},
+{
+"title": "Chief Officer Wanted",
+"url": "https://t.me/marinejobs/42116",
+"source": "Telegram: @marinejobs",
+"found": [
+"chief officer"
+],
+"fp": "fp-6067dd45a09735dc",
+"new": false,
+"time": "2026-10-16T02:33:11+00:00"
 }
 ],
 "msg_ids": [
-482
+483
 ],
-"last_list": "2026-10-15T23:46:54.109025+00:00",
-"cleared_upto": 481,
-"last_msg_id": 482
+"last_list": "2026-10-16T02:55:01.897840+00:00",
+"cleared_upto": 482,
+"last_msg_id": 483
 }
