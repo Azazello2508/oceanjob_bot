@@ -2195,20 +2195,47 @@
 "fp": "fp-63acd0919c27948f",
 "new": false,
 "time": "2026-10-16T18:00:05+00:00"
+},
+{
+"title": "Chief Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/366551",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-16T19:16:23.384660+00:00"
+},
+{
+"title": "2nd Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/366552",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-16T19:16:23.384686+00:00"
+},
+{
+"title": "2nd Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/366553",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-16T19:16:23.384694+00:00"
 }
 ],
 "msg_ids": [
-581,
-582,
-583,
-584,
-585,
-586,
-587,
-588,
-589
+590,
+591,
+592,
+593,
+594,
+595,
+596,
+597,
+598
 ],
-"last_list": "2026-10-16T18:37:27.327098+00:00",
-"cleared_upto": 580,
-"last_msg_id": 589
+"last_list": "2026-10-16T19:17:32.172922+00:00",
+"cleared_upto": 589,
+"last_msg_id": 598
 }
