@@ -46,12 +46,64 @@
 "fp": "fp-24dbdc441841053c",
 "new": false,
 "time": "2026-10-16T04:03:50+00:00"
+},
+{
+"title": "2nd Officer on Container Ship",
+"url": "https://crewell.net/en/vacancies/461781/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-16T05:06:21.556339+00:00"
+},
+{
+"title": "Chief Officer on General Cargo Vessel",
+"url": "https://crewell.net/en/vacancies/461782/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-16T05:06:21.556389+00:00"
+},
+{
+"title": "BULK CARRIER VACANCIES - ME ENGINE - DWT - 38000 - 63 000   START IN RANK",
+"url": "https://t.me/andreeyVstart/1327",
+"source": "Telegram: @andreeyVstart",
+"found": [
+"chief officer"
+],
+"fp": "fp-7ea5d7bbda613d0c",
+"new": false,
+"time": "2026-10-16T04:15:58+00:00"
+},
+{
+"title": "Компания ООО \"Легаси Марин\" приглашает на работу:",
+"url": "https://t.me/rekamore_su/162455",
+"source": "Telegram: @rekamore_su",
+"found": [
+"chief officer",
+"старший помощник"
+],
+"fp": "fp-f510c3c9cc0cdda5",
+"new": false,
+"time": "2026-10-16T04:12:07+00:00"
+},
+{
+"title": "Компания \"Polluks Star\" приглашает на работу:",
+"url": "https://t.me/rekamore_su/162456",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-66f041f7a2453a6f",
+"new": false,
+"time": "2026-10-16T04:16:03+00:00"
 }
 ],
 "msg_ids": [
-484
+485
 ],
-"last_list": "2026-10-16T04:16:10.374358+00:00",
-"cleared_upto": 483,
-"last_msg_id": 484
+"last_list": "2026-10-16T05:07:13.456848+00:00",
+"cleared_upto": 484,
+"last_msg_id": 485
 }
