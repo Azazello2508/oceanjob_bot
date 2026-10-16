@@ -2114,19 +2114,88 @@
 "fp": "fp-de84ab9948b9e3a9",
 "new": false,
 "time": "2026-10-16T16:03:01+00:00"
+},
+{
+"title": "Chief Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/366354",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-16T17:51:36.332868+00:00"
+},
+{
+"title": "Chief Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/366355",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-16T17:51:36.332891+00:00"
+},
+{
+"title": "2nd Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/366359",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-16T17:51:36.332901+00:00"
+},
+{
+"title": "Chief Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/366360",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-16T17:51:36.332907+00:00"
+},
+{
+"title": "Chief Officer",
+"url": "https://seajobs.ru/ru/vacancy/17572/chief-officer-crude-oil-tanker",
+"source": "seajobs.ru",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-16T17:51:46.394954+00:00"
+},
+{
+"title": "OFFSHORE VACANCY",
+"url": "https://t.me/marinejobs/42170",
+"source": "Telegram: @marinejobs",
+"found": [
+"chief officer"
+],
+"fp": "fp-1397aa3bc99d77e5",
+"new": false,
+"time": "2026-10-16T17:31:19+00:00"
+},
+{
+"title": "2nd Officer",
+"url": "https://t.me/marinejobs/42171",
+"source": "Telegram: @marinejobs",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-0e272d2ed3e0839d",
+"new": false,
+"time": "2026-10-16T17:34:35+00:00"
 }
 ],
 "msg_ids": [
-564,
-565,
-566,
-567,
-568,
-569,
-570,
-571
+572,
+573,
+574,
+575,
+576,
+577,
+578,
+579,
+580
 ],
-"last_list": "2026-10-16T17:07:43.647459+00:00",
-"cleared_upto": 563,
-"last_msg_id": 571
+"last_list": "2026-10-16T17:52:39.205646+00:00",
+"cleared_upto": 571,
+"last_msg_id": 580
 }
