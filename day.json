@@ -116,12 +116,64 @@
 "fp": null,
 "new": false,
 "time": "2026-10-16T05:52:37.156297+00:00"
+},
+{
+"title": "2nd Officer on Research vessel",
+"url": "https://crewell.net/en/vacancies/461795/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-16T06:40:48.682827+00:00"
+},
+{
+"title": "2nd Officer on Container Ship",
+"url": "https://crewell.net/en/vacancies/461796/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-16T06:40:48.682850+00:00"
+},
+{
+"title": "Position:",
+"url": "https://t.me/CREW_ARIA/13696",
+"source": "Telegram: @CREW_ARIA",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-dbdd27b793e7abdc",
+"new": false,
+"time": "2026-10-16T06:18:21+00:00"
+},
+{
+"title": "AQUAMARINE SHIPPING LLC",
+"url": "https://t.me/crewingua/44379",
+"source": "Telegram: @crewingua",
+"found": [
+"chief officer"
+],
+"fp": "fp-891c1351a04c05bf",
+"new": false,
+"time": "2026-10-16T06:29:07+00:00"
+},
+{
+"title": "Компания \"Polluks Star\" приглашает на работу:",
+"url": "https://t.me/rekamore_su/162494",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-513fe5e8bd590b28",
+"new": false,
+"time": "2026-10-16T05:55:15+00:00"
 }
 ],
 "msg_ids": [
-486
+487
 ],
-"last_list": "2026-10-16T05:53:22.739474+00:00",
-"cleared_upto": 485,
-"last_msg_id": 486
+"last_list": "2026-10-16T06:41:43.154960+00:00",
+"cleared_upto": 486,
+"last_msg_id": 487
 }
