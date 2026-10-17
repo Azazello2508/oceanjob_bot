@@ -333,13 +333,60 @@
 "fp": "fp-c0a48761d21ee562",
 "new": false,
 "time": "2026-10-17T12:43:41+00:00"
+},
+{
+"title": "OPEN VACANCIES FOR CONTAINER FLEET",
+"url": "https://t.me/maritimeforum/250305",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-0dbecf4252e59370",
+"new": false,
+"time": "2026-10-17T13:15:57+00:00"
+},
+{
+"title": "URGENT VACANCIES FOR DFDE LNG",
+"url": "https://t.me/maritimeforum/250310",
+"source": "Telegram: @maritimeforum",
+"found": [
+"ch/off"
+],
+"fp": "fp-1352d9fb9ef9649c",
+"new": false,
+"time": "2026-10-17T13:16:33+00:00"
+},
+{
+"title": "Chief Officer",
+"url": "https://t.me/maritimeforum/250318",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-c7f900f58d8c8cbe",
+"new": false,
+"time": "2026-10-17T13:26:07+00:00"
+},
+{
+"title": "VACANCY – FSO OIL TANKER",
+"url": "https://t.me/maritimeforum/250334",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer",
+"c/o"
+],
+"fp": "fp-25ff363000513ba3",
+"new": false,
+"time": "2026-10-17T13:37:53+00:00"
 }
 ],
 "msg_ids": [
-609,
-610
+611,
+612
 ],
-"last_list": "2026-10-17T13:18:11.650584+00:00",
-"cleared_upto": 608,
-"last_msg_id": 610
+"last_list": "2026-10-17T14:00:59.265336+00:00",
+"cleared_upto": 610,
+"last_msg_id": 612
 }
