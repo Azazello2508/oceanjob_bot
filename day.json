@@ -1,10 +1,38 @@
 {
 "date": "2026-10-18",
-"jobs": [],
-"msg_ids": [
-619
+"jobs": [
+{
+"title": "2nd Officer on Container Ship",
+"url": "https://crewell.net/en/vacancies/462022/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-17T21:28:12.690422+00:00"
+},
+{
+"title": "2nd Officer on Container Ship",
+"url": "https://crewell.net/en/vacancies/462037/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-17T21:28:12.690439+00:00"
+},
+{
+"title": "Chief Officer on Container Ship",
+"url": "https://crewell.net/en/vacancies/462035/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-17T21:28:12.690450+00:00"
+}
 ],
-"last_list": "2026-10-17T20:48:23.188614+00:00",
-"cleared_upto": 618,
-"last_msg_id": 619
+"msg_ids": [
+620
+],
+"last_list": "2026-10-17T21:28:57.703675+00:00",
+"cleared_upto": 619,
+"last_msg_id": 620
 }
