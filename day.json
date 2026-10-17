@@ -289,13 +289,57 @@
 "fp": "fp-cac84bf6861c891a",
 "new": false,
 "time": "2026-10-17T10:10:49+00:00"
+},
+{
+"title": "Chief Officer",
+"url": "https://t.me/offshoreatsea/24216",
+"source": "Telegram: @offshoreatsea",
+"found": [
+"chief officer"
+],
+"fp": "fp-4221add51703f02d",
+"new": false,
+"time": "2026-10-17T12:43:18+00:00"
+},
+{
+"title": "Second Officer",
+"url": "https://t.me/offshoreatsea/24219",
+"source": "Telegram: @offshoreatsea",
+"found": [
+"second officer"
+],
+"fp": "fp-7ea2856c72209ff1",
+"new": false,
+"time": "2026-10-17T12:43:19+00:00"
+},
+{
+"title": "Second Officer",
+"url": "https://t.me/offshoreatsea/24223",
+"source": "Telegram: @offshoreatsea",
+"found": [
+"second officer"
+],
+"fp": "fp-3a677c5e0a7c344c",
+"new": false,
+"time": "2026-10-17T12:43:36+00:00"
+},
+{
+"title": "Second Officer",
+"url": "https://t.me/offshoreatsea/24224",
+"source": "Telegram: @offshoreatsea",
+"found": [
+"second officer"
+],
+"fp": "fp-c0a48761d21ee562",
+"new": false,
+"time": "2026-10-17T12:43:41+00:00"
 }
 ],
 "msg_ids": [
-607,
-608
+609,
+610
 ],
-"last_list": "2026-10-17T10:59:03.838161+00:00",
-"cleared_upto": 606,
-"last_msg_id": 608
+"last_list": "2026-10-17T13:18:11.650584+00:00",
+"cleared_upto": 608,
+"last_msg_id": 610
 }
