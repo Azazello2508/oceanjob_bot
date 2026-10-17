@@ -254,13 +254,48 @@
 "fp": "fp-7bdfec0b3cdd21a5",
 "new": false,
 "time": "2026-10-17T09:53:29+00:00"
+},
+{
+"title": "Chief Officer — AHT (non-DP Tug)",
+"url": "https://t.me/Crew_Radar/2744",
+"source": "Telegram: @Crew_Radar",
+"found": [
+"chief officer"
+],
+"fp": "fp-cdd4a53b98b92cb5",
+"new": false,
+"time": "2026-10-17T10:09:59+00:00"
+},
+{
+"title": "2nd Officer (DPO) — AHTS DP2",
+"url": "https://t.me/Crew_Radar/2751",
+"source": "Telegram: @Crew_Radar",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-1ec2c4945ddba08c",
+"new": false,
+"time": "2026-10-17T10:10:15+00:00"
+},
+{
+"title": "CrewRadar Morning Digest — 17 Oct 2026",
+"url": "https://t.me/Crew_Radar/2753",
+"source": "Telegram: @Crew_Radar",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-cac84bf6861c891a",
+"new": false,
+"time": "2026-10-17T10:10:49+00:00"
 }
 ],
 "msg_ids": [
-605,
-606
+607,
+608
 ],
-"last_list": "2026-10-17T10:09:45.010083+00:00",
-"cleared_upto": 604,
-"last_msg_id": 606
+"last_list": "2026-10-17T10:59:03.838161+00:00",
+"cleared_upto": 606,
+"last_msg_id": 608
 }
