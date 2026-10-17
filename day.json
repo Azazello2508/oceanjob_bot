@@ -84,12 +84,30 @@
 "fp": "fp-e8ccdff4f504552a",
 "new": false,
 "time": "2026-10-17T06:15:08+00:00"
+},
+{
+"title": "Chief Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/366556",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-17T08:01:06.540203+00:00"
+},
+{
+"title": "Chief Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/366557",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-17T08:01:06.540229+00:00"
 }
 ],
 "msg_ids": [
-601
+602
 ],
-"last_list": "2026-10-17T07:22:24.316342+00:00",
-"cleared_upto": 600,
-"last_msg_id": 601
+"last_list": "2026-10-17T08:02:16.514195+00:00",
+"cleared_upto": 601,
+"last_msg_id": 602
 }
