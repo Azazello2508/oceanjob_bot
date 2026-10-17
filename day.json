@@ -380,13 +380,24 @@
 "fp": "fp-25ff363000513ba3",
 "new": false,
 "time": "2026-10-17T13:37:53+00:00"
+},
+{
+"title": "Кейс нашего подписчика, который недавно перешел в офшор",
+"url": "https://t.me/supermariner_ua/3793",
+"source": "Telegram: @supermariner_ua",
+"found": [
+"старпом"
+],
+"fp": "fp-70640fada167fe27",
+"new": false,
+"time": "2026-10-17T14:03:36+00:00"
 }
 ],
 "msg_ids": [
-611,
-612
+613,
+614
 ],
-"last_list": "2026-10-17T14:00:59.265336+00:00",
-"cleared_upto": 610,
-"last_msg_id": 612
+"last_list": "2026-10-17T14:48:03.452703+00:00",
+"cleared_upto": 612,
+"last_msg_id": 614
 }
