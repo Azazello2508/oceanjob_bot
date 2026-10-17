@@ -210,12 +210,57 @@
 "fp": "fp-3a5a971f1fc1def5",
 "new": false,
 "time": "2026-10-17T08:52:56+00:00"
+},
+{
+"title": "VLGC FLEET",
+"url": "https://t.me/maritimeforum/250288",
+"source": "Telegram: @maritimeforum",
+"found": [
+"2nd off"
+],
+"fp": "fp-a51ff8faec1f7786",
+"new": false,
+"time": "2026-10-17T09:03:56+00:00"
+},
+{
+"title": "CRUDE OIL TANKER",
+"url": "https://t.me/maritimeforum/250294",
+"source": "Telegram: @maritimeforum",
+"found": [
+"2nd off"
+],
+"fp": "fp-44bc38dd75378b37",
+"new": false,
+"time": "2026-10-17T09:03:57+00:00"
+},
+{
+"title": "Chief Officer — Crew Boat",
+"url": "https://t.me/Crew_Radar/2743",
+"source": "Telegram: @Crew_Radar",
+"found": [
+"chief officer"
+],
+"fp": "fp-d5c0b20bf76956ff",
+"new": false,
+"time": "2026-10-17T10:09:27+00:00"
+},
+{
+"title": "$100,000 LNG BONUS! URGENT RECRUITMENT!",
+"url": "https://t.me/Sea_format/12318",
+"source": "Telegram: @Sea_format",
+"found": [
+"chief officer"
+],
+"fp": "fp-7bdfec0b3cdd21a5",
+"new": false,
+"time": "2026-10-17T09:53:29+00:00"
 }
 ],
 "msg_ids": [
-604
+605,
+606
 ],
-"last_list": "2026-10-17T09:30:30.395913+00:00",
-"cleared_upto": 603,
-"last_msg_id": 604
+"last_list": "2026-10-17T10:09:45.010083+00:00",
+"cleared_upto": 604,
+"last_msg_id": 606
 }
