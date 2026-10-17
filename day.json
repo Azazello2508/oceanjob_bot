@@ -35,12 +35,61 @@
 "fp": "fp-8b89a716d0ceb633",
 "new": false,
 "time": "2026-10-17T05:33:15+00:00"
+},
+{
+"title": "Chief Officer on Diving support vessel",
+"url": "https://crewell.net/en/vacancies/461990/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-17T07:21:28.248143+00:00"
+},
+{
+"title": "Chief Officer DPO for DP2 DSV Vessel",
+"url": "https://www.seacareer.com/i36720/chief-officer-dpo-for-dp2-dsv-vessel/",
+"source": "seacareer.com",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-17T07:21:34.828169+00:00"
+},
+{
+"title": "Chief Officer DPO for DP2 DSV vessel Ryan Ship Management Pvt Ltd",
+"url": "https://maritime-union.com/job/231261",
+"source": "maritime-union.com",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-17T07:21:42.051347+00:00"
+},
+{
+"title": "НА Т/Х ТИП «ОМСКИЙ» И «ВОЛГО-БАЛТ» ТРЕБУЕТСЯ:",
+"url": "https://t.me/rekamore_su/162574",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-c497f749f649d7ed",
+"new": false,
+"time": "2026-10-17T06:00:04+00:00"
+},
+{
+"title": "Компания \"Columbia Shipmanagement\" (Новороссийск) приглашает на работу:",
+"url": "https://t.me/rekamore_su/162578",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-e8ccdff4f504552a",
+"new": false,
+"time": "2026-10-17T06:15:08+00:00"
 }
 ],
 "msg_ids": [
-600
+601
 ],
-"last_list": "2026-10-17T05:50:25.757449+00:00",
-"cleared_upto": 599,
-"last_msg_id": 600
+"last_list": "2026-10-17T07:22:24.316342+00:00",
+"cleared_upto": 600,
+"last_msg_id": 601
 }
