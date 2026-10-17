@@ -436,13 +436,26 @@
 "fp": "fp-de84ab9948b9e3a9",
 "new": false,
 "time": "2026-10-17T16:03:01+00:00"
+},
+{
+"title": "Position publishing service was stopped for the night.",
+"url": "https://t.me/marinecareerorg/17735",
+"source": "Telegram: @marinecareerorg",
+"found": [
+"chief officer",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-2dff509c492a479e",
+"new": false,
+"time": "2026-10-17T18:00:03+00:00"
 }
 ],
 "msg_ids": [
-615,
-616
+617,
+618
 ],
-"last_list": "2026-10-17T15:29:45.858148+00:00",
-"cleared_upto": 614,
-"last_msg_id": 616
+"last_list": "2026-10-17T18:32:50.330112+00:00",
+"cleared_upto": 616,
+"last_msg_id": 618
 }
