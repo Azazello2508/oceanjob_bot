@@ -391,13 +391,47 @@
 "fp": "fp-70640fada167fe27",
 "new": false,
 "time": "2026-10-17T14:03:36+00:00"
+},
+{
+"title": "Chief Officer",
+"url": "https://t.me/maritimeforum/250339",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-25f6b39225c722aa",
+"new": false,
+"time": "2026-10-17T14:49:20+00:00"
+},
+{
+"title": "DECK OFFICERS (51)",
+"url": "https://t.me/marineman_ltd/48151",
+"source": "Telegram: @marineman_ltd",
+"found": [
+"chief officer",
+"second officer"
+],
+"fp": "fp-77fe9fd8a8567934",
+"new": false,
+"time": "2026-10-17T15:00:02+00:00"
+},
+{
+"title": "Chief Officer",
+"url": "https://t.me/offshoreatsea/24229",
+"source": "Telegram: @offshoreatsea",
+"found": [
+"chief officer"
+],
+"fp": "fp-fde4d037402e52f2",
+"new": false,
+"time": "2026-10-17T14:49:55+00:00"
 }
 ],
 "msg_ids": [
-613,
-614
+615,
+616
 ],
-"last_list": "2026-10-17T14:48:03.452703+00:00",
-"cleared_upto": 612,
-"last_msg_id": 614
+"last_list": "2026-10-17T15:29:45.858148+00:00",
+"cleared_upto": 614,
+"last_msg_id": 616
 }
