@@ -240,12 +240,82 @@
 "fp": "fp-9c52ddea42311ae0",
 "new": false,
 "time": "2026-10-18T11:30:18+00:00"
+},
+{
+"title": "Second Officer",
+"url": "https://t.me/maritimeforum/250467",
+"source": "Telegram: @maritimeforum",
+"found": [
+"second officer"
+],
+"fp": "fp-e0a094f57d63df78",
+"new": false,
+"time": "2026-10-18T12:25:38+00:00"
+},
+{
+"title": "Chief Officer — LPG",
+"url": "https://t.me/Crew_Radar/2784",
+"source": "Telegram: @Crew_Radar",
+"found": [
+"chief officer"
+],
+"fp": "fp-215a69168c8c3e3a",
+"new": false,
+"time": "2026-10-18T12:09:25+00:00"
+},
+{
+"title": "2nd Officer DPO — AHTS DP2",
+"url": "https://t.me/Crew_Radar/2787",
+"source": "Telegram: @Crew_Radar",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-c45b30a29ecf0e30",
+"new": false,
+"time": "2026-10-18T12:09:32+00:00"
+},
+{
+"title": "CrewRadar Afternoon Digest — 18 Oct 2026",
+"url": "https://t.me/Crew_Radar/2789",
+"source": "Telegram: @Crew_Radar",
+"found": [
+"c/o",
+"2/o"
+],
+"fp": "fp-02957422d9b8bb51",
+"new": false,
+"time": "2026-10-18T12:09:34+00:00"
+},
+{
+"title": "Wiper",
+"url": "https://t.me/Sea_format/12319",
+"source": "Telegram: @Sea_format",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-5a3947043b91fb64",
+"new": false,
+"time": "2026-10-18T12:08:30+00:00"
+},
+{
+"title": "GAS CARRIER CREW VACANCY",
+"url": "https://t.me/Sea_format/12321",
+"source": "Telegram: @Sea_format",
+"found": [
+"chief officer"
+],
+"fp": "fp-b1edf7a023497c8e",
+"new": false,
+"time": "2026-10-18T12:11:03+00:00"
 }
 ],
 "msg_ids": [
-623
+624,
+625
 ],
-"last_list": "2026-10-18T11:46:30.199485+00:00",
-"cleared_upto": 622,
-"last_msg_id": 623
+"last_list": "2026-10-18T12:35:24.051417+00:00",
+"cleared_upto": 623,
+"last_msg_id": 625
 }
