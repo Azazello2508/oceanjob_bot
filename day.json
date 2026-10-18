@@ -383,13 +383,25 @@
 "fp": "fp-de84ab9948b9e3a9",
 "new": false,
 "time": "2026-10-18T16:03:01+00:00"
+},
+{
+"title": "2ND OFFICER / DPO – DEEPSEA INSTALLATION VESSEL",
+"url": "https://t.me/offshorecv/1538",
+"source": "Telegram: @offshorecv",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-23b12dcbf1ee70df",
+"new": false,
+"time": "2026-10-18T17:45:19+00:00"
 }
 ],
 "msg_ids": [
-630,
-631
+632,
+633
 ],
-"last_list": "2026-10-18T16:08:57.220308+00:00",
-"cleared_upto": 629,
-"last_msg_id": 631
+"last_list": "2026-10-18T17:46:02.843253+00:00",
+"cleared_upto": 631,
+"last_msg_id": 633
 }
