@@ -27,12 +27,34 @@
 "fp": null,
 "new": false,
 "time": "2026-10-17T21:28:12.690450+00:00"
+},
+{
+"title": "СРОЧНАЯ ВАКАНСИЯ: ПОСАДКА ЧЕРЕЗ 3–4 ДНЯ Рассмотрим в старт с чистым паспортом моряка Only Ukrainian",
+"url": "https://t.me/maritimeforum/250367",
+"source": "Telegram: @maritimeforum",
+"found": [
+"старпом"
+],
+"fp": "fp-00b87d0561d1558b",
+"new": false,
+"time": "2026-10-18T07:18:20+00:00"
+},
+{
+"title": "НА Т/Х ТИП «ОМСКИЙ» И «ВОЛГО-БАЛТ» ТРЕБУЕТСЯ:",
+"url": "https://t.me/rekamore_su/162599",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-c497f749f649d7ed",
+"new": false,
+"time": "2026-10-18T06:00:05+00:00"
 }
 ],
 "msg_ids": [
-620
+621
 ],
-"last_list": "2026-10-17T21:28:57.703675+00:00",
-"cleared_upto": 619,
-"last_msg_id": 620
+"last_list": "2026-10-18T07:22:07.366028+00:00",
+"cleared_upto": 620,
+"last_msg_id": 621
 }
