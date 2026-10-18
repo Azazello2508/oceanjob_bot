@@ -327,13 +327,25 @@
 "fp": null,
 "new": false,
 "time": "2026-10-18T13:17:44.188905+00:00"
+},
+{
+"title": "DECK OFFICERS (50)",
+"url": "https://t.me/marineman_ltd/48159",
+"source": "Telegram: @marineman_ltd",
+"found": [
+"chief officer",
+"second officer"
+],
+"fp": "fp-a7379af21b76053d",
+"new": false,
+"time": "2026-10-18T15:00:01+00:00"
 }
 ],
 "msg_ids": [
-626,
-627
+628,
+629
 ],
-"last_list": "2026-10-18T13:18:43.534244+00:00",
-"cleared_upto": 625,
-"last_msg_id": 627
+"last_list": "2026-10-18T15:29:17.869112+00:00",
+"cleared_upto": 627,
+"last_msg_id": 629
 }
