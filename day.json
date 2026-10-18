@@ -130,12 +130,78 @@
 "fp": "fp-b076029e19e98c7a",
 "new": false,
 "time": "2026-10-18T07:18:20+00:00"
+},
+{
+"title": "Second Officer",
+"url": "https://t.me/maritimeforum/250410",
+"source": "Telegram: @maritimeforum",
+"found": [
+"second officer"
+],
+"fp": "fp-8a271879270a69c2",
+"new": false,
+"time": "2026-10-18T10:40:18+00:00"
+},
+{
+"title": "Chief Officer",
+"url": "https://t.me/maritimeforum/250413",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-acb71c5410bdcea3",
+"new": false,
+"time": "2026-10-18T10:40:38+00:00"
+},
+{
+"title": "Chief Officer",
+"url": "https://t.me/maritimeforum/250426",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-81ef65518f5df88d",
+"new": false,
+"time": "2026-10-18T10:42:02+00:00"
+},
+{
+"title": "Second Officer",
+"url": "https://t.me/maritimeforum/250427",
+"source": "Telegram: @maritimeforum",
+"found": [
+"second officer"
+],
+"fp": "fp-359750fe165f2b5f",
+"new": false,
+"time": "2026-10-18T10:42:09+00:00"
+},
+{
+"title": "Chief Officer",
+"url": "https://t.me/maritimeforum/250431",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-fcb27a46ee6c9e0e",
+"new": false,
+"time": "2026-10-18T10:42:34+00:00"
+},
+{
+"title": "Chief Officer",
+"url": "https://t.me/maritimeforum/250433",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-e71c7151d0ace394",
+"new": false,
+"time": "2026-10-18T10:42:47+00:00"
 }
 ],
 "msg_ids": [
-621
+622
 ],
-"last_list": "2026-10-18T07:22:07.366028+00:00",
-"cleared_upto": 620,
-"last_msg_id": 621
+"last_list": "2026-10-18T10:59:41.154842+00:00",
+"cleared_upto": 621,
+"last_msg_id": 622
 }
