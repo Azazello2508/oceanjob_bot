@@ -1824,18 +1824,77 @@
 "fp": null,
 "new": false,
 "time": "2026-10-19T14:00:33+00:00"
+},
+{
+"title": "Chief Officer on Container Ship",
+"url": "https://crewell.net/en/vacancies/462237/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-19T15:00:05.656158+00:00"
+},
+{
+"title": "Chief Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/366641",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-19T15:00:07.146204+00:00"
+},
+{
+"title": "2nd Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/366643",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-19T15:00:07.146228+00:00"
+},
+{
+"title": "2nd Officer",
+"url": "https://seajobs.ru/ru/vacancy/17599/2nd-officer-container-ship",
+"source": "seajobs.ru",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-19T15:00:18.725730+00:00"
+},
+{
+"title": "Second Officer for Dual-Fuel Container Vessel",
+"url": "https://t.me/seamenjob/105735",
+"source": "Telegram: @seamenjob",
+"found": [
+"second officer"
+],
+"fp": "fp-0469d8493916149d",
+"new": false,
+"time": "2026-10-19T14:35:04+00:00"
+},
+{
+"title": "DECK OFFICERS (51)",
+"url": "https://t.me/marineman_ltd/48171",
+"source": "Telegram: @marineman_ltd",
+"found": [
+"chief officer",
+"second officer"
+],
+"fp": "fp-9a97a8da0a5bbbd6",
+"new": false,
+"time": "2026-10-19T15:00:02+00:00"
 }
 ],
 "msg_ids": [
-681,
-682,
-683,
-684,
-685,
-686,
-687
+688,
+689,
+690,
+691,
+692,
+693,
+694
 ],
-"last_list": "2026-10-19T14:19:40.325574+00:00",
-"cleared_upto": 680,
-"last_msg_id": 687
+"last_list": "2026-10-19T15:01:07.327688+00:00",
+"cleared_upto": 687,
+"last_msg_id": 694
 }
