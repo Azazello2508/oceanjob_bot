@@ -372,6 +372,8 @@
 "crewell-462295",
 "crewell-462297",
 "crewell-462299",
+"crewell-462300",
+"crewell-462302",
 "crewlinker.com-90194318085",
 "crewlinker.com-90194318088",
 "crewlinker.com-90194318089",
@@ -1319,7 +1321,7 @@
 "fp-ff81b4cd29aa5efa",
 "fp-ffa44d609bd2a117",
 "fp-fff5b1b4c47ed80b",
-"hw|crewell|462299",
+"hw|crewell|462302",
 "hw|crewlinker.com|90194318274",
 "hw|maritime-union.com|231264",
 "hw|martide.com|961807",
@@ -1378,7 +1380,7 @@
 "hw|tg:ukrcrewing_official|2355",
 "hw|tg:univis_crewing|4976",
 "hw|tg:vshipsoffshore|1070",
-"hw|ukrcrewing|366687",
+"hw|ukrcrewing|366698",
 "maritime-union.com-231211",
 "maritime-union.com-231212",
 "maritime-union.com-231213",
@@ -3186,5 +3188,7 @@
 "ukrcrewing-366643",
 "ukrcrewing-366683",
 "ukrcrewing-366686",
-"ukrcrewing-366687"
+"ukrcrewing-366687",
+"ukrcrewing-366697",
+"ukrcrewing-366698"
 ]
