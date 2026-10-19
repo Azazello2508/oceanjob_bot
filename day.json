@@ -25,12 +25,66 @@
 "fp": "fp-1e75a8884f8878d0",
 "new": false,
 "time": "2026-10-19T04:04:08+00:00"
+},
+{
+"title": "2nd Officer on Container Ship",
+"url": "https://crewell.net/en/vacancies/462064/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-19T05:11:37.462345+00:00"
+},
+{
+"title": "Chief Officer on Container Ship",
+"url": "https://crewell.net/en/vacancies/462065/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-19T05:11:37.462374+00:00"
+},
+{
+"title": "Компания ООО \"Легаси Марин\" приглашает на работу:",
+"url": "https://t.me/rekamore_su/162628",
+"source": "Telegram: @rekamore_su",
+"found": [
+"chief officer",
+"2nd officer",
+"2nd off",
+"старший помощник"
+],
+"fp": "fp-79cb16a5ca24246c",
+"new": false,
+"time": "2026-10-19T04:12:06+00:00"
+},
+{
+"title": "Компания \"Polluks Star\" приглашает на работу:",
+"url": "https://t.me/rekamore_su/162629",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-513fe5e8bd590b28",
+"new": false,
+"time": "2026-10-19T04:16:04+00:00"
+},
+{
+"title": "Компания ООО «Смарт Шиппинг» приглашает на работу:",
+"url": "https://t.me/rekamore_su/162631",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-1571257a523fb355",
+"new": false,
+"time": "2026-10-19T04:20:05+00:00"
 }
 ],
 "msg_ids": [
-636
+637
 ],
-"last_list": "2026-10-19T04:20:36.874977+00:00",
-"cleared_upto": 635,
-"last_msg_id": 636
+"last_list": "2026-10-19T05:12:30.972400+00:00",
+"cleared_upto": 636,
+"last_msg_id": 637
 }
