@@ -1779,18 +1779,63 @@
 "fp": "fp-bede6105eedfd630",
 "new": false,
 "time": "2026-10-19T13:06:25+00:00"
+},
+{
+"title": "CHIEF OFFICER – BULK CARRIER",
+"url": "https://t.me/balticcareer/4739",
+"source": "Telegram: @balticcareer",
+"found": [
+"chief officer"
+],
+"fp": "fp-bf3367d4ed8dc637",
+"new": false,
+"time": "2026-10-19T13:39:12+00:00"
+},
+{
+"title": "2/O – PSV",
+"url": "https://t.me/balticcareer/4741",
+"source": "Telegram: @balticcareer",
+"found": [
+"2/o"
+],
+"fp": "fp-556b49c0c925f0c2",
+"new": false,
+"time": "2026-10-19T13:53:09+00:00"
+},
+{
+"title": "Bulkers. Job selection for 19/10/2026",
+"url": "https://t.me/SM_job_center/2421",
+"source": "Telegram: @SM_job_center",
+"found": [
+"chief officer"
+],
+"fp": "fp-dba1e36627206142",
+"new": false,
+"time": "2026-10-19T14:03:15+00:00"
+},
+{
+"title": "https://jobatsea.online/job/623956/2nd-officer-with-jack-up-experience-at-select-offshore/",
+"url": "https://t.me/offshorevacancies/46737",
+"source": "Telegram: @offshorevacancies",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": null,
+"new": false,
+"time": "2026-10-19T14:00:33+00:00"
 }
 ],
 "msg_ids": [
-674,
-675,
-676,
-677,
-678,
-679,
-680
+681,
+682,
+683,
+684,
+685,
+686,
+687
 ],
-"last_list": "2026-10-19T13:30:49.848060+00:00",
-"cleared_upto": 673,
-"last_msg_id": 680
+"last_list": "2026-10-19T14:19:40.325574+00:00",
+"cleared_upto": 680,
+"last_msg_id": 687
 }
