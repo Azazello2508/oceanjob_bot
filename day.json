@@ -735,14 +735,171 @@
 "fp": "fp-af4ab5da6cc531f9",
 "new": false,
 "time": "2026-10-19T09:01:03+00:00"
+},
+{
+"title": "2nd Officer on MPSV DP2",
+"url": "https://crewell.net/en/vacancies/462157/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-19T09:39:12.262852+00:00"
+},
+{
+"title": "Chief Officer on MPSV DP2",
+"url": "https://crewell.net/en/vacancies/462156/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-19T09:39:12.262880+00:00"
+},
+{
+"title": "BSM Novorossiysk",
+"url": "https://t.me/onboard_su/20506",
+"source": "Telegram: @onboard_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-cdb05ab1cc0480a4",
+"new": false,
+"time": "2026-10-19T09:36:48+00:00"
+},
+{
+"title": "Chief Officer",
+"url": "https://t.me/marinejobs/42229",
+"source": "Telegram: @marinejobs",
+"found": [
+"chief officer"
+],
+"fp": "fp-de020d16a5e8da2b",
+"new": false,
+"time": "2026-10-19T09:09:14+00:00"
+},
+{
+"title": "2ND OFFICER POSITIONS AVAILABLE",
+"url": "https://t.me/marinejobs/42232",
+"source": "Telegram: @marinejobs",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-d6c8ba8776ce8f86",
+"new": false,
+"time": "2026-10-19T09:31:04+00:00"
+},
+{
+"title": "Exciting opportunity for a seasoned marine professional!",
+"url": "https://t.me/marinejobs/42233",
+"source": "Telegram: @marinejobs",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-219ea9b34b9262f1",
+"new": false,
+"time": "2026-10-19T09:32:50+00:00"
+},
+{
+"title": "C/O 5000$",
+"url": "https://t.me/job_for_seaman/16805",
+"source": "Telegram: @job_for_seaman",
+"found": [
+"c/o"
+],
+"fp": "fp-79602f45d6ffad29",
+"new": false,
+"time": "2026-10-19T08:51:00+00:00"
+},
+{
+"title": "OFFICER – BARGE",
+"url": "https://t.me/balticcareer/4708",
+"source": "Telegram: @balticcareer",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-fa7380a81b321a2c",
+"new": false,
+"time": "2026-10-19T09:23:29+00:00"
+},
+{
+"title": "OFFSHORE & MARITIME VACANCIES",
+"url": "https://t.me/balticcareer/4710",
+"source": "Telegram: @balticcareer",
+"found": [
+"chief officer",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-ea5633d68d4b096e",
+"new": false,
+"time": "2026-10-19T09:36:53+00:00"
+},
+{
+"title": "URGENT EMBARKATION IN EUROPE",
+"url": "https://t.me/allcrewing/3785",
+"source": "Telegram: @allcrewing",
+"found": [
+"chief officer"
+],
+"fp": "fp-224978789a11c084",
+"new": false,
+"time": "2026-10-19T09:17:33+00:00"
+},
+{
+"title": "Containers. Job selection for 19/10/2026",
+"url": "https://t.me/SM_job_center/2420",
+"source": "Telegram: @SM_job_center",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-e06db08a823264c2",
+"new": false,
+"time": "2026-10-19T09:04:24+00:00"
+},
+{
+"title": "Судоходная компания ООО «Дельта» приглашает на работу:",
+"url": "https://t.me/rekamore_su/162710",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-192c0219e087019d",
+"new": false,
+"time": "2026-10-19T09:18:19+00:00"
+},
+{
+"title": "Chief Officer",
+"url": "https://t.me/offshoreatsea/24245",
+"source": "Telegram: @offshoreatsea",
+"found": [
+"chief officer"
+],
+"fp": "fp-d1612edb554cc81d",
+"new": false,
+"time": "2026-10-19T09:04:39+00:00"
+},
+{
+"title": "Chief Officer",
+"url": "https://t.me/offshoreatsea/24247",
+"source": "Telegram: @offshoreatsea",
+"found": [
+"chief officer"
+],
+"fp": "fp-4c916a697449ee3a",
+"new": false,
+"time": "2026-10-19T09:05:02+00:00"
 }
 ],
 "msg_ids": [
-645,
-646,
-647
+648,
+649,
+650,
+651
 ],
-"last_list": "2026-10-19T09:03:01.662582+00:00",
-"cleared_upto": 644,
-"last_msg_id": 647
+"last_list": "2026-10-19T09:40:03.682331+00:00",
+"cleared_upto": 647,
+"last_msg_id": 651
 }
