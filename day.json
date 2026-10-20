@@ -56,12 +56,59 @@
 "fp": "fp-a1e3ad4d7c00c9e6",
 "new": false,
 "time": "2026-10-20T04:02:23+00:00"
+},
+{
+"title": "Компания ООО \"Легаси Марин\" приглашает на работу:",
+"url": "https://t.me/rekamore_su/162743",
+"source": "Telegram: @rekamore_su",
+"found": [
+"chief officer",
+"2nd officer",
+"2nd off",
+"старший помощник"
+],
+"fp": "fp-79cb16a5ca24246c",
+"new": false,
+"time": "2026-10-20T04:12:05+00:00"
+},
+{
+"title": "Компания \"Polluks Star\" приглашает на работу:",
+"url": "https://t.me/rekamore_su/162751",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-c7abcade12a45c23",
+"new": false,
+"time": "2026-10-20T04:26:23+00:00"
+},
+{
+"title": "Компания ООО “ТК Северный проект” приглашает на работу:",
+"url": "https://t.me/rekamore_su/162754",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-ebeb13f3c616dd74",
+"new": false,
+"time": "2026-10-20T04:46:20+00:00"
+},
+{
+"title": "ООО «Балтийская Морская Компания» ведет набор специалистов в компанию \"RIX SHIPMANAGEMENT LTD\" (CYPRUS):",
+"url": "https://t.me/rekamore_su/162760",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-13c81967d96df0a7",
+"new": false,
+"time": "2026-10-20T05:00:23+00:00"
 }
 ],
 "msg_ids": [
-740
+741
 ],
-"last_list": "2026-10-20T04:18:45.468357+00:00",
-"cleared_upto": 739,
-"last_msg_id": 740
+"last_list": "2026-10-20T05:08:17.909012+00:00",
+"cleared_upto": 740,
+"last_msg_id": 741
 }
