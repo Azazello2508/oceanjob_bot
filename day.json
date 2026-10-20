@@ -219,12 +219,123 @@
 "fp": "fp-98c4f61a90bed5e6",
 "new": false,
 "time": "2026-10-20T05:22:02+00:00"
+},
+{
+"title": "2nd Officer on General Cargo Vessel",
+"url": "https://crewell.net/en/vacancies/462342/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-20T07:28:07.775801+00:00"
+},
+{
+"title": "Chief Officer on PCC (Pure Car Carrier)",
+"url": "https://crewell.net/en/vacancies/462343/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-20T07:28:07.775829+00:00"
+},
+{
+"title": "General Cargo Vacancies",
+"url": "https://t.me/maritimeforum/250797",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-a3194dc7db2033ed",
+"new": false,
+"time": "2026-10-20T07:10:12+00:00"
+},
+{
+"title": "Second Officer DPO",
+"url": "https://t.me/marinejobs/42284",
+"source": "Telegram: @marinejobs",
+"found": [
+"second officer"
+],
+"fp": "fp-c5ac77ac2cd24b1c",
+"new": false,
+"time": "2026-10-20T07:01:02+00:00"
+},
+{
+"title": "AQUAMARINE SHIPPING LLC",
+"url": "https://t.me/crewingua/44416",
+"source": "Telegram: @crewingua",
+"found": [
+"chief officer",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-9f376df266238a3b",
+"new": false,
+"time": "2026-10-20T06:22:09+00:00"
+},
+{
+"title": "AQUAMARINE SHIPPING LLC",
+"url": "https://t.me/crewingua/44418",
+"source": "Telegram: @crewingua",
+"found": [
+"chief officer"
+],
+"fp": "fp-e84e6732b461fcc8",
+"new": false,
+"time": "2026-10-20T06:29:32+00:00"
+},
+{
+"title": "Second Officer DPO for DP2 Subsea CSV GT 4399",
+"url": "https://t.me/seamenjob/105741",
+"source": "Telegram: @seamenjob",
+"found": [
+"second officer"
+],
+"fp": "fp-d060194dc7deca2e",
+"new": false,
+"time": "2026-10-20T07:00:13+00:00"
+},
+{
+"title": "Second Officer for General Cargo GT 2528",
+"url": "https://t.me/seamenjob/105744",
+"source": "Telegram: @seamenjob",
+"found": [
+"second officer"
+],
+"fp": "fp-2d0910ad33ff6a5a",
+"new": false,
+"time": "2026-10-20T07:05:06+00:00"
+},
+{
+"title": "Компания  ООО «Волгофлот» приглашает на работу:",
+"url": "https://t.me/rekamore_su/162795",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-6a4f23c50a24f5f5",
+"new": false,
+"time": "2026-10-20T06:25:04+00:00"
+},
+{
+"title": "В компанию ООО \"Дельта\" в связи с приобретением морского теплохода осуществляется набор команды:",
+"url": "https://t.me/rekamore_su/162803",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-f0c6d91b197db1a5",
+"new": false,
+"time": "2026-10-20T06:50:18+00:00"
 }
 ],
 "msg_ids": [
-743
+744,
+745
 ],
-"last_list": "2026-10-20T06:41:02.335639+00:00",
-"cleared_upto": 742,
-"last_msg_id": 743
+"last_list": "2026-10-20T07:29:05.973914+00:00",
+"cleared_upto": 743,
+"last_msg_id": 745
 }
