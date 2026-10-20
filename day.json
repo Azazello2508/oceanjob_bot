@@ -2351,20 +2351,38 @@
 "fp": "fp-9dbafd8be4e96564",
 "new": false,
 "time": "2026-10-20T15:26:34+00:00"
+},
+{
+"title": "Chief Officer on Tug",
+"url": "https://crewell.net/en/vacancies/462463/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-20T16:19:43.683389+00:00"
+},
+{
+"title": "Chief Officer",
+"url": "https://seajobs.ru/ru/vacancy/17637/chief-officer-tug-boat",
+"source": "seajobs.ru",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-20T16:19:56.854772+00:00"
 }
 ],
 "msg_ids": [
-808,
-809,
-810,
-811,
-812,
-813,
-814,
-815,
-816
+817,
+818,
+819,
+820,
+821,
+822,
+823,
+824,
+825
 ],
-"last_list": "2026-10-20T15:36:29.647402+00:00",
-"cleared_upto": 807,
-"last_msg_id": 816
+"last_list": "2026-10-20T16:20:39.081738+00:00",
+"cleared_upto": 816,
+"last_msg_id": 825
 }
