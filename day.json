@@ -103,12 +103,41 @@
 "fp": "fp-13c81967d96df0a7",
 "new": false,
 "time": "2026-10-20T05:00:23+00:00"
+},
+{
+"title": "2nd Officer on Chemical tanker",
+"url": "https://crewell.net/en/vacancies/462311/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-20T05:53:53.442774+00:00"
+},
+{
+"title": "Chief Officer on Chemical tanker",
+"url": "https://crewell.net/en/vacancies/462310/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-20T05:53:53.442800+00:00"
+},
+{
+"title": "Судоходная компания приглашает на работу:",
+"url": "https://t.me/rekamore_su/162773",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-88f5461e24e7bc17",
+"new": false,
+"time": "2026-10-20T05:32:04+00:00"
 }
 ],
 "msg_ids": [
-741
+742
 ],
-"last_list": "2026-10-20T05:08:17.909012+00:00",
-"cleared_upto": 740,
-"last_msg_id": 741
+"last_list": "2026-10-20T05:54:41.339264+00:00",
+"cleared_upto": 741,
+"last_msg_id": 742
 }
