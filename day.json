@@ -45,12 +45,23 @@
 "fp": null,
 "new": false,
 "time": "2026-10-19T22:14:03.000471+00:00"
+},
+{
+"title": "Offshore. Job selection for 20/10/2026",
+"url": "https://t.me/SM_job_center/2423",
+"source": "Telegram: @SM_job_center",
+"found": [
+"chief officer"
+],
+"fp": "fp-a1e3ad4d7c00c9e6",
+"new": false,
+"time": "2026-10-20T04:02:23+00:00"
 }
 ],
 "msg_ids": [
-739
+740
 ],
-"last_list": "2026-10-19T22:14:50.898205+00:00",
-"cleared_upto": 738,
-"last_msg_id": 739
+"last_list": "2026-10-20T04:18:45.468357+00:00",
+"cleared_upto": 739,
+"last_msg_id": 740
 }
