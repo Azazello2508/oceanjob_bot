@@ -1841,18 +1841,118 @@
 "fp": "fp-f8725181d3a2e346",
 "new": false,
 "time": "2026-10-20T12:07:02+00:00"
+},
+{
+"title": "Chief Officer on Container Ship",
+"url": "https://crewell.net/en/vacancies/462425/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-20T13:28:05.865824+00:00"
+},
+{
+"title": "СРОЧНАЯ ВАКАНСИЯ: ПОСАДКА ЧЕРЕЗ 3–4 ДНЯ Рассмотрим в старт с чистым паспортом моряка Only Ukrainian",
+"url": "https://t.me/maritimeforum/250963",
+"source": "Telegram: @maritimeforum",
+"found": [
+"старпом"
+],
+"fp": "fp-38b5f46b866daa82",
+"new": false,
+"time": "2026-10-20T12:52:25+00:00"
+},
+{
+"title": "Вакансия: Старший помощник капитана (Chief Officer / CO)",
+"url": "https://t.me/maritimeforum/250964",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer",
+"старший помощник"
+],
+"fp": "fp-951bf0f0a4b5d52e",
+"new": false,
+"time": "2026-10-20T12:52:25+00:00"
+},
+{
+"title": "СРОЧНАЯ ВАКАНСИЯ: 2E & CO",
+"url": "https://t.me/maritimeforum/250967",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-2be66550e790746a",
+"new": false,
+"time": "2026-10-20T12:52:25+00:00"
+},
+{
+"title": "URGENTLY",
+"url": "https://t.me/seajobfinder/41828",
+"source": "Telegram: @seajobfinder",
+"found": [
+"second officer"
+],
+"fp": "fp-01ec98cb24ddbb51",
+"new": false,
+"time": "2026-10-20T12:43:58+00:00"
+},
+{
+"title": "#vacancy",
+"url": "https://t.me/onboard_su/20524",
+"source": "Telegram: @onboard_su",
+"found": [
+"chief officer"
+],
+"fp": "fp-6934d4cde3a3abc4",
+"new": false,
+"time": "2026-10-20T13:04:19+00:00"
+},
+{
+"title": "CHIEF OFFICER – BULK CARRIER",
+"url": "https://t.me/balticcareer/4790",
+"source": "Telegram: @balticcareer",
+"found": [
+"chief officer"
+],
+"fp": "fp-48262b0ee90e2bd1",
+"new": false,
+"time": "2026-10-20T12:20:17+00:00"
+},
+{
+"title": "Chief Officer",
+"url": "https://t.me/olive_crew/2826",
+"source": "Telegram: @olive_crew",
+"found": [
+"chief officer",
+"second officer"
+],
+"fp": "fp-05a789f89a52770c",
+"new": false,
+"time": "2026-10-20T13:28:14+00:00"
+},
+{
+"title": "На сухогруз тип Амур флаг Панама требуются:",
+"url": "https://t.me/rekamore_su/162858",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-ea1024688ada1d5d",
+"new": false,
+"time": "2026-10-20T13:08:32+00:00"
 }
 ],
 "msg_ids": [
-775,
-776,
-777,
-778,
-779,
-780,
-781
+782,
+783,
+784,
+785,
+786,
+787,
+788,
+789
 ],
-"last_list": "2026-10-20T12:43:04.666796+00:00",
-"cleared_upto": 774,
-"last_msg_id": 781
+"last_list": "2026-10-20T13:29:10.191923+00:00",
+"cleared_upto": 781,
+"last_msg_id": 789
 }
