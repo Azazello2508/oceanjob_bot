@@ -2369,20 +2369,43 @@
 "fp": null,
 "new": false,
 "time": "2026-10-20T16:19:56.854772+00:00"
+},
+{
+"title": "ВАКАНСИЯ | SECOND OFFICER — PSV DP2",
+"url": "https://t.me/truemalina_offshore/741",
+"source": "Telegram: @truemalina_offshore",
+"found": [
+"second officer",
+"2/o"
+],
+"fp": "fp-45c13ac2c4ef9cec",
+"new": false,
+"time": "2026-10-20T17:00:45+00:00"
+},
+{
+"title": "Список закрытых каналов в",
+"url": "https://t.me/rekamore_su/162876",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-de84ab9948b9e3a9",
+"new": false,
+"time": "2026-10-20T16:03:01+00:00"
 }
 ],
 "msg_ids": [
-817,
-818,
-819,
-820,
-821,
-822,
-823,
-824,
-825
+826,
+827,
+828,
+829,
+830,
+831,
+832,
+833,
+834
 ],
-"last_list": "2026-10-20T16:20:39.081738+00:00",
-"cleared_upto": 816,
-"last_msg_id": 825
+"last_list": "2026-10-20T17:14:19.833959+00:00",
+"cleared_upto": 825,
+"last_msg_id": 834
 }
