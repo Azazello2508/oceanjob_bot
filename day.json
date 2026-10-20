@@ -2465,21 +2465,43 @@
 "fp": "fp-36084faadb1b704b",
 "new": false,
 "time": "2026-10-20T18:00:05+00:00"
+},
+{
+"title": "Urgent LNG Vacancy — Chief Officer (COFF)",
+"url": "https://t.me/marinejobs/42334",
+"source": "Telegram: @marinejobs",
+"found": [
+"chief officer"
+],
+"fp": "fp-87792c8bea230e0d",
+"new": false,
+"time": "2026-10-20T18:42:11+00:00"
+},
+{
+"title": "WE ARE HIRING — OFFSHORE / DP2 VESSEL",
+"url": "https://t.me/help_seafarers/4863",
+"source": "Telegram: @help_seafarers",
+"found": [
+"chief mate"
+],
+"fp": "fp-42022b8a5d3ea2e3",
+"new": false,
+"time": "2026-10-20T19:07:32+00:00"
 }
 ],
 "msg_ids": [
-835,
-836,
-837,
-838,
-839,
-840,
-841,
-842,
-843,
-844
+845,
+846,
+847,
+848,
+849,
+850,
+851,
+852,
+853,
+854
 ],
-"last_list": "2026-10-20T18:38:49.103641+00:00",
-"cleared_upto": 834,
-"last_msg_id": 844
+"last_list": "2026-10-20T19:22:43.944583+00:00",
+"cleared_upto": 844,
+"last_msg_id": 854
 }
