@@ -2301,20 +2301,70 @@
 "fp": "fp-9a8506e0cecbcd8c",
 "new": false,
 "time": "2026-10-20T14:30:36+00:00"
+},
+{
+"title": "Chief Officer on LNG",
+"url": "https://crewell.net/en/vacancies/462457/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-20T15:35:42.212836+00:00"
+},
+{
+"title": "Chief Officer on Chemical tanker",
+"url": "https://crewell.net/en/vacancies/462460/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-20T15:35:42.212860+00:00"
+},
+{
+"title": "Chief Officer on General Cargo Vessel",
+"url": "https://crewell.net/en/vacancies/462461/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-20T15:35:42.212867+00:00"
+},
+{
+"title": "DECK OFFICERS (50)",
+"url": "https://t.me/marineman_ltd/48179",
+"source": "Telegram: @marineman_ltd",
+"found": [
+"chief officer",
+"second officer"
+],
+"fp": "fp-cb5a5876245c84fe",
+"new": false,
+"time": "2026-10-20T15:00:01+00:00"
+},
+{
+"title": "https://jobatsea.online/job/623946/second-officer-sdpo-%e2%80%93-psv-dp2-nigeria-mid-november-2026-at-tos-energy-maritime-crew/",
+"url": "https://t.me/offshorevacancies/46768",
+"source": "Telegram: @offshorevacancies",
+"found": [
+"second officer"
+],
+"fp": "fp-9dbafd8be4e96564",
+"new": false,
+"time": "2026-10-20T15:26:34+00:00"
 }
 ],
 "msg_ids": [
-799,
-800,
-801,
-802,
-803,
-804,
-805,
-806,
-807
+808,
+809,
+810,
+811,
+812,
+813,
+814,
+815,
+816
 ],
-"last_list": "2026-10-20T14:59:03.839631+00:00",
-"cleared_upto": 798,
-"last_msg_id": 807
+"last_list": "2026-10-20T15:36:29.647402+00:00",
+"cleared_upto": 807,
+"last_msg_id": 816
 }
