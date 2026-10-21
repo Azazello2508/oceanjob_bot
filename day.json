@@ -2135,20 +2135,44 @@
 "fp": "fp-66ab99284f7e8ef4",
 "new": false,
 "time": "2026-10-21T15:13:33+00:00"
+},
+{
+"title": "OPEN VACANCIES FOR CONTAINER FLEET",
+"url": "https://t.me/maritimeforum/251361",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-0dbecf4252e59370",
+"new": false,
+"time": "2026-10-21T15:23:55+00:00"
+},
+{
+"title": "https://jobatsea.online/job/624143/chief-mate-to-join-mpsv-in-las-palmas-at-tos-energy-maritime-crew/",
+"url": "https://t.me/offshorevacancies/46810",
+"source": "Telegram: @offshorevacancies",
+"found": [
+"chief mate"
+],
+"fp": "fp-f2282250a5ff0e52",
+"new": false,
+"time": "2026-10-21T15:42:06+00:00"
 }
 ],
 "msg_ids": [
-917,
-918,
-919,
-920,
-921,
-922,
-923,
-924,
-925
+926,
+927,
+928,
+929,
+930,
+931,
+932,
+933,
+934
 ],
-"last_list": "2026-10-21T15:37:56.259673+00:00",
-"cleared_upto": 916,
-"last_msg_id": 925
+"last_list": "2026-10-21T16:19:22.613622+00:00",
+"cleared_upto": 925,
+"last_msg_id": 934
 }
