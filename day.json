@@ -2182,20 +2182,61 @@
 "fp": "fp-92ec0e929c15a04a",
 "new": false,
 "time": "2026-10-21T17:17:49+00:00"
+},
+{
+"title": "2nd Officer on Container Ship",
+"url": "https://crewell.net/en/vacancies/462663/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-21T18:38:00.829762+00:00"
+},
+{
+"title": "Chief Officer on Container Ship",
+"url": "https://crewell.net/en/vacancies/462661/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-21T18:38:00.829789+00:00"
+},
+{
+"title": "URGENT HIRING — Cable Lay Vessel (Offshore Oil & Gas)",
+"url": "https://t.me/marinejobs/42386",
+"source": "Telegram: @marinejobs",
+"found": [
+"chief officer",
+"second officer"
+],
+"fp": "fp-db0493d99262073d",
+"new": false,
+"time": "2026-10-21T18:32:41+00:00"
+},
+{
+"title": "Position publishing service was stopped for the night.",
+"url": "https://t.me/marinecareerorg/17739",
+"source": "Telegram: @marinecareerorg",
+"found": [
+"chief officer"
+],
+"fp": "fp-a9f69dd7837d4fc8",
+"new": false,
+"time": "2026-10-21T18:00:24+00:00"
 }
 ],
 "msg_ids": [
-935,
-936,
-937,
-938,
-939,
-940,
-941,
-942,
-943
+944,
+945,
+946,
+947,
+948,
+949,
+950,
+951,
+952
 ],
-"last_list": "2026-10-21T17:54:14.563494+00:00",
-"cleared_upto": 934,
-"last_msg_id": 943
+"last_list": "2026-10-21T18:38:52.775620+00:00",
+"cleared_upto": 943,
+"last_msg_id": 952
 }
