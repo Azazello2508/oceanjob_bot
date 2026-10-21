@@ -115,12 +115,75 @@
 "fp": "fp-19ac491a3b481f52",
 "new": false,
 "time": "2026-10-21T05:35:08+00:00"
+},
+{
+"title": "Chief Officer on Work boat",
+"url": "https://crewell.net/en/vacancies/462495/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-21T06:42:07.602168+00:00"
+},
+{
+"title": "Chief Officer on Bulk carrier",
+"url": "https://crewell.net/en/vacancies/462498/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-21T06:42:07.602196+00:00"
+},
+{
+"title": "Position:",
+"url": "https://t.me/CREW_ARIA/13756",
+"source": "Telegram: @CREW_ARIA",
+"found": [
+"chief officer",
+"chief mate"
+],
+"fp": "fp-dea931ee8124076b",
+"new": false,
+"time": "2026-10-21T06:17:18+00:00"
+},
+{
+"title": "Судоходная компания приглашает на работу:",
+"url": "https://t.me/rekamore_su/162907",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-a688f1aa1d1d5d66",
+"new": false,
+"time": "2026-10-21T05:32:02+00:00"
+},
+{
+"title": "Компания ООО НП «Балтийское Морское Пароходство» приглашает на работу:",
+"url": "https://t.me/rekamore_su/162912",
+"source": "Telegram: @rekamore_su",
+"found": [
+"2off"
+],
+"fp": "fp-12f2b92bbfaa1dd8",
+"new": false,
+"time": "2026-10-21T05:35:05+00:00"
+},
+{
+"title": "Судоходная компания \"Eco Shipping\" приглашает на работу:",
+"url": "https://t.me/rekamore_su/162915",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-f6e6a44efd687e15",
+"new": false,
+"time": "2026-10-21T05:36:03+00:00"
 }
 ],
 "msg_ids": [
-857
+858
 ],
-"last_list": "2026-10-21T05:54:39.707721+00:00",
-"cleared_upto": 856,
-"last_msg_id": 857
+"last_list": "2026-10-21T06:42:54.201411+00:00",
+"cleared_upto": 857,
+"last_msg_id": 858
 }
