@@ -1,10 +1,38 @@
 {
 "date": "2026-10-22",
-"jobs": [],
-"msg_ids": [
-962
+"jobs": [
+{
+"title": "Chief Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/366889",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-21T20:55:05.229320+00:00"
+},
+{
+"title": "Chief Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/366890",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-21T20:55:05.229344+00:00"
+},
+{
+"title": "2nd Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/366891",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-21T20:55:05.229351+00:00"
+}
 ],
-"last_list": "2026-10-21T20:06:18.673178+00:00",
-"cleared_upto": 961,
-"last_msg_id": 962
+"msg_ids": [
+963
+],
+"last_list": "2026-10-21T20:56:00.069261+00:00",
+"cleared_upto": 962,
+"last_msg_id": 963
 }
