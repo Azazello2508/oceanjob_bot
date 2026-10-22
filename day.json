@@ -9,12 +9,24 @@
 "fp": null,
 "new": false,
 "time": "2026-10-22T20:07:52.713578+00:00"
+},
+{
+"title": "MPSV DP2 – Diesel‑Electric",
+"url": "https://t.me/marinejobs/42453",
+"source": "Telegram: @marinejobs",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-bbb57e5f2219b40a",
+"new": false,
+"time": "2026-10-22T23:37:06+00:00"
 }
 ],
 "msg_ids": [
-1057
+1058
 ],
-"last_list": "2026-10-22T20:55:57.974468+00:00",
-"cleared_upto": 1056,
-"last_msg_id": 1057
+"last_list": "2026-10-22T23:49:26.255970+00:00",
+"cleared_upto": 1057,
+"last_msg_id": 1058
 }
