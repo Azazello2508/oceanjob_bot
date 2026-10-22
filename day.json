@@ -49,12 +49,59 @@
 "fp": "fp-316987528f540f09",
 "new": false,
 "time": "2026-10-22T01:08:28+00:00"
+},
+{
+"title": "Position:",
+"url": "https://t.me/job_for_seaman/16841",
+"source": "Telegram: @job_for_seaman",
+"found": [
+"chief officer"
+],
+"fp": "fp-f3b88fbdb8810d16",
+"new": false,
+"time": "2026-10-22T05:00:56+00:00"
+},
+{
+"title": "Компания ООО \"Легаси Марин\" приглашает на работу:",
+"url": "https://t.me/rekamore_su/163005",
+"source": "Telegram: @rekamore_su",
+"found": [
+"chief officer",
+"2nd officer",
+"2nd off",
+"старший помощник"
+],
+"fp": "fp-79cb16a5ca24246c",
+"new": false,
+"time": "2026-10-22T04:12:03+00:00"
+},
+{
+"title": "Компания ООО \"ФЕНИКС МЕНЕДЖМЕНТ\" приглашает на работу:",
+"url": "https://t.me/rekamore_su/163006",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-c412a3c546174180",
+"new": false,
+"time": "2026-10-22T04:14:04+00:00"
+},
+{
+"title": "Компания \"Polluks Star\" приглашает на работу:",
+"url": "https://t.me/rekamore_su/163007",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-c7abcade12a45c23",
+"new": false,
+"time": "2026-10-22T04:16:05+00:00"
 }
 ],
 "msg_ids": [
-965
+966
 ],
-"last_list": "2026-10-22T01:23:24.495634+00:00",
-"cleared_upto": 964,
-"last_msg_id": 965
+"last_list": "2026-10-22T05:11:52.028402+00:00",
+"cleared_upto": 965,
+"last_msg_id": 966
 }
