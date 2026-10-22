@@ -1803,18 +1803,50 @@
 "fp": "fp-982c4f23e73d24ea",
 "new": false,
 "time": "2026-10-22T15:11:30+00:00"
+},
+{
+"title": "2nd Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/366986",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-22T16:18:41.908718+00:00"
+},
+{
+"title": "https://jobatsea.online/job/624266/hiring-chief-officer-offshore-at-select-offshore/",
+"url": "https://t.me/offshorevacancies/46848",
+"source": "Telegram: @offshorevacancies",
+"found": [
+"chief officer"
+],
+"fp": null,
+"new": false,
+"time": "2026-10-22T16:13:12+00:00"
+},
+{
+"title": "22-10-2026",
+"url": "https://t.me/TSMexp/840",
+"source": "Telegram: @TSMexp",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-3f4efab789801272",
+"new": false,
+"time": "2026-10-22T16:04:38+00:00"
 }
 ],
 "msg_ids": [
-1019,
-1020,
-1021,
-1022,
-1023,
-1024,
-1025
+1026,
+1027,
+1028,
+1029,
+1030,
+1031,
+1032
 ],
-"last_list": "2026-10-22T15:38:29.358110+00:00",
-"cleared_upto": 1018,
-"last_msg_id": 1025
+"last_list": "2026-10-22T16:19:41.189429+00:00",
+"cleared_upto": 1025,
+"last_msg_id": 1032
 }
