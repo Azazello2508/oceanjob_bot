@@ -1904,19 +1904,66 @@
 "fp": "fp-c0c9af6a22940a6d",
 "new": false,
 "time": "2026-10-22T17:10:40+00:00"
+},
+{
+"title": "URGENT VACANCIES — MPSV DP2 (Offshore)",
+"url": "https://t.me/help_seafarers/4876",
+"source": "Telegram: @help_seafarers",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-4e008e3ad1f29754",
+"new": false,
+"time": "2026-10-22T18:01:28+00:00"
+},
+{
+"title": "Position publishing service was stopped for the night.",
+"url": "https://t.me/marinecareerorg/17740",
+"source": "Telegram: @marinecareerorg",
+"found": [
+"chief officer",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-93ffc3f173ef40b0",
+"new": false,
+"time": "2026-10-22T18:00:41+00:00"
+},
+{
+"title": "Chief Officer",
+"url": "https://t.me/offshoreatsea/24493",
+"source": "Telegram: @offshoreatsea",
+"found": [
+"chief officer"
+],
+"fp": "fp-083f2c83164edea1",
+"new": false,
+"time": "2026-10-22T18:29:46+00:00"
+},
+{
+"title": "Second Officer",
+"url": "https://t.me/offshoreatsea/24494",
+"source": "Telegram: @offshoreatsea",
+"found": [
+"second officer"
+],
+"fp": "fp-7a7914889fdceefa",
+"new": false,
+"time": "2026-10-22T18:29:46+00:00"
 }
 ],
 "msg_ids": [
-1040,
-1041,
-1042,
-1043,
-1044,
-1045,
-1046,
-1047
+1048,
+1049,
+1050,
+1051,
+1052,
+1053,
+1054,
+1055
 ],
-"last_list": "2026-10-22T17:52:39.718592+00:00",
-"cleared_upto": 1039,
-"last_msg_id": 1047
+"last_list": "2026-10-22T18:37:55.838454+00:00",
+"cleared_upto": 1047,
+"last_msg_id": 1055
 }
