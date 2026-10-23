@@ -939,15 +939,147 @@
 "fp": "fp-07d1ce9af4139270",
 "new": false,
 "time": "2026-10-23T09:01:39+00:00"
+},
+{
+"title": "2nd Officer on Ro-Ro",
+"url": "https://crewell.net/en/vacancies/462948/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-23T10:18:04.121687+00:00"
+},
+{
+"title": "2nd Officer on Oil/chemical tanker",
+"url": "https://crewell.net/en/vacancies/462951/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-23T10:18:04.121715+00:00"
+},
+{
+"title": "Chief Officer on Oil/chemical tanker",
+"url": "https://crewell.net/en/vacancies/462949/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-23T10:18:04.121727+00:00"
+},
+{
+"title": "VACANCY – CHEMICAL / OIL PRODUCTS TANKER",
+"url": "https://t.me/maritimeforum/251736",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer",
+"c/o"
+],
+"fp": "fp-f3d6edbc32fe82a2",
+"new": false,
+"time": "2026-10-23T09:06:20+00:00"
+},
+{
+"title": "Position:",
+"url": "https://t.me/CREW_ARIA/13811",
+"source": "Telegram: @CREW_ARIA",
+"found": [
+"chief mate",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-3820f73b62e75b7c",
+"new": false,
+"time": "2026-10-23T10:07:57+00:00"
+},
+{
+"title": "Chief Officer Wanted — Oil/Chemical Tanker",
+"url": "https://t.me/marinejobs/42497",
+"source": "Telegram: @marinejobs",
+"found": [
+"chief officer"
+],
+"fp": "fp-b328175b5b5591c6",
+"new": false,
+"time": "2026-10-23T10:11:06+00:00"
+},
+{
+"title": "Exciting opportunity aboard the",
+"url": "https://t.me/marinejobs/42498",
+"source": "Telegram: @marinejobs",
+"found": [
+"chief officer"
+],
+"fp": "fp-ebab1d9df28bf3de",
+"new": false,
+"time": "2026-10-23T10:12:58+00:00"
+},
+{
+"title": "VACANCY – 2ND OFFICER",
+"url": "https://t.me/job_for_seaman/16873",
+"source": "Telegram: @job_for_seaman",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-49aedca95f711e0a",
+"new": false,
+"time": "2026-10-23T10:09:11+00:00"
+},
+{
+"title": "2ND OFFICER – CAR CARRIER",
+"url": "https://t.me/balticcareer/4919",
+"source": "Telegram: @balticcareer",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-27f7d459ef48dc62",
+"new": false,
+"time": "2026-10-23T09:39:10+00:00"
+},
+{
+"title": "Chief Officer — LPG",
+"url": "https://t.me/Crew_Radar/2912",
+"source": "Telegram: @Crew_Radar",
+"found": [
+"chief officer"
+],
+"fp": "fp-8d23a4a92804a528",
+"new": false,
+"time": "2026-10-23T10:04:25+00:00"
+},
+{
+"title": "Chief Officer — LPG",
+"url": "https://t.me/Crew_Radar/2913",
+"source": "Telegram: @Crew_Radar",
+"found": [
+"chief officer"
+],
+"fp": "fp-266bd880c8c352c6",
+"new": false,
+"time": "2026-10-23T10:04:28+00:00"
+},
+{
+"title": "Компания ООО «Малое море» приглашает на работу:",
+"url": "https://t.me/rekamore_su/163215",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-a4862347f8d78b81",
+"new": false,
+"time": "2026-10-23T09:00:05+00:00"
 }
 ],
 "msg_ids": [
-1073,
-1074,
-1075,
-1076
+1077,
+1078,
+1079,
+1080,
+1081
 ],
-"last_list": "2026-10-23T09:36:11.391584+00:00",
-"cleared_upto": 1072,
-"last_msg_id": 1076
+"last_list": "2026-10-23T10:18:53.063000+00:00",
+"cleared_upto": 1076,
+"last_msg_id": 1081
 }
