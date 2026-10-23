@@ -1280,16 +1280,95 @@
 "fp": "fp-a62d965727e95356",
 "new": false,
 "time": "2026-10-23T10:15:32+00:00"
+},
+{
+"title": "2nd Officer on Oil tanker",
+"url": "https://crewell.net/en/vacancies/462974/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-23T11:55:30.687044+00:00"
+},
+{
+"title": "Chief Officer on Bulk carrier",
+"url": "https://crewell.net/en/vacancies/462988/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-23T11:55:30.687071+00:00"
+},
+{
+"title": "Chief Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/367032",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-23T11:55:32.007662+00:00"
+},
+{
+"title": "Chief Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/367033",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-23T11:55:32.007684+00:00"
+},
+{
+"title": "Chief Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/367034",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-23T11:55:32.007688+00:00"
+},
+{
+"title": "Chief Officer - OSV non DP",
+"url": "https://t.me/maritimeforum/251839",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-d602d53ec8550dfa",
+"new": false,
+"time": "2026-10-23T11:33:58+00:00"
+},
+{
+"title": "Vacancy Code 04.3",
+"url": "https://t.me/seajobfinder/41947",
+"source": "Telegram: @seajobfinder",
+"found": [
+"2nd off"
+],
+"fp": "fp-103ae9cbbabce1ad",
+"new": false,
+"time": "2026-10-23T10:42:55+00:00"
+},
+{
+"title": "OFFSHORE  VACANCY in COLUMBIA Shipmanagement Ukraine: NEWBUILD DP1 RESEARCH VESSEL",
+"url": "https://t.me/seamenjob/105830",
+"source": "Telegram: @seamenjob",
+"found": [
+"chief officer"
+],
+"fp": "fp-d636562b19e9c960",
+"new": false,
+"time": "2026-10-23T11:01:12+00:00"
 }
 ],
 "msg_ids": [
-1082,
-1083,
-1084,
-1085,
-1086
+1087,
+1088,
+1089,
+1090,
+1091,
+1092
 ],
-"last_list": "2026-10-23T11:08:42.782865+00:00",
-"cleared_upto": 1081,
-"last_msg_id": 1086
+"last_list": "2026-10-23T11:57:31.240381+00:00",
+"cleared_upto": 1086,
+"last_msg_id": 1092
 }
