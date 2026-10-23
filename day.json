@@ -44,12 +44,48 @@
 "fp": "fp-db6bd144f3c38c48",
 "new": false,
 "time": "2026-10-23T04:14:02+00:00"
+},
+{
+"title": "crewsg@treasg.com Email Subject: Application for [Position Name]",
+"url": "https://t.me/seajobfinder/41946",
+"source": "Telegram: @seajobfinder",
+"found": [
+"chief officer",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-77a4dcc92d438db7",
+"new": false,
+"time": "2026-10-23T04:21:59+00:00"
+},
+{
+"title": "Компания ООО \"Легаси Марин\" приглашает на работу:",
+"url": "https://t.me/rekamore_su/163128",
+"source": "Telegram: @rekamore_su",
+"found": [
+"chief officer",
+"старший помощник"
+],
+"fp": "fp-a82ec2f7c22d121a",
+"new": false,
+"time": "2026-10-23T04:12:02+00:00"
+},
+{
+"title": "Компания \"Polluks Star\" приглашает на работу:",
+"url": "https://t.me/rekamore_su/163130",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-c7abcade12a45c23",
+"new": false,
+"time": "2026-10-23T04:16:03+00:00"
 }
 ],
 "msg_ids": [
-1059
+1060
 ],
-"last_list": "2026-10-23T04:18:39.499595+00:00",
-"cleared_upto": 1058,
-"last_msg_id": 1059
+"last_list": "2026-10-23T05:08:45.929241+00:00",
+"cleared_upto": 1059,
+"last_msg_id": 1060
 }
