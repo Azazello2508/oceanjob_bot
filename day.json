@@ -1928,19 +1928,41 @@
 "fp": null,
 "new": false,
 "time": "2026-10-23T16:22:18.105454+00:00"
+},
+{
+"title": "Chief Officer - DPO",
+"url": "https://t.me/seajobfinder/41960",
+"source": "Telegram: @seajobfinder",
+"found": [
+"chief officer"
+],
+"fp": "fp-36432ddce1bed1fd",
+"new": false,
+"time": "2026-10-23T16:23:04+00:00"
+},
+{
+"title": "Список закрытых каналов в",
+"url": "https://t.me/rekamore_su/163239",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-de84ab9948b9e3a9",
+"new": false,
+"time": "2026-10-23T16:03:01+00:00"
 }
 ],
 "msg_ids": [
-1128,
-1129,
-1130,
-1131,
-1132,
-1133,
-1134,
-1135
+1136,
+1137,
+1138,
+1139,
+1140,
+1141,
+1142,
+1143
 ],
-"last_list": "2026-10-23T16:23:19.838940+00:00",
-"cleared_upto": 1127,
-"last_msg_id": 1135
+"last_list": "2026-10-23T17:12:14.876463+00:00",
+"cleared_upto": 1135,
+"last_msg_id": 1143
 }
