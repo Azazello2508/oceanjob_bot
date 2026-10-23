@@ -1586,17 +1586,90 @@
 "fp": "fp-d471ef3efeee96d4",
 "new": false,
 "time": "2026-10-23T12:16:46+00:00"
+},
+{
+"title": "Chief Officer on Tug",
+"url": "https://crewell.net/en/vacancies/463002/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-23T13:26:42.676969+00:00"
+},
+{
+"title": "Chief Officer on Ro-Ro",
+"url": "https://crewell.net/en/vacancies/463003/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-23T13:26:42.676992+00:00"
+},
+{
+"title": "Chief Officer",
+"url": "https://seajobs.ru/ru/vacancy/17723/chief-officer-general-cargo",
+"source": "seajobs.ru",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-23T13:26:51.941685+00:00"
+},
+{
+"title": "Rank: Second Officer",
+"url": "https://t.me/maritimeforum/251872",
+"source": "Telegram: @maritimeforum",
+"found": [
+"second officer"
+],
+"fp": "fp-9ac4eccc3b2cc5fb",
+"new": false,
+"time": "2026-10-23T12:39:41+00:00"
+},
+{
+"title": "Rank: Chief Officer",
+"url": "https://t.me/maritimeforum/251877",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-ac9bfca085163080",
+"new": false,
+"time": "2026-10-23T12:40:11+00:00"
+},
+{
+"title": "Hydraulic Engineer Vacancy",
+"url": "https://t.me/maritimeforum/251882",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-bf4e144d2a564414",
+"new": false,
+"time": "2026-10-23T12:47:06+00:00"
+},
+{
+"title": "PASSENGER FLEET VACANCIES",
+"url": "https://t.me/crewingua/44508",
+"source": "Telegram: @crewingua",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-56dd18e0cb683787",
+"new": false,
+"time": "2026-10-23T13:02:50+00:00"
 }
 ],
 "msg_ids": [
-1093,
-1094,
-1095,
-1096,
-1097,
-1098
+1099,
+1100,
+1101,
+1102,
+1103,
+1104,
+1105
 ],
-"last_list": "2026-10-23T12:40:10.704063+00:00",
-"cleared_upto": 1092,
-"last_msg_id": 1098
+"last_list": "2026-10-23T13:27:30.444368+00:00",
+"cleared_upto": 1098,
+"last_msg_id": 1105
 }
