@@ -1,10 +1,20 @@
 {
 "date": "2026-10-24",
-"jobs": [],
-"msg_ids": [
-1152
+"jobs": [
+{
+"title": "Chief Officer",
+"url": "https://seajobs.ru/ru/vacancy/17726/chief-officer-crude-oil-tanker",
+"source": "seajobs.ru",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-23T20:54:11.671018+00:00"
+}
 ],
-"last_list": "2026-10-23T20:02:41.870220+00:00",
-"cleared_upto": 1151,
-"last_msg_id": 1152
+"msg_ids": [
+1153
+],
+"last_list": "2026-10-23T20:54:48.870079+00:00",
+"cleared_upto": 1152,
+"last_msg_id": 1153
 }
