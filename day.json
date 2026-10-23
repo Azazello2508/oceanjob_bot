@@ -33,12 +33,23 @@
 "fp": "fp-4e008e3ad1f29754",
 "new": false,
 "time": "2026-10-22T23:05:45+00:00"
+},
+{
+"title": "Компания ООО \"ФЕНИКС МЕНЕДЖМЕНТ\" приглашает на работу:",
+"url": "https://t.me/rekamore_su/163129",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-db6bd144f3c38c48",
+"new": false,
+"time": "2026-10-23T04:14:02+00:00"
 }
 ],
 "msg_ids": [
-1058
+1059
 ],
-"last_list": "2026-10-22T23:49:26.255970+00:00",
-"cleared_upto": 1057,
-"last_msg_id": 1058
+"last_list": "2026-10-23T04:18:39.499595+00:00",
+"cleared_upto": 1058,
+"last_msg_id": 1059
 }
