@@ -1892,19 +1892,55 @@
 "fp": "fp-969cee4d6cf599e8",
 "new": false,
 "time": "2026-10-23T15:00:04+00:00"
+},
+{
+"title": "Chief Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/367082",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-23T16:22:18.105422+00:00"
+},
+{
+"title": "Chief Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/367083",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-23T16:22:18.105442+00:00"
+},
+{
+"title": "Chief Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/367084",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-23T16:22:18.105449+00:00"
+},
+{
+"title": "Chief Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/367088",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-23T16:22:18.105454+00:00"
 }
 ],
 "msg_ids": [
-1120,
-1121,
-1122,
-1123,
-1124,
-1125,
-1126,
-1127
+1128,
+1129,
+1130,
+1131,
+1132,
+1133,
+1134,
+1135
 ],
-"last_list": "2026-10-23T15:38:23.672753+00:00",
-"cleared_upto": 1119,
-"last_msg_id": 1127
+"last_list": "2026-10-23T16:23:19.838940+00:00",
+"cleared_upto": 1127,
+"last_msg_id": 1135
 }
