@@ -1750,18 +1750,75 @@
 "fp": "fp-a71a664d9a7eabed",
 "new": false,
 "time": "2026-10-23T14:03:45+00:00"
+},
+{
+"title": "URGENT VACANCIES FOR DFDE LNG",
+"url": "https://t.me/maritimeforum/251914",
+"source": "Telegram: @maritimeforum",
+"found": [
+"ch/off"
+],
+"fp": "fp-1352d9fb9ef9649c",
+"new": false,
+"time": "2026-10-23T13:40:39+00:00"
+},
+{
+"title": "OPEN VACANCIES FOR CONTAINER FLEET",
+"url": "https://t.me/maritimeforum/251915",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-0dbecf4252e59370",
+"new": false,
+"time": "2026-10-23T13:40:45+00:00"
+},
+{
+"title": "Rank: Master",
+"url": "https://t.me/maritimeforum/251923",
+"source": "Telegram: @maritimeforum",
+"found": [
+"ch/off"
+],
+"fp": "fp-04a2e37951f3673e",
+"new": false,
+"time": "2026-10-23T14:23:46+00:00"
+},
+{
+"title": "Join the crew of *Boreas Maritime",
+"url": "https://t.me/marinejobs/42528",
+"source": "Telegram: @marinejobs",
+"found": [
+"chief officer"
+],
+"fp": "fp-7a4229c4b476cd75",
+"new": false,
+"time": "2026-10-23T14:33:07+00:00"
+},
+{
+"title": "Second Officer for General Cargo Vessel",
+"url": "https://t.me/seamenjob/105847",
+"source": "Telegram: @seamenjob",
+"found": [
+"second officer"
+],
+"fp": "fp-9948e4fd56518a00",
+"new": false,
+"time": "2026-10-23T14:35:04+00:00"
 }
 ],
 "msg_ids": [
-1106,
-1107,
-1108,
-1109,
-1110,
-1111,
-1112
+1113,
+1114,
+1115,
+1116,
+1117,
+1118,
+1119
 ],
-"last_list": "2026-10-23T14:18:02.760032+00:00",
-"cleared_upto": 1105,
-"last_msg_id": 1112
+"last_list": "2026-10-23T15:00:41.695161+00:00",
+"cleared_upto": 1112,
+"last_msg_id": 1119
 }
