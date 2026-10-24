@@ -104,12 +104,37 @@
 "fp": "fp-30b8a18dadf70bb3",
 "new": false,
 "time": "2026-10-24T06:25:08+00:00"
+},
+{
+"title": "СРОЧНАЯ ВАКАНСИЯ / URGENT VACANCY",
+"url": "https://t.me/maritimeforum/251980",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer",
+"second officer"
+],
+"fp": "fp-dd8b68abb812ada4",
+"new": false,
+"time": "2026-10-24T06:40:29+00:00"
+},
+{
+"title": "OFFSHORE JOB ALERT 2026 | JACK-UP BARGE CREW OPPORTUNITIES",
+"url": "https://t.me/Sea_format/12327",
+"source": "Telegram: @Sea_format",
+"found": [
+"chief officer",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-db36635b51558c69",
+"new": false,
+"time": "2026-10-24T07:49:16+00:00"
 }
 ],
 "msg_ids": [
-1156
+1157
 ],
-"last_list": "2026-10-24T07:25:32.691537+00:00",
-"cleared_upto": 1155,
-"last_msg_id": 1156
+"last_list": "2026-10-24T08:05:19.205149+00:00",
+"cleared_upto": 1156,
+"last_msg_id": 1157
 }
