@@ -550,14 +550,50 @@
 "fp": "fp-de84ab9948b9e3a9",
 "new": false,
 "time": "2026-10-24T16:03:01+00:00"
+},
+{
+"title": "URGENT VACANCIES FOR DFDE LNG",
+"url": "https://t.me/maritimeforum/252076",
+"source": "Telegram: @maritimeforum",
+"found": [
+"ch/off"
+],
+"fp": "fp-1352d9fb9ef9649c",
+"new": false,
+"time": "2026-10-24T17:43:20+00:00"
+},
+{
+"title": "OPEN VACANCIES FOR CONTAINER FLEET",
+"url": "https://t.me/maritimeforum/252077",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-0dbecf4252e59370",
+"new": false,
+"time": "2026-10-24T17:43:26+00:00"
+},
+{
+"title": "Position publishing service was stopped for the night.",
+"url": "https://t.me/marinecareerorg/17742",
+"source": "Telegram: @marinecareerorg",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-59196fa6b257eecf",
+"new": false,
+"time": "2026-10-24T18:00:18+00:00"
 }
 ],
 "msg_ids": [
-1170,
-1171,
-1172
+1173,
+1174,
+1175
 ],
-"last_list": "2026-10-24T17:04:00.548894+00:00",
-"cleared_upto": 1169,
-"last_msg_id": 1172
+"last_list": "2026-10-24T18:32:49.111933+00:00",
+"cleared_upto": 1172,
+"last_msg_id": 1175
 }
