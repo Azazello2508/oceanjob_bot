@@ -586,14 +586,23 @@
 "fp": "fp-59196fa6b257eecf",
 "new": false,
 "time": "2026-10-24T18:00:18+00:00"
+},
+{
+"title": "Chief Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/367325",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-24T19:56:19.840904+00:00"
 }
 ],
 "msg_ids": [
-1173,
-1174,
-1175
+1176,
+1177,
+1178
 ],
-"last_list": "2026-10-24T18:32:49.111933+00:00",
-"cleared_upto": 1172,
-"last_msg_id": 1175
+"last_list": "2026-10-24T19:57:14.969198+00:00",
+"cleared_upto": 1175,
+"last_msg_id": 1178
 }

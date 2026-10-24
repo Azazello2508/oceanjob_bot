@@ -1984,7 +1984,7 @@
 "hw|tg:job_for_seaman|16884",
 "hw|tg:jobfor_seamen|12544",
 "hw|tg:marinecareerorg|17742",
-"hw|tg:marinejobs|42547",
+"hw|tg:marinejobs|42549",
 "hw|tg:marinejobz|194149",
 "hw|tg:marineman_ltd|48216",
 "hw|tg:maritimeforum|252097",
@@ -2009,7 +2009,7 @@
 "hw|tg:ukrcrewing_official|2360",
 "hw|tg:univis_crewing|4983",
 "hw|tg:vshipsoffshore|1070",
-"hw|ukrcrewing|367321",
+"hw|ukrcrewing|367325",
 "maritime-union.com-231211",
 "maritime-union.com-231212",
 "maritime-union.com-231213",
@@ -4720,5 +4720,6 @@
 "ukrcrewing-367088",
 "ukrcrewing-367304",
 "ukrcrewing-367306",
-"ukrcrewing-367321"
+"ukrcrewing-367321",
+"ukrcrewing-367325"
 ]
