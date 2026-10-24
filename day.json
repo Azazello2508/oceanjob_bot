@@ -416,13 +416,24 @@
 "fp": "fp-34d145781eb7e7de",
 "new": false,
 "time": "2026-10-24T12:11:47+00:00"
+},
+{
+"title": "URGENT CREW VACANCY – GAS CARRIER",
+"url": "https://t.me/marinejobs/42541",
+"source": "Telegram: @marinejobs",
+"found": [
+"chief officer"
+],
+"fp": "fp-2eecfc36b00e2e5e",
+"new": false,
+"time": "2026-10-24T12:38:49+00:00"
 }
 ],
 "msg_ids": [
-1164,
-1165
+1166,
+1167
 ],
-"last_list": "2026-10-24T12:37:28.004252+00:00",
-"cleared_upto": 1163,
-"last_msg_id": 1165
+"last_list": "2026-10-24T13:22:01.688801+00:00",
+"cleared_upto": 1165,
+"last_msg_id": 1167
 }
