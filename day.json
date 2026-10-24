@@ -393,13 +393,36 @@
 "fp": "fp-374e7fece121f987",
 "new": false,
 "time": "2026-10-24T10:15:20+00:00"
+},
+{
+"title": "2nd Officer DPO — DP2 CSOV (Offshore Wind)",
+"url": "https://t.me/Crew_Radar/2954",
+"source": "Telegram: @Crew_Radar",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-0bd6ae5f776d103c",
+"new": false,
+"time": "2026-10-24T12:11:40+00:00"
+},
+{
+"title": "CrewRadar Afternoon Digest — 24 Oct 2026",
+"url": "https://t.me/Crew_Radar/2957",
+"source": "Telegram: @Crew_Radar",
+"found": [
+"2nd off"
+],
+"fp": "fp-34d145781eb7e7de",
+"new": false,
+"time": "2026-10-24T12:11:47+00:00"
 }
 ],
 "msg_ids": [
-1162,
-1163
+1164,
+1165
 ],
-"last_list": "2026-10-24T11:02:34.146016+00:00",
-"cleared_upto": 1161,
-"last_msg_id": 1163
+"last_list": "2026-10-24T12:37:28.004252+00:00",
+"cleared_upto": 1163,
+"last_msg_id": 1165
 }
