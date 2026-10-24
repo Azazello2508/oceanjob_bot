@@ -29,12 +29,32 @@
 "fp": null,
 "new": false,
 "time": "2026-10-24T04:15:04.586563+00:00"
+},
+{
+"title": "2nd Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/367306",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-24T05:05:18.757452+00:00"
+},
+{
+"title": "Компания ООО \"ФЕНИКС МЕНЕДЖМЕНТ\" приглашает на работу:",
+"url": "https://t.me/rekamore_su/163241",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-db6bd144f3c38c48",
+"new": false,
+"time": "2026-10-24T04:14:03+00:00"
 }
 ],
 "msg_ids": [
-1154
+1155
 ],
-"last_list": "2026-10-24T04:15:50.937568+00:00",
-"cleared_upto": 1153,
-"last_msg_id": 1154
+"last_list": "2026-10-24T05:06:37.814435+00:00",
+"cleared_upto": 1154,
+"last_msg_id": 1155
 }
