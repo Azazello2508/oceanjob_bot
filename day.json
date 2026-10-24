@@ -129,12 +129,66 @@
 "fp": "fp-db36635b51558c69",
 "new": false,
 "time": "2026-10-24T07:49:16+00:00"
+},
+{
+"title": "2nd Officer on Container Ship",
+"url": "https://crewell.net/en/vacancies/463056/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-24T08:53:57.924501+00:00"
+},
+{
+"title": "Chief Officer on Container Ship",
+"url": "https://crewell.net/en/vacancies/463055/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-24T08:53:57.924528+00:00"
+},
+{
+"title": "Rank: Second Officer",
+"url": "https://t.me/maritimeforum/252010",
+"source": "Telegram: @maritimeforum",
+"found": [
+"second officer",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-2ccf2b5554048e2a",
+"new": false,
+"time": "2026-10-24T08:38:51+00:00"
+},
+{
+"title": "Rank: Chief Officer",
+"url": "https://t.me/maritimeforum/252012",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-e6ea80cad36d99f8",
+"new": false,
+"time": "2026-10-24T08:39:05+00:00"
+},
+{
+"title": "Rank: Chief Officer",
+"url": "https://t.me/maritimeforum/252022",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer",
+"c/o"
+],
+"fp": "fp-bd96e886e1f489f8",
+"new": false,
+"time": "2026-10-24T08:44:31+00:00"
 }
 ],
 "msg_ids": [
-1157
+1158
 ],
-"last_list": "2026-10-24T08:05:19.205149+00:00",
-"cleared_upto": 1156,
-"last_msg_id": 1157
+"last_list": "2026-10-24T08:54:43.093951+00:00",
+"cleared_upto": 1157,
+"last_msg_id": 1158
 }
