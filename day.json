@@ -216,12 +216,23 @@
 "fp": "fp-0fc447f5f62ce1bf",
 "new": false,
 "time": "2026-10-25T14:02:56+00:00"
+},
+{
+"title": "CHEMICAL / OIL TANKER",
+"url": "https://t.me/maritimeforum/252157",
+"source": "Telegram: @maritimeforum",
+"found": [
+"2nd off"
+],
+"fp": "fp-b6eb323c44b4f3c5",
+"new": false,
+"time": "2026-10-25T14:56:34+00:00"
 }
 ],
 "msg_ids": [
-1184
+1185
 ],
-"last_list": "2026-10-25T14:51:59.840634+00:00",
-"cleared_upto": 1183,
-"last_msg_id": 1184
+"last_list": "2026-10-25T15:31:36.037138+00:00",
+"cleared_upto": 1184,
+"last_msg_id": 1185
 }
