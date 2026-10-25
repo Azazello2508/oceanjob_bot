@@ -78,12 +78,45 @@
 "fp": "fp-b59d7d36cb27190f",
 "new": false,
 "time": "2026-10-25T08:21:02+00:00"
+},
+{
+"title": "Chief Officer — AHTS (non-DP)",
+"url": "https://t.me/Crew_Radar/2962",
+"source": "Telegram: @Crew_Radar",
+"found": [
+"chief officer"
+],
+"fp": "fp-a88a766f2cb1329e",
+"new": false,
+"time": "2026-10-25T10:07:00+00:00"
+},
+{
+"title": "CrewRadar Morning Digest — Oct 25",
+"url": "https://t.me/Crew_Radar/2970",
+"source": "Telegram: @Crew_Radar",
+"found": [
+"c/o"
+],
+"fp": "fp-0d0846938bea6b91",
+"new": false,
+"time": "2026-10-25T10:08:37+00:00"
+},
+{
+"title": "LNG TANKER JOBS — UP TO $24,500/MONTH!",
+"url": "https://t.me/Sea_format/12328",
+"source": "Telegram: @Sea_format",
+"found": [
+"chief officer"
+],
+"fp": "fp-d7f35d3be7eea0bb",
+"new": false,
+"time": "2026-10-25T09:48:01+00:00"
 }
 ],
 "msg_ids": [
-1181
+1182
 ],
-"last_list": "2026-10-25T08:54:03.140152+00:00",
-"cleared_upto": 1180,
-"last_msg_id": 1181
+"last_list": "2026-10-25T10:12:04.536346+00:00",
+"cleared_upto": 1181,
+"last_msg_id": 1182
 }
