@@ -227,12 +227,34 @@
 "fp": "fp-b6eb323c44b4f3c5",
 "new": false,
 "time": "2026-10-25T14:56:34+00:00"
+},
+{
+"title": "CONTAINER SHIP",
+"url": "https://t.me/maritimeforum/252151",
+"source": "Telegram: @maritimeforum",
+"found": [
+"2nd off"
+],
+"fp": "fp-65b0b2bc4d4c7e6c",
+"new": false,
+"time": "2026-10-25T14:55:44+00:00"
+},
+{
+"title": "Rank: Chief Officer",
+"url": "https://t.me/maritimeforum/252163",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-e796579f04a3a9c9",
+"new": false,
+"time": "2026-10-25T15:39:42+00:00"
 }
 ],
 "msg_ids": [
-1185
+1186
 ],
-"last_list": "2026-10-25T15:31:36.037138+00:00",
-"cleared_upto": 1184,
-"last_msg_id": 1185
+"last_list": "2026-10-25T16:12:05.199346+00:00",
+"cleared_upto": 1185,
+"last_msg_id": 1186
 }
