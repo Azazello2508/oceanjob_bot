@@ -156,12 +156,48 @@
 "fp": "fp-dd8b68abb812ada4",
 "new": false,
 "time": "2026-10-25T09:35:24+00:00"
+},
+{
+"title": "Rank: Master",
+"url": "https://t.me/maritimeforum/252142",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer",
+"second officer"
+],
+"fp": "fp-faa3b8c6b42f869e",
+"new": false,
+"time": "2026-10-25T13:24:59+00:00"
+},
+{
+"title": "Rank: Chief Officer",
+"url": "https://t.me/maritimeforum/252147",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-45ddf89470a48bae",
+"new": false,
+"time": "2026-10-25T13:25:34+00:00"
+},
+{
+"title": "OFFSHORE Vacancies",
+"url": "https://t.me/job_for_seaman/16886",
+"source": "Telegram: @job_for_seaman",
+"found": [
+"chief officer",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-3a0e06cd9fef3a73",
+"new": false,
+"time": "2026-10-25T13:55:17+00:00"
 }
 ],
 "msg_ids": [
-1182
+1183
 ],
-"last_list": "2026-10-25T10:12:04.536346+00:00",
-"cleared_upto": 1181,
-"last_msg_id": 1182
+"last_list": "2026-10-25T14:03:30.412841+00:00",
+"cleared_upto": 1182,
+"last_msg_id": 1183
 }
