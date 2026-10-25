@@ -33,12 +33,45 @@
 "fp": "fp-30b8a18dadf70bb3",
 "new": false,
 "time": "2026-10-25T06:25:08+00:00"
+},
+{
+"title": "Vacancy Code",
+"url": "https://t.me/marinejobs/42556",
+"source": "Telegram: @marinejobs",
+"found": [
+"2nd off"
+],
+"fp": "fp-213d1ef27b6724ee",
+"new": false,
+"time": "2026-10-25T07:47:42+00:00"
+},
+{
+"title": "Gas Engineer",
+"url": "https://t.me/marinejobs/42557",
+"source": "Telegram: @marinejobs",
+"found": [
+"chief officer"
+],
+"fp": "fp-464b809b6934f321",
+"new": false,
+"time": "2026-10-25T08:01:52+00:00"
+},
+{
+"title": "Vacancies for LNG/LPG",
+"url": "https://t.me/job_for_seaman/16885",
+"source": "Telegram: @job_for_seaman",
+"found": [
+"chief officer"
+],
+"fp": "fp-838a5038f4fdb81d",
+"new": false,
+"time": "2026-10-25T07:47:01+00:00"
 }
 ],
 "msg_ids": [
-1179
+1180
 ],
-"last_list": "2026-10-24T20:48:30.310418+00:00",
-"cleared_upto": 1178,
-"last_msg_id": 1179
+"last_list": "2026-10-25T08:05:18.864207+00:00",
+"cleared_upto": 1179,
+"last_msg_id": 1180
 }
