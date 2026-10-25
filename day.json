@@ -1,6 +1,40 @@
 {
 "date": "2026-10-25",
-"jobs": [],
+"jobs": [
+{
+"title": "НА Т/Х «ВОЛГО-БАЛТ» ТРЕБУЕТСЯ:",
+"url": "https://t.me/rekamore_su/163265",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-310d190b8466cb2b",
+"new": false,
+"time": "2026-10-25T06:00:05+00:00"
+},
+{
+"title": "Компания  ООО «Волгофлот» приглашает на работу:",
+"url": "https://t.me/rekamore_su/163267",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-6a4f23c50a24f5f5",
+"new": false,
+"time": "2026-10-25T06:25:05+00:00"
+},
+{
+"title": "Компания  ООО «Волгофлот» приглашает на РЕЧНУЮ навигацию 2027 года:",
+"url": "https://t.me/rekamore_su/163268",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-30b8a18dadf70bb3",
+"new": false,
+"time": "2026-10-25T06:25:08+00:00"
+}
+],
 "msg_ids": [
 1179
 ],
