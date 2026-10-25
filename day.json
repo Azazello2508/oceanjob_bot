@@ -192,12 +192,36 @@
 "fp": "fp-3a0e06cd9fef3a73",
 "new": false,
 "time": "2026-10-25T13:55:17+00:00"
+},
+{
+"title": "Chief Officer - DPO",
+"url": "https://t.me/maritimeforum/252138",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-36432ddce1bed1fd",
+"new": false,
+"time": "2026-10-25T13:21:31+00:00"
+},
+{
+"title": "Maritime Vessel Vacancies",
+"url": "https://t.me/marinejobs/42559",
+"source": "Telegram: @marinejobs",
+"found": [
+"chief officer",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-0fc447f5f62ce1bf",
+"new": false,
+"time": "2026-10-25T14:02:56+00:00"
 }
 ],
 "msg_ids": [
-1183
+1184
 ],
-"last_list": "2026-10-25T14:03:30.412841+00:00",
-"cleared_upto": 1182,
-"last_msg_id": 1183
+"last_list": "2026-10-25T14:51:59.840634+00:00",
+"cleared_upto": 1183,
+"last_msg_id": 1184
 }
