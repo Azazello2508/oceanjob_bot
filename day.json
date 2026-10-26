@@ -1889,7 +1889,7 @@
 "source": "crewell.net",
 "found": [],
 "fp": null,
-"new": true,
+"new": false,
 "time": "2026-10-26T15:18:06.660100+00:00"
 },
 {
@@ -1923,7 +1923,7 @@
 "2nd off"
 ],
 "fp": "fp-6db510ae923d89eb",
-"new": true,
+"new": false,
 "time": "2026-10-26T15:12:44+00:00"
 },
 {
@@ -1934,7 +1934,7 @@
 "chief officer"
 ],
 "fp": "fp-b38ad9bbd39f6a57",
-"new": true,
+"new": false,
 "time": "2026-10-26T15:01:18+00:00"
 },
 {
@@ -1945,7 +1945,7 @@
 "chief officer"
 ],
 "fp": "fp-b07e11142167e039",
-"new": true,
+"new": false,
 "time": "2026-10-26T15:16:57+00:00"
 },
 {
@@ -1956,7 +1956,7 @@
 "choff"
 ],
 "fp": "fp-8b1d190a40f89caf",
-"new": true,
+"new": false,
 "time": "2026-10-26T14:59:07+00:00"
 },
 {
@@ -1967,7 +1967,7 @@
 "2off"
 ],
 "fp": "fp-3e43e8159fd8685b",
-"new": true,
+"new": false,
 "time": "2026-10-26T15:00:06+00:00"
 },
 {
@@ -1979,7 +1979,7 @@
 "choff"
 ],
 "fp": "fp-bdaf8763adcf6310",
-"new": true,
+"new": false,
 "time": "2026-10-26T15:00:08+00:00"
 },
 {
@@ -1990,21 +1990,61 @@
 "chief officer"
 ],
 "fp": "fp-7f33b136eaa2097b",
-"new": true,
+"new": false,
 "time": "2026-10-26T15:15:23+00:00"
+},
+{
+"title": "Chief Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/367431",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-26T15:47:55.551790+00:00"
+},
+{
+"title": "2nd Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/367436",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-26T15:47:55.551817+00:00"
+},
+{
+"title": "Urgent Hiring: Chief Officer for General Cargo Vessel",
+"url": "https://t.me/marinejobs/42619",
+"source": "Telegram: @marinejobs",
+"found": [
+"chief officer"
+],
+"fp": "fp-678069c6d5981041",
+"new": false,
+"time": "2026-10-26T15:18:59+00:00"
+},
+{
+"title": "Seeking a qualified Chief Officer for an immediate RO-RO assignment!",
+"url": "https://t.me/marinejobs/42622",
+"source": "Telegram: @marinejobs",
+"found": [
+"chief officer"
+],
+"fp": "fp-11cbe288ab1c01ac",
+"new": false,
+"time": "2026-10-26T15:33:54+00:00"
 }
 ],
 "msg_ids": [
-1220,
-1221,
-1222,
-1223,
-1224,
-1225,
-1226,
-1227
+1228,
+1229,
+1230,
+1231,
+1232,
+1233,
+1234,
+1235
 ],
-"last_list": "2026-10-26T14:47:27.687081+00:00",
-"cleared_upto": 1219,
-"last_msg_id": 1227
+"last_list": "2026-10-26T15:48:52.794931+00:00",
+"cleared_upto": 1227,
+"last_msg_id": 1235
 }
