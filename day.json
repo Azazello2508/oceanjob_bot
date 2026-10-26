@@ -666,14 +666,122 @@
 "fp": "fp-bec34ed81a341ccd",
 "new": false,
 "time": "2026-10-26T08:42:02+00:00"
+},
+{
+"title": "2nd Officer on AHTS DP1",
+"url": "https://crewell.net/en/vacancies/463124/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-26T09:43:43.502849+00:00"
+},
+{
+"title": "2nd Officer on Container Ship",
+"url": "https://crewell.net/en/vacancies/463129/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-26T09:43:43.502874+00:00"
+},
+{
+"title": "2nd Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/367348",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-26T09:43:44.913316+00:00"
+},
+{
+"title": "URGENT: 2nd Officer Required | Jack-Up Barge/Platform",
+"url": "https://t.me/maritimeforum/252219",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-6c48a0e499b3e236",
+"new": false,
+"time": "2026-10-26T09:20:55+00:00"
+},
+{
+"title": "Требуется Chief Officer!",
+"url": "https://t.me/marinejobs/42579",
+"source": "Telegram: @marinejobs",
+"found": [
+"chief officer",
+"старший помощник"
+],
+"fp": "fp-689b01f90c07de8f",
+"new": false,
+"time": "2026-10-26T09:31:24+00:00"
+},
+{
+"title": "VACANCY: CHIEF OFFICER",
+"url": "https://t.me/crewingua/44530",
+"source": "Telegram: @crewingua",
+"found": [
+"chief officer"
+],
+"fp": "fp-25f398c4d0cf3aff",
+"new": false,
+"time": "2026-10-26T09:31:03+00:00"
+},
+{
+"title": "OPEN POSITION in COLUMBIA Shipmanagement Ukraine:",
+"url": "https://t.me/seamenjob/105860",
+"source": "Telegram: @seamenjob",
+"found": [
+"chief officer"
+],
+"fp": "fp-0fe8bf42df9a187f",
+"new": false,
+"time": "2026-10-26T08:49:30+00:00"
+},
+{
+"title": "Chief Officer",
+"url": "https://t.me/OffshoreFleetJob/11045",
+"source": "Telegram: @OffshoreFleetJob",
+"found": [
+"chief officer"
+],
+"fp": "fp-fe0dd58a83609057",
+"new": false,
+"time": "2026-10-26T09:10:55+00:00"
+},
+{
+"title": "Компания ООО «Малое море» приглашает на работу:",
+"url": "https://t.me/rekamore_su/163368",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-a4862347f8d78b81",
+"new": false,
+"time": "2026-10-26T09:00:04+00:00"
+},
+{
+"title": "Судоходная компания \"АРК \" приглашает на работу:",
+"url": "https://t.me/rekamore_su/163372",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-f3469c75ef9150b2",
+"new": false,
+"time": "2026-10-26T09:11:02+00:00"
 }
 ],
 "msg_ids": [
-1197,
-1198,
-1199
+1200,
+1201,
+1202,
+1203
 ],
-"last_list": "2026-10-26T09:07:26.086362+00:00",
-"cleared_upto": 1196,
-"last_msg_id": 1199
+"last_list": "2026-10-26T09:44:44.344842+00:00",
+"cleared_upto": 1199,
+"last_msg_id": 1203
 }
