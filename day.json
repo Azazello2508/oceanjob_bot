@@ -20,13 +20,35 @@
 "fp": "fp-abed8f368ffed774",
 "new": false,
 "time": "2026-10-26T20:09:30+00:00"
+},
+{
+"title": "2nd Engineer",
+"url": "https://t.me/maritimeforum/252411",
+"source": "Telegram: @maritimeforum",
+"found": [
+"second officer"
+],
+"fp": "fp-08727815cc76b479",
+"new": false,
+"time": "2026-10-26T20:29:01+00:00"
+},
+{
+"title": "VACANCY: SECOND ENGINEER",
+"url": "https://t.me/maritimeforum/252412",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-12af781452d577e1",
+"new": false,
+"time": "2026-10-26T20:42:57+00:00"
 }
 ],
 "msg_ids": [
-1254
+1255
 ],
-"last_list": "2026-10-26T20:10:27.672414+00:00",
-"cleared_upto": 1253,
+"last_list": "2026-10-26T20:58:29.984537+00:00",
+"cleared_upto": 1254,
 "force": true,
-"last_msg_id": 1254
+"last_msg_id": 1255
 }
