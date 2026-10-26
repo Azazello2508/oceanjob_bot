@@ -1,10 +1,34 @@
 {
 "date": "2026-10-26",
-"jobs": [],
-"msg_ids": [
-1189
+"jobs": [
+{
+"title": "Second Officer",
+"url": "https://t.me/seajobfinder/41971",
+"source": "Telegram: @seajobfinder",
+"found": [
+"second officer"
 ],
-"last_list": "2026-10-25T20:49:17.624183+00:00",
-"cleared_upto": 1188,
-"last_msg_id": 1189
+"fp": "fp-6d149bfa143af863",
+"new": false,
+"time": "2026-10-26T01:56:30+00:00"
+},
+{
+"title": "Chief Officer",
+"url": "https://t.me/seajobfinder/41972",
+"source": "Telegram: @seajobfinder",
+"found": [
+"chief officer",
+"choff"
+],
+"fp": "fp-fccf18854a7ccd19",
+"new": false,
+"time": "2026-10-26T01:58:27+00:00"
+}
+],
+"msg_ids": [
+1190
+],
+"last_list": "2026-10-26T02:15:52.496383+00:00",
+"cleared_upto": 1189,
+"last_msg_id": 1190
 }
