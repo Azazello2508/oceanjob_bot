@@ -235,12 +235,155 @@
 "fp": "fp-449ecd8236d043a7",
 "new": false,
 "time": "2026-10-26T05:47:02+00:00"
+},
+{
+"title": "2nd Officer on Container Ship",
+"url": "https://crewell.net/en/vacancies/463091/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-26T07:37:30.504278+00:00"
+},
+{
+"title": "Chief Officer on ASD Tug",
+"url": "https://crewell.net/en/vacancies/463087/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-26T07:37:30.504306+00:00"
+},
+{
+"title": "Chief Officer on Container Ship",
+"url": "https://crewell.net/en/vacancies/463088/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-26T07:37:30.504315+00:00"
+},
+{
+"title": "Solstad",
+"url": "https://t.me/marinejobs/42565",
+"source": "Telegram: @marinejobs",
+"found": [
+"chief officer",
+"second officer"
+],
+"fp": "fp-c2a1dd0bc535f193",
+"new": false,
+"time": "2026-10-26T07:02:24+00:00"
+},
+{
+"title": "Join a Bulk Carrier crew sailing the Yemen–China route!",
+"url": "https://t.me/marinejobs/42567",
+"source": "Telegram: @marinejobs",
+"found": [
+"chief officer",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-7e75834c55f69e63",
+"new": false,
+"time": "2026-10-26T07:31:12+00:00"
+},
+{
+"title": "CHIEF OFFICER NEEDED — LPG CARRIER VACANCY",
+"url": "https://t.me/marinejobs/42569",
+"source": "Telegram: @marinejobs",
+"found": [
+"chief officer"
+],
+"fp": "fp-f11356f96f5aea9e",
+"new": false,
+"time": "2026-10-26T07:35:14+00:00"
+},
+{
+"title": "CHIEF OFFICER WANTED!",
+"url": "https://t.me/marinejobs/42570",
+"source": "Telegram: @marinejobs",
+"found": [
+"chief officer"
+],
+"fp": "fp-decd7a077df4a75a",
+"new": false,
+"time": "2026-10-26T07:37:14+00:00"
+},
+{
+"title": "AQUAMARINE SHIPPING LLC",
+"url": "https://t.me/crewingua/44518",
+"source": "Telegram: @crewingua",
+"found": [
+"chief officer"
+],
+"fp": "fp-e84e6732b461fcc8",
+"new": false,
+"time": "2026-10-26T06:46:04+00:00"
+},
+{
+"title": "VACANCY: CHIEF OFFICER",
+"url": "https://t.me/jobfor_seamen/12549",
+"source": "Telegram: @jobfor_seamen",
+"found": [
+"chief officer"
+],
+"fp": "fp-4bc34b3fee7e7297",
+"new": false,
+"time": "2026-10-26T07:24:10+00:00"
+},
+{
+"title": "Crew for AHTS & Subsea Vessels (Norway)",
+"url": "https://t.me/seamenjob/105855",
+"source": "Telegram: @seamenjob",
+"found": [
+"chief officer",
+"second officer"
+],
+"fp": "fp-6db774ed7efcf598",
+"new": false,
+"time": "2026-10-26T07:00:05+00:00"
+},
+{
+"title": "All Ranks for Bulk Carrier Vessel (Yemen – China)",
+"url": "https://t.me/seamenjob/105856",
+"source": "Telegram: @seamenjob",
+"found": [
+"chief officer",
+"second officer"
+],
+"fp": "fp-ee515f6fbab00671",
+"new": false,
+"time": "2026-10-26T07:05:07+00:00"
+},
+{
+"title": "Компания  ООО «Волгофлот» приглашает на РЕЧНУЮ навигацию 2027 года:",
+"url": "https://t.me/rekamore_su/163341",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-30b8a18dadf70bb3",
+"new": false,
+"time": "2026-10-26T06:29:07+00:00"
+},
+{
+"title": "Понедельник — время ставить новые задачи и двигаться к целям!",
+"url": "https://t.me/ukrcrewing_official/2361",
+"source": "Telegram: @ukrcrewing_official",
+"found": [
+"2nd off"
+],
+"fp": "fp-427d510f5f39dc97",
+"new": false,
+"time": "2026-10-26T07:21:35+00:00"
 }
 ],
 "msg_ids": [
-1192
+1193,
+1194
 ],
-"last_list": "2026-10-26T06:47:54.514980+00:00",
-"cleared_upto": 1191,
-"last_msg_id": 1192
+"last_list": "2026-10-26T07:38:23.820073+00:00",
+"cleared_upto": 1192,
+"last_msg_id": 1194
 }
