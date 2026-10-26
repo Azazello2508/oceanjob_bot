@@ -42,12 +42,21 @@
 "fp": "fp-12af781452d577e1",
 "new": false,
 "time": "2026-10-26T20:42:57+00:00"
+},
+{
+"title": "2nd Officer on LPG",
+"url": "https://crewell.net/en/vacancies/463309/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-26T22:16:26.357961+00:00"
 }
 ],
 "msg_ids": [
-1256
+1257
 ],
-"last_list": "2026-10-26T21:36:26.740210+00:00",
-"cleared_upto": 1255,
-"last_msg_id": 1256
+"last_list": "2026-10-26T22:17:13.687259+00:00",
+"cleared_upto": 1256,
+"last_msg_id": 1257
 }
