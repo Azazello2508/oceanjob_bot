@@ -1119,16 +1119,126 @@
 "fp": "fp-55743c5bddd15358",
 "new": false,
 "time": "2026-10-27T11:47:01+00:00"
+},
+{
+"title": "Chief Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/367558",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-27T12:44:44.049845+00:00"
+},
+{
+"title": "Chief Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/367559",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-27T12:44:44.049875+00:00"
+},
+{
+"title": "2nd Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/367560",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-27T12:44:44.049883+00:00"
+},
+{
+"title": "ETO for DP2 AHTS / PSV vessel",
+"url": "https://t.me/maritimeforum/252523",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-f451ee52459977df",
+"new": false,
+"time": "2026-10-27T12:13:22+00:00"
+},
+{
+"title": "VLCC Crew Recruitment",
+"url": "https://t.me/marinejobs/42648",
+"source": "Telegram: @marinejobs",
+"found": [
+"chief officer",
+"second officer"
+],
+"fp": "fp-b4b731a8b4d89b0f",
+"new": false,
+"time": "2026-10-27T12:35:41+00:00"
+},
+{
+"title": "Oil Product Tanker",
+"url": "https://t.me/marinejobs/42649",
+"source": "Telegram: @marinejobs",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-1d12a4d66ebce569",
+"new": false,
+"time": "2026-10-27T12:40:13+00:00"
+},
+{
+"title": "MARINE JOB OPPORTUNITY",
+"url": "https://t.me/marinejobs/42651",
+"source": "Telegram: @marinejobs",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-b60a49faf0e09773",
+"new": false,
+"time": "2026-10-27T12:43:51+00:00"
+},
+{
+"title": "Need All Ranks for VLCC Vessel",
+"url": "https://t.me/seamenjob/105905",
+"source": "Telegram: @seamenjob",
+"found": [
+"chief officer",
+"second officer"
+],
+"fp": "fp-35bbd4b15c74ef38",
+"new": false,
+"time": "2026-10-27T12:05:04+00:00"
+},
+{
+"title": "2nd Officer — AHTS DP1",
+"url": "https://t.me/Crew_Radar/3022",
+"source": "Telegram: @Crew_Radar",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-49efe440f1e17c9e",
+"new": false,
+"time": "2026-10-27T12:33:26+00:00"
+},
+{
+"title": "CrewRadar Afternoon Digest — Oct 27",
+"url": "https://t.me/Crew_Radar/3023",
+"source": "Telegram: @Crew_Radar",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-6407db02ef42502b",
+"new": false,
+"time": "2026-10-27T12:33:47+00:00"
 }
 ],
 "msg_ids": [
-1283,
-1284,
-1285,
-1286,
-1287
+1288,
+1289,
+1290,
+1291,
+1292
 ],
-"last_list": "2026-10-27T11:56:53.987653+00:00",
-"cleared_upto": 1282,
-"last_msg_id": 1287
+"last_list": "2026-10-27T12:45:41.625215+00:00",
+"cleared_upto": 1287,
+"last_msg_id": 1292
 }
