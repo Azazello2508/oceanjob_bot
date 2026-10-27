@@ -117,12 +117,109 @@
 "fp": "fp-e5335e59e29cecf2",
 "new": false,
 "time": "2026-10-27T05:03:49+00:00"
+},
+{
+"title": "Chief Officer on VLCC",
+"url": "https://crewell.net/en/vacancies/463324/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-27T05:55:46.237839+00:00"
+},
+{
+"title": "Chief Officer on LPG",
+"url": "https://crewell.net/en/vacancies/463328/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-27T05:55:46.237866+00:00"
+},
+{
+"title": "Position:",
+"url": "https://t.me/CREW_ARIA/13853",
+"source": "Telegram: @CREW_ARIA",
+"found": [
+"chief mate",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-f2c1513821c24814",
+"new": false,
+"time": "2026-10-27T05:24:20+00:00"
+},
+{
+"title": "Анонс вакансий ООО \"П. ТрансКо\" на РЕЧНУЮ навигацию 2027 года.",
+"url": "https://t.me/rekamore_su/163408",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-0765aee547a9577a",
+"new": false,
+"time": "2026-10-27T05:00:08+00:00"
+},
+{
+"title": "ООО «Балтийская Морская Компания» ведет набор специалистов в компанию \"RIX SHIPMANAGEMENT LTD\" (CYPRUS):",
+"url": "https://t.me/rekamore_su/163413",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-13c81967d96df0a7",
+"new": false,
+"time": "2026-10-27T05:00:28+00:00"
+},
+{
+"title": "Компания ООО \"БСК\" приглашает на работу:",
+"url": "https://t.me/rekamore_su/163426",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-2b6ce704c180bc8f",
+"new": false,
+"time": "2026-10-27T05:30:09+00:00"
+},
+{
+"title": "Компания “Северный Альянс” приглашает на работу:",
+"url": "https://t.me/rekamore_su/163433",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-f5afee8c03a984f4",
+"new": false,
+"time": "2026-10-27T05:33:07+00:00"
+},
+{
+"title": "Компания “Северный Альянс” приглашает на работу:",
+"url": "https://t.me/rekamore_su/163437",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-51743fd97eff3ead",
+"new": false,
+"time": "2026-10-27T05:33:22+00:00"
+},
+{
+"title": "Компания “Северный Альянс” приглашает на стажировку с последующим трудоустройством:",
+"url": "https://t.me/rekamore_su/163438",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-c3a14e3c09fb3340",
+"new": false,
+"time": "2026-10-27T05:33:26+00:00"
 }
 ],
 "msg_ids": [
-1260
+1261
 ],
-"last_list": "2026-10-27T05:11:57.498576+00:00",
-"cleared_upto": 1259,
-"last_msg_id": 1260
+"last_list": "2026-10-27T05:56:37.083323+00:00",
+"cleared_upto": 1260,
+"last_msg_id": 1261
 }
