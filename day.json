@@ -1908,19 +1908,41 @@
 "fp": "fp-0ce6c8bf3cb5a251",
 "new": false,
 "time": "2026-10-27T18:27:37+00:00"
+},
+{
+"title": "2O/DPO for MPSV DP2",
+"url": "https://t.me/roster_marine/1727",
+"source": "Telegram: @roster_marine",
+"found": [
+"2o/dpo"
+],
+"fp": "fp-02088bd7eac53b65",
+"new": false,
+"time": "2026-10-27T18:47:06+00:00"
+},
+{
+"title": "Position publishing service was stopped for the night.",
+"url": "https://t.me/marinecareerorg/17745",
+"source": "Telegram: @marinecareerorg",
+"found": [
+"chief officer"
+],
+"fp": "fp-129925b12afbd6d8",
+"new": false,
+"time": "2026-10-27T19:00:31+00:00"
 }
 ],
 "msg_ids": [
-1342,
-1343,
-1344,
-1345,
-1346,
-1347,
-1348,
-1349
+1350,
+1351,
+1352,
+1353,
+1354,
+1355,
+1356,
+1357
 ],
-"last_list": "2026-10-27T18:45:57.302568+00:00",
-"cleared_upto": 1341,
-"last_msg_id": 1349
+"last_list": "2026-10-27T19:30:37.248766+00:00",
+"cleared_upto": 1349,
+"last_msg_id": 1357
 }
