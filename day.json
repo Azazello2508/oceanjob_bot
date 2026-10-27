@@ -13,13 +13,24 @@
 "fp": "fp-31e089971d31092b",
 "new": false,
 "time": "2026-10-27T20:15:28+00:00"
+},
+{
+"title": "Vacancy Code",
+"url": "https://t.me/marinejobs/42701",
+"source": "Telegram: @marinejobs",
+"found": [
+"jdpo",
+"2nd off"
+],
+"fp": "fp-974cbe4f80bb65e8",
+"new": false,
+"time": "2026-10-27T20:14:33+00:00"
 }
 ],
 "msg_ids": [
-1358
+1359
 ],
-"last_list": "2026-10-27T20:16:15.553842+00:00",
-"cleared_upto": 1357,
-"force": true,
-"last_msg_id": 1358
+"last_list": "2026-10-27T20:57:30.247340+00:00",
+"cleared_upto": 1358,
+"last_msg_id": 1359
 }
