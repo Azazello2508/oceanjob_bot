@@ -1879,19 +1879,37 @@
 "fp": "fp-de84ab9948b9e3a9",
 "new": false,
 "time": "2026-10-27T16:03:01+00:00"
+},
+{
+"title": "Chief Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/367640",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-27T18:00:34.262376+00:00"
+},
+{
+"title": "2nd Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/367641",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-27T18:00:34.262403+00:00"
 }
 ],
 "msg_ids": [
-1326,
-1327,
-1328,
-1329,
-1330,
-1331,
-1332,
-1333
+1334,
+1335,
+1336,
+1337,
+1338,
+1339,
+1340,
+1341
 ],
-"last_list": "2026-10-27T17:23:50.987364+00:00",
-"cleared_upto": 1325,
-"last_msg_id": 1333
+"last_list": "2026-10-27T18:01:32.947620+00:00",
+"cleared_upto": 1333,
+"last_msg_id": 1341
 }
