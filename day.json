@@ -51,12 +51,23 @@
 "fp": null,
 "new": false,
 "time": "2026-10-26T22:16:26.357961+00:00"
+},
+{
+"title": "URGENT VACANCIES – SUPPLY VESSELS (NON-DP)",
+"url": "https://t.me/shipscreweu/16465",
+"source": "Telegram: @shipscreweu",
+"found": [
+"chief officer"
+],
+"fp": "fp-d531f6e5868612ec",
+"new": false,
+"time": "2026-10-27T00:12:05+00:00"
 }
 ],
 "msg_ids": [
-1257
+1258
 ],
-"last_list": "2026-10-26T22:17:13.687259+00:00",
-"cleared_upto": 1256,
-"last_msg_id": 1257
+"last_list": "2026-10-27T00:44:31.041114+00:00",
+"cleared_upto": 1257,
+"last_msg_id": 1258
 }
