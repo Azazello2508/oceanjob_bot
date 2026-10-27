@@ -62,12 +62,44 @@
 "fp": "fp-d531f6e5868612ec",
 "new": false,
 "time": "2026-10-27T00:12:05+00:00"
+},
+{
+"title": "Chief Officer on Crude oil tanker",
+"url": "https://crewell.net/en/vacancies/463312/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-27T04:20:31.588089+00:00"
+},
+{
+"title": "Компания ООО “Угольный морской порт Шахтерск” (Сахалин) приглашает на работу:",
+"url": "https://t.me/rekamore_su/163398",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-656adbc91690853b",
+"new": false,
+"time": "2026-10-27T04:10:05+00:00"
+},
+{
+"title": "Компания ООО \"Легаси Марин\" приглашает на работу:",
+"url": "https://t.me/rekamore_su/163400",
+"source": "Telegram: @rekamore_su",
+"found": [
+"chief officer",
+"старший помощник"
+],
+"fp": "fp-4bc23476073cd32a",
+"new": false,
+"time": "2026-10-27T04:14:15+00:00"
 }
 ],
 "msg_ids": [
-1258
+1259
 ],
-"last_list": "2026-10-27T00:44:31.041114+00:00",
-"cleared_upto": 1257,
-"last_msg_id": 1258
+"last_list": "2026-10-27T04:21:31.552054+00:00",
+"cleared_upto": 1258,
+"last_msg_id": 1259
 }
