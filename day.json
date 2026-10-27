@@ -1229,16 +1229,104 @@
 "fp": "fp-6407db02ef42502b",
 "new": false,
 "time": "2026-10-27T12:33:47+00:00"
+},
+{
+"title": "Chief Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/367581",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-27T13:36:58.205723+00:00"
+},
+{
+"title": "VACANCY: CHIEF OFFICER",
+"url": "https://t.me/maritimeforum/252542",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-b087e0806b72dfe2",
+"new": false,
+"time": "2026-10-27T13:17:21+00:00"
+},
+{
+"title": "URGENT CREW OPENINGS",
+"url": "https://t.me/marinejobs/42654",
+"source": "Telegram: @marinejobs",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-8005b80cdad15808",
+"new": false,
+"time": "2026-10-27T12:56:50+00:00"
+},
+{
+"title": "Chief Officer Wanted",
+"url": "https://t.me/marinejobs/42657",
+"source": "Telegram: @marinejobs",
+"found": [
+"chief officer"
+],
+"fp": "fp-ee68b1ce4fc94ce3",
+"new": false,
+"time": "2026-10-27T13:02:06+00:00"
+},
+{
+"title": "Master Wanted",
+"url": "https://t.me/marinejobs/42658",
+"source": "Telegram: @marinejobs",
+"found": [
+"chief officer"
+],
+"fp": "fp-3b48a1f6441a177f",
+"new": false,
+"time": "2026-10-27T13:03:05+00:00"
+},
+{
+"title": "Chief Officer",
+"url": "https://t.me/marinejobs/42667",
+"source": "Telegram: @marinejobs",
+"found": [
+"chief officer"
+],
+"fp": "fp-f18a65af9673ae74",
+"new": false,
+"time": "2026-10-27T13:15:28+00:00"
+},
+{
+"title": "Chief Officer",
+"url": "https://t.me/seamenjob/105907",
+"source": "Telegram: @seamenjob",
+"found": [
+"chief officer"
+],
+"fp": "fp-c16c88f2a210c56d",
+"new": false,
+"time": "2026-10-27T12:41:02+00:00"
+},
+{
+"title": "Marine Crewing Agency Everest",
+"url": "https://t.me/rekamore_su/163511",
+"source": "Telegram: @rekamore_su",
+"found": [
+"chief officer"
+],
+"fp": "fp-26003ccd2552e07e",
+"new": false,
+"time": "2026-10-27T13:05:01+00:00"
 }
 ],
 "msg_ids": [
-1288,
-1289,
-1290,
-1291,
-1292
+1293,
+1294,
+1295,
+1296,
+1297,
+1298
 ],
-"last_list": "2026-10-27T12:45:41.625215+00:00",
-"cleared_upto": 1287,
-"last_msg_id": 1292
+"last_list": "2026-10-27T13:38:03.602195+00:00",
+"cleared_upto": 1292,
+"last_msg_id": 1298
 }
