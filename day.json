@@ -287,13 +287,84 @@
 "fp": "fp-98c4f61a90bed5e6",
 "new": false,
 "time": "2026-10-27T05:28:02+00:00"
+},
+{
+"title": "2nd Officer on Reefer",
+"url": "https://crewell.net/en/vacancies/463342/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-27T07:33:38.287971+00:00"
+},
+{
+"title": "2nd Officer",
+"url": "https://seajobs.ru/ru/vacancy/17806/2nd-officer-crude-oil-tanker",
+"source": "seajobs.ru",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-27T07:33:48.006195+00:00"
+},
+{
+"title": "Chief Officer",
+"url": "https://seajobs.ru/ru/vacancy/17811/chief-officer-container-ship",
+"source": "seajobs.ru",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-27T07:33:48.006214+00:00"
+},
+{
+"title": "На приёмку новых судов проекта RSD 59, DWT 8144",
+"url": "https://t.me/onboard_su/20594",
+"source": "Telegram: @onboard_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-8dfe63bfbb5a5dfa",
+"new": false,
+"time": "2026-10-27T07:19:14+00:00"
+},
+{
+"title": "Компания ООО “ТК Северный проект” приглашает на работу:",
+"url": "https://t.me/rekamore_su/163461",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-ebeb13f3c616dd74",
+"new": false,
+"time": "2026-10-27T06:25:16+00:00"
+},
+{
+"title": "Компания  ООО «Волгофлот» приглашает на работу:",
+"url": "https://t.me/rekamore_su/163466",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-6a4f23c50a24f5f5",
+"new": false,
+"time": "2026-10-27T06:29:03+00:00"
+},
+{
+"title": "Компания  ООО «Волгофлот» приглашает на РЕЧНУЮ навигацию 2027 года:",
+"url": "https://t.me/rekamore_su/163467",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-30b8a18dadf70bb3",
+"new": false,
+"time": "2026-10-27T06:29:08+00:00"
 }
 ],
 "msg_ids": [
-1262,
-1263
+1264,
+1265
 ],
-"last_list": "2026-10-27T06:43:32.881140+00:00",
-"cleared_upto": 1261,
-"last_msg_id": 1263
+"last_list": "2026-10-27T07:34:24.852815+00:00",
+"cleared_upto": 1263,
+"last_msg_id": 1265
 }
