@@ -1579,17 +1579,93 @@
 "fp": "fp-7ca9cc61911bd083",
 "new": false,
 "time": "2026-10-28T15:10:17+00:00"
+},
+{
+"title": "2nd Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/367734",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-28T15:53:21.276392+00:00"
+},
+{
+"title": "Chief Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/367735",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-28T15:53:21.276416+00:00"
+},
+{
+"title": "Chief Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/367738",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-28T15:53:21.276423+00:00"
+},
+{
+"title": "Chief Officer",
+"url": "https://t.me/maritimeforum/252982",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-b47c04220a9855c8",
+"new": false,
+"time": "2026-10-28T15:13:47+00:00"
+},
+{
+"title": "DSV DP 2 VACANCY",
+"url": "https://t.me/maritimeforum/252991",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-b291bebd59f358f3",
+"new": false,
+"time": "2026-10-28T15:39:34+00:00"
+},
+{
+"title": "We are looking for experienced crew to join Split Hopper Dredger",
+"url": "https://t.me/maritimeforum/252999",
+"source": "Telegram: @maritimeforum",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-3b95a2834c9f8c72",
+"new": false,
+"time": "2026-10-28T15:40:32+00:00"
+},
+{
+"title": "POTRAŽUJE SE => //(DSV DP2): 2nd Officer DPO.",
+"url": "https://t.me/OnlyOffshore/38706",
+"source": "Telegram: @OnlyOffshore",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-aca28442a795e027",
+"new": false,
+"time": "2026-10-28T15:32:29+00:00"
 }
 ],
 "msg_ids": [
-1401,
-1402,
-1403,
-1404,
-1405,
-1406
+1407,
+1408,
+1409,
+1410,
+1411,
+1412,
+1413
 ],
-"last_list": "2026-10-28T15:14:29.916168+00:00",
-"cleared_upto": 1400,
-"last_msg_id": 1406
+"last_list": "2026-10-28T15:54:21.801570+00:00",
+"cleared_upto": 1406,
+"last_msg_id": 1413
 }
