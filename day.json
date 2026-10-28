@@ -36,12 +36,56 @@
 "fp": "fp-26003ccd2552e07e",
 "new": false,
 "time": "2026-10-28T02:42:27+00:00"
+},
+{
+"title": "2nd Officer on General Cargo Vessel",
+"url": "https://crewell.net/en/vacancies/463569/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-28T05:17:26.880671+00:00"
+},
+{
+"title": "Offshore. Job selection for 28/10/2026",
+"url": "https://t.me/SM_job_center/2448",
+"source": "Telegram: @SM_job_center",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-2182512278222e63",
+"new": false,
+"time": "2026-10-28T05:02:54+00:00"
+},
+{
+"title": "Компания ООО \"Легаси Марин\" приглашает на работу:",
+"url": "https://t.me/rekamore_su/163525",
+"source": "Telegram: @rekamore_su",
+"found": [
+"chief officer",
+"старший помощник"
+],
+"fp": "fp-4bc23476073cd32a",
+"new": false,
+"time": "2026-10-28T04:12:03+00:00"
+},
+{
+"title": "Компания \"ООО НМТП\" (Сахалинская область г. Невельск) приглашает на работу:",
+"url": "https://t.me/rekamore_su/163531",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-b34f75a061f2b291",
+"new": false,
+"time": "2026-10-28T04:27:02+00:00"
 }
 ],
 "msg_ids": [
-1359
+1360
 ],
-"last_list": "2026-10-27T20:57:30.247340+00:00",
-"cleared_upto": 1358,
-"last_msg_id": 1359
+"last_list": "2026-10-28T05:18:19.821069+00:00",
+"cleared_upto": 1359,
+"last_msg_id": 1360
 }
