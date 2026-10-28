@@ -1,10 +1,23 @@
 {
 "date": "2026-10-29",
-"jobs": [],
-"msg_ids": [
-1436
+"jobs": [
+{
+"title": "https://jobatsea.online/job/624545/potrazuje-se-dsv-dp2-2nd-officer-dpo-at-mariner/",
+"url": "https://t.me/offshorevacancies/46955",
+"source": "Telegram: @offshorevacancies",
+"found": [
+"2nd officer",
+"2nd off"
 ],
-"last_list": "2026-10-28T20:18:52.900334+00:00",
-"cleared_upto": 1435,
-"last_msg_id": 1436
+"fp": null,
+"new": false,
+"time": "2026-10-28T21:08:32+00:00"
+}
+],
+"msg_ids": [
+1437
+],
+"last_list": "2026-10-28T21:41:39.807539+00:00",
+"cleared_upto": 1436,
+"last_msg_id": 1437
 }
