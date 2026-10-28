@@ -203,12 +203,118 @@
 "fp": "fp-f6e6a44efd687e15",
 "new": false,
 "time": "2026-10-28T05:36:07+00:00"
+},
+{
+"title": "2nd Officer on VLCC",
+"url": "https://crewell.net/en/vacancies/463581/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-28T07:44:43.361865+00:00"
+},
+{
+"title": "Chief Officer on Oil/chemical tanker",
+"url": "https://crewell.net/en/vacancies/463583/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-28T07:44:43.361893+00:00"
+},
+{
+"title": "2nd Officer",
+"url": "https://seajobs.ru/ru/vacancy/17864/2nd-officer-vlcc",
+"source": "seajobs.ru",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-28T07:44:52.981435+00:00"
+},
+{
+"title": "Chief Officer",
+"url": "https://seajobs.ru/ru/vacancy/17866/chief-officer-chemicaloil-products-tanker",
+"source": "seajobs.ru",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-28T07:44:52.981458+00:00"
+},
+{
+"title": "URGENT VACANCY – CHIEF OFFICER (MPP / HEAVY LIFT)",
+"url": "https://t.me/maritimeforum/252733",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-44b1dd49022b0632",
+"new": false,
+"time": "2026-10-28T07:39:47+00:00"
+},
+{
+"title": "Chief Officer for DP1 Survey Vessel (Namibia)",
+"url": "https://t.me/seamenjob/105919",
+"source": "Telegram: @seamenjob",
+"found": [
+"chief officer",
+"chief mate"
+],
+"fp": "fp-fcfee23750e14eef",
+"new": false,
+"time": "2026-10-28T07:00:04+00:00"
+},
+{
+"title": "URGENT VACANCIES – CAPE SIZE BULK CARRIER",
+"url": "https://t.me/andreeyVstart/1356",
+"source": "Telegram: @andreeyVstart",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-402cc3b8621549d2",
+"new": false,
+"time": "2026-10-28T07:39:55+00:00"
+},
+{
+"title": "Joining in Egypt 8-10/11",
+"url": "https://t.me/job_for_seaman/16925",
+"source": "Telegram: @job_for_seaman",
+"found": [
+"c/o",
+"2/o"
+],
+"fp": "fp-f149aff3ee990713",
+"new": false,
+"time": "2026-10-28T07:36:23+00:00"
+},
+{
+"title": "Компания \"Alteam Crewing\" приглашает на работу:",
+"url": "https://t.me/rekamore_su/163592",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-848c80dbfe689354",
+"new": false,
+"time": "2026-10-28T06:31:04+00:00"
+},
+{
+"title": "Компания ООО \"Белозерское пароходство\" приглашает на работу:",
+"url": "https://t.me/rekamore_su/163598",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-2d9cf4dc561105b4",
+"new": false,
+"time": "2026-10-28T07:08:05+00:00"
 }
 ],
 "msg_ids": [
-1362
+1363,
+1364
 ],
-"last_list": "2026-10-28T06:52:55.101107+00:00",
-"cleared_upto": 1361,
-"last_msg_id": 1362
+"last_list": "2026-10-28T07:45:59.890240+00:00",
+"cleared_upto": 1362,
+"last_msg_id": 1364
 }
