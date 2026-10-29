@@ -574,14 +574,172 @@
 "fp": "fp-26003ccd2552e07e",
 "new": false,
 "time": "2026-10-29T07:05:46+00:00"
+},
+{
+"title": "Chief Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/367757",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-29T09:51:14.643837+00:00"
+},
+{
+"title": "Chief Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/367761",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-29T09:51:14.643860+00:00"
+},
+{
+"title": "ГОРЯЩАЯ ВАКАНСИЯ / URGENT VACANCY",
+"url": "https://t.me/maritimeforum/253093",
+"source": "Telegram: @maritimeforum",
+"found": [
+"2nd officer",
+"2off",
+"2nd off"
+],
+"fp": "fp-19f1e39ceb3b672d",
+"new": false,
+"time": "2026-10-29T08:57:25+00:00"
+},
+{
+"title": "URGENT VACANCY: CHIEF OFFICER (CO) ON VLGC Рассмотрим в старт Only Ukrainian",
+"url": "https://t.me/maritimeforum/253095",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-3160bbd3299111b7",
+"new": false,
+"time": "2026-10-29T08:58:17+00:00"
+},
+{
+"title": "СРОЧНЫЕ ВАКАНСИИ / HOT VACANCIES",
+"url": "https://t.me/maritimeforum/253096",
+"source": "Telegram: @maritimeforum",
+"found": [
+"старший помощник"
+],
+"fp": "fp-5e2835c99aeb7692",
+"new": false,
+"time": "2026-10-29T08:58:36+00:00"
+},
+{
+"title": "URGENT VACANCY: CHIEF OFFICER (CO)",
+"url": "https://t.me/maritimeforum/253097",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-0c2bdec1acb2b3cb",
+"new": false,
+"time": "2026-10-29T08:58:57+00:00"
+},
+{
+"title": "General Cargo",
+"url": "https://t.me/maritimeforum/253109",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-cb1f77b526b96057",
+"new": false,
+"time": "2026-10-29T09:16:23+00:00"
+},
+{
+"title": "Urgent Openings on Bulk Carrier",
+"url": "https://t.me/marinejobs/42763",
+"source": "Telegram: @marinejobs",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-a4cbd21df4675cc4",
+"new": false,
+"time": "2026-10-29T09:37:59+00:00"
+},
+{
+"title": "Exciting Maritime Vacancies!",
+"url": "https://t.me/marinejobs/42764",
+"source": "Telegram: @marinejobs",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-32983a60f6ee8041",
+"new": false,
+"time": "2026-10-29T09:39:58+00:00"
+},
+{
+"title": "HOT VACANCY",
+"url": "https://t.me/jobfor_seamen/12586",
+"source": "Telegram: @jobfor_seamen",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-19c9f82e7b432358",
+"new": false,
+"time": "2026-10-29T09:20:58+00:00"
+},
+{
+"title": "HOT VACANCY",
+"url": "https://t.me/jobfor_seamen/12587",
+"source": "Telegram: @jobfor_seamen",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-ee9b36ab0a326ce0",
+"new": false,
+"time": "2026-10-29T09:21:09+00:00"
+},
+{
+"title": "Multiple Crew Positions for Various Merchant Fleet",
+"url": "https://t.me/seamenjob/105962",
+"source": "Telegram: @seamenjob",
+"found": [
+"chief officer"
+],
+"fp": "fp-6a2a2801e01496be",
+"new": false,
+"time": "2026-10-29T09:35:04+00:00"
+},
+{
+"title": "Актуальные Вакансии на торговый флот",
+"url": "https://t.me/job_for_seaman/16939",
+"source": "Telegram: @job_for_seaman",
+"found": [
+"chief officer",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-2972ca4bca344a73",
+"new": false,
+"time": "2026-10-29T09:31:54+00:00"
+},
+{
+"title": "Компания ООО «Малое море» приглашает на работу:",
+"url": "https://t.me/rekamore_su/163758",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-4184f3f0ebcfe766",
+"new": false,
+"time": "2026-10-29T09:00:05+00:00"
 }
 ],
 "msg_ids": [
-1444,
-1445,
-1446
+1447,
+1448,
+1449
 ],
-"last_list": "2026-10-29T09:14:14.610248+00:00",
-"cleared_upto": 1443,
-"last_msg_id": 1446
+"last_list": "2026-10-29T09:52:16.282559+00:00",
+"cleared_upto": 1446,
+"last_msg_id": 1449
 }
