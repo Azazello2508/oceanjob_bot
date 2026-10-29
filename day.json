@@ -1601,17 +1601,40 @@
 "fp": "fp-5d2e1a9050044951",
 "new": false,
 "time": "2026-10-29T15:03:22+00:00"
+},
+{
+"title": "CONTAINER SHIP",
+"url": "https://t.me/maritimeforum/253298",
+"source": "Telegram: @maritimeforum",
+"found": [
+"2nd off"
+],
+"fp": "fp-89718b0bfb779264",
+"new": false,
+"time": "2026-10-29T15:39:24+00:00"
+},
+{
+"title": "LOOKING FOR CHIEF OFFICER",
+"url": "https://t.me/crewingua/44626",
+"source": "Telegram: @crewingua",
+"found": [
+"chief officer"
+],
+"fp": "fp-8c6f2a0d6706f6e0",
+"new": false,
+"time": "2026-10-29T15:22:14+00:00"
 }
 ],
 "msg_ids": [
-1476,
-1477,
-1478,
-1479,
-1480,
-1481
+1482,
+1483,
+1484,
+1485,
+1486,
+1487,
+1488
 ],
-"last_list": "2026-10-29T15:16:12.115387+00:00",
-"cleared_upto": 1475,
-"last_msg_id": 1481
+"last_list": "2026-10-29T15:55:10.545496+00:00",
+"cleared_upto": 1481,
+"last_msg_id": 1488
 }
