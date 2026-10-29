@@ -1,10 +1,20 @@
 {
 "date": "2026-10-30",
-"jobs": [],
-"msg_ids": [
-1510
+"jobs": [
+{
+"title": "Chief Officer",
+"url": "https://seajobs.ru/ru/vacancy/17901/chief-officer-lng",
+"source": "seajobs.ru",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-29T22:23:51.279594+00:00"
+}
 ],
-"last_list": "2026-10-29T20:20:24.563944+00:00",
-"cleared_upto": 1509,
-"last_msg_id": 1510
+"msg_ids": [
+1511
+],
+"last_list": "2026-10-29T22:24:44.254339+00:00",
+"cleared_upto": 1510,
+"last_msg_id": 1511
 }
