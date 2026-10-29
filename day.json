@@ -12,12 +12,46 @@
 "fp": null,
 "new": false,
 "time": "2026-10-28T21:08:32+00:00"
+},
+{
+"title": "Компания ООО “Угольный морской порт Шахтерск” (Сахалин) приглашает на работу:",
+"url": "https://t.me/rekamore_su/163655",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-f4224da3e215ca7d",
+"new": false,
+"time": "2026-10-29T04:10:05+00:00"
+},
+{
+"title": "Компания ООО \"Легаси Марин\" приглашает на работу:",
+"url": "https://t.me/rekamore_su/163657",
+"source": "Telegram: @rekamore_su",
+"found": [
+"chief officer",
+"старший помощник"
+],
+"fp": "fp-084065d26d640969",
+"new": false,
+"time": "2026-10-29T04:12:06+00:00"
+},
+{
+"title": "Компания \"ООО НМТП\" (Сахалинская область г. Невельск) приглашает на работу:",
+"url": "https://t.me/rekamore_su/163662",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-ae18d132cc9470be",
+"new": false,
+"time": "2026-10-29T04:27:03+00:00"
 }
 ],
 "msg_ids": [
-1437
+1438
 ],
-"last_list": "2026-10-28T21:41:39.807539+00:00",
-"cleared_upto": 1436,
-"last_msg_id": 1437
+"last_list": "2026-10-29T04:30:33.577642+00:00",
+"cleared_upto": 1437,
+"last_msg_id": 1438
 }
