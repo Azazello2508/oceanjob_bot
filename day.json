@@ -1819,18 +1819,38 @@
 "fp": "fp-0dbecf4252e59370",
 "new": false,
 "time": "2026-10-29T18:05:19+00:00"
+},
+{
+"title": "Chief Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/367849",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-29T19:34:48.838177+00:00"
+},
+{
+"title": "Position publishing service was stopped for the night.",
+"url": "https://t.me/marinecareerorg/17747",
+"source": "Telegram: @marinecareerorg",
+"found": [
+"chief officer"
+],
+"fp": "fp-0327e5ad06575c5d",
+"new": false,
+"time": "2026-10-29T19:00:59+00:00"
 }
 ],
 "msg_ids": [
-1496,
-1497,
-1498,
-1499,
-1500,
-1501,
-1502
+1503,
+1504,
+1505,
+1506,
+1507,
+1508,
+1509
 ],
-"last_list": "2026-10-29T18:06:28.071277+00:00",
-"cleared_upto": 1495,
-"last_msg_id": 1502
+"last_list": "2026-10-29T19:35:52.784464+00:00",
+"cleared_upto": 1502,
+"last_msg_id": 1509
 }
