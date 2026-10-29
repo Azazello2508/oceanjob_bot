@@ -76,12 +76,43 @@
 "fp": "fp-b0c8d0309c4a3263",
 "new": false,
 "time": "2026-10-29T05:00:51+00:00"
+},
+{
+"title": "Chief Officer on General Cargo Vessel",
+"url": "https://crewell.net/en/vacancies/463817/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-29T06:03:13.403258+00:00"
+},
+{
+"title": "Анонс вакансий ООО \"П. ТрансКо\" на РЕЧНУЮ навигацию 2027 года.",
+"url": "https://t.me/rekamore_su/163669",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-0765aee547a9577a",
+"new": false,
+"time": "2026-10-29T05:00:06+00:00"
+},
+{
+"title": "ООО «Балтийская Морская Компания» ведет набор специалистов в компанию \"RIX SHIPMANAGEMENT LTD\" (CYPRUS):",
+"url": "https://t.me/rekamore_su/163674",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-13c81967d96df0a7",
+"new": false,
+"time": "2026-10-29T05:00:25+00:00"
 }
 ],
 "msg_ids": [
-1439
+1440
 ],
-"last_list": "2026-10-29T05:20:55.488557+00:00",
-"cleared_upto": 1438,
-"last_msg_id": 1439
+"last_list": "2026-10-29T06:03:59.498121+00:00",
+"cleared_upto": 1439,
+"last_msg_id": 1440
 }
