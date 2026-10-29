@@ -107,12 +107,78 @@
 "fp": "fp-13c81967d96df0a7",
 "new": false,
 "time": "2026-10-29T05:00:25+00:00"
+},
+{
+"title": "На приёмку новых судов проекта RSD 59, DWT 8144",
+"url": "https://t.me/onboard_su/20621",
+"source": "Telegram: @onboard_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-9dd5f645c16dcc7b",
+"new": false,
+"time": "2026-10-29T06:38:28+00:00"
+},
+{
+"title": "Компания “Северный Альянс” приглашает на работу:",
+"url": "https://t.me/rekamore_su/163690",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-51743fd97eff3ead",
+"new": false,
+"time": "2026-10-29T05:33:19+00:00"
+},
+{
+"title": "Компания ООО НП «Балтийское Морское Пароходство» приглашает на работу:",
+"url": "https://t.me/rekamore_su/163692",
+"source": "Telegram: @rekamore_su",
+"found": [
+"2off"
+],
+"fp": "fp-12f2b92bbfaa1dd8",
+"new": false,
+"time": "2026-10-29T05:35:05+00:00"
+},
+{
+"title": "Компания ООО НП «Балтийское Морское Пароходство» приглашает на работу:",
+"url": "https://t.me/rekamore_su/163694",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-53cb10282b74dc9f",
+"new": false,
+"time": "2026-10-29T05:35:12+00:00"
+},
+{
+"title": "Судоходная компания \"Eco Shipping\" приглашает на работу:",
+"url": "https://t.me/rekamore_su/163697",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-f6e6a44efd687e15",
+"new": false,
+"time": "2026-10-29T05:36:08+00:00"
+},
+{
+"title": "В судоходную компанию \"Дельта\" требуется:",
+"url": "https://t.me/rekamore_su/163724",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-659260022db932d7",
+"new": false,
+"time": "2026-10-29T06:31:25+00:00"
 }
 ],
 "msg_ids": [
-1440
+1441
 ],
-"last_list": "2026-10-29T06:03:59.498121+00:00",
-"cleared_upto": 1439,
-"last_msg_id": 1440
+"last_list": "2026-10-29T06:54:42.386547+00:00",
+"cleared_upto": 1440,
+"last_msg_id": 1441
 }
