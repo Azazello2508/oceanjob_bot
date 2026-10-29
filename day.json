@@ -46,12 +46,42 @@
 "fp": "fp-ae18d132cc9470be",
 "new": false,
 "time": "2026-10-29T04:27:03+00:00"
+},
+{
+"title": "2nd Officer on LPG",
+"url": "https://crewell.net/en/vacancies/463793/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-29T05:20:00.670852+00:00"
+},
+{
+"title": "2nd Officer on LPG",
+"url": "https://crewell.net/en/vacancies/463795/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-29T05:20:00.670881+00:00"
+},
+{
+"title": "Offshore. Job selection for 29/10/2026",
+"url": "https://t.me/SM_job_center/2452",
+"source": "Telegram: @SM_job_center",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-b0c8d0309c4a3263",
+"new": false,
+"time": "2026-10-29T05:00:51+00:00"
 }
 ],
 "msg_ids": [
-1438
+1439
 ],
-"last_list": "2026-10-29T04:30:33.577642+00:00",
-"cleared_upto": 1437,
-"last_msg_id": 1438
+"last_list": "2026-10-29T05:20:55.488557+00:00",
+"cleared_upto": 1438,
+"last_msg_id": 1439
 }
