@@ -173,12 +173,170 @@
 "fp": "fp-659260022db932d7",
 "new": false,
 "time": "2026-10-29T06:31:25+00:00"
+},
+{
+"title": "2nd Officer on General Cargo Vessel",
+"url": "https://crewell.net/en/vacancies/463826/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-29T08:24:50.058524+00:00"
+},
+{
+"title": "Chief Officer on General Cargo Vessel",
+"url": "https://crewell.net/en/vacancies/463825/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-29T08:24:50.058551+00:00"
+},
+{
+"title": "Chief Officer",
+"url": "https://seajobs.ru/ru/vacancy/17884/chief-officer-container-ship",
+"source": "seajobs.ru",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-29T08:25:03.330287+00:00"
+},
+{
+"title": "Chief Officer",
+"url": "https://seajobs.ru/ru/vacancy/17885/chief-officer-general-cargo",
+"source": "seajobs.ru",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-29T08:25:03.330310+00:00"
+},
+{
+"title": "Offshore Opportunity: Newbuild DP1 Research Vessel",
+"url": "https://t.me/marinejobs/42748",
+"source": "Telegram: @marinejobs",
+"found": [
+"chief officer"
+],
+"fp": "fp-6284e4d98da420d5",
+"new": false,
+"time": "2026-10-29T07:33:14+00:00"
+},
+{
+"title": "Danaos Shipping Ltd (Ukraine) is expanding crewing for Container and Capesize Bulk Carrier fleets with competitive salaries.",
+"url": "https://t.me/marinejobs/42751",
+"source": "Telegram: @marinejobs",
+"found": [
+"2nd off"
+],
+"fp": "fp-e283cc804978b149",
+"new": false,
+"time": "2026-10-29T08:02:36+00:00"
+},
+{
+"title": "Chief Officer Opening",
+"url": "https://t.me/marinejobs/42753",
+"source": "Telegram: @marinejobs",
+"found": [
+"chief officer"
+],
+"fp": "fp-beccdd8dbf9ec10e",
+"new": false,
+"time": "2026-10-29T08:08:16+00:00"
+},
+{
+"title": "СРОЧНАЯ ВАКАНСИЯ",
+"url": "https://t.me/crewingua/44612",
+"source": "Telegram: @crewingua",
+"found": [
+"2/o"
+],
+"fp": "fp-4ca3018573917f31",
+"new": false,
+"time": "2026-10-29T08:17:50+00:00"
+},
+{
+"title": "DRY CARGO FLEET - General Cargo",
+"url": "https://t.me/crewingua/44613",
+"source": "Telegram: @crewingua",
+"found": [
+"chief officer"
+],
+"fp": "fp-acc11afbca6ea721",
+"new": false,
+"time": "2026-10-29T08:19:21+00:00"
+},
+{
+"title": "VACANCY: CHIEF OFFICER",
+"url": "https://t.me/jobfor_seamen/12584",
+"source": "Telegram: @jobfor_seamen",
+"found": [
+"chief officer"
+],
+"fp": "fp-b2939a815920ca9a",
+"new": false,
+"time": "2026-10-29T07:21:23+00:00"
+},
+{
+"title": "Компания ООО “Трэвелер Шиппинг” приглашает на работу:",
+"url": "https://t.me/rekamore_su/163715",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-0c7f3b527e28c8ef",
+"new": false,
+"time": "2026-10-29T06:25:12+00:00"
+},
+{
+"title": "Компания ООО “ТК Северный проект” приглашает на работу:",
+"url": "https://t.me/rekamore_su/163716",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-ebeb13f3c616dd74",
+"new": false,
+"time": "2026-10-29T06:25:16+00:00"
+},
+{
+"title": "Компания  ООО «Волгофлот» приглашает на работу:",
+"url": "https://t.me/rekamore_su/163720",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-6a4f23c50a24f5f5",
+"new": false,
+"time": "2026-10-29T06:29:05+00:00"
+},
+{
+"title": "Компания  ООО «Волгофлот» приглашает на РЕЧНУЮ навигацию 2027 года:",
+"url": "https://t.me/rekamore_su/163721",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-30b8a18dadf70bb3",
+"new": false,
+"time": "2026-10-29T06:29:08+00:00"
+},
+{
+"title": "Компания \"Alteam Crewing\" приглашает на работу:",
+"url": "https://t.me/rekamore_su/163723",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-848c80dbfe689354",
+"new": false,
+"time": "2026-10-29T06:31:03+00:00"
 }
 ],
 "msg_ids": [
-1441
+1442,
+1443
 ],
-"last_list": "2026-10-29T06:54:42.386547+00:00",
-"cleared_upto": 1440,
-"last_msg_id": 1441
+"last_list": "2026-10-29T08:25:56.109666+00:00",
+"cleared_upto": 1441,
+"last_msg_id": 1443
 }
