@@ -1773,18 +1773,40 @@
 "fp": "fp-c0bea9e22c7eb8d8",
 "new": false,
 "time": "2026-10-29T16:40:37+00:00"
+},
+{
+"title": "SVS MANAGEMENT",
+"url": "https://t.me/maritimeforum/253309",
+"source": "Telegram: @maritimeforum",
+"found": [
+"старпом"
+],
+"fp": "fp-b35fe87f2823a466",
+"new": false,
+"time": "2026-10-29T17:55:57+00:00"
+},
+{
+"title": "Список закрытых каналов в",
+"url": "https://t.me/rekamore_su/163784",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-de84ab9948b9e3a9",
+"new": false,
+"time": "2026-10-29T16:03:01+00:00"
 }
 ],
 "msg_ids": [
-1489,
-1490,
-1491,
-1492,
-1493,
-1494,
-1495
+1496,
+1497,
+1498,
+1499,
+1500,
+1501,
+1502
 ],
-"last_list": "2026-10-29T17:27:00.732842+00:00",
-"cleared_upto": 1488,
-"last_msg_id": 1495
+"last_list": "2026-10-29T18:06:28.071277+00:00",
+"cleared_upto": 1495,
+"last_msg_id": 1502
 }
