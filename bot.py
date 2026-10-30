@@ -17,7 +17,11 @@ CHAT_ID = os.environ["TELEGRAM_CHAT_ID"]
 # Какие должности искать (без учёта регистра)
 KEYWORDS = [
     "chief officer", "c/o", "chief mate", "jdpo",
-    "second officer", "2nd officer", "2/o", "dp basic", "dp induction", "sdpo", "dpo",
+    "second officer", "2nd officer", "2/o", "sdpo", "dpo",
+    # младшие DP-должности и DP-стажировки — особенно важны
+    "jdpo", "junior dpo", "jr dpo", "jr. dpo", "trainee dpo", "dpo trainee", "dp trainee",
+    "trainee dp", "dp basic", "basic dp", "dp induction", "induction dp", "dp sea time", "dp seatime",
+    "dp sea-time", "sea time dp", "dp familiarization", "dp limited", "dp operator",
     "2off", "2nd off", "2/off",
     # оффшорные сокращения
     "co/dpo", "co/sdpo", "2o/dpo", "ch/off", "choff",
@@ -138,8 +142,8 @@ SITES = {
     },
     "oceancrew.org": {
         "pages": [f"https://oceancrew.org/vacancies/offshore/{r}"
-                  for r in ["chief-officer", "sdpo", "2nd-officer", "dpo"]],
-        "pattern": r"/vacancies/offshore/(?:chief-officer|sdpo|2nd-officer|dpo)/([\w-]+_\d{2}-\d{2}-\d{4})",
+                  for r in ["chief-officer", "sdpo", "2nd-officer", "dpo", "3rd-officer", "cadets"]],
+        "pattern": r"/vacancies/offshore/(?:chief-officer|sdpo|2nd-officer|dpo|3rd-officer|cadets)/([\w-]+_\d{2}-\d{2}-\d{4})",
         "base": "https://oceancrew.org",
     },
     "maritime-union.com": {
@@ -335,10 +339,21 @@ def short(text, limit=160):
 
 OFFSHORE_WORDS = ["offshore", "оффшор", "офшор", "psv", "ahts", "aht ", "aht,", "osv", "mpsv", "dsv",
                   "fsv", "fcs", "crew boat", "supply vessel", "anchor handl", "dp1", "dp2", "dp3",
-                  "dp-1", "dp-2", "dp-3", "dpo", "sdpo", "jack-up", "jack up", "rig ", "platform",
+                  "dp-1", "dp-2", "dp-3", "dpo", "sdpo", "jdpo", "dp trainee", "dp basic", "dp induction", "jack-up", "jack up", "rig ", "platform",
                   "subsea", "rov", "wind farm", "ctv", "sov ", "walk to work", "w2w", "oil & gas",
                   "survey vessel", "cable lay", "pipe lay", "standby vessel", "erv", "fpso", "28/28",
                   "21/21", "35/35", "/day", "per day", "day rate"]
+
+
+JUNIOR_DP_WORDS = ["jdpo", "junior dpo", "jr dpo", "jr. dpo", "trainee dpo", "dpo trainee", "dp trainee",
+                   "trainee dp", "dp basic", "basic dp", "dp induction", "induction dp", "dp sea time",
+                   "dp seatime", "dp sea-time", "sea time dp", "dp familiarization", "dp limited",
+                   "jdpo", "dp trainee"]
+
+
+def is_junior_dp(text):
+    t = text.lower()
+    return any(w in t for w in JUNIOR_DP_WORDS)
 
 
 def is_offshore(text):
@@ -350,8 +365,12 @@ def is_offshore(text):
 RANKS = [("Chief Officer", ["chief officer", "c/o", "chief mate", "choff", "ch/off", "co/dpo", "co/sdpo",
                             "старпом", "старший помощник", "ст. помощник", "ст.помощник"]),
          ("2nd Officer", ["second officer", "2nd officer", "2/o", "2off", "2nd off", "2/off", "2o/dpo"]),
-         ("JDPO", ["jdpo"]), ("SDPO", ["sdpo"]), ("DPO", ["dpo"]),
-         ("DP Basic/Induction", ["dp basic", "dp induction"])]
+         ("JDPO", ["jdpo", "junior dpo", "jr dpo", "jr. dpo"]),
+         ("DP Trainee", ["trainee dpo", "dpo trainee", "dp trainee", "trainee dp", "dp sea time",
+                         "dp seatime", "dp sea-time", "sea time dp"]),
+         ("SDPO", ["sdpo"]), ("DPO", ["dpo", "dp operator"]),
+         ("DP Basic/Induction", ["dp basic", "basic dp", "dp induction", "induction dp",
+                                 "dp familiarization", "dp limited"])]
 VESSEL_TYPES = [("VLCC", ["vlcc"]), ("Aframax", ["aframax"]), ("Suezmax", ["suezmax"]),
                 ("LPG", ["lpg"]), ("LNG", ["lng"]), ("Chemical tanker", ["chemical", "chem tanker", "oil/chem", "химовоз"]),
                 ("Crude oil tanker", ["crude"]), ("Product tanker", ["product tanker"]),
@@ -381,7 +400,7 @@ def summarize(text, found=None, contact=None):
     low = " " + text.lower() + " "
     info = {}
     ranks = [name for name, ws in RANKS if any(w in low for w in ws)]
-    if "SDPO" in ranks and "DPO" in ranks:
+    if "DPO" in ranks and ({"SDPO", "JDPO", "DP Trainee"} & set(ranks)):
         ranks.remove("DPO")
     info["rank"] = " / ".join(ranks[:3])
     vessels = [name for name, ws in VESSEL_TYPES if any(w in low for w in ws)]
@@ -444,16 +463,20 @@ def render(day):
     for j in day["jobs"]:
         j.setdefault("offshore", is_offshore(j["title"]))
     order = lambda j: (not j["new"], -datetime.fromisoformat(j["time"]).timestamp())
-    off = sorted([j for j in day["jobs"] if j["offshore"]], key=order)
-    rest = sorted([j for j in day["jobs"] if not j["offshore"]], key=order)
+    for j in day["jobs"]:
+        j["junior_dp"] = is_junior_dp(j["title"] + " " + " ".join(j.get("found") or []) + " "
+                                      + (j.get("info") or {}).get("rank", ""))
+    jdp = sorted([j for j in day["jobs"] if j["junior_dp"]], key=order)
+    off = sorted([j for j in day["jobs"] if j["offshore"] and not j["junior_dp"]], key=order)
+    rest = sorted([j for j in day["jobs"] if not j["offshore"] and not j["junior_dp"]], key=order)
     n_new = sum(j["new"] for j in day["jobs"])
     head = (f"📋 <b>Вакансии за {day['date'][8:10]}.{day['date'][5:7]}</b> — всего {len(day['jobs'])}, "
-            f"🛢 оффшор {len(off)}, новых {n_new}\n(обновлено в {datetime.now(LOCAL_TZ):%H:%M})\n")
+            f"🎓 JDPO/DP {len(jdp)}, 🛢 оффшор {len(off)}, новых {n_new}\n(обновлено в {datetime.now(LOCAL_TZ):%H:%M})\n")
 
     def block(j):
         mark = "🆕 <b>НОВАЯ</b> · " if j["new"] else ""
         when = datetime.fromisoformat(j["time"]).astimezone(LOCAL_TZ).strftime("%H:%M")
-        icon = "🛢" if j["offshore"] else "🚢"
+        icon = "🎓" if j.get("junior_dp") else "🛢" if j["offshore"] else "🚢"
         i = j.get("info") or summarize(j["title"])
         e = html.escape
         rank = e(i.get("rank") or ", ".join(j.get("found") or []) or "Вакансия")
@@ -474,6 +497,9 @@ def render(day):
                 f"<a href=\"{e(j['url'])}\">открыть</a>{letter_link(j, i)}{email}")
 
     blocks = []
+    if jdp:
+        blocks.append(f"━━━━━━━━━━\n🎓 <b>JDPO / DP TRAINEE / DP BASIC ({len(jdp)})</b>\n━━━━━━━━━━")
+        blocks += [block(j) for j in jdp]
     if off:
         blocks.append(f"━━━━━━━━━━\n🛢 <b>ОФФШОР ({len(off)})</b>\n━━━━━━━━━━")
         blocks += [block(j) for j in off]
