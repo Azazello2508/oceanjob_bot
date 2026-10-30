@@ -17,7 +17,7 @@ CHAT_ID = os.environ["TELEGRAM_CHAT_ID"]
 # Какие должности искать (без учёта регистра)
 KEYWORDS = [
     "chief officer", "c/o", "chief mate", "jdpo",
-    "second officer", "2nd officer", "2/o", "dp basic", "dp induction",
+    "second officer", "2nd officer", "2/o", "dp basic", "dp induction", "sdpo", "dpo",
     "2off", "2nd off", "2/off",
     # оффшорные сокращения
     "co/dpo", "co/sdpo", "2o/dpo", "ch/off", "choff",
@@ -326,22 +326,46 @@ def short(text, limit=160):
     return text if len(text) <= limit else text[:limit].rstrip() + "…"
 
 
+OFFSHORE_WORDS = ["offshore", "оффшор", "офшор", "psv", "ahts", "aht ", "aht,", "osv", "mpsv", "dsv",
+                  "fsv", "fcs", "crew boat", "supply vessel", "anchor handl", "dp1", "dp2", "dp3",
+                  "dp-1", "dp-2", "dp-3", "dpo", "sdpo", "jack-up", "jack up", "rig ", "platform",
+                  "subsea", "rov", "wind farm", "ctv", "sov ", "walk to work", "w2w", "oil & gas",
+                  "survey vessel", "cable lay", "pipe lay", "standby vessel", "erv", "fpso", "28/28",
+                  "21/21", "35/35", "/day", "per day", "day rate"]
+
+
+def is_offshore(text):
+    t = " " + text.lower() + " "
+    return any(w in t for w in OFFSHORE_WORDS)
+
+
 def render(day):
-    """Готовит текст списка (может получиться несколько сообщений)."""
-    jobs = sorted(day["jobs"], key=lambda j: (not j["new"], j["time"]), reverse=False)
-    new = [j for j in jobs if j["new"]]
-    old = [j for j in jobs if not j["new"]]
-    old.sort(key=lambda j: j["time"], reverse=True)
-    new.sort(key=lambda j: j["time"], reverse=True)
-    head = (f"📋 <b>Вакансии за {day['date'][8:10]}.{day['date'][5:7]}</b> — всего {len(jobs)}, "
-            f"новых {len(new)}\n(обновлено в {datetime.now(LOCAL_TZ):%H:%M})\n")
-    blocks = []
-    for j in new + old:
+    """Готовит текст списка (может получиться несколько сообщений).
+    Сначала — оффшорные вакансии, потом остальные; в каждой части новые сверху."""
+    for j in day["jobs"]:
+        j.setdefault("offshore", is_offshore(j["title"]))
+    order = lambda j: (not j["new"], -datetime.fromisoformat(j["time"]).timestamp())
+    off = sorted([j for j in day["jobs"] if j["offshore"]], key=order)
+    rest = sorted([j for j in day["jobs"] if not j["offshore"]], key=order)
+    n_new = sum(j["new"] for j in day["jobs"])
+    head = (f"📋 <b>Вакансии за {day['date'][8:10]}.{day['date'][5:7]}</b> — всего {len(day['jobs'])}, "
+            f"🛢 оффшор {len(off)}, новых {n_new}\n(обновлено в {datetime.now(LOCAL_TZ):%H:%M})\n")
+
+    def block(j):
         mark = "🆕 <b>НОВАЯ</b>\n" if j["new"] else ""
         found = f"🔎 {html.escape(', '.join(j['found']))}\n" if j.get("found") else ""
         when = datetime.fromisoformat(j["time"]).astimezone(LOCAL_TZ).strftime("%H:%M")
-        blocks.append(f"{mark}{found}🕒 {when} · 🚢 {html.escape(j['title'])}\n"
-                      f"<i>{html.escape(j['source'])}</i> · <a href=\"{html.escape(j['url'])}\">открыть</a>")
+        icon = "🛢" if j["offshore"] else "🚢"
+        return (f"{mark}{found}🕒 {when} · {icon} {html.escape(j['title'])}\n"
+                f"<i>{html.escape(j['source'])}</i> · <a href=\"{html.escape(j['url'])}\">открыть</a>")
+
+    blocks = []
+    if off:
+        blocks.append(f"━━━━━━━━━━\n🛢 <b>ОФФШОР ({len(off)})</b>\n━━━━━━━━━━")
+        blocks += [block(j) for j in off]
+    if rest:
+        blocks.append(f"━━━━━━━━━━\n🚢 <b>ОСТАЛЬНЫЕ ({len(rest)})</b>\n━━━━━━━━━━")
+        blocks += [block(j) for j in rest]
     parts, cur = [], head
     for b in blocks:
         if len(cur) + len(b) + 2 > MAX_LEN:
@@ -508,6 +532,7 @@ def main():
             day["jobs"].append({
                 "title": short(job["title"]), "url": job["url"], "source": label,
                 "found": job.get("found") or [], "fp": fp,
+                "offshore": is_offshore(job["title"] + " " + job["url"].replace("-", " ")),
                 "new": not known,
                 "time": when.astimezone(timezone.utc).isoformat(),
             })
