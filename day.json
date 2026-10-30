@@ -9,12 +9,59 @@
 "fp": null,
 "new": false,
 "time": "2026-10-29T22:23:51.279594+00:00"
+},
+{
+"title": "Marine Crewing Agency Everest",
+"url": "https://t.me/onboard_su/20634",
+"source": "Telegram: @onboard_su",
+"found": [
+"chief officer"
+],
+"fp": "fp-26003ccd2552e07e",
+"new": false,
+"time": "2026-10-30T03:59:45+00:00"
+},
+{
+"title": "Offshore. Job selection for 30/10/2026",
+"url": "https://t.me/SM_job_center/2456",
+"source": "Telegram: @SM_job_center",
+"found": [
+"chief officer",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-d24c04978efda9e9",
+"new": false,
+"time": "2026-10-30T05:03:26+00:00"
+},
+{
+"title": "Компания ООО \"Легаси Марин\" приглашает на работу:",
+"url": "https://t.me/rekamore_su/163788",
+"source": "Telegram: @rekamore_su",
+"found": [
+"chief officer",
+"старший помощник"
+],
+"fp": "fp-084065d26d640969",
+"new": false,
+"time": "2026-10-30T04:12:05+00:00"
+},
+{
+"title": "Компания \"ООО НМТП\" (Сахалинская область г. Невельск) приглашает на работу:",
+"url": "https://t.me/rekamore_su/163793",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-ae18d132cc9470be",
+"new": false,
+"time": "2026-10-30T04:27:03+00:00"
 }
 ],
 "msg_ids": [
-1511
+1512
 ],
-"last_list": "2026-10-29T22:24:44.254339+00:00",
-"cleared_upto": 1510,
-"last_msg_id": 1511
+"last_list": "2026-10-30T05:20:44.185297+00:00",
+"cleared_upto": 1511,
+"last_msg_id": 1512
 }
