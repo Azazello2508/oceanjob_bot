@@ -1706,5 +1706,6 @@
 ],
 "last_list": "2026-10-30T15:14:36.938460+00:00",
 "cleared_upto": 1554,
-"last_msg_id": 1561
+"last_msg_id": 1561,
+"force": true
 }

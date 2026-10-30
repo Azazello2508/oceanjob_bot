@@ -339,6 +339,68 @@ def is_offshore(text):
     return any(w in t for w in OFFSHORE_WORDS)
 
 
+# ---------- Краткая карточка вакансии ----------
+RANKS = [("Chief Officer", ["chief officer", "c/o", "chief mate", "choff", "ch/off", "co/dpo", "co/sdpo",
+                            "старпом", "старший помощник", "ст. помощник", "ст.помощник"]),
+         ("2nd Officer", ["second officer", "2nd officer", "2/o", "2off", "2nd off", "2/off", "2o/dpo"]),
+         ("JDPO", ["jdpo"]), ("SDPO", ["sdpo"]), ("DPO", ["dpo"]),
+         ("DP Basic/Induction", ["dp basic", "dp induction"])]
+VESSEL_TYPES = [("VLCC", ["vlcc"]), ("Aframax", ["aframax"]), ("Suezmax", ["suezmax"]),
+                ("LPG", ["lpg"]), ("LNG", ["lng"]), ("Chemical tanker", ["chemical", "chem tanker", "oil/chem", "химовоз"]),
+                ("Crude oil tanker", ["crude"]), ("Product tanker", ["product tanker"]),
+                ("Tanker", ["tanker", "танкер"]), ("Bulk carrier", ["bulk", "балкер"]),
+                ("Container", ["container", "контейнеровоз"]), ("General cargo", ["general cargo", "сухогруз"]),
+                ("MPP", ["mpp", "multi-purpose", "multipurpose"]), ("Ro-Ro", ["ro-ro", "roro", "ro/ro"]),
+                ("PCTC", ["pctc", "car carrier", "pcc"]), ("Reefer", ["reefer", "рефрижер"]),
+                ("PSV", ["psv"]), ("AHTS", ["ahts"]), ("AHT", ["aht "]), ("OSV", ["osv"]), ("MPSV", ["mpsv"]),
+                ("DSV", ["dsv", "diving support"]), ("FSV", ["fsv"]), ("Crew boat", ["crew boat", "crewboat"]),
+                ("Tug", ["tug", "буксир"]), ("Dredger", ["dredg", "земснаряд"]), ("Jack-up", ["jack-up", "jack up"]),
+                ("Cruise", ["cruise"]), ("Passenger", ["passenger", "пассажир"]), ("Barge", ["barge", "баржа"])]
+FIELD_RE = {
+    "salary": r"(?:salary|wage|оклад|зарплата|з/п|зп)\s*[:\-–]?\s*([^\n]{2,40})",
+    "joining": r"(?:joining(?: date)?|join date|embarkation|посадка|дата посадки)\s*[:\-–]?\s*([^\n]{2,30})",
+    "contract": r"(?:contract(?: duration)?|duration|rotation|контракт|ротация)\s*[:\-–]?\s*([^\n]{1,25})",
+}
+MONEY_RE = r"((?:[$€]\s?\d[\d\s,.]*(?:\s*[-–]\s*[$€]?\s?\d[\d\s,.]*)?)|(?:\d[\d\s,.]{2,}(?:\s*[-–]\s*\d[\d\s,.]*)?\s*(?:usd|eur|\$|€|руб|₽)(?:\s*/\s*day|\s*per day|\s*/\s*month)?))"
+
+
+def clean(v, limit=30):
+    v = re.sub(r"[*_`]+", "", v).strip(" .,;:-–|•")
+    return v if len(v) <= limit else v[:limit].rstrip() + "…"
+
+
+def summarize(text, found=None, contact=None):
+    """Достаёт из текста вакансии главное: должность, судно, зарплату, посадку, контракт, крюинг."""
+    low = " " + text.lower() + " "
+    info = {}
+    ranks = [name for name, ws in RANKS if any(w in low for w in ws)]
+    if "SDPO" in ranks and "DPO" in ranks:
+        ranks.remove("DPO")
+    info["rank"] = " / ".join(ranks[:3])
+    vessels = [name for name, ws in VESSEL_TYPES if any(w in low for w in ws)]
+    if "Tanker" in vessels and len(vessels) > 1:
+        vessels.remove("Tanker")
+    info["vessel"] = ", ".join(vessels[:2])
+    for key, rx in FIELD_RE.items():
+        m = re.search(rx, text, re.I)
+        if m:
+            info[key] = clean(m.group(1))
+    if "salary" not in info:
+        m = re.search(MONEY_RE, text, re.I)
+        if m:
+            info["salary"] = clean(m.group(1))
+    m = re.search(r"[\w.+-]+@([\w-]+\.[\w.-]+)", text)
+    if m and m.group(1).lower() not in FREE_MAIL:
+        info["company"] = m.group(1).lower()
+    else:
+        for line in text.splitlines()[:6]:
+            if re.search(r"\b(llc|ltd|inc|crew|marine|shipping|maritime|management|ооо|ао)\b", line, re.I):
+                line = re.sub(r"^(компания|company)\s+|\s*(приглашает|invites|is looking|ищет).*$", "", line.strip(), flags=re.I)
+                info["company"] = clean(line, 35)
+                break
+    return {k: v for k, v in info.items() if v}
+
+
 def render(day):
     """Готовит текст списка (может получиться несколько сообщений).
     Сначала — оффшорные вакансии, потом остальные; в каждой части новые сверху."""
@@ -352,12 +414,26 @@ def render(day):
             f"🛢 оффшор {len(off)}, новых {n_new}\n(обновлено в {datetime.now(LOCAL_TZ):%H:%M})\n")
 
     def block(j):
-        mark = "🆕 <b>НОВАЯ</b>\n" if j["new"] else ""
-        found = f"🔎 {html.escape(', '.join(j['found']))}\n" if j.get("found") else ""
+        mark = "🆕 <b>НОВАЯ</b> · " if j["new"] else ""
         when = datetime.fromisoformat(j["time"]).astimezone(LOCAL_TZ).strftime("%H:%M")
         icon = "🛢" if j["offshore"] else "🚢"
-        return (f"{mark}{found}🕒 {when} · {icon} {html.escape(j['title'])}\n"
-                f"<i>{html.escape(j['source'])}</i> · <a href=\"{html.escape(j['url'])}\">открыть</a>")
+        i = j.get("info") or summarize(j["title"])
+        e = html.escape
+        rank = e(i.get("rank") or ", ".join(j.get("found") or []) or "Вакансия")
+        line1 = f"{mark}🕒 {when}\n{icon} <b>{rank}</b>" + (f" — {e(i['vessel'])}" if i.get("vessel") else "")
+        details = []
+        if i.get("salary"):
+            details.append(f"💰 {e(i['salary'])}")
+        if i.get("joining"):
+            details.append(f"📅 {e(i['joining'])}")
+        if i.get("contract"):
+            details.append(f"⏳ {e(i['contract'])}")
+        line2 = ("\n" + " · ".join(details)) if details else ""
+        if not i.get("vessel") and not details:  # ничего не нашли — покажем начало текста
+            line2 = f"\n<i>{e(j['title'])}</i>"
+        company = f"🏢 {e(i['company'])} · " if i.get("company") else ""
+        return (f"{line1}{line2}\n{company}{e(j['source'].replace('Telegram: ', ''))} · "
+                f"<a href=\"{e(j['url'])}\">открыть</a>")
 
     blocks = []
     if off:
@@ -533,6 +609,7 @@ def main():
                 "title": short(job["title"]), "url": job["url"], "source": label,
                 "found": job.get("found") or [], "fp": fp,
                 "offshore": is_offshore(job["title"] + " " + job["url"].replace("-", " ")),
+                "info": summarize(job["title"] + " " + job["url"].split("/")[-1].replace("-", " ")),
                 "new": not known,
                 "time": when.astimezone(timezone.utc).isoformat(),
             })
