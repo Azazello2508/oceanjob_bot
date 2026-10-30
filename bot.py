@@ -269,12 +269,14 @@ def send(text, html_mode=False):
 
 
 LAST_SENT = 0
+KEEP_IDS = []   # сообщения, которые чистка чата не трогает (справочник крюингов)
 
 
 def clear_chat(from_id, to_id):
     """Удаляет из чата все сообщения с номерами from_id..to_id (и бота, и ваши).
     Telegram позволяет удалять только сообщения младше 48 часов — остальные пропускаются."""
-    ids = list(range(max(1, from_id), to_id + 1))
+    keep = set(KEEP_IDS)
+    ids = [i for i in range(max(1, from_id), to_id + 1) if i not in keep]
     for i in range(0, len(ids), 100):
         batch = ids[i:i + 100]
         try:
@@ -364,8 +366,77 @@ def publish(day, report=None):
     day["last_list"] = datetime.now(timezone.utc).isoformat()
 
 
+# ---------- Справочник крюингов ----------
+CREW_FILE = Path("crewings.json")
+CO_WORDS = ["chief officer", "c/o", "chief mate", "choff", "ch/off", "co/dpo", "co/sdpo",
+            "старпом", "старший помощник", "ст. помощник", "ст.помощник"]
+SO_WORDS = ["second officer", "2nd officer", "2/o", "2off", "2nd off", "2/off", "2o/dpo"]
+VESSELS = {"Bulk": ["bulk", "балкер"], "Tanker": ["tanker", "танкер", "vlcc", "aframax"],
+           "Chemical": ["chem"], "LPG/LNG": ["lpg", "lng", "gas carrier", "газовоз"],
+           "Container": ["container", "контейнер"], "General cargo": ["general cargo", "mpp", "сухогруз"],
+           "Offshore": ["psv", "ahts", "aht ", "offshore", "dp2", "dp1", "оффшор", "mpsv", "dsv"],
+           "Tug": ["tug", "буксир"], "Ro-Ro/PCTC": ["ro-ro", "roro", "pctc", "car carrier"],
+           "Reefer": ["reefer", "рефрижер"], "Passenger": ["passenger", "cruise", "пассажир"],
+           "Dredger": ["dredg", "земснаряд"]}
+FREE_MAIL = {"gmail.com", "yahoo.com", "hotmail.com", "outlook.com", "mail.ru", "ukr.net",
+             "yandex.ru", "i.ua", "icloud.com", "bk.ru", "inbox.ru", "list.ru", "meta.ua", "yandex.ua"}
+
+
+def load_crew():
+    return json.loads(CREW_FILE.read_text()) if CREW_FILE.exists() else {"companies": {}, "last_file": ""}
+
+
+def add_crewing(crew, text, source):
+    """Достаёт из текста вакансии контакты крюинга и обновляет справочник."""
+    low = text.lower()
+    emails = sorted({e.lower().rstrip(".") for e in re.findall(r"[\w.+-]+@[\w-]+\.[\w.-]+", text)})
+    channels = {c.lower() for c in CHANNELS}
+    tgs = sorted({"@" + h for h in re.findall(r"(?<![\w.])@(\w{4,})", text)
+                  if h.lower() not in channels and not h.lower().endswith("bot")})
+    phones = sorted({re.sub(r"[^\d+]", "", p) for p in re.findall(r"\+\d[\d\s()-]{8,}\d", text)})
+    if not emails and not tgs:
+        return
+    if emails:
+        domain = emails[0].split("@")[1]
+        key = emails[0] if domain in FREE_MAIL else domain
+    else:
+        key = tgs[0].lower()
+    c = crew["companies"].setdefault(key, {"emails": [], "telegram": [], "phones": [], "co": 0,
+                                           "so": 0, "vessels": [], "last": "", "sources": []})
+    for field, values in (("emails", emails), ("telegram", tgs), ("phones", phones), ("sources", [source])):
+        c[field] = sorted(set(c[field]) | set(values))[:8]
+    c["co"] += any(w in low for w in CO_WORDS)
+    c["so"] += any(w in low for w in SO_WORDS)
+    c["vessels"] = sorted(set(c["vessels"]) | {v for v, ws in VESSELS.items() if any(w in low for w in ws)})
+    c["last"] = datetime.now(LOCAL_TZ).strftime("%Y-%m-%d")
+
+
+def send_crew_file(crew):
+    """Присылает в чат таблицу крюингов (CSV — открывается в Excel и Google Таблицах)."""
+    import csv, io
+    rows = sorted(crew["companies"].items(), key=lambda kv: (kv[1]["co"], kv[1]["so"]), reverse=True)
+    buf = io.StringIO()
+    w = csv.writer(buf, delimiter=";")
+    w.writerow(["Компания", "E-mail", "Telegram", "Телефон", "Вакансий Chief Officer",
+                "Вакансий 2nd Officer", "Типы судов", "Последняя вакансия", "Где публикует"])
+    for key, c in rows:
+        w.writerow([key, ", ".join(c["emails"]), ", ".join(c["telegram"]), ", ".join(c["phones"]),
+                    c["co"], c["so"], ", ".join(c["vessels"]), c["last"], ", ".join(c["sources"])])
+    data = buf.getvalue().encode("utf-8-sig")
+    name = f"crewings_{datetime.now(LOCAL_TZ):%Y-%m-%d}.csv"
+    r = requests.post(f"https://api.telegram.org/bot{TOKEN}/sendDocument",
+                      data={"chat_id": CHAT_ID, "caption": f"📇 Справочник крюингов: {len(rows)} компаний. "
+                            "Сверху — кто чаще ищет Chief Officer."},
+                      files={"document": (name, data, "text/csv")}, timeout=60)
+    r.raise_for_status()
+    return r.json()["result"]["message_id"]
+
+
 def main():
     seen = load_seen() or set()
+    crew = load_crew()
+    if crew.get("file_msg"):
+        KEEP_IDS.append(crew["file_msg"])
     day = load_day()
     today = datetime.now(LOCAL_TZ).strftime("%Y-%m-%d")
     new_day = day["date"] != today
@@ -445,6 +516,8 @@ def main():
                 day_fps.add(fp)
             if not known:
                 sent += 1
+            if is_channel and (not known or crew.get("backfill")):
+                add_crewing(crew, job["title"], label.replace("Telegram: ", ""))
         seen.update(j["id"] for j in jobs)
         seen.update(j["fp"] for j in jobs if j.get("fp"))
         # Запоминаем самый новый пост и то, что сегодня канал уже прочитан целиком
@@ -463,6 +536,18 @@ def main():
     if (has_new and due) or report or day.pop("force", False):
         publish(day, report)
         print("Список обновлён")
+
+    now = datetime.now(LOCAL_TZ)
+    this_week = now.strftime("%G-%V")
+    if (now.weekday() == 0 and now.hour >= 9 and crew["last_file"] != this_week
+            and crew["companies"]) or crew.pop("send_now", False):
+        try:
+            crew["file_msg"] = send_crew_file(crew)
+            crew["last_file"] = this_week
+        except Exception as e:
+            print(f"Не удалось отправить справочник: {e}")
+    crew.pop("backfill", None)
+    CREW_FILE.write_text(json.dumps(crew, ensure_ascii=False, indent=0))
 
     if LAST_SENT:
         day["last_msg_id"] = LAST_SENT

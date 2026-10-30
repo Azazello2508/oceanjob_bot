@@ -37,7 +37,7 @@ jobs:
         run: |
           git config user.name "oceanjob-bot"
           git config user.email "oceanjob-bot@users.noreply.github.com"
-          git add seen.json day.json
+          git add seen.json day.json crewings.json
           git diff --cached --quiet || git commit -m "Обновить список вакансий"
           # Если за время проверки в репозиторий что-то добавили — подтянуть и повторить
           for i in 1 2 3; do
