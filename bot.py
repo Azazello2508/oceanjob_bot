@@ -37,6 +37,7 @@ CHANNELS = [
     "help_seafarers", "OffshoreFleetJob", "ALPHACREW", "OnlyOffshore", "roster_marine",
     "galaxymaritimeua", "oilrigs", "vshipsoffshore",
     "OnlyYacht", "Yacht_Vacancies", "truemalina_offshore", "Crew_Radar", "Offshore_Vacancies", "Sea_format", "univis_crewing", "Merchant_Fleet", "sidantey", "passengerFleetJob", "ismira_agency", "cruiseshipjobs", "marinejobz", "rekamore_su", "shipjobsindia", "ukrcrewing_official", "TSMexp", "marinecareerorg", "findseajobs", "morehod_ru", "offshoreatsea", "gm_seaman_cv",
+    "Official_SSA", "seavacancies", "oceancrewjobs", "stellamarine_public", "crs_vacancies", "sea111work", "MarineOdessa",
     # @cwyjh и @teamspirit — группы, у них нет открытой веб-страницы, читать нельзя
 ]
 
