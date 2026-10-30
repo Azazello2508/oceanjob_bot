@@ -1212,16 +1212,102 @@
 "fp": "fp-79c64c4aee6ba62a",
 "new": false,
 "time": "2026-10-30T11:07:51+00:00"
+},
+{
+"title": "Chief Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/367885",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"new": false,
+"time": "2026-10-30T12:02:23.442753+00:00"
+},
+{
+"title": "Chief Engineer",
+"url": "https://t.me/marinejobs/42851",
+"source": "Telegram: @marinejobs",
+"found": [
+"chief officer"
+],
+"fp": "fp-11087a6b0d79f458",
+"new": false,
+"time": "2026-10-30T12:01:19+00:00"
+},
+{
+"title": "DRY CARGO FLEET - General Cargo",
+"url": "https://t.me/crewingua/44653",
+"source": "Telegram: @crewingua",
+"found": [
+"chief officer"
+],
+"fp": "fp-f83eda013c0b91db",
+"new": false,
+"time": "2026-10-30T11:22:20+00:00"
+},
+{
+"title": "OPEN POSITION in COLUMBIA Shipmanagement Ukraine:",
+"url": "https://t.me/seamenjob/105996",
+"source": "Telegram: @seamenjob",
+"found": [
+"chief officer"
+],
+"fp": "fp-733ff55f0487199d",
+"new": false,
+"time": "2026-10-30T10:48:23+00:00"
+},
+{
+"title": "OPEN POSITION in COLUMBIA Shipmanagement Ukraine:",
+"url": "https://t.me/seamenjob/105997",
+"source": "Telegram: @seamenjob",
+"found": [
+"chief officer"
+],
+"fp": "fp-0fe8bf42df9a187f",
+"new": false,
+"time": "2026-10-30T10:59:50+00:00"
+},
+{
+"title": "CHIEF OFFICER – GENERAL CARGO",
+"url": "https://t.me/balticcareer/5155",
+"source": "Telegram: @balticcareer",
+"found": [
+"chief officer"
+],
+"fp": "fp-3d10ab0767e20ce8",
+"new": false,
+"time": "2026-10-30T11:00:41+00:00"
+},
+{
+"title": "CHIEF OFFICER – GENERAL CARGO",
+"url": "https://t.me/balticcareer/5156",
+"source": "Telegram: @balticcareer",
+"found": [
+"chief officer"
+],
+"fp": "fp-96d9065ea48cdf39",
+"new": false,
+"time": "2026-10-30T11:01:32+00:00"
+},
+{
+"title": "Компания ООО \"СК \"АСТРОЛ\" приглашает на работу:",
+"url": "https://t.me/rekamore_su/163888",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-ffa44d609bd2a117",
+"new": false,
+"time": "2026-10-30T10:42:04+00:00"
 }
 ],
 "msg_ids": [
-1532,
-1533,
-1534,
-1535,
-1536
+1537,
+1538,
+1539,
+1540,
+1541
 ],
-"last_list": "2026-10-30T11:16:51.949935+00:00",
-"cleared_upto": 1531,
-"last_msg_id": 1536
+"last_list": "2026-10-30T12:03:21.226852+00:00",
+"cleared_upto": 1536,
+"last_msg_id": 1541
 }
