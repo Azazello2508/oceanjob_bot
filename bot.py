@@ -36,7 +36,7 @@ CHANNELS = [
     "shipscreweu", "supermariner_ua", "SM_job_center", "offshorecv", "offshorevacancies",
     "help_seafarers", "OffshoreFleetJob", "ALPHACREW", "OnlyOffshore", "roster_marine",
     "galaxymaritimeua", "oilrigs", "vshipsoffshore",
-    "OnlyYacht", "Yacht_Vacancies", "truemalina_offshore", "Crew_Radar", "Offshore_Vacancies", "Sea_format", "univis_crewing", "Merchant_Fleet", "sidantey", "passengerFleetJob", "ismira_agency", "cruiseshipjobs", "marinejobz", "rekamore_su", "shipjobsindia", "ukrcrewing_official", "TSMexp", "marinecareerorg", "findseajobs", "morehod_ru", "offshoreatsea", "gm_seaman_cv",
+    "OnlyYacht", "Yacht_Vacancies", "truemalina_offshore", "Crew_Radar", "Offshore_Vacancies", "Sea_format", "univis_crewing", "Merchant_Fleet", "sidantey", "passengerFleetJob", "ismira_agency", "cruiseshipjobs", "marinejobz", "rekamore_su", "shipjobsindia", "ukrcrewing_official", "TSMexp", "marinecareerorg", "findseajobs", "morehod_ru", "offshoreatsea", "gm_seaman_cv", "cvcrewcom", "vesselsea", "cvsenderseaman",
     "Official_SSA", "seavacancies", "oceancrewjobs", "stellamarine_public", "crs_vacancies", "sea111work", "MarineOdessa",
     # @cwyjh и @teamspirit — группы, у них нет открытой веб-страницы, читать нельзя
 ]
@@ -136,9 +136,16 @@ SITES = {
         "pattern": r"/vacancy/(\d+)",
         "base": "https://seajobs.ru",
     },
+    "oceancrew.org": {
+        "pages": [f"https://oceancrew.org/vacancies/offshore/{r}"
+                  for r in ["chief-officer", "sdpo", "2nd-officer", "dpo"]],
+        "pattern": r"/vacancies/offshore/(?:chief-officer|sdpo|2nd-officer|dpo)/([\w-]+_\d{2}-\d{2}-\d{4})",
+        "base": "https://oceancrew.org",
+    },
     "maritime-union.com": {
         "pages": ["https://maritime-union.com/jobs",
-                  "https://maritime-union.com/jobs?p=2"],
+                  "https://maritime-union.com/jobs?p=2",
+                  "https://maritime-union.com/jobs/dpo"],
         "pattern": r"/job/(\d+)",
         "base": "https://maritime-union.com",
     },
@@ -389,6 +396,14 @@ def summarize(text, found=None, contact=None):
         m = re.search(MONEY_RE, text, re.I)
         if m:
             info["salary"] = clean(m.group(1))
+    em = re.search(r"[\w.+-]+@[\w-]+\.[\w.-]+", text)
+    if em:
+        info["email"] = em.group(0).rstrip(".")
+    channels = {c.lower() for c in CHANNELS}
+    tg = [h for h in re.findall(r"(?<![\w.])@(\w{4,})", text)
+          if h.lower() not in channels and not h.lower().endswith("bot")]
+    if tg:
+        info["tg"] = tg[0]
     m = re.search(r"[\w.+-]+@([\w-]+\.[\w.-]+)", text)
     if m and m.group(1).lower() not in FREE_MAIL:
         info["company"] = m.group(1).lower()
@@ -399,6 +414,28 @@ def summarize(text, found=None, contact=None):
                 info["company"] = clean(line, 35)
                 break
     return {k: v for k, v in info.items() if v}
+
+
+LETTER_FILE = Path("letter.txt")
+
+
+def letter_link(j, i):
+    """Ссылка «✉️ отклик»: открывает Telegram с готовым текстом письма."""
+    from urllib.parse import quote
+    if not LETTER_FILE.exists():
+        return ""
+    text = LETTER_FILE.read_text(encoding="utf-8").strip()
+    fill = {"rank": i.get("rank") or "officer", "vessel": i.get("vessel") or "your vessel",
+            "company": i.get("company") or "", "url": j["url"]}
+    for k, v in fill.items():
+        text = text.replace("{" + k + "}", v)
+    if i.get("tg"):  # есть Telegram рекрутера — откроется чат с ним и готовым текстом
+        href = f"https://t.me/{i['tg']}?text={quote(text)}"
+        label = f"✉️ написать @{i['tg']}"
+    else:            # иначе — окно «Поделиться», текст можно отправить или скопировать
+        href = f"https://t.me/share/url?url={quote(j['url'])}&text={quote(text)}"
+        label = "✉️ отклик"
+    return f' · <a href="{html.escape(href)}">{html.escape(label)}</a>'
 
 
 def render(day):
@@ -432,8 +469,9 @@ def render(day):
         if not i.get("vessel") and not details:  # ничего не нашли — покажем начало текста
             line2 = f"\n<i>{e(j['title'])}</i>"
         company = f"🏢 {e(i['company'])} · " if i.get("company") else ""
+        email = f"\n📧 {e(i['email'])}" if i.get("email") else ""
         return (f"{line1}{line2}\n{company}{e(j['source'].replace('Telegram: ', ''))} · "
-                f"<a href=\"{e(j['url'])}\">открыть</a>")
+                f"<a href=\"{e(j['url'])}\">открыть</a>{letter_link(j, i)}{email}")
 
     blocks = []
     if off:
@@ -443,8 +481,9 @@ def render(day):
         blocks.append(f"━━━━━━━━━━\n🚢 <b>ОСТАЛЬНЫЕ ({len(rest)})</b>\n━━━━━━━━━━")
         blocks += [block(j) for j in rest]
     parts, cur = [], head
+    visible = lambda t: len(html.unescape(re.sub(r"<[^>]+>", "", t)))  # длина без ссылок и тегов
     for b in blocks:
-        if len(cur) + len(b) + 2 > MAX_LEN:
+        if visible(cur) + visible(b) + 2 > MAX_LEN or cur.count("<a ") + b.count("<a ") > 90:
             parts.append(cur)
             cur = ""
         cur += "\n" + b + "\n"

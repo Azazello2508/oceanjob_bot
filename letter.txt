@@ -1,0 +1,12 @@
+Good day!
+
+I am interested in the {rank} position on {vessel}.
+Vacancy: {url}
+
+[КОРОТКО О СЕБЕ: опыт в должности, типы судов, DP-сертификат, готовность к посадке]
+
+My CV is attached / available on request.
+
+Best regards,
+[ИМЯ ФАМИЛИЯ]
+[ТЕЛЕФОН / WhatsApp] | [E-MAIL]
