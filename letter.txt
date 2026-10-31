@@ -1,7 +1,6 @@
 Good day!
 
 I would like to apply for the {rank} position on {vessel}.
-Vacancy: {url}
 
 Please find my CV attached. I am ready to provide any additional documents and to discuss the details at your convenience.
 
