@@ -161,12 +161,107 @@
 "new": false,
 "time": "2026-10-30T21:00:47.985295+00:00",
 "junior_dp": false
+},
+{
+"title": "Chief Officer Job - MCV Cargo Vessel MANNING AGENCY 1971",
+"url": "https://maritime-union.com/job/231368",
+"source": "maritime-union.com",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer"
+},
+"new": false,
+"time": "2026-10-31T06:22:24.801472+00:00",
+"junior_dp": false
+},
+{
+"title": "Chief Officer & 2nd Officer Jobs on DP2 Vessels (Saudi Aramco) Aavishka Marine Services",
+"url": "https://maritime-union.com/job/231388",
+"source": "maritime-union.com",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "Chief Officer / 2nd Officer",
+"company": "Chief Officer & 2nd Officer Jobs on…"
+},
+"new": false,
+"time": "2026-10-31T06:22:24.803269+00:00",
+"junior_dp": false
+},
+{
+"title": "Chief Officer & 2nd Officer DPO Jobs on DP2 Vessels Aavishka Shipping Private Limited",
+"url": "https://maritime-union.com/job/231398",
+"source": "maritime-union.com",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "Chief Officer / 2nd Officer / DPO",
+"company": "Chief Officer & 2nd Officer DPO Job…"
+},
+"new": false,
+"time": "2026-10-31T06:22:24.803629+00:00",
+"junior_dp": false
+},
+{
+"title": "Second Officer for Work Boat Ryan Ship Management Pvt Ltd",
+"url": "https://maritime-union.com/job/231399",
+"source": "maritime-union.com",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"company": "Second Officer for Work Boat Ryan S…"
+},
+"new": false,
+"time": "2026-10-31T06:22:24.803747+00:00",
+"junior_dp": false
+},
+{
+"title": "Second Officer DPO for DP2 Fast Supply Intervention Vessel / Crew Boat Ryan Ship Management Pvt Ltd",
+"url": "https://maritime-union.com/job/231400",
+"source": "maritime-union.com",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "2nd Officer / DPO",
+"vessel": "Crew boat",
+"company": "Second Officer DPO for DP2 Fast Sup…"
+},
+"new": false,
+"time": "2026-10-31T06:22:24.803840+00:00",
+"junior_dp": false
+},
+{
+"title": "New Watch Officers vacancies",
+"url": "https://t.me/seavacancies/25135",
+"source": "Telegram: @seavacancies",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-b80023a7eea6633f",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Chemical tanker, Crude oil tanker",
+"joining": "01 Dec",
+"salary": "$4,600-5,500"
+},
+"new": false,
+"time": "2026-10-31T06:03:01+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-1564
+1565
 ],
-"last_list": "2026-10-30T21:37:56.929738+00:00",
-"cleared_upto": 1563,
-"last_msg_id": 1564
+"last_list": "2026-10-31T06:23:14.215896+00:00",
+"cleared_upto": 1564,
+"last_msg_id": 1565
 }
