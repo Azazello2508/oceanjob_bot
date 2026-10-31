@@ -1,40 +1,25 @@
 {
-"date": "2026-10-31",
+"date": "2026-11-01",
 "jobs": [
 {
-"title": "2nd Officer on Bulk carrier",
-"url": "https://crewell.net/en/vacancies/464142/",
-"source": "crewell.net",
-"found": [],
-"fp": null,
-"offshore": false,
-"info": {
-"rank": "2nd Officer",
-"vessel": "Bulk carrier"
-},
-"new": false,
-"time": "2026-10-30T21:00:28.247206+00:00",
-"junior_dp": false
-},
-{
-"title": "Chief Officer on Bulk carrier",
-"url": "https://crewell.net/en/vacancies/464141/",
+"title": "Chief Officer on Crude oil tanker",
+"url": "https://crewell.net/en/vacancies/464173/",
 "source": "crewell.net",
 "found": [],
 "fp": null,
 "offshore": false,
 "info": {
 "rank": "Chief Officer",
-"vessel": "Bulk carrier"
+"vessel": "Crude oil tanker"
 },
 "new": false,
-"time": "2026-10-30T21:00:28.248916+00:00",
+"time": "2026-10-31T20:16:06.689479+00:00",
 "junior_dp": false
 },
 {
-"title": "2nd Officer",
-"url": "https://ukrcrewing.com.ua/en/vacancy/368162",
-"source": "ukrcrewing.com.ua",
+"title": "Second Officer for Work Boat",
+"url": "https://www.seacareer.com/i36793/second-officer-for-work-boat/",
+"source": "seacareer.com",
 "found": [],
 "fp": null,
 "offshore": false,
@@ -42,189 +27,13 @@
 "rank": "2nd Officer"
 },
 "new": false,
-"time": "2026-10-30T21:00:29.423059+00:00",
+"time": "2026-10-31T20:16:13.555231+00:00",
 "junior_dp": false
 },
 {
-"title": "Chief Officer",
-"url": "https://ukrcrewing.com.ua/en/vacancy/368164",
-"source": "ukrcrewing.com.ua",
-"found": [],
-"fp": null,
-"offshore": false,
-"info": {
-"rank": "Chief Officer"
-},
-"new": false,
-"time": "2026-10-30T21:00:29.423146+00:00",
-"junior_dp": false
-},
-{
-"title": "2nd Officer",
-"url": "https://ukrcrewing.com.ua/en/vacancy/368166",
-"source": "ukrcrewing.com.ua",
-"found": [],
-"fp": null,
-"offshore": false,
-"info": {
-"rank": "2nd Officer"
-},
-"new": false,
-"time": "2026-10-30T21:00:29.423206+00:00",
-"junior_dp": false
-},
-{
-"title": "Chief Officer Job on 50m Sailing Yacht Crew & Concierge Ltd.",
-"url": "https://maritime-union.com/job/231326",
-"source": "maritime-union.com",
-"found": [],
-"fp": null,
-"offshore": false,
-"info": {
-"rank": "Chief Officer",
-"company": "Chief Officer Job on 50m Sailing Ya…"
-},
-"new": false,
-"time": "2026-10-30T21:00:47.984517+00:00",
-"junior_dp": false
-},
-{
-"title": "Chief Mate Job - Dredging Vessel U.S. Army Corps of Engineers",
-"url": "https://maritime-union.com/job/231325",
-"source": "maritime-union.com",
-"found": [],
-"fp": null,
-"offshore": false,
-"info": {
-"rank": "Chief Officer",
-"vessel": "Dredger"
-},
-"new": false,
-"time": "2026-10-30T21:00:47.984926+00:00",
-"junior_dp": false
-},
-{
-"title": "Chief Officer Job - ASD Tug Vessel PT WAHANA RAHMAH",
-"url": "https://maritime-union.com/job/231338",
-"source": "maritime-union.com",
-"found": [],
-"fp": null,
-"offshore": false,
-"info": {
-"rank": "Chief Officer",
-"vessel": "Tug"
-},
-"new": false,
-"time": "2026-10-30T21:00:47.985019+00:00",
-"junior_dp": false
-},
-{
-"title": "Chief Officer DPO / 2nd Officer DPO Job on DP2 Offshore Vessels Aavishka Marine Services",
-"url": "https://maritime-union.com/job/231343",
-"source": "maritime-union.com",
-"found": [],
-"fp": null,
-"offshore": true,
-"info": {
-"rank": "Chief Officer / 2nd Officer / DPO",
-"company": "Chief Officer DPO / 2nd Officer DPO…"
-},
-"new": false,
-"time": "2026-10-30T21:00:47.985096+00:00",
-"junior_dp": false
-},
-{
-"title": "Chief Officer & 2nd Officer DPO Jobs on DP2 Vessels Aavishka Marine Services",
-"url": "https://maritime-union.com/job/231351",
-"source": "maritime-union.com",
-"found": [],
-"fp": null,
-"offshore": true,
-"info": {
-"rank": "Chief Officer / 2nd Officer / DPO",
-"company": "Chief Officer & 2nd Officer DPO Job…"
-},
-"new": false,
-"time": "2026-10-30T21:00:47.985200+00:00",
-"junior_dp": false
-},
-{
-"title": "Chief Officer & Second Officer DPO Jobs on DP2 Vessels aavishka.com",
-"url": "https://maritime-union.com/job/231362",
-"source": "maritime-union.com",
-"found": [],
-"fp": null,
-"offshore": true,
-"info": {
-"rank": "Chief Officer / 2nd Officer / DPO"
-},
-"new": false,
-"time": "2026-10-30T21:00:47.985295+00:00",
-"junior_dp": false
-},
-{
-"title": "Chief Officer Job - MCV Cargo Vessel MANNING AGENCY 1971",
-"url": "https://maritime-union.com/job/231368",
-"source": "maritime-union.com",
-"found": [],
-"fp": null,
-"offshore": false,
-"info": {
-"rank": "Chief Officer"
-},
-"new": false,
-"time": "2026-10-31T06:22:24.801472+00:00",
-"junior_dp": false
-},
-{
-"title": "Chief Officer & 2nd Officer Jobs on DP2 Vessels (Saudi Aramco) Aavishka Marine Services",
-"url": "https://maritime-union.com/job/231388",
-"source": "maritime-union.com",
-"found": [],
-"fp": null,
-"offshore": true,
-"info": {
-"rank": "Chief Officer / 2nd Officer",
-"company": "Chief Officer & 2nd Officer Jobs on…"
-},
-"new": false,
-"time": "2026-10-31T06:22:24.803269+00:00",
-"junior_dp": false
-},
-{
-"title": "Chief Officer & 2nd Officer DPO Jobs on DP2 Vessels Aavishka Shipping Private Limited",
-"url": "https://maritime-union.com/job/231398",
-"source": "maritime-union.com",
-"found": [],
-"fp": null,
-"offshore": true,
-"info": {
-"rank": "Chief Officer / 2nd Officer / DPO",
-"company": "Chief Officer & 2nd Officer DPO Job…"
-},
-"new": false,
-"time": "2026-10-31T06:22:24.803629+00:00",
-"junior_dp": false
-},
-{
-"title": "Second Officer for Work Boat Ryan Ship Management Pvt Ltd",
-"url": "https://maritime-union.com/job/231399",
-"source": "maritime-union.com",
-"found": [],
-"fp": null,
-"offshore": false,
-"info": {
-"rank": "2nd Officer",
-"company": "Second Officer for Work Boat Ryan S…"
-},
-"new": false,
-"time": "2026-10-31T06:22:24.803747+00:00",
-"junior_dp": false
-},
-{
-"title": "Second Officer DPO for DP2 Fast Supply Intervention Vessel / Crew Boat Ryan Ship Management Pvt Ltd",
-"url": "https://maritime-union.com/job/231400",
-"source": "maritime-union.com",
+"title": "Second Officer DPO for DP2 Fast Supply Intervention Vessel / Crew Boat",
+"url": "https://www.seacareer.com/i36794/second-officer-dpo-for-dp2-fast-supply-intervention-vessel-crew-boat/",
+"source": "seacareer.com",
 "found": [],
 "fp": null,
 "offshore": true,
@@ -234,35 +43,31 @@
 "company": "Second Officer DPO for DP2 Fast Sup…"
 },
 "new": false,
-"time": "2026-10-31T06:22:24.803840+00:00",
+"time": "2026-10-31T20:16:13.555334+00:00",
 "junior_dp": false
 },
 {
-"title": "New Watch Officers vacancies",
-"url": "https://t.me/seavacancies/25135",
-"source": "Telegram: @seavacancies",
-"found": [
-"2nd officer",
-"2nd off"
-],
-"fp": "fp-b80023a7eea6633f",
+"title": "Second Officer & Oiler Jobs on Bulk Carrier BLUEANCHOR Crew Network",
+"url": "https://maritime-union.com/job/231404",
+"source": "maritime-union.com",
+"found": [],
+"fp": null,
 "offshore": false,
 "info": {
 "rank": "2nd Officer",
-"vessel": "Chemical tanker, Crude oil tanker",
-"joining": "01 Dec",
-"salary": "$4,600-5,500"
+"vessel": "Bulk carrier",
+"company": "Second Officer & Oiler Jobs on Bulk…"
 },
 "new": false,
-"time": "2026-10-31T06:03:01+00:00",
+"time": "2026-10-31T20:16:33.235548+00:00",
 "junior_dp": false
 }
 ],
 "msg_ids": [
-1565
+1567
 ],
-"last_list": "2026-10-31T06:23:14.215896+00:00",
-"cleared_upto": 1564,
-"last_msg_id": 1565,
-"force": true
+"last_list": "2026-10-31T20:17:23.080571+00:00",
+"cleared_upto": 1566,
+"force": true,
+"last_msg_id": 1567
 }
