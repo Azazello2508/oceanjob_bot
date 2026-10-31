@@ -8,14 +8,15 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - run: |
+          : > debug.txt
           for c in Official_SSA stellamarine_public sea111work MarineOdessa cvcrewcom cvsenderseaman marinejobs; do
-            code=$(curl -s -A "Mozilla/5.0" -o page.html -w "%{http_code}" "https://t.me/s/$c")
+            code=$(curl -s -A "Mozilla/5.0" -o page.html -w "%{http_code}" "https://t.me/$c")
             posts=$(grep -c 'tgme_widget_message_wrap' page.html || true)
             title=$(grep -o '<meta property="og:title" content="[^"]*"' page.html | head -1)
             desc=$(grep -o '<div class="tgme_page_extra">[^<]*' page.html | head -1)
-            echo "$c | HTTP $code | posts: $posts | $title | $desc" >> debug.txt
+            echo "$c (t.me) | HTTP $code | posts: $posts | $title | $desc" >> debug.txt
           done
           cat debug.txt
           git config user.name "oceanjob-bot"
           git config user.email "oceanjob-bot@users.noreply.github.com"
-          git add debug.txt && git commit -m "Диагностика каналов" && git pull --rebase -q origin main && git push
+          rm -f debug.txt.bak; git add debug.txt && git commit -m "Диагностика каналов" && git pull --rebase -q origin main && git push
