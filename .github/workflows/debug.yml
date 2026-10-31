@@ -1,0 +1,32 @@
+name: Проверка ссылки mailto (диагностика)
+on: workflow_dispatch
+permissions:
+  contents: write
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          python3 - <<'PY'
+          import os, json, urllib.request, urllib.parse
+          t=os.environ["TELEGRAM_TOKEN"]; c=os.environ["TELEGRAM_CHAT_ID"]
+          def call(m, d):
+              req=urllib.request.Request(f"https://api.telegram.org/bot{t}/{m}", data=urllib.parse.urlencode(d).encode())
+              try: return json.loads(urllib.request.urlopen(req).read())
+              except urllib.error.HTTPError as e: return json.loads(e.read())
+          r=call("sendMessage", {"chat_id": c, "parse_mode": "HTML",
+                 "text": 'тест <a href="mailto:test@example.com?subject=Test&amp;body=Hello%20world">mail</a>'})
+          out={"send": {k: r.get(k) for k in ("ok","description")}}
+          if r.get("ok"):
+              ents=r["result"].get("entities")
+              out["entities"]=ents
+              call("deleteMessage", {"chat_id": c, "message_id": r["result"]["message_id"]})
+          open("debug.txt","w").write(json.dumps(out, ensure_ascii=False))
+          PY
+          git config user.name "oceanjob-bot"
+          git config user.email "oceanjob-bot@users.noreply.github.com"
+          git add debug.txt && git commit -m "Диагностика mailto" && git pull --rebase -q origin main && git push
