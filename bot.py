@@ -438,9 +438,32 @@ def summarize(text, found=None, contact=None):
 LETTER_FILE = Path("letter.txt")
 
 
+VESSEL_FULL = {"LPG": "LPG Carrier", "LNG": "LNG Carrier", "VLCC": "VLCC Tanker", "Aframax": "Aframax Tanker",
+               "Suezmax": "Suezmax Tanker", "Container": "Container Vessel", "General cargo": "General Cargo Vessel",
+               "Tug": "Tug", "Reefer": "Reefer Vessel", "Passenger": "Passenger Vessel", "Cruise": "Cruise Vessel",
+               "Bulk carrier": "Bulk Carrier", "Chemical tanker": "Chemical Tanker",
+               "Crude oil tanker": "Crude Oil Tanker", "Product tanker": "Product Tanker",
+               "Crew boat": "Crew Boat", "Tanker": "Tanker", "Dredger": "Dredger", "Barge": "Barge"}
+
+
+def apply_rank(i):
+    """Одна должность для письма: если в вакансии их несколько — по важности для вас."""
+    ranks = [r.strip() for r in (i.get("rank") or "").split("/") if r.strip()]
+    for want in ["Chief Officer", "SDPO", "2nd Officer", "JDPO", "DPO", "DP Trainee", "DP Basic"]:
+        for r in ranks:
+            if r.startswith(want):
+                return r
+    return ranks[0] if ranks else "Officer"
+
+
+def apply_vessel(i):
+    v = (i.get("vessel") or "").split(",")[0].strip()
+    return VESSEL_FULL.get(v, v)
+
+
 def letter_text(j, i):
     text = LETTER_FILE.read_text(encoding="utf-8").strip() if LETTER_FILE.exists() else ""
-    fill = {"rank": i.get("rank") or "officer", "vessel": i.get("vessel") or "your vessel",
+    fill = {"rank": apply_rank(i), "vessel": apply_vessel(i) or "your vessel",
             "company": i.get("company") or "", "url": j["url"]}
     for k, v in fill.items():
         text = text.replace("{" + k + "}", v)
@@ -452,7 +475,7 @@ def gmail_link(j, i):
     from urllib.parse import quote
     if not i.get("email"):
         return ""
-    subject = f"Application: {i.get('rank') or 'Officer'}" + (f" — {i['vessel']}" if i.get("vessel") else "")
+    subject = f"Application for {apply_rank(i)}" + (f" – {apply_vessel(i)}" if i.get("vessel") else "")
     href = ("https://mail.google.com/mail/?view=cm&fs=1"
             f"&to={quote(i['email'])}&su={quote(subject)}&body={quote(letter_text(j, i))}")
     return f'\n📧 <a href="{html.escape(href)}">написать в Gmail: {html.escape(i["email"])}</a>'
