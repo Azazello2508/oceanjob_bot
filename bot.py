@@ -438,16 +438,32 @@ def summarize(text, found=None, contact=None):
 LETTER_FILE = Path("letter.txt")
 
 
-def letter_link(j, i):
-    """Ссылка «✉️ отклик»: открывает Telegram с готовым текстом письма."""
-    from urllib.parse import quote
-    if not LETTER_FILE.exists():
-        return ""
-    text = LETTER_FILE.read_text(encoding="utf-8").strip()
+def letter_text(j, i):
+    text = LETTER_FILE.read_text(encoding="utf-8").strip() if LETTER_FILE.exists() else ""
     fill = {"rank": i.get("rank") or "officer", "vessel": i.get("vessel") or "your vessel",
             "company": i.get("company") or "", "url": j["url"]}
     for k, v in fill.items():
         text = text.replace("{" + k + "}", v)
+    return text
+
+
+def gmail_link(j, i):
+    """Ссылка «📧 Gmail»: открывает новое письмо в Gmail — адрес, тема и текст уже заполнены."""
+    from urllib.parse import quote
+    if not i.get("email"):
+        return ""
+    subject = f"Application: {i.get('rank') or 'Officer'}" + (f" — {i['vessel']}" if i.get("vessel") else "")
+    href = ("https://mail.google.com/mail/?view=cm&fs=1"
+            f"&to={quote(i['email'])}&su={quote(subject)}&body={quote(letter_text(j, i))}")
+    return f'\n📧 <a href="{html.escape(href)}">написать в Gmail: {html.escape(i["email"])}</a>'
+
+
+def letter_link(j, i):
+    """Ссылка «✉️ отклик»: открывает Telegram с готовым текстом письма."""
+    from urllib.parse import quote
+    text = letter_text(j, i)
+    if not text:
+        return ""
     if i.get("tg"):  # есть Telegram рекрутера — откроется чат с ним и готовым текстом
         href = f"https://t.me/{i['tg']}?text={quote(text)}"
         label = f"✉️ написать @{i['tg']}"
@@ -492,7 +508,7 @@ def render(day):
         if not i.get("vessel") and not details:  # ничего не нашли — покажем начало текста
             line2 = f"\n<i>{e(j['title'])}</i>"
         company = f"🏢 {e(i['company'])} · " if i.get("company") else ""
-        email = f"\n📧 {e(i['email'])}" if i.get("email") else ""
+        email = gmail_link(j, i)
         return (f"{line1}{line2}\n{company}{e(j['source'].replace('Telegram: ', ''))} · "
                 f"<a href=\"{e(j['url'])}\">открыть</a>{letter_link(j, i)}{email}")
 
