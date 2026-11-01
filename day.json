@@ -61,12 +61,63 @@
 "new": false,
 "time": "2026-10-31T20:16:33.235548+00:00",
 "junior_dp": false
+},
+{
+"title": "Chief Mate (ANT II) Job on Utility Vessel PISTON ALANG MERIDIAN",
+"url": "https://maritime-union.com/job/231422",
+"source": "maritime-union.com",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer"
+},
+"new": false,
+"time": "2026-11-01T05:52:08.108881+00:00",
+"junior_dp": false
+},
+{
+"title": "Chief Officer / Second Officer Job on DP2 Vessel (Saudi Aramco) Aavishka Marine Services",
+"url": "https://maritime-union.com/job/231428",
+"source": "maritime-union.com",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "Chief Officer / 2nd Officer",
+"company": "Chief Officer / Second Officer Job…"
+},
+"new": false,
+"time": "2026-11-01T05:52:08.110603+00:00",
+"junior_dp": false
+},
+{
+"title": "Открыт набор на оффшорное судно для работы в Северном море.",
+"url": "https://t.me/vesselsea/3097",
+"source": "Telegram: @vesselsea",
+"found": [
+"старший помощник"
+],
+"fp": "fp-c904d365ef5706c3",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "AHTS",
+"salary": "500–550 $/сутки",
+"joining": "1 декабря 2026 года",
+"contract": "8 недель",
+"email": "crew@defengshipping.com",
+"company": "defengshipping.com"
+},
+"new": false,
+"time": "2026-11-01T03:03:31+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-1568
+1569
 ],
-"last_list": "2026-10-31T20:31:42.866213+00:00",
-"cleared_upto": 1567,
-"last_msg_id": 1568
+"last_list": "2026-11-01T05:52:49.770976+00:00",
+"cleared_upto": 1568,
+"last_msg_id": 1569
 }

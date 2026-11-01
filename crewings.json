@@ -1,5 +1,25 @@
 {
-"companies": {},
+"companies": {
+"defengshipping.com": {
+"emails": [
+"crew@defengshipping.com"
+],
+"telegram": [],
+"phones": [
+"+8613057608157",
+"+8613584093657"
+],
+"co": 1,
+"so": 0,
+"vessels": [
+"Offshore"
+],
+"last": "2026-11-01",
+"sources": [
+"@vesselsea"
+]
+}
+},
 "last_file": "2026-44",
 "file_msg": 1563
 }
