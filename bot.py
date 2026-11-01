@@ -470,14 +470,18 @@ def letter_text(j, i):
     return text
 
 
+MAIL_PAGE = "https://azazello2508.github.io/oceanjob_bot/mail.html"
+
+
 def gmail_link(j, i):
-    """Ссылка «📧 Gmail»: открывает новое письмо в Gmail — адрес, тема и текст уже заполнены."""
-    from urllib.parse import quote
+    """Ссылка «📧 написать в Gmail»: открывает приложение Gmail на телефоне с готовым письмом.
+    Telegram не пропускает прямые ссылки на почтовые приложения, поэтому идём через
+    маленькую страницу-переходник (docs/mail.html), она и открывает Gmail."""
+    from urllib.parse import urlencode
     if not i.get("email"):
         return ""
     subject = f"Application for {apply_rank(i)}" + (f" – {apply_vessel(i)}" if i.get("vessel") else "")
-    href = ("https://mail.google.com/mail/?view=cm&fs=1"
-            f"&to={quote(i['email'])}&su={quote(subject)}&body={quote(letter_text(j, i))}")
+    href = MAIL_PAGE + "?" + urlencode({"to": i["email"], "su": subject, "body": letter_text(j, i)})
     return f'\n📧 <a href="{html.escape(href)}">написать в Gmail: {html.escape(i["email"])}</a>'
 
 
