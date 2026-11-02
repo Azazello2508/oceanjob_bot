@@ -555,8 +555,11 @@ def render(day):
     off = sorted([j for j in day["jobs"] if j["offshore"] and not j["junior_dp"]], key=order)
     rest = sorted([j for j in day["jobs"] if not j["offshore"] and not j["junior_dp"]], key=order)
     n_new = sum(j["new"] for j in day["jobs"])
-    head = (f"📋 <b>Вакансии за {day['date'][8:10]}.{day['date'][5:7]}</b> — всего {len(day['jobs'])}, "
-            f"🎓 JDPO/DP {len(jdp)}, 🛢 оффшор {len(off)}, новых {n_new}\n(обновлено в {datetime.now(LOCAL_TZ):%H:%M})\n")
+    head = (f"📋 <b>Вакансии за {day['date'][8:10]}.{day['date'][5:7]}</b>\n"
+            f"Всего: <b>{len(day['jobs'])}</b>" + (f" · 🆕 новых: <b>{n_new}</b>" if n_new else "") + "\n"
+            + (f"🎓 JDPO / DP: {len(jdp)} · " if jdp else "")
+            + f"🛢 Оффшор: {len(off)} · 🚢 Торговый флот: {len(rest)}\n"
+            f"(обновлено в {datetime.now(LOCAL_TZ):%H:%M})\n")
 
     def block(j):
         """Компактная карточка: 1-я строка — что за вакансия, 2-я — откуда и ссылки."""
