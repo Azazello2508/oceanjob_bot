@@ -368,8 +368,17 @@ def is_junior_dp(text):
 
 
 def is_offshore(text):
+    """Оффшор ли это. Короткие слова (ROV, ERV, rig…) ищем только целиком,
+    чтобы не путать с «provide», «service», «origin» и т.п."""
     t = " " + text.lower() + " "
-    return any(w in t for w in OFFSHORE_WORDS)
+    for w in OFFSHORE_WORDS:
+        w = w.strip()
+        if len(w) <= 4 and re.fullmatch(r"[a-z0-9]+", w):
+            if re.search(rf"\b{re.escape(w)}\b", t):
+                return True
+        elif w in t:
+            return True
+    return False
 
 
 # ---------- Краткая карточка вакансии ----------

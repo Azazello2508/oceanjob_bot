@@ -468,7 +468,7 @@
 "2nd off"
 ],
 "fp": "fp-066c61e7923b7f8b",
-"offshore": true,
+"offshore": false,
 "info": {
 "rank": "2nd Officer",
 "vessel": "General cargo",
@@ -532,7 +532,7 @@
 "second officer"
 ],
 "fp": "fp-21dfd6d61fa282fc",
-"offshore": true,
+"offshore": false,
 "info": {
 "rank": "Chief Officer / 2nd Officer",
 "vessel": "Bulk carrier, Container",
@@ -655,7 +655,7 @@
 "2off"
 ],
 "fp": "fp-d69e1b767a4a567e",
-"offshore": true,
+"offshore": false,
 "info": {
 "rank": "2nd Officer",
 "vessel": "Crude oil tanker, Bulk carrier",
@@ -870,5 +870,6 @@
 ],
 "last_list": "2026-11-02T09:15:36.163912+00:00",
 "cleared_upto": 1578,
-"last_msg_id": 1581
+"last_msg_id": 1581,
+"force": true
 }
