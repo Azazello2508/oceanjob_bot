@@ -23,12 +23,17 @@
 "emails": [
 "application@trident-maritime.com",
 "cv@alphacrew.com",
+"cv@swanmarineservices.com",
 "cv@tbc-shipmanagement.com"
 ],
 "telegram": [],
-"phones": [],
-"co": 1,
-"so": 1,
+"phones": [
+"+380687373735",
+"+380974006633",
+"+380994062445"
+],
+"co": 2,
+"so": 2,
 "vessels": [
 "Dredger",
 "Offshore",
@@ -36,7 +41,8 @@
 ],
 "last": "2026-11-02",
 "sources": [
-"@SM_job_center"
+"@SM_job_center",
+"@maritimeforum"
 ]
 },
 "ryanship.com": {
@@ -47,7 +53,7 @@
 ],
 "telegram": [],
 "phones": [],
-"co": 1,
+"co": 2,
 "so": 0,
 "vessels": [
 "Container",
@@ -56,7 +62,8 @@
 ],
 "last": "2026-11-02",
 "sources": [
-"@maritimeforum"
+"@maritimeforum",
+"@shipscreweu"
 ]
 },
 "staff-service-expert.com": {
@@ -246,7 +253,7 @@
 ],
 "telegram": [],
 "phones": [],
-"co": 2,
+"co": 3,
 "so": 0,
 "vessels": [
 "Offshore"
@@ -505,13 +512,14 @@
 ],
 "telegram": [],
 "phones": [],
-"co": 3,
-"so": 3,
+"co": 4,
+"so": 4,
 "vessels": [
 "Offshore"
 ],
 "last": "2026-11-02",
 "sources": [
+"@OnlyOffshore",
 "@cvsenderseaman",
 "@offshoreatsea",
 "@seajobfinder"
@@ -647,12 +655,14 @@
 "phones": [
 "+380965371779"
 ],
-"co": 1,
+"co": 3,
 "so": 0,
 "vessels": [],
 "last": "2026-11-02",
 "sources": [
-"@andreeyVstart"
+"@andreeyVstart",
+"@job_for_seaman",
+"@marinejobs"
 ]
 },
 "treasg.com": {
@@ -890,10 +900,11 @@
 ],
 "telegram": [],
 "phones": [],
-"co": 1,
+"co": 2,
 "so": 0,
 "vessels": [
-"Bulk"
+"Bulk",
+"General cargo"
 ],
 "last": "2026-11-02",
 "sources": [
@@ -921,15 +932,19 @@
 "forcv@csm-ua.com"
 ],
 "telegram": [],
-"phones": [],
-"co": 1,
+"phones": [
+"+380504955422"
+],
+"co": 3,
 "so": 0,
 "vessels": [
-"Bulk"
+"Bulk",
+"Ro-Ro/PCTC"
 ],
 "last": "2026-11-02",
 "sources": [
-"@cvsenderseaman"
+"@cvsenderseaman",
+"@maritimeforum"
 ]
 },
 "msc.com": {
@@ -947,6 +962,170 @@
 "last": "2026-11-02",
 "sources": [
 "@marinejobs"
+]
+},
+"nazmaritime.com": {
+"emails": [
+"sourcing@nazmaritime.com"
+],
+"telegram": [],
+"phones": [],
+"co": 2,
+"so": 1,
+"vessels": [
+"Offshore"
+],
+"last": "2026-11-02",
+"sources": [
+"@marinejobs",
+"@maritimeforum"
+]
+},
+"wilhelmsen.com": {
+"emails": [
+"wsm-mnl-wmppirecruitment@wilhelmsen.com"
+],
+"telegram": [],
+"phones": [],
+"co": 2,
+"so": 2,
+"vessels": [
+"General cargo",
+"LPG/LNG",
+"Tanker"
+],
+"last": "2026-11-02",
+"sources": [
+"@maritimeforum"
+]
+},
+"ipspowerfulpeople.com": {
+"emails": [
+"c.barreto@ipspowerfulpeople.com"
+],
+"telegram": [],
+"phones": [],
+"co": 2,
+"so": 0,
+"vessels": [
+"Offshore"
+],
+"last": "2026-11-02",
+"sources": [
+"@maritimeforum",
+"@offshoreatsea"
+]
+},
+"univis.com.ua": {
+"emails": [
+"hr@univis.com.ua"
+],
+"telegram": [
+"@univisltd"
+],
+"phones": [
+"+380983286698"
+],
+"co": 2,
+"so": 1,
+"vessels": [
+"Container",
+"LPG/LNG"
+],
+"last": "2026-11-02",
+"sources": [
+"@maritimeforum"
+]
+},
+"armada-holding.com": {
+"emails": [
+"crew@armada-holding.com"
+],
+"telegram": [],
+"phones": [],
+"co": 0,
+"so": 1,
+"vessels": [
+"Bulk"
+],
+"last": "2026-11-02",
+"sources": [
+"@maritimeforum"
+]
+},
+"nykicrew.com": {
+"emails": [
+"crew@nykicrew.com"
+],
+"telegram": [],
+"phones": [],
+"co": 1,
+"so": 0,
+"vessels": [
+"General cargo"
+],
+"last": "2026-11-02",
+"sources": [
+"@maritimeforum"
+]
+},
+"allcrew.net": {
+"emails": [
+"cv@allcrew.net"
+],
+"telegram": [],
+"phones": [
+"+79062160667",
+"+79062169868",
+"+79637376536"
+],
+"co": 1,
+"so": 0,
+"vessels": [
+"General cargo"
+],
+"last": "2026-11-02",
+"sources": [
+"@marinejobs"
+]
+},
+"alphacrew.com": {
+"emails": [
+"cv@alphacrew.com",
+"cv@swanmarineservices.com"
+],
+"telegram": [],
+"phones": [
+"+380974006633",
+"+380994062445"
+],
+"co": 1,
+"so": 1,
+"vessels": [
+"Offshore",
+"Tug"
+],
+"last": "2026-11-02",
+"sources": [
+"@job_for_seaman"
+]
+},
+"udyashipping.com": {
+"emails": [
+"crew6@udyashipping.com"
+],
+"telegram": [],
+"phones": [
+"+919326626527"
+],
+"co": 0,
+"so": 1,
+"vessels": [
+"Offshore"
+],
+"last": "2026-11-02",
+"sources": [
+"@shipscreweu"
 ]
 }
 },
