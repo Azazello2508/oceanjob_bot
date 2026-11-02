@@ -1083,9 +1083,10 @@
 "info": {
 "rank": "Chief Officer"
 },
-"new": true,
+"new": false,
 "repeat": false,
-"time": "2026-11-02T09:23:46.645209+00:00"
+"time": "2026-11-02T09:23:46.645209+00:00",
+"junior_dp": false
 },
 {
 "title": "Chief Officer",
@@ -1097,18 +1098,103 @@
 "info": {
 "rank": "Chief Officer"
 },
-"new": true,
+"new": false,
 "repeat": false,
-"time": "2026-11-02T09:23:46.646443+00:00"
+"time": "2026-11-02T09:23:46.646443+00:00",
+"junior_dp": false
+},
+{
+"title": "Chief Officer on Container Ship",
+"url": "https://crewell.net/en/vacancies/464346/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Container"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-02T09:29:01.248344+00:00",
+"junior_dp": false
+},
+{
+"title": "CHIEF OFFICER – GENERAL CARGO",
+"url": "https://t.me/balticcareer/5188",
+"source": "Telegram: @balticcareer",
+"found": [
+"chief officer"
+],
+"fp": "fp-f1fe38aa4e10612e",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo, MPP",
+"salary": "Info at office",
+"contract": "3 months +/- 1 month"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-02T09:25:00+00:00",
+"junior_dp": false
+},
+{
+"title": "Компания СК ООО «ВолгаЭнергоМарин» приглашает на работу:",
+"url": "https://t.me/morehod_ru/30634",
+"source": "Telegram: @morehod_ru",
+"found": [
+"старший помощник"
+],
+"fp": "fp-edf23df7b2a422e4",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Chemical tanker",
+"salary": "348 00 рублей (на руки)",
+"contract": "4 месяца",
+"email": "crewingdept@volgaenergomarin.ru",
+"company": "volgaenergomarin.ru"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-02T09:27:56+00:00",
+"junior_dp": false
+},
+{
+"title": "Chief Officer SDPO",
+"url": "https://t.me/offshoreatsea/24833",
+"source": "Telegram: @offshoreatsea",
+"found": [
+"chief officer",
+"sdpo",
+"dpo"
+],
+"fp": "fp-2d6331ce25146a3e",
+"offshore": true,
+"info": {
+"rank": "Chief Officer / SDPO",
+"email": "ae.careers@angloeastern.com",
+"company": "angloeastern.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-02T09:27:29+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-1582,
-1583,
-1584
+1585,
+1586,
+1587,
+1588,
+1589,
+1590,
+1591,
+1592,
+1593
 ],
-"last_list": "2026-11-02T09:22:19.450741+00:00",
-"cleared_upto": 1581,
-"last_msg_id": 1584,
-"force": true
+"last_list": "2026-11-02T09:30:23.141282+00:00",
+"cleared_upto": 1584,
+"last_msg_id": 1593
 }

@@ -218,6 +218,41 @@
 "sources": [
 "@cvsenderseaman"
 ]
+},
+"volgaenergomarin.ru": {
+"emails": [
+"crewingdept@volgaenergomarin.ru"
+],
+"telegram": [],
+"phones": [
+"+79819242460",
+"+79819242461"
+],
+"co": 1,
+"so": 0,
+"vessels": [
+"Tanker"
+],
+"last": "2026-11-02",
+"sources": [
+"@morehod_ru"
+]
+},
+"angloeastern.com": {
+"emails": [
+"ae.careers@angloeastern.com"
+],
+"telegram": [],
+"phones": [],
+"co": 1,
+"so": 0,
+"vessels": [
+"Offshore"
+],
+"last": "2026-11-02",
+"sources": [
+"@offshoreatsea"
+]
 }
 },
 "last_file": "2026-45",
