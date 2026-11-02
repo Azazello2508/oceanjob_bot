@@ -928,6 +928,23 @@
 "sources": [
 "@cvsenderseaman"
 ]
+},
+"msc.com": {
+"emails": [
+"kateryna.vakhtina@msc.com",
+"olha.serdiuk@msc.com"
+],
+"telegram": [],
+"phones": [],
+"co": 1,
+"so": 0,
+"vessels": [
+"Container"
+],
+"last": "2026-11-02",
+"sources": [
+"@marinejobs"
+]
 }
 },
 "last_file": "2026-45",

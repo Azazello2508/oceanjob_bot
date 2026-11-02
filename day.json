@@ -3201,28 +3201,85 @@
 "repeat": false,
 "time": "2026-11-02T11:45:38+00:00",
 "junior_dp": false
+},
+{
+"title": "Chief Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/368291",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-02T14:11:35.985225+00:00",
+"junior_dp": false
+},
+{
+"title": "MSC Crewing Services Ukraine",
+"url": "https://t.me/marinejobs/42935",
+"source": "Telegram: @marinejobs",
+"found": [
+"chief officer"
+],
+"fp": "fp-c9703ff2d774d763",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Container",
+"contract": "periods available",
+"email": "olha.serdiuk@msc.com",
+"company": "msc.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-02T14:04:52+00:00",
+"junior_dp": false
+},
+{
+"title": "New Watch Officers vacancies",
+"url": "https://t.me/seavacancies/25153",
+"source": "Telegram: @seavacancies",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-35c4018e87db1288",
+"offshore": true,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Crude oil tanker, Bulk carrier",
+"joining": "10 Nov",
+"salary": "$4,300-4,500"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-02T14:03:02+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-1594,
-1595,
-1596,
-1597,
-1598,
-1599,
-1600,
-1601,
-1602,
-1603,
-1604,
-1605,
-1606,
-1607,
-1608,
-1609
+1610,
+1611,
+1612,
+1613,
+1614,
+1615,
+1616,
+1617,
+1618,
+1619,
+1620,
+1621,
+1622,
+1623,
+1624,
+1625,
+1626
 ],
-"last_list": "2026-11-02T13:41:17.515358+00:00",
-"cleared_upto": 1593,
-"last_msg_id": 1609,
-"force": true
+"last_list": "2026-11-02T14:12:58.130935+00:00",
+"cleared_upto": 1609,
+"last_msg_id": 1626
 }
