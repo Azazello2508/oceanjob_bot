@@ -413,6 +413,7 @@
 "sources": [
 "@CREW_ARIA",
 "@cvsenderseaman",
+"@marinejobs",
 "@maritimeforum",
 "@offshoreatsea"
 ]
@@ -525,15 +526,17 @@
 "+380952244001",
 "+380980665071"
 ],
-"co": 1,
+"co": 2,
 "so": 0,
 "vessels": [
-"Offshore"
+"Offshore",
+"Tug"
 ],
 "last": "2026-11-02",
 "sources": [
 "@CREW_ARIA",
-"@TSMexp"
+"@TSMexp",
+"@marinejobs"
 ]
 },
 "maritimenusantara.com": {

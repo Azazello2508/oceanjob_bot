@@ -3258,29 +3258,137 @@
 "repeat": false,
 "time": "2026-11-02T14:03:02+00:00",
 "junior_dp": false
+},
+{
+"title": "Chief Officer on Crude oil tanker",
+"url": "https://crewell.net/en/vacancies/464440/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Crude oil tanker"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-02T14:28:33.969040+00:00",
+"junior_dp": false
+},
+{
+"title": "Chief Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/368301",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-02T14:28:35.279200+00:00",
+"junior_dp": false
+},
+{
+"title": "Chief Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/368307",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-02T14:28:35.279357+00:00",
+"junior_dp": false
+},
+{
+"title": "СРОЧНО НУЖНЫ  МОРЯКИ СТАРПОМ  ЗНАНИЕ АНГЛИЙСКОГО ЯЗЫКА  ЗАРПЛАТА 6100€ ,3- ОФИЦЕР 2900-3200€ ,СТАРМЕХ 7200-7700€ ЗВОНИТЕ МЕНЕДЖЕР ИРИНА ВАЦАП +380660350378",
+"url": "https://t.me/maritimeforum/254174",
+"source": "Telegram: @maritimeforum",
+"found": [
+"старпом"
+],
+"fp": "fp-82404255ed5a39c4",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"salary": "6100€ ,3- ОФИЦЕР 2900-3200€ ,С…"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-02T14:12:05+00:00",
+"junior_dp": false
+},
+{
+"title": "2DPO Wanted",
+"url": "https://t.me/marinejobs/42939",
+"source": "Telegram: @marinejobs",
+"found": [
+"dpo"
+],
+"fp": "fp-9e385219380963a3",
+"offshore": true,
+"info": {
+"rank": "DPO",
+"joining": "~10 Nov 2026 or 24 Nov 2026",
+"contract": "🔧",
+"email": "marta.lewandowska@stodig.no",
+"company": "stodig.no"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-02T14:12:34+00:00",
+"junior_dp": false
+},
+{
+"title": "FRESH OPPORTUNITIES",
+"url": "https://t.me/marinejobs/42940",
+"source": "Telegram: @marinejobs",
+"found": [
+"sdpo",
+"dpo",
+"co/sdpo"
+],
+"fp": "fp-35ac857408954013",
+"offshore": true,
+"info": {
+"rank": "Chief Officer / SDPO",
+"vessel": "PSV, AHTS",
+"contract": "2 months",
+"salary": "300 USD",
+"email": "cv@tsmexp.com",
+"company": "tsmexp.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-02T14:14:43+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-1610,
-1611,
-1612,
-1613,
-1614,
-1615,
-1616,
-1617,
-1618,
-1619,
-1620,
-1621,
-1622,
-1623,
-1624,
-1625,
-1626
+1627,
+1628,
+1629,
+1630,
+1631,
+1632,
+1633,
+1634,
+1635,
+1636,
+1637,
+1638,
+1639,
+1640,
+1641,
+1642,
+1643
 ],
-"last_list": "2026-11-02T14:12:58.130935+00:00",
-"cleared_upto": 1609,
-"last_msg_id": 1626,
-"force": true
+"last_list": "2026-11-02T14:29:54.343339+00:00",
+"cleared_upto": 1626,
+"last_msg_id": 1643
 }
