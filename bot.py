@@ -548,7 +548,7 @@ def render(day):
         company = f"🏢 {e(i['company'])} · " if i.get("company") else ""
         email = gmail_link(j, i)
         return (f"{line1}{line2}\n{company}{e(j['source'].replace('Telegram: ', ''))} · "
-                f"<a href=\"{e(j['url'])}\">открыть</a>{letter_link(j, i)}{email}")
+                f"<a href=\"{e(j['url'])}\">открыть</a>{email}")
 
     blocks = []
     if jdp:
@@ -564,7 +564,8 @@ def render(day):
     # Длина так, как её считает Telegram: без тегов и ссылок, эмодзи = 2 знака (UTF-16)
     visible = lambda t: len(html.unescape(re.sub(r"<[^>]+>", "", t)).encode("utf-16-le")) // 2
     for b in blocks:
-        if visible(cur) + visible(b) + 2 > MAX_LEN or cur.count("<a ") + b.count("<a ") > 90:
+        if (visible(cur) + visible(b) + 2 > MAX_LEN or cur.count("<a ") + b.count("<a ") > 90
+                or len(cur) + len(b) > 8000):
             parts.append(cur)
             cur = ""
         cur += "\n" + b + "\n"
