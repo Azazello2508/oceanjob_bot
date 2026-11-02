@@ -18,8 +18,28 @@
 "sources": [
 "@vesselsea"
 ]
+},
+"trident-maritime.com": {
+"emails": [
+"application@trident-maritime.com",
+"cv@alphacrew.com",
+"cv@tbc-shipmanagement.com"
+],
+"telegram": [],
+"phones": [],
+"co": 1,
+"so": 1,
+"vessels": [
+"Dredger",
+"Offshore",
+"Tug"
+],
+"last": "2026-11-02",
+"sources": [
+"@SM_job_center"
+]
 }
 },
-"last_file": "2026-44",
-"file_msg": 1563
+"last_file": "2026-45",
+"file_msg": 1576
 }
