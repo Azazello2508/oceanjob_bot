@@ -1,10 +1,95 @@
 {
 "date": "2026-11-03",
-"jobs": [],
-"msg_ids": [
-1662
+"jobs": [
+{
+"title": "2nd Officer on Container Ship",
+"url": "https://crewell.net/en/vacancies/464530/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Container"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-02T22:49:37.641655+00:00",
+"junior_dp": false
+},
+{
+"title": "Chief Officer on Container Ship",
+"url": "https://crewell.net/en/vacancies/464529/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Container"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-02T22:49:37.643941+00:00",
+"junior_dp": false
+},
+{
+"title": "Chief Officer",
+"url": "https://seajobs.ru/ru/vacancy/17942/chief-officer-crude-oil-tanker",
+"source": "seajobs.ru",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Crude oil tanker"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-02T22:49:46.497841+00:00",
+"junior_dp": false
+},
+{
+"title": "Chief Officer & 2nd Officer Jobs on Small Oil Tanker NSMAR SHIP MANAGEMENT SERVICES PVT LTD",
+"url": "https://maritime-union.com/job/231504",
+"source": "maritime-union.com",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer",
+"vessel": "Tanker",
+"company": "Chief Officer & 2nd Officer Jobs on…"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-02T22:49:55.745552+00:00",
+"junior_dp": false
+},
+{
+"title": "Chief Officer SDPO & Chief Engineer Jobs on Offshore Vessels World Maritime Crewing LTD",
+"url": "https://maritime-union.com/job/231507",
+"source": "maritime-union.com",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "Chief Officer / SDPO",
+"company": "Chief Officer SDPO & Chief Engineer…"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-02T22:49:55.746175+00:00",
+"junior_dp": false
+}
 ],
-"last_list": "2026-11-02T20:30:51.651954+00:00",
-"cleared_upto": 1661,
-"last_msg_id": 1662
+"msg_ids": [
+1663,
+1664,
+1665,
+1666
+],
+"last_list": "2026-11-02T22:50:35.610065+00:00",
+"cleared_upto": 1662,
+"last_msg_id": 1666
 }
