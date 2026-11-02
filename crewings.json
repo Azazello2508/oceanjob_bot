@@ -69,9 +69,11 @@
 "+380979435590"
 ],
 "co": 0,
-"so": 1,
+"so": 4,
 "vessels": [
-"General cargo"
+"Bulk",
+"General cargo",
+"Tanker"
 ],
 "last": "2026-11-02",
 "sources": [
@@ -126,7 +128,7 @@
 "phones": [
 "+40770706645"
 ],
-"co": 2,
+"co": 3,
 "so": 0,
 "vessels": [
 "Bulk"
@@ -244,6 +246,285 @@
 ],
 "telegram": [],
 "phones": [],
+"co": 2,
+"so": 0,
+"vessels": [
+"Offshore"
+],
+"last": "2026-11-02",
+"sources": [
+"@maritimeforum",
+"@offshoreatsea"
+]
+},
+"lapamarine.com": {
+"emails": [
+"irina.nikonova@lapamarine.com"
+],
+"telegram": [],
+"phones": [],
+"co": 0,
+"so": 1,
+"vessels": [
+"Chemical",
+"Tanker"
+],
+"last": "2026-11-02",
+"sources": [
+"@maritimeforum"
+]
+},
+"jenmar-crewing.com": {
+"emails": [
+"info@jenmar-crewing.com"
+],
+"telegram": [],
+"phones": [],
+"co": 1,
+"so": 0,
+"vessels": [
+"LPG/LNG",
+"Tanker"
+],
+"last": "2026-11-02",
+"sources": [
+"@maritimeforum"
+]
+},
+"staff-centre.com": {
+"emails": [
+"apply@staff-centre.com",
+"crewing@stma-group.com",
+"info@thalpis-crs.com",
+"office@amber-maritime.com",
+"zapyshnyy@danica-crewing.com"
+],
+"telegram": [],
+"phones": [
+"+380504505399",
+"+380504906064",
+"+380509061613",
+"+380987724224",
+"+380995517593"
+],
+"co": 2,
+"so": 1,
+"vessels": [
+"Bulk"
+],
+"last": "2026-11-02",
+"sources": [
+"@maritimeforum"
+]
+},
+"marineman.ua": {
+"emails": [
+"cv@marineman.ua"
+],
+"telegram": [],
+"phones": [],
+"co": 1,
+"so": 0,
+"vessels": [
+"Tanker"
+],
+"last": "2026-11-02",
+"sources": [
+"@maritimeforum"
+]
+},
+"admiralmm.com": {
+"emails": [
+"crewing@admiralmm.com"
+],
+"telegram": [],
+"phones": [],
+"co": 1,
+"so": 0,
+"vessels": [
+"Bulk"
+],
+"last": "2026-11-02",
+"sources": [
+"@maritimeforum"
+]
+},
+"l-stream.com.ua": {
+"emails": [
+"job@l-stream.com.ua"
+],
+"telegram": [],
+"phones": [],
+"co": 1,
+"so": 0,
+"vessels": [
+"Tanker"
+],
+"last": "2026-11-02",
+"sources": [
+"@maritimeforum"
+]
+},
+"seamploy.com": {
+"emails": [
+"cv@seamploy.com"
+],
+"telegram": [],
+"phones": [],
+"co": 1,
+"so": 0,
+"vessels": [
+"Tanker"
+],
+"last": "2026-11-02",
+"sources": [
+"@maritimeforum"
+]
+},
+"pgs-shipmanagement.org": {
+"emails": [
+"vitaliy@pgs-shipmanagement.org"
+],
+"telegram": [],
+"phones": [],
+"co": 0,
+"so": 1,
+"vessels": [
+"LPG/LNG",
+"Tanker"
+],
+"last": "2026-11-02",
+"sources": [
+"@maritimeforum"
+]
+},
+"stodig.no": {
+"emails": [
+"marta.lewandowska@stodig.no"
+],
+"telegram": [],
+"phones": [],
+"co": 0,
+"so": 2,
+"vessels": [
+"Offshore"
+],
+"last": "2026-11-02",
+"sources": [
+"@CREW_ARIA",
+"@cvsenderseaman",
+"@maritimeforum",
+"@offshoreatsea"
+]
+},
+"stma-group.com": {
+"emails": [
+"crewing@stma-group.com"
+],
+"telegram": [],
+"phones": [],
+"co": 0,
+"so": 1,
+"vessels": [
+"Tanker"
+],
+"last": "2026-11-02",
+"sources": [
+"@maritimeforum"
+]
+},
+"workshipping.com": {
+"emails": [
+"info@workshipping.com"
+],
+"telegram": [],
+"phones": [],
+"co": 1,
+"so": 0,
+"vessels": [
+"General cargo"
+],
+"last": "2026-11-02",
+"sources": [
+"@maritimeforum"
+]
+},
+"ktship.ee": {
+"emails": [
+"ktship@ktship.ee"
+],
+"telegram": [],
+"phones": [],
+"co": 1,
+"so": 0,
+"vessels": [
+"General cargo"
+],
+"last": "2026-11-02",
+"sources": [
+"@maritimeforum"
+]
+},
+"martracon.eu": {
+"emails": [
+"recruitment@martracon.eu"
+],
+"telegram": [],
+"phones": [],
+"co": 1,
+"so": 0,
+"vessels": [
+"General cargo"
+],
+"last": "2026-11-02",
+"sources": [
+"@maritimeforum"
+]
+},
+"mau.com.ua": {
+"emails": [
+"cv@mau.com.ua"
+],
+"telegram": [],
+"phones": [],
+"co": 1,
+"so": 0,
+"vessels": [
+"Chemical",
+"Tanker"
+],
+"last": "2026-11-02",
+"sources": [
+"@maritimeforum"
+]
+},
+"viridianmaritime.com": {
+"emails": [
+"recruitment@viridianmaritime.com"
+],
+"telegram": [],
+"phones": [],
+"co": 3,
+"so": 3,
+"vessels": [
+"Offshore"
+],
+"last": "2026-11-02",
+"sources": [
+"@cvsenderseaman",
+"@offshoreatsea",
+"@seajobfinder"
+]
+},
+"tsmexp.com": {
+"emails": [
+"cv@tsmexp.com"
+],
+"telegram": [],
+"phones": [
+"+380952244001",
+"+380980665071"
+],
 "co": 1,
 "so": 0,
 "vessels": [
@@ -251,7 +532,401 @@
 ],
 "last": "2026-11-02",
 "sources": [
+"@CREW_ARIA",
+"@TSMexp"
+]
+},
+"maritimenusantara.com": {
+"emails": [
+"crewing@maritimenusantara.com"
+],
+"telegram": [],
+"phones": [],
+"co": 0,
+"so": 1,
+"vessels": [],
+"last": "2026-11-02",
+"sources": [
+"@marinejobs"
+]
+},
+"bs-shipmanagement.com": {
+"emails": [
+"ua-csc-ode-man@bs-shipmanagement.com"
+],
+"telegram": [],
+"phones": [
+"+380500169777",
+"+380500888303"
+],
+"co": 1,
+"so": 0,
+"vessels": [
+"LPG/LNG"
+],
+"last": "2026-11-02",
+"sources": [
+"@marinejobs"
+]
+},
+"aliyah.co.id": {
+"emails": [
+"crew@aliyah.co.id"
+],
+"telegram": [],
+"phones": [],
+"co": 1,
+"so": 1,
+"vessels": [
+"Tanker"
+],
+"last": "2026-11-02",
+"sources": [
+"@marinejobs"
+]
+},
+"lemissoler.com": {
+"emails": [
+"anna.kashparova@lemissoler.com",
+"apply@olivecrew.com",
+"apply@staff-centre.com",
+"crewing@stma-group.com",
+"info@thalpis-crs.com",
+"office@amber-maritime.com",
+"zapyshnyy@danica-crewing.com"
+],
+"telegram": [],
+"phones": [
+"+380504505399",
+"+380504828310",
+"+380504906064",
+"+380509061613",
+"+380969563223",
+"+380987724224",
+"+380995517593"
+],
+"co": 1,
+"so": 0,
+"vessels": [
+"Bulk"
+],
+"last": "2026-11-02",
+"sources": [
+"@marinejobs"
+]
+},
+"raymarinecrewing.com": {
+"emails": [
+"crew@raymarinecrewing.com"
+],
+"telegram": [
+"@AnastasiaKRayMarine",
+"@DaniilPRayMarine",
+"@anastasiaChRayMarine"
+],
+"phones": [],
+"co": 2,
+"so": 0,
+"vessels": [
+"Bulk"
+],
+"last": "2026-11-02",
+"sources": [
+"@crewingua",
+"@jobfor_seamen"
+]
+},
+"start-manning.com": {
+"emails": [
+"ops@start-manning.com"
+],
+"telegram": [],
+"phones": [
+"+380965371779"
+],
+"co": 1,
+"so": 0,
+"vessels": [],
+"last": "2026-11-02",
+"sources": [
+"@andreeyVstart"
+]
+},
+"treasg.com": {
+"emails": [
+"crewcv@treasg.com"
+],
+"telegram": [],
+"phones": [],
+"co": 0,
+"so": 2,
+"vessels": [],
+"last": "2026-11-02",
+"sources": [
+"@offshoreatsea",
+"@shipscreweu"
+]
+},
+"olivecrew.com": {
+"emails": [
+"apply@olivecrew.com",
+"info@staff-service-expert.com",
+"office@nerey.net"
+],
+"telegram": [],
+"phones": [],
+"co": 1,
+"so": 0,
+"vessels": [
+"Container"
+],
+"last": "2026-11-02",
+"sources": [
+"@SM_job_center"
+]
+},
+"adship.ru": {
+"emails": [
+"adk@adship.ru"
+],
+"telegram": [],
+"phones": [],
+"co": 1,
+"so": 0,
+"vessels": [
+"General cargo"
+],
+"last": "2026-11-02",
+"sources": [
+"@rekamore_su"
+]
+},
+"trinityshipping.ru": {
+"emails": [
+"hr@trinityshipping.ru"
+],
+"telegram": [],
+"phones": [],
+"co": 1,
+"so": 0,
+"vessels": [
+"Tanker"
+],
+"last": "2026-11-02",
+"sources": [
+"@rekamore_su"
+]
+},
+"ecoshp.ru": {
+"emails": [
+"e.kievskaya@ecoshp.ru"
+],
+"telegram": [],
+"phones": [],
+"co": 1,
+"so": 0,
+"vessels": [
+"General cargo"
+],
+"last": "2026-11-02",
+"sources": [
+"@rekamore_su"
+]
+},
+"sc-astrol.ru": {
+"emails": [
+"personal@sc-astrol.ru"
+],
+"telegram": [],
+"phones": [],
+"co": 1,
+"so": 0,
+"vessels": [
+"General cargo"
+],
+"last": "2026-11-02",
+"sources": [
+"@rekamore_su"
+]
+},
+"transoptimalng@mail.ru": {
+"emails": [
+"transoptimalng@mail.ru"
+],
+"telegram": [],
+"phones": [],
+"co": 1,
+"so": 0,
+"vessels": [
+"General cargo",
+"LPG/LNG"
+],
+"last": "2026-11-02",
+"sources": [
+"@rekamore_su"
+]
+},
+"legacymarine.ru": {
+"emails": [
+"crew.cv@legacymarine.ru"
+],
+"telegram": [],
+"phones": [
+"+79112688991",
+"+79811194180"
+],
+"co": 1,
+"so": 0,
+"vessels": [
+"Tanker"
+],
+"last": "2026-11-02",
+"sources": [
+"@rekamore_su"
+]
+},
+"tospeople.com": {
+"emails": [
+"n.miculinic@tospeople.com"
+],
+"telegram": [],
+"phones": [],
+"co": 2,
+"so": 0,
+"vessels": [
+"Offshore"
+],
+"last": "2026-11-02",
+"sources": [
+"@cvsenderseaman",
 "@offshoreatsea"
+]
+},
+"zmiglobal.com": {
+"emails": [
+"alvin.estonactoc@zmiglobal.com"
+],
+"telegram": [],
+"phones": [],
+"co": 2,
+"so": 0,
+"vessels": [
+"Offshore"
+],
+"last": "2026-11-02",
+"sources": [
+"@cvsenderseaman",
+"@offshoreatsea"
+]
+},
+"nordic-hamburg.com": {
+"emails": [
+"shevchenko@nordic-hamburg.com"
+],
+"telegram": [],
+"phones": [],
+"co": 0,
+"so": 1,
+"vessels": [],
+"last": "2026-11-02",
+"sources": [
+"@cvsenderseaman"
+]
+},
+"marpocrew.com.ua": {
+"emails": [
+"crewing@marpocrew.com.ua"
+],
+"telegram": [],
+"phones": [],
+"co": 1,
+"so": 0,
+"vessels": [
+"Offshore"
+],
+"last": "2026-11-02",
+"sources": [
+"@cvsenderseaman"
+]
+},
+"lowland.com": {
+"emails": [
+"mihai.aanicai@lowland.com"
+],
+"telegram": [],
+"phones": [],
+"co": 0,
+"so": 0,
+"vessels": [
+"Offshore"
+],
+"last": "2026-11-02",
+"sources": [
+"@cvsenderseaman"
+]
+},
+"thalpis-crs.com": {
+"emails": [
+"info@thalpis-crs.com"
+],
+"telegram": [],
+"phones": [],
+"co": 1,
+"so": 0,
+"vessels": [
+"Container"
+],
+"last": "2026-11-02",
+"sources": [
+"@cvsenderseaman"
+]
+},
+"iqrewing.com": {
+"emails": [
+"galina.fedorova@iqrewing.com"
+],
+"telegram": [],
+"phones": [],
+"co": 1,
+"so": 0,
+"vessels": [
+"Bulk"
+],
+"last": "2026-11-02",
+"sources": [
+"@cvsenderseaman"
+]
+},
+"desecrew.com": {
+"emails": [
+"info@desecrew.com"
+],
+"telegram": [],
+"phones": [],
+"co": 0,
+"so": 1,
+"vessels": [
+"Offshore"
+],
+"last": "2026-11-02",
+"sources": [
+"@cvsenderseaman"
+]
+},
+"csm-ua.com": {
+"emails": [
+"forcv@csm-ua.com"
+],
+"telegram": [],
+"phones": [],
+"co": 1,
+"so": 0,
+"vessels": [
+"Bulk"
+],
+"last": "2026-11-02",
+"sources": [
+"@cvsenderseaman"
 ]
 }
 },
