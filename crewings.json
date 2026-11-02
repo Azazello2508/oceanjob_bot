@@ -38,6 +38,184 @@
 "sources": [
 "@SM_job_center"
 ]
+},
+"ryanship.com": {
+"emails": [
+"applications@ryanship.com",
+"crew@navis.eu",
+"israa.albsaisi@selectoffshore.com"
+],
+"telegram": [],
+"phones": [],
+"co": 1,
+"so": 0,
+"vessels": [
+"Container",
+"Dredger",
+"Offshore"
+],
+"last": "2026-11-02",
+"sources": [
+"@maritimeforum"
+]
+},
+"staff-service-expert.com": {
+"emails": [
+"info@staff-service-expert.com"
+],
+"telegram": [],
+"phones": [
+"+380937800894",
+"+380979435590"
+],
+"co": 0,
+"so": 1,
+"vessels": [
+"General cargo"
+],
+"last": "2026-11-02",
+"sources": [
+"@maritimeforum"
+]
+},
+"selectoffshore.com": {
+"emails": [
+"alfie.smart@selectoffshore.com",
+"c.barreto@ipspowerfulpeople.com"
+],
+"telegram": [],
+"phones": [],
+"co": 1,
+"so": 0,
+"vessels": [
+"Offshore",
+"Tug"
+],
+"last": "2026-11-02",
+"sources": [
+"@maritimeforum"
+]
+},
+"danaos.od.ua": {
+"emails": [
+"danukr@danaos.od.ua"
+],
+"telegram": [
+"@DanaosUkraine"
+],
+"phones": [
+"+380994853436"
+],
+"co": 1,
+"so": 1,
+"vessels": [
+"Bulk",
+"Container"
+],
+"last": "2026-11-02",
+"sources": [
+"@marinejobs"
+]
+},
+"xt-romania.com": {
+"emails": [
+"alexandra@xt-romania.com"
+],
+"telegram": [],
+"phones": [
+"+40770706645"
+],
+"co": 1,
+"so": 0,
+"vessels": [
+"Bulk"
+],
+"last": "2026-11-02",
+"sources": [
+"@crewingua"
+]
+},
+"bsklogistic.ru": {
+"emails": [
+"kadry@bsklogistic.ru"
+],
+"telegram": [],
+"phones": [
+"+79506009222"
+],
+"co": 1,
+"so": 0,
+"vessels": [],
+"last": "2026-11-02",
+"sources": [
+"@rekamore_su"
+]
+},
+"delta152.ru": {
+"emails": [
+"staff@delta152.ru"
+],
+"telegram": [],
+"phones": [],
+"co": 1,
+"so": 0,
+"vessels": [
+"General cargo"
+],
+"last": "2026-11-02",
+"sources": [
+"@rekamore_su"
+]
+},
+"hermesmaritime.com": {
+"emails": [
+"nidhi@hermesmaritime.com"
+],
+"telegram": [],
+"phones": [],
+"co": 0,
+"so": 0,
+"vessels": [
+"Offshore"
+],
+"last": "2026-11-02",
+"sources": [
+"@offshoreatsea"
+]
+},
+"orca-crew.com": {
+"emails": [
+"career@orca-crew.com"
+],
+"telegram": [],
+"phones": [],
+"co": 1,
+"so": 0,
+"vessels": [
+"Offshore"
+],
+"last": "2026-11-02",
+"sources": [
+"@offshoreatsea"
+]
+},
+"@tankerjobatsea": {
+"emails": [],
+"telegram": [
+"@tankerjobatsea"
+],
+"phones": [],
+"co": 2,
+"so": 1,
+"vessels": [
+"Chemical",
+"LPG/LNG",
+"Tanker"
+],
+"last": "2026-11-02",
+"sources": [
+"@cvsenderseaman"
+]
 }
 },
 "last_file": "2026-45",
