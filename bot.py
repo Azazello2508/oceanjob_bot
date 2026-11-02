@@ -520,6 +520,19 @@ def letter_link(j, i):
     return f' · <a href="{html.escape(href)}">{html.escape(label)}</a>'
 
 
+MERCHANT_GROUPS = [
+    ("🔥 Газовозы (LPG/LNG)", ["lpg", "lng", "gas carrier"]),
+    ("⛽ Танкеры", ["tanker", "vlcc", "aframax", "suezmax", "chemical", "crude", "product", "oil/chem"]),
+    ("🪨 Балкеры", ["bulk"]),
+    ("📦 Контейнеровозы", ["container"]),
+    ("🏗 Генгруз / MPP / Coaster", ["general cargo", "mpp", "multi", "coaster", "cement", "heavy lift"]),
+    ("🚗 Ro-Ro / PCTC", ["ro-ro", "roro", "pctc", "car carrier"]),
+    ("❄️ Рефрижераторы", ["reefer"]),
+    ("🛳 Пассажирские / круиз / яхты", ["passenger", "cruise", "yacht", "ferry"]),
+    ("⚓ Буксиры / землечерпалки / баржи", ["tug", "dredg", "barge"]),
+]
+
+
 def render(day):
     """Готовит текст списка (может получиться несколько сообщений).
     Сначала — оффшорные вакансии, потом остальные; в каждой части новые сверху."""
@@ -559,26 +572,50 @@ def render(day):
         return (f"{line1}{line2}\n{company}{e(j['source'].replace('Telegram: ', ''))} · "
                 f"<a href=\"{e(j['url'])}\">открыть</a>{email}")
 
-    blocks = []
+    # Торговый флот — по типам судов
+    def category(j):
+        v = ((j.get("info") or {}).get("vessel") or "").lower() + " " + j["title"].lower()
+        for name, words in MERCHANT_GROUPS:
+            if any(w in v for w in words):
+                return name
+        return "❔ Прочие / тип не указан"
+
+    sections = []
     if jdp:
-        blocks.append(f"━━━━━━━━━━\n🎓 <b>JDPO / DP TRAINEE / DP BASIC ({len(jdp)})</b>\n━━━━━━━━━━")
-        blocks += [block(j) for j in jdp]
+        sections.append(("🎓 JDPO / DP TRAINEE / DP BASIC", jdp))
     if off:
-        blocks.append(f"━━━━━━━━━━\n🛢 <b>ОФФШОР ({len(off)})</b>\n━━━━━━━━━━")
-        blocks += [block(j) for j in off]
-    if rest:
-        blocks.append(f"━━━━━━━━━━\n🚢 <b>ОСТАЛЬНЫЕ ({len(rest)})</b>\n━━━━━━━━━━")
-        blocks += [block(j) for j in rest]
-    parts, cur = [], head
+        sections.append(("🛢 ОФФШОР", off))
+    groups = {}
+    for j in rest:
+        groups.setdefault(category(j), []).append(j)
+    for name, _ in MERCHANT_GROUPS + [("❔ Прочие / тип не указан", [])]:
+        if groups.get(name):
+            sections.append((name, groups[name]))
+
     # Длина так, как её считает Telegram: без тегов и ссылок, эмодзи = 2 знака (UTF-16)
     visible = lambda t: len(html.unescape(re.sub(r"<[^>]+>", "", t)).encode("utf-16-le")) // 2
-    for b in blocks:
-        if (visible(cur) + visible(b) + 2 > MAX_LEN or cur.count("<a ") + b.count("<a ") > 90
-                or len(cur) + len(b) > 8000):
-            parts.append(cur)
-            cur = ""
-        cur += "\n" + b + "\n"
-    parts.append(cur)
+    summary = "\n".join(f"{name}: {len(js)}" + (f" (🆕 {sum(x['new'] for x in js)})"
+                                                if any(x["new"] for x in js) else "")
+                        for name, js in sections)
+    parts = [head + "\n" + summary + "\n\n👇 Нажмите на раздел ниже, чтобы раскрыть список"]
+
+    # Каждый раздел — отдельное сообщение со сворачиваемым списком.
+    # Если раздел не помещается в одно сообщение — продолжение идёт следующим.
+    for name, js in sections:
+        n_new = sum(x["new"] for x in js)
+        title = f"<b>{name} — {len(js)}</b>" + (f" · 🆕 новых {n_new}" if n_new else "")
+        cards, chunk, k = [block(j) for j in js], [], 0
+        def flush(chunk, k):
+            t = title + (f" (продолжение {k})" if k else "")
+            return t + "\n<blockquote expandable>" + "\n\n".join(chunk) + "</blockquote>"
+        for c in cards:
+            trial = flush(chunk + [c], k)
+            if chunk and (visible(trial) > MAX_LEN or len(trial) > 8000 or trial.count("<a ") > 90):
+                parts.append(flush(chunk, k))
+                chunk, k = [], k + 1
+            chunk.append(c)
+        if chunk:
+            parts.append(flush(chunk, k))
     return parts
 
 
