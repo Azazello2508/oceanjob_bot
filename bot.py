@@ -269,11 +269,22 @@ def get_channel(name, max_pages=6):
 
 
 def send(text, html_mode=False):
+    """Отправляет сообщение. Если Telegram его не принял — пробует разбить или упростить,
+    чтобы из-за одной ошибки не пропал весь список."""
     data = {"chat_id": CHAT_ID, "text": text, "disable_web_page_preview": "true"}
     if html_mode:
         data["parse_mode"] = "HTML"
     r = requests.post(f"https://api.telegram.org/bot{TOKEN}/sendMessage", data=data, timeout=30)
-    r.raise_for_status()
+    if not r.ok:
+        desc = r.json().get("description", r.text) if r.headers.get("content-type", "").startswith("application/json") else r.text
+        print(f"Telegram не принял сообщение ({len(text)} знаков): {desc}")
+        cut = text.rfind("\n\n", 0, len(text) // 2 + 1)
+        if cut > 0 and len(text) > 500:          # слишком длинное — делим пополам по пустой строке
+            send(text[:cut], html_mode)
+            return send(text[cut:], html_mode)
+        if html_mode:                            # проблема с разметкой — отправляем простым текстом
+            return send(html.unescape(re.sub(r"<[^>]+>", "", text)), False)
+        r.raise_for_status()
     global LAST_SENT
     LAST_SENT = r.json()["result"]["message_id"]
     return LAST_SENT
@@ -550,7 +561,8 @@ def render(day):
         blocks.append(f"━━━━━━━━━━\n🚢 <b>ОСТАЛЬНЫЕ ({len(rest)})</b>\n━━━━━━━━━━")
         blocks += [block(j) for j in rest]
     parts, cur = [], head
-    visible = lambda t: len(html.unescape(re.sub(r"<[^>]+>", "", t)))  # длина без ссылок и тегов
+    # Длина так, как её считает Telegram: без тегов и ссылок, эмодзи = 2 знака (UTF-16)
+    visible = lambda t: len(html.unescape(re.sub(r"<[^>]+>", "", t)).encode("utf-16-le")) // 2
     for b in blocks:
         if visible(cur) + visible(b) + 2 > MAX_LEN or cur.count("<a ") + b.count("<a ") > 90:
             parts.append(cur)
@@ -562,8 +574,8 @@ def render(day):
 
 def publish(day, report=None):
     parts = render(day) if day["jobs"] else ["📋 Вакансий за сегодня пока нет."]
-    if report:
-        parts[0] = "Подключены новые источники:\n" + html.escape("\n".join(report)) + "\n\n" + parts[0]
+    if report:  # отчёт о новых источниках — отдельным сообщением перед списком
+        parts.insert(0, "Подключены новые источники:\n" + html.escape("\n".join(report)))
     new_ids = [send(part, html_mode=True) for part in parts]
     # Удаляем из чата всё, что было до нового списка: старые списки, сообщения прошлых дней
     clear_chat(day.get("cleared_upto", 0) + 1, min(new_ids) - 1)
@@ -744,8 +756,11 @@ def main():
     last = datetime.fromisoformat(day["last_list"]) if day["last_list"] else None
     due = last is None or datetime.now(timezone.utc) - last >= LIST_EVERY - timedelta(minutes=10)
     if (has_new and due) or report or day.pop("force", False):
-        publish(day, report)
-        print("Список обновлён")
+        try:
+            publish(day, report)
+            print("Список обновлён")
+        except Exception as e:  # даже если отправка не удалась — найденные вакансии сохраняем
+            print(f"Не удалось отправить список: {e}")
 
     now = datetime.now(LOCAL_TZ)
     this_week = now.strftime("%G-%V")
