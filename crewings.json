@@ -119,20 +119,22 @@
 },
 "xt-romania.com": {
 "emails": [
-"alexandra@xt-romania.com"
+"alexandra@xt-romania.com",
+"info@xt-romania.com"
 ],
 "telegram": [],
 "phones": [
 "+40770706645"
 ],
-"co": 1,
+"co": 2,
 "so": 0,
 "vessels": [
 "Bulk"
 ],
 "last": "2026-11-02",
 "sources": [
-"@crewingua"
+"@crewingua",
+"@cvsenderseaman"
 ]
 },
 "bsklogistic.ru": {

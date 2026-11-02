@@ -862,14 +862,224 @@
 "new": false,
 "time": "2026-11-02T09:11:57+00:00",
 "junior_dp": false
+},
+{
+"title": "2nd Officer on VLCC",
+"url": "https://crewell.net/en/vacancies/464342/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "VLCC"
+},
+"new": false,
+"time": "2026-11-02T09:21:13.003202+00:00",
+"junior_dp": false
+},
+{
+"title": "AQUAMARINE SHIPPING LLC",
+"url": "https://t.me/crewingua/44671",
+"source": "Telegram: @crewingua",
+"found": [
+"chief officer",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-fc4b976a35470d24",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer",
+"vessel": "Suezmax",
+"joining": "URGENT",
+"email": "application@aquamarine-crew.com",
+"company": "aquamarine-crew.com"
+},
+"new": false,
+"time": "2026-11-02T07:17:46+00:00",
+"junior_dp": false
+},
+{
+"title": "AQUAMARINE SHIPPING LLC",
+"url": "https://t.me/crewingua/44674",
+"source": "Telegram: @crewingua",
+"found": [
+"chief officer"
+],
+"fp": "fp-e84e6732b461fcc8",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "LNG",
+"joining": "ASAP",
+"email": "application@aquamarine-crew.com",
+"company": "aquamarine-crew.com"
+},
+"new": false,
+"time": "2026-11-02T07:26:06+00:00",
+"junior_dp": false
+},
+{
+"title": "DANAOS SHIPPING LTD (UKRAINE)",
+"url": "https://t.me/job_for_seaman/16966",
+"source": "Telegram: @job_for_seaman",
+"found": [
+"2nd off"
+],
+"fp": "fp-2d0ae2cc7a6e43ec",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Bulk carrier, Container",
+"salary": "LIST OVERVIEW",
+"contract": "4±1 mo (Officers) / 7±1 m",
+"email": "danukr@danaos.od.ua",
+"tg": "DanaosUkraine",
+"company": "danaos.od.ua"
+},
+"new": false,
+"time": "2026-11-02T08:05:14+00:00",
+"junior_dp": false
+},
+{
+"title": "Анонс вакансий ООО \"П. ТрансКо\" на РЕЧНУЮ навигацию 2027 года.",
+"url": "https://t.me/rekamore_su/163977",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-0765aee547a9577a",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Tug",
+"company": "Анонс вакансий ООО \"П. ТрансКо\" на…"
+},
+"new": false,
+"time": "2026-11-02T09:04:01+00:00",
+"junior_dp": false
+},
+{
+"title": "CHIEF OFFICER",
+"url": "https://t.me/cvsenderseaman/15064",
+"source": "Telegram: @cvsenderseaman",
+"found": [
+"chief officer"
+],
+"fp": "fp-185adb27d281fa5f",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Bulk carrier",
+"salary": "Negotiable",
+"joining": "07 November",
+"email": "info@xt-romania.com",
+"company": "xt-romania.com"
+},
+"new": false,
+"time": "2026-11-02T09:16:47+00:00",
+"junior_dp": false
+},
+{
+"title": "URGENTLY!!!! We have multiple openings for  officers for bulk carriers (KAMSARMAX, PANAMAX, CAPE) for a reputable Greek company.",
+"url": "https://t.me/crs_vacancies/3541",
+"source": "Telegram: @crs_vacancies",
+"found": [
+"chief officer",
+"second officer"
+],
+"fp": "fp-081f892a10dc54a2",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer",
+"vessel": "Bulk carrier",
+"salary": "9.500- 10.000 USD/month + rb 7…",
+"joining": "as per your availability",
+"contract": "4 (+/-1) months",
+"email": "info@thalpis-crs.com",
+"company": "thalpis-crs.com"
+},
+"new": false,
+"time": "2026-11-02T07:27:21+00:00",
+"junior_dp": false
+},
+{
+"title": "URGENTLY!!!! We have multiple openings for Officers for VLCC for a reputable Greek company.",
+"url": "https://t.me/crs_vacancies/3542",
+"source": "Telegram: @crs_vacancies",
+"found": [
+"chief officer",
+"second officer"
+],
+"fp": "fp-d3f1b2594e58b639",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer",
+"vessel": "VLCC",
+"salary": "15.000 USD plus 1500 rejoining…",
+"joining": "as per your availability",
+"contract": "4 (+/-1) months",
+"email": "info@thalpis-crs.com",
+"company": "thalpis-crs.com"
+},
+"new": false,
+"time": "2026-11-02T07:27:40+00:00",
+"junior_dp": false
+},
+{
+"title": "URGENTLY!!!! We have multiple openings for Officers for",
+"url": "https://t.me/crs_vacancies/3543",
+"source": "Telegram: @crs_vacancies",
+"found": [
+"chief officer",
+"second officer"
+],
+"fp": "fp-c882c7a37c30c5a3",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer",
+"vessel": "Suezmax",
+"salary": "14.500 USD plus 1500 rejoining…",
+"joining": "as per your availability",
+"contract": "4 (+/-1) months",
+"email": "info@thalpis-crs.com",
+"company": "thalpis-crs.com"
+},
+"new": false,
+"time": "2026-11-02T07:27:57+00:00",
+"junior_dp": false
+},
+{
+"title": "URGENTLY!!!! We have multiple openings for Officers for",
+"url": "https://t.me/crs_vacancies/3544",
+"source": "Telegram: @crs_vacancies",
+"found": [
+"chief officer",
+"second officer"
+],
+"fp": "fp-0a17e6e7dabf5f31",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer",
+"vessel": "Aframax",
+"salary": "14.500 USD plus 2000 rejoining…",
+"joining": "as per your availability",
+"contract": "4 (+/-1) months",
+"email": "info@thalpis-crs.com",
+"company": "thalpis-crs.com"
+},
+"new": false,
+"time": "2026-11-02T07:28:16+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-1579,
-1581
+1582,
+1583,
+1584
 ],
-"last_list": "2026-11-02T09:15:36.163912+00:00",
-"cleared_upto": 1578,
-"last_msg_id": 1581,
-"force": true
+"last_list": "2026-11-02T09:22:19.450741+00:00",
+"cleared_upto": 1581,
+"last_msg_id": 1584
 }
