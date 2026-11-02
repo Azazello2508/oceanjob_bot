@@ -412,6 +412,7 @@ MONEY_RE = r"((?:[$€]\s?\d[\d\s,.]*(?:\s*[-–]\s*[$€]?\s?\d[\d\s,.]*)?)|(?:
 
 def clean(v, limit=30):
     v = re.sub(r"[*_`]+", "", v).strip(" .,;:-–|•")
+    v = re.sub(r"^(is|are|from|:)\s+", "", v, flags=re.I)
     return v if len(v) <= limit else v[:limit].rstrip() + "…"
 
 
@@ -500,9 +501,8 @@ def gmail_link(j, i):
     from urllib.parse import urlencode
     if not i.get("email"):
         return ""
-    subject = f"Application for {apply_rank(i)}" + (f" – {apply_vessel(i)}" if i.get("vessel") else "")
-    href = MAIL_PAGE + "?" + urlencode({"to": i["email"], "su": subject, "body": letter_text(j, i)})
-    return f'\n📧 <a href="{html.escape(href)}">написать в Gmail: {html.escape(i["email"])}</a>'
+    href = MAIL_PAGE + "?" + urlencode({"to": i["email"], "r": apply_rank(i), "v": apply_vessel(i)})
+    return f' · <a href="{html.escape(href)}">📧 Gmail</a>'
 
 
 def letter_link(j, i):
@@ -519,6 +519,15 @@ def letter_link(j, i):
         label = "✉️ отклик"
     return f' · <a href="{html.escape(href)}">{html.escape(label)}</a>'
 
+
+OFFSHORE_GROUPS = [
+    ("🛢 Оффшор · AHTS / AHT", ["ahts", "aht", "anchor handl"]),
+    ("🛢 Оффшор · PSV / OSV / MPSV", ["psv", "osv", "mpsv", "supply"]),
+    ("🛢 Оффшор · DSV / Survey / ROV / Cable", ["dsv", "diving", "survey", "seismic", "rov", "cable", "pipe"]),
+    ("🛢 Оффшор · Jack-up / Rig / Barge", ["jack-up", "jack up", "rig", "platform", "barge", "fpso", "lift boat"]),
+    ("🛢 Оффшор · Crew boat / FSV / ветропарки", ["crew boat", "crewboat", "fsv", "fcs", "ctv", "sov", "wind"]),
+    ("🛢 Оффшор · Буксиры", ["tug"]),
+]
 
 MERCHANT_GROUPS = [
     ("🔥 Газовозы (LPG/LNG)", ["lpg", "lng", "gas carrier"]),
@@ -550,27 +559,23 @@ def render(day):
             f"🎓 JDPO/DP {len(jdp)}, 🛢 оффшор {len(off)}, новых {n_new}\n(обновлено в {datetime.now(LOCAL_TZ):%H:%M})\n")
 
     def block(j):
-        mark = ("🆕 <b>НОВАЯ</b> · " if j["new"] else "") + ("🔁 повтор · " if j.get("repeat") else "")
-        when = datetime.fromisoformat(j["time"]).astimezone(LOCAL_TZ).strftime("%H:%M")
-        icon = "🎓" if j.get("junior_dp") else "🛢" if j["offshore"] else "🚢"
-        i = j.get("info") or summarize(j["title"])
+        """Компактная карточка: 1-я строка — что за вакансия, 2-я — откуда и ссылки."""
         e = html.escape
+        i = j.get("info") or summarize(j["title"])
+        when = datetime.fromisoformat(j["time"]).astimezone(LOCAL_TZ).strftime("%H:%M")
+        mark = ("🆕 " if j["new"] else "") + ("🔁 " if j.get("repeat") else "")
         rank = e(i.get("rank") or ", ".join(j.get("found") or []) or "Вакансия")
-        line1 = f"{mark}🕒 {when}\n{icon} <b>{rank}</b>" + (f" — {e(i['vessel'])}" if i.get("vessel") else "")
-        details = []
-        if i.get("salary"):
-            details.append(f"💰 {e(i['salary'])}")
-        if i.get("joining"):
-            details.append(f"📅 {e(i['joining'])}")
-        if i.get("contract"):
-            details.append(f"⏳ {e(i['contract'])}")
-        line2 = ("\n" + " · ".join(details)) if details else ""
-        if not i.get("vessel") and not details:  # ничего не нашли — покажем начало текста
-            line2 = f"\n<i>{e(j['title'])}</i>"
-        company = f"🏢 {e(i['company'])} · " if i.get("company") else ""
-        email = gmail_link(j, i)
-        return (f"{line1}{line2}\n{company}{e(j['source'].replace('Telegram: ', ''))} · "
-                f"<a href=\"{e(j['url'])}\">открыть</a>{email}")
+        what = f"<b>{rank}</b>" + (f" — {e(i['vessel'])}" if i.get("vessel") else "")
+        extra = [f"💰 {e(i['salary'])}" if i.get("salary") else "",
+                 f"📅 {e(i['joining'])}" if i.get("joining") else "",
+                 f"⏳ {e(i['contract'])}" if i.get("contract") else ""]
+        extra = " · ".join(x for x in extra if x)
+        if not i.get("vessel") and not extra:   # ничего не разобрали — покажем начало текста
+            extra = f"<i>{e(j['title'][:70])}</i>"
+        line1 = f"{mark}{when} {what}" + (f"\n{extra}" if extra else "")
+        company = f"{e(i['company'][:30])} · " if i.get("company") else ""
+        return (f"{line1}\n{company}{e(j['source'].replace('Telegram: ', ''))} · "
+                f"<a href=\"{e(j['url'])}\">открыть</a>{gmail_link(j, i)}")
 
     # Торговый флот — по типам судов
     def category(j):
@@ -584,7 +589,14 @@ def render(day):
     if jdp:
         sections.append(("🎓 JDPO / DP TRAINEE / DP BASIC", jdp))
     if off:
-        sections.append(("🛢 ОФФШОР", off))
+        sub = {}
+        for j in off:
+            v = ((j.get("info") or {}).get("vessel") or "").lower() + " " + j["title"].lower()
+            name = next((n for n, ws in OFFSHORE_GROUPS if any(w in v for w in ws)), "🛢 Оффшор · прочие")
+            sub.setdefault(name, []).append(j)
+        for name, _ in OFFSHORE_GROUPS + [("🛢 Оффшор · прочие", [])]:
+            if sub.get(name):
+                sections.append((name, sub[name]))
     groups = {}
     for j in rest:
         groups.setdefault(category(j), []).append(j)
@@ -606,7 +618,7 @@ def render(day):
         title = f"<b>{name} — {len(js)}</b>" + (f" · 🆕 новых {n_new}" if n_new else "")
         cards, chunk, k = [block(j) for j in js], [], 0
         def flush(chunk, k):
-            t = title + (f" (продолжение {k})" if k else "")
+            t = title if not k else f"<b>{name}</b> · часть {k + 1}"
             return t + "\n<blockquote expandable>" + "\n\n".join(chunk) + "</blockquote>"
         for c in cards:
             trial = flush(chunk + [c], k)

@@ -27,7 +27,12 @@
 </div>
 <script>
   var p = new URLSearchParams(location.search);
-  var to = p.get("to") || "", su = p.get("su") || "", body = p.get("body") || "";
+  var to = p.get("to") || "", r = p.get("r") || "Officer", v = p.get("v") || "";
+  // Тема и текст письма (шаблон — тот же, что в letter.txt)
+  var su = p.get("su") || ("Application for " + r + (v ? " – " + v : ""));
+  var body = p.get("body") || ("Good day!\n\nI would like to apply for the " + r + " position on " +
+    (v || "your vessel") + ".\n\nPlease find my CV attached. I am ready to provide any additional documents " +
+    "and to discuss the details at your convenience.\n\nBest regards,");
   document.getElementById("to").textContent = to;
   document.getElementById("su").textContent = su;
   document.getElementById("body").textContent = body;
