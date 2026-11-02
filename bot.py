@@ -537,7 +537,7 @@ def render(day):
             f"🎓 JDPO/DP {len(jdp)}, 🛢 оффшор {len(off)}, новых {n_new}\n(обновлено в {datetime.now(LOCAL_TZ):%H:%M})\n")
 
     def block(j):
-        mark = "🆕 <b>НОВАЯ</b> · " if j["new"] else ""
+        mark = ("🆕 <b>НОВАЯ</b> · " if j["new"] else "") + ("🔁 повтор · " if j.get("repeat") else "")
         when = datetime.fromisoformat(j["time"]).astimezone(LOCAL_TZ).strftime("%H:%M")
         icon = "🎓" if j.get("junior_dp") else "🛢" if j["offshore"] else "🚢"
         i = j.get("info") or summarize(j["title"])
@@ -733,14 +733,16 @@ def main():
             fp = job.get("fp")
             if job["url"] in day_urls or (fp and fp in day_fps):
                 continue  # уже в списке (или точная копия из другого канала)
-            if not known and fp and fp in seen:
-                continue  # точная копия поста, который был раньше
+            # Канал повторил вакансию, которую уже публиковал в прошлые дни — в списке она будет,
+            # но с пометкой «🔁 повтор», чтобы было видно, что это не свежая вакансия
+            repeat = bool(fp and fp in seen and not any(fp == x.get("fp") for x in day["jobs"])
+                          and is_channel and not known)
             day["jobs"].append({
                 "title": short(job["title"]), "url": job["url"], "source": label,
                 "found": job.get("found") or [], "fp": fp,
                 "offshore": is_offshore(job["title"] + " " + job["url"].replace("-", " ")),
                 "info": summarize(job["title"] + " " + job["url"].split("/")[-1].replace("-", " ")),
-                "new": not known,
+                "new": not known, "repeat": repeat,
                 "time": when.astimezone(timezone.utc).isoformat(),
             })
             day_urls.add(job["url"])
