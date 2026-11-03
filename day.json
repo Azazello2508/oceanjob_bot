@@ -4106,30 +4106,319 @@
 "repeat": false,
 "time": "2026-11-03T14:37:23+00:00",
 "junior_dp": false
+},
+{
+"title": "Chief Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/368473",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-03T15:58:50.592643+00:00",
+"junior_dp": false
+},
+{
+"title": "Chief Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/368477",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-03T15:58:50.594911+00:00",
+"junior_dp": false
+},
+{
+"title": ",,Золотой Штурвал ,,:",
+"url": "https://t.me/maritimeforum/254493",
+"source": "Telegram: @maritimeforum",
+"found": [
+"старпом"
+],
+"fp": "fp-6fcdaaa7af4dad1e",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Bulk carrier, General cargo",
+"salary": "1000$",
+"joining": "в Измаиле",
+"contract": "6+-1"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-03T15:32:33+00:00",
+"junior_dp": false
+},
+{
+"title": "Now hiring: 2ND MATE DPO for Cable layer vessel",
+"url": "https://t.me/maritimeforum/254507",
+"source": "Telegram: @maritimeforum",
+"found": [
+"dpo"
+],
+"fp": "fp-49ae70ba8511d080",
+"offshore": true,
+"info": {
+"rank": "DPO",
+"contract": "+/- 6 weeks",
+"email": "application@maritime.pl",
+"company": "maritime.pl"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-03T15:51:11+00:00",
+"junior_dp": false
+},
+{
+"title": "Position: 2ND-OFFICER-DPO",
+"url": "https://t.me/maritimeforum/254527",
+"source": "Telegram: @maritimeforum",
+"found": [
+"dpo"
+],
+"fp": "fp-74e18dd29fe75340",
+"offshore": true,
+"info": {
+"rank": "DPO",
+"contract": "+- 6 weeks",
+"email": "application@maritime.pl",
+"company": "maritime.pl"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-03T15:55:59+00:00",
+"junior_dp": false
+},
+{
+"title": "We are seeking qualified Deck Officers for our PSV/MPSV Vessels",
+"url": "https://t.me/seajobfinder/42135",
+"source": "Telegram: @seajobfinder",
+"found": [
+"chief officer"
+],
+"fp": "fp-0b3cb20e0e152fa7",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "PSV, MPSV",
+"email": "crewsourcing@milaha.com",
+"company": "milaha.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-03T15:52:13+00:00",
+"junior_dp": false
+},
+{
+"title": "Master",
+"url": "https://t.me/marinejobs/42977",
+"source": "Telegram: @marinejobs",
+"found": [
+"chief officer",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-bd3f3a6281f2974e",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer",
+"vessel": "Crude oil tanker, Bulk carrier",
+"salary": "$9,100 – $9,300",
+"joining": "ASAP",
+"contract": "Standard",
+"email": "cv@alphacrew.com",
+"company": "alphacrew.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-03T15:12:58+00:00",
+"junior_dp": false
+},
+{
+"title": "New maritime opportunities available!",
+"url": "https://t.me/marinejobs/42978",
+"source": "Telegram: @marinejobs",
+"found": [
+"chief officer"
+],
+"fp": "fp-445234c3ff7d09cc",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Bulk carrier, PSV",
+"salary": "7,500 USD",
+"joining": "November | Contract: 3 months",
+"contract": "3 months",
+"email": "cv@tsmexp.com",
+"company": "tsmexp.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-03T15:16:07+00:00",
+"junior_dp": false
+},
+{
+"title": "Alpha Crew Group urgently needs experienced officers for a bulk carrier vessel.",
+"url": "https://t.me/marinejobs/42981",
+"source": "Telegram: @marinejobs",
+"found": [
+"chief officer"
+],
+"fp": "fp-dfb8be9807724022",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Bulk carrier",
+"contract": "immediate start, 4‑6 mont",
+"salary": "$9,100–$9,300 ",
+"email": "cv@alphacrew.com",
+"company": "alphacrew.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-03T15:23:17+00:00",
+"junior_dp": false
+},
+{
+"title": "Alpha Crew Group is seeking experienced crew for an AHTS DP2 vessel!",
+"url": "https://t.me/marinejobs/42982",
+"source": "Telegram: @marinejobs",
+"found": [
+"chief officer",
+"sdpo",
+"dpo"
+],
+"fp": "fp-c25d2a8d93d34a12",
+"offshore": true,
+"info": {
+"rank": "Chief Officer / SDPO",
+"vessel": "AHTS",
+"salary": "$350",
+"email": "cv@alphacrew.com",
+"company": "alphacrew.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-03T15:25:32+00:00",
+"junior_dp": false
+},
+{
+"title": "New Maritime Vacancies",
+"url": "https://t.me/marinejobs/42984",
+"source": "Telegram: @marinejobs",
+"found": [
+"chief officer"
+],
+"fp": "fp-0329cb42b7b3a5e7",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo",
+"joining": "26 November, St. Petersburg",
+"contract": "5+1 months",
+"salary": "$4100",
+"email": "cv@allcrew.net",
+"company": "allcrew.net"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-03T15:29:51+00:00",
+"junior_dp": false
+},
+{
+"title": "Urgent Vacancies on LPG Carrier",
+"url": "https://t.me/marinejobs/42986",
+"source": "Telegram: @marinejobs",
+"found": [
+"chief officer"
+],
+"fp": "fp-3a2d9a06ce3d97b3",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "LPG",
+"joining": "early December",
+"email": "ua-csc-ode-man@bs-shipmanagement.com",
+"company": "bs-shipmanagement.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-03T15:32:28+00:00",
+"junior_dp": false
+},
+{
+"title": "Open to Ukrainian seafarers only!",
+"url": "https://t.me/marinejobs/42988",
+"source": "Telegram: @marinejobs",
+"found": [
+"c/o",
+"2/o"
+],
+"fp": "fp-02f48d5f3237dd37",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer",
+"vessel": "LPG",
+"joining": "Korea by 15 Dec. Contract: 4 m",
+"contract": "4 months",
+"email": "ua-csc-ode-man@bs-shipmanagement.com",
+"company": "bs-shipmanagement.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-03T15:34:41+00:00",
+"junior_dp": false
+},
+{
+"title": "https://jobatsea.online/job/624892/1st-officer-dpo-for-seismic-research-support-vessel-at-anna/",
+"url": "https://t.me/offshorevacancies/47040",
+"source": "Telegram: @offshorevacancies",
+"found": [
+"dpo"
+],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "DPO"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-03T15:40:40+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-1857,
-1858,
-1859,
-1860,
-1861,
-1862,
-1863,
-1864,
-1865,
-1866,
-1867,
-1868,
-1869,
-1870,
-1871,
-1872,
-1873,
-1874,
-1875
+1876,
+1877,
+1878,
+1879,
+1880,
+1881,
+1882,
+1883,
+1884,
+1885,
+1886,
+1887,
+1888,
+1889,
+1890,
+1891,
+1892,
+1893,
+1894,
+1895
 ],
-"last_list": "2026-11-03T15:10:39.416572+00:00",
-"cleared_upto": 1856,
-"last_msg_id": 1875
+"last_list": "2026-11-03T16:00:04.287746+00:00",
+"cleared_upto": 1875,
+"last_msg_id": 1895
 }
