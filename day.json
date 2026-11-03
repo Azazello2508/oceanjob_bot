@@ -1203,24 +1203,68 @@
 "repeat": false,
 "time": "2026-11-03T07:39:04.630033+00:00",
 "junior_dp": false
+},
+{
+"title": "NEW PCTC VESSEL |SENIOR OFFICERS",
+"url": "https://t.me/seamenjob/106051",
+"source": "Telegram: @seamenjob",
+"found": [
+"chief officer"
+],
+"fp": "fp-d1f0d41799ea0745",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Ro-Ro, PCTC",
+"joining": "14th / 15th November in Turkey",
+"email": "forcv@csm-ua.com",
+"company": "csm-ua.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-03T07:47:01+00:00",
+"junior_dp": false
+},
+{
+"title": "VACANCIES – CHIEF OFFICER",
+"url": "https://t.me/andreeyVstart/1373",
+"source": "Telegram: @andreeyVstart",
+"found": [
+"chief officer"
+],
+"fp": "fp-9836d406f4fdba39",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo",
+"salary": "7200 USD",
+"joining": "ASAP",
+"contract": "4 ±1 months",
+"email": "ops@start-manning.com",
+"company": "start-manning.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-03T07:49:07+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-1707,
-1708,
-1709,
-1710,
-1711,
-1712,
-1713,
-1714,
-1715,
-1716,
-1717,
-1718,
-1719
+1721,
+1722,
+1723,
+1724,
+1725,
+1726,
+1727,
+1728,
+1729,
+1730,
+1731,
+1732,
+1733
 ],
-"last_list": "2026-11-03T07:40:22.097673+00:00",
-"cleared_upto": 1706,
-"last_msg_id": 1719
+"last_list": "2026-11-03T07:49:54.592497+00:00",
+"cleared_upto": 1720,
+"last_msg_id": 1733
 }
