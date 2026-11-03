@@ -1,0 +1,24 @@
+name: Образцы страниц (для настройки)
+on: workflow_dispatch
+permissions:
+  contents: write
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: |
+          mkdir -p samples
+          ua="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/124 Safari/537.36"
+          get() { curl -sL -A "$ua" -m 40 -o "samples/$1" -w "$1 %{http_code} %{size_download}\n" "$2" >> samples/index.txt; }
+          get ukr_list.html "https://ukrcrewing.com.ua/en/agency"
+          get ukr_list_p2.html "https://ukrcrewing.com.ua/en/agency/p2/"
+          get ukr_company.html "https://ukrcrewing.com.ua/en/agency/asap"
+          get crewell_list.html "https://crewell.net/en/companies/"
+          get crewell_company.html "https://crewell.net/en/companies/53604/"
+          get seajobs_list.html "https://www.seajobs.ru/en/companies?page=1"
+          get tg_page.html "https://t.me/s/marinejobs"
+          get tg_before.html "https://t.me/s/marinejobs?before=7000"
+          cat samples/index.txt
+          git config user.name "oceanjob-bot"; git config user.email "oceanjob-bot@users.noreply.github.com"
+          git add samples && git commit -qm "Образцы страниц" && git pull -q --rebase origin main && git push -q
