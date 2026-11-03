@@ -1187,24 +1187,40 @@
 "repeat": true,
 "time": "2026-11-03T07:18:15+00:00",
 "junior_dp": false
+},
+{
+"title": "2nd Officer on Crude oil tanker",
+"url": "https://crewell.net/en/vacancies/464569/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Crude oil tanker"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-03T07:39:04.630033+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-1694,
-1695,
-1696,
-1697,
-1698,
-1699,
-1700,
-1701,
-1702,
-1703,
-1704,
-1705,
-1706
+1707,
+1708,
+1709,
+1710,
+1711,
+1712,
+1713,
+1714,
+1715,
+1716,
+1717,
+1718,
+1719
 ],
-"last_list": "2026-11-03T07:22:58.222635+00:00",
-"cleared_upto": 1693,
-"last_msg_id": 1706
+"last_list": "2026-11-03T07:40:22.097673+00:00",
+"cleared_upto": 1706,
+"last_msg_id": 1719
 }
