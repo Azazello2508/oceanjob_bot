@@ -4745,31 +4745,61 @@
 "repeat": false,
 "time": "2026-11-03T17:07:51+00:00",
 "junior_dp": false
+},
+{
+"title": "2nd Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/368484",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-03T18:24:35.339873+00:00",
+"junior_dp": false
+},
+{
+"title": "Chief Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/368489",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-03T18:24:35.342084+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-1916,
-1917,
-1918,
-1919,
-1920,
-1921,
-1922,
-1923,
-1924,
-1925,
-1926,
-1927,
-1928,
-1929,
-1930,
-1931,
-1932,
-1933,
-1934,
-1935
+1936,
+1937,
+1938,
+1939,
+1940,
+1941,
+1942,
+1943,
+1944,
+1945,
+1946,
+1947,
+1948,
+1949,
+1950,
+1951,
+1952,
+1953,
+1954,
+1955
 ],
-"last_list": "2026-11-03T17:39:07.823068+00:00",
-"cleared_upto": 1915,
-"last_msg_id": 1935
+"last_list": "2026-11-03T18:25:48.620141+00:00",
+"cleared_upto": 1935,
+"last_msg_id": 1955
 }

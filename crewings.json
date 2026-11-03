@@ -3466,7 +3466,7 @@
 "ukrcrewing": "https://ukrcrewing.com.ua/en/agency/alpha_crew"
 },
 "name": "AlphaCrew Maritime",
-"off": 392,
+"off": 394,
 "offshore_hint": true,
 "phones": [
 "+35726000899",
@@ -3500,7 +3500,7 @@
 "@Olga_Alpha_Crew",
 "@irina_alpha"
 ],
-"total": 420,
+"total": 422,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -44035,7 +44035,7 @@
 "crewell": "https://crewell.net/en/companies/64960/"
 },
 "name": "Advance Global Recruitment Ltd",
-"off": 204,
+"off": 205,
 "offshore_hint": false,
 "phones": [],
 "so": 10,
@@ -44054,7 +44054,7 @@
 "@offshoreatsea"
 ],
 "telegram": [],
-"total": 205,
+"total": 206,
 "vessels": [
 "Dredger",
 "General cargo",
@@ -53462,7 +53462,7 @@
 "Merchant_Fleet": 582,
 "OffshoreFleetJob": 11056,
 "Offshore_Vacancies": 870,
-"OnlyOffshore": 38767,
+"OnlyOffshore": 38768,
 "OnlyYacht": 2308,
 "SM_job_center": 2466,
 "Sea_format": 12334,
@@ -53483,7 +53483,7 @@
 "job_for_seaman": 16983,
 "jobfor_seamen": 12638,
 "marinecareerorg": 17751,
-"marinejobs": 42999,
+"marinejobs": 43000,
 "marinejobz": 194156,
 "marineman_ltd": 48297,
 "maritimeforum": 254602,
@@ -53498,15 +53498,15 @@
 "onboard_su": 20676,
 "rekamore_su": 164164,
 "roster_marine": 1729,
-"seajobfinder": 42149,
+"seajobfinder": 42150,
 "seamenjob": 106066,
 "seamenvacancy": 1371,
-"seavacancies": 25161,
+"seavacancies": 25162,
 "shipjobsindia": 420,
 "shipscreweu": 16544,
 "sidantey": 399,
 "supermariner_ua": 3867,
-"truemalina_offshore": 783,
+"truemalina_offshore": 784,
 "ukrcrewing_official": 2372,
 "univis_crewing": 4997,
 "vshipsoffshore": 1070
