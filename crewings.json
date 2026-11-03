@@ -14511,6 +14511,32 @@
 ],
 "website": ""
 },
+"globalustshipping.org": {
+"address": "",
+"city": "",
+"co": 0,
+"country": "",
+"emails": [
+"globalust71@gmail.com"
+],
+"first": "2026-11-03",
+"last": "2026-11-03",
+"links": {},
+"name": "",
+"off": 0,
+"offshore_hint": false,
+"phones": [
+"+447348266142"
+],
+"so": 0,
+"sources": [
+"@marinejobs"
+],
+"telegram": [],
+"total": 1,
+"vessels": [],
+"website": "globalustshipping.org"
+},
 "glomaroffshore.com": {
 "address": "Het Nieuwe Diep 34A3",
 "city": "Den Helder",
@@ -53483,7 +53509,7 @@
 "job_for_seaman": 16983,
 "jobfor_seamen": 12638,
 "marinecareerorg": 17752,
-"marinejobs": 43002,
+"marinejobs": 43004,
 "marinejobz": 194156,
 "marineman_ltd": 48297,
 "maritimeforum": 254606,
