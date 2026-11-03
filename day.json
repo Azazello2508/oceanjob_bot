@@ -1247,24 +1247,101 @@
 "repeat": false,
 "time": "2026-11-03T07:49:07+00:00",
 "junior_dp": false
+},
+{
+"title": "2nd Officer Job - Crude Oil Tanker Samer Osman",
+"url": "https://maritime-union.com/job/231529",
+"source": "maritime-union.com",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Crude oil tanker"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-03T07:58:34.550159+00:00",
+"junior_dp": false
+},
+{
+"title": "Chief Officer & 2nd Officer DPO Jobs on DP2 Vessels Aavishka Marine Services",
+"url": "https://maritime-union.com/job/231548",
+"source": "maritime-union.com",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "Chief Officer / 2nd Officer / DPO",
+"company": "Chief Officer & 2nd Officer DPO Job…"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-03T07:58:34.551795+00:00",
+"junior_dp": false
+},
+{
+"title": "VACANCIES – CHIEF OFFICER",
+"url": "https://t.me/job_for_seaman/16978",
+"source": "Telegram: @job_for_seaman",
+"found": [
+"chief officer"
+],
+"fp": "fp-c881fa8612a70812",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo",
+"salary": "7200 USD",
+"joining": "ASAP",
+"contract": "4 ±1 months",
+"email": "ops@start-manning.com",
+"company": "start-manning.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-03T07:50:35+00:00",
+"junior_dp": false
+},
+{
+"title": "CHIEF OFFICER – AHTS TUG",
+"url": "https://t.me/balticcareer/5244",
+"source": "Telegram: @balticcareer",
+"found": [
+"chief officer",
+"dp basic"
+],
+"fp": "fp-b8c8a1f3388f82ac",
+"offshore": true,
+"info": {
+"rank": "Chief Officer / DP Basic/Induction",
+"vessel": "AHTS, Tug",
+"salary": "6500 EUR / month",
+"contract": "60 DAYS WITH 20 DAYS OPTI"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-03T07:55:11+00:00",
+"junior_dp": true
 }
 ],
 "msg_ids": [
-1721,
-1722,
-1723,
-1724,
-1725,
-1726,
-1727,
-1728,
-1729,
-1730,
-1731,
-1732,
-1733
+1736,
+1737,
+1738,
+1739,
+1740,
+1741,
+1742,
+1743,
+1744,
+1745,
+1746,
+1747,
+1748,
+1749
 ],
-"last_list": "2026-11-03T07:49:54.592497+00:00",
-"cleared_upto": 1720,
-"last_msg_id": 1733
+"last_list": "2026-11-03T07:59:27.873454+00:00",
+"cleared_upto": 1735,
+"last_msg_id": 1749
 }
