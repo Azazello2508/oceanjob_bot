@@ -4394,31 +4394,339 @@
 "repeat": false,
 "time": "2026-11-03T15:40:40+00:00",
 "junior_dp": false
+},
+{
+"title": "Position: CHIEF-OFFICER",
+"url": "https://t.me/maritimeforum/254539",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-6995b6549a9abf8e",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "MPP, PSV",
+"email": "shelly.mountain@crewingservices.co.uk",
+"company": "crewingservices.co.uk"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-03T16:24:36+00:00",
+"junior_dp": false
+},
+{
+"title": "2nd Officer JDPO for AHTS DP2",
+"url": "https://t.me/maritimeforum/254541",
+"source": "Telegram: @maritimeforum",
+"found": [
+"jdpo",
+"2nd officer",
+"dpo",
+"jdpo",
+"2nd off"
+],
+"fp": "fp-51db2935cac200db",
+"offshore": true,
+"info": {
+"rank": "2nd Officer / JDPO",
+"vessel": "PCTC, AHTS",
+"salary": "100 USD per day",
+"joining": "interview Matter",
+"contract": "12 weeks ON / 12 weeks OF",
+"email": "crew@goldorion.eu",
+"company": "goldorion.eu"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-03T16:28:41+00:00",
+"junior_dp": true
+},
+{
+"title": "Chief Officer - MPV",
+"url": "https://t.me/maritimeforum/254544",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-3f73dbb4bd7a3073",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"email": "shelly.mountain@crewingservices.co.uk",
+"company": "crewingservices.co.uk"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-03T16:29:04+00:00",
+"junior_dp": false
+},
+{
+"title": "Position: Chief Officer DPO for DP2 Fast Supply Intervention Vessel / Crew Boat",
+"url": "https://t.me/maritimeforum/254545",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer",
+"dpo"
+],
+"fp": "fp-22078a2d0e6d444e",
+"offshore": true,
+"info": {
+"rank": "Chief Officer / DPO",
+"vessel": "Crew boat",
+"email": "applications@ryanship.com",
+"company": "ryanship.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-03T16:29:11+00:00",
+"junior_dp": false
+},
+{
+"title": "Multiple Vacancies – Masters & Chief Officers | AHTS / PSV",
+"url": "https://t.me/maritimeforum/254547",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer",
+"dpo"
+],
+"fp": "fp-8c882fd4b0694088",
+"offshore": true,
+"info": {
+"rank": "Chief Officer / DPO",
+"vessel": "PSV, AHTS",
+"joining": "ASAP",
+"email": "elbek.juraev@selectoffshore.com",
+"company": "selectoffshore.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-03T16:29:24+00:00",
+"junior_dp": false
+},
+{
+"title": "2nd Officer SDPO for AHTS DP2",
+"url": "https://t.me/maritimeforum/254548",
+"source": "Telegram: @maritimeforum",
+"found": [
+"2nd officer",
+"sdpo",
+"dpo",
+"2nd off"
+],
+"fp": "fp-6f77af53d8f803f1",
+"offshore": true,
+"info": {
+"rank": "2nd Officer / SDPO",
+"vessel": "PCTC, AHTS",
+"salary": "200 USD per day",
+"joining": "interview Matter",
+"contract": "12 weeks ON / 12 weeks OF",
+"email": "crew@goldorion.eu",
+"company": "goldorion.eu"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-03T16:29:31+00:00",
+"junior_dp": false
+},
+{
+"title": "Chief Officer",
+"url": "https://t.me/maritimeforum/254580",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-ca95f240823eb3ab",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo",
+"contract": "3 months",
+"salary": "$6,300–6,800\n",
+"email": "info@mjsml.com.ua",
+"company": "mjsml.com.ua"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-03T16:37:19+00:00",
+"junior_dp": false
+},
+{
+"title": "Chief Officer",
+"url": "https://t.me/maritimeforum/254586",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-4725ac79029268ef",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo",
+"contract": "6 months",
+"salary": "$4,000\n",
+"email": "crewing@sealane.net",
+"company": "sealane.net"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-03T16:37:57+00:00",
+"junior_dp": false
+},
+{
+"title": "2nd Officer",
+"url": "https://t.me/maritimeforum/254588",
+"source": "Telegram: @maritimeforum",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-a1111acda33b8c7a",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Crude oil tanker",
+"contract": "3 months",
+"salary": "$6,600\n",
+"email": "crew@alncc.com",
+"company": "alncc.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-03T16:38:10+00:00",
+"junior_dp": false
+},
+{
+"title": "2nd Officer",
+"url": "https://t.me/maritimeforum/254591",
+"source": "Telegram: @maritimeforum",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-d09fa440fc574c78",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Bulk carrier",
+"contract": "6 months",
+"salary": "$3,500\n",
+"email": "crew@phoenix-maritime.com",
+"company": "phoenix-maritime.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-03T16:38:29+00:00",
+"junior_dp": false
+},
+{
+"title": "Position:",
+"url": "https://t.me/CREW_ARIA/13949",
+"source": "Telegram: @CREW_ARIA",
+"found": [
+"jdpo",
+"2nd officer",
+"dpo",
+"jdpo",
+"2nd off"
+],
+"fp": "fp-8cc9b784fa2fcee8",
+"offshore": true,
+"info": {
+"rank": "2nd Officer / JDPO",
+"vessel": "PCTC, AHTS",
+"salary": "100 USD per day",
+"joining": "interview Matter",
+"contract": "12 weeks ON  12 weeks OFF",
+"email": "crew@goldorion.eu",
+"company": "goldorion.eu"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-03T16:18:12+00:00",
+"junior_dp": true
+},
+{
+"title": "Chief Officer",
+"url": "https://t.me/marinejobs/42997",
+"source": "Telegram: @marinejobs",
+"found": [
+"chief officer"
+],
+"fp": "fp-f410d56a555ce294",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "PSV, MPSV",
+"email": "crewsourcing@milaha.com",
+"company": "milaha.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-03T16:05:30+00:00",
+"junior_dp": false
+},
+{
+"title": "DECK OFFICERS (41)",
+"url": "https://t.me/marineman_ltd/48291",
+"source": "Telegram: @marineman_ltd",
+"found": [
+"chief officer",
+"second officer"
+],
+"fp": "fp-83515f0640141403",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer",
+"vessel": "LPG, LNG"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-03T16:00:02+00:00",
+"junior_dp": false
+},
+{
+"title": "Список закрытых каналов в",
+"url": "https://t.me/rekamore_su/164164",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-de84ab9948b9e3a9",
+"offshore": false,
+"info": {
+"rank": "Chief Officer"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-03T16:03:01+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-1876,
-1877,
-1878,
-1879,
-1880,
-1881,
-1882,
-1883,
-1884,
-1885,
-1886,
-1887,
-1888,
-1889,
-1890,
-1891,
-1892,
-1893,
-1894,
-1895
+1896,
+1897,
+1898,
+1899,
+1900,
+1901,
+1902,
+1903,
+1904,
+1905,
+1906,
+1907,
+1908,
+1909,
+1910,
+1911,
+1912,
+1913,
+1914,
+1915
 ],
-"last_list": "2026-11-03T16:00:04.287746+00:00",
-"cleared_upto": 1875,
-"last_msg_id": 1895
+"last_list": "2026-11-03T16:49:34.304595+00:00",
+"cleared_upto": 1895,
+"last_msg_id": 1915
 }
