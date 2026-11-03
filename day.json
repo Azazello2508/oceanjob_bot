@@ -1062,25 +1062,66 @@
 "repeat": false,
 "time": "2026-11-03T06:48:35+00:00",
 "junior_dp": false
+},
+{
+"title": "AQUAMARINE SHIPPING LLC",
+"url": "https://t.me/crewingua/44696",
+"source": "Telegram: @crewingua",
+"found": [
+"chief officer"
+],
+"fp": "fp-e84e6732b461fcc8",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "LNG",
+"joining": "ASAP",
+"email": "application@aquamarine-crew.com",
+"company": "aquamarine-crew.com"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-03T07:14:04+00:00",
+"junior_dp": false
+},
+{
+"title": "AQUAMARINE SHIPPING LLC",
+"url": "https://t.me/crewingua/44697",
+"source": "Telegram: @crewingua",
+"found": [
+"chief officer",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-afb14d26785cf42c",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer",
+"email": "application@aquamarine-crew.com",
+"company": "aquamarine-crew.com"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-03T07:14:31+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-1668,
-1669,
-1670,
-1671,
-1672,
-1673,
-1674,
-1675,
-1676,
-1677,
-1678,
-1679,
-1680
+1681,
+1682,
+1683,
+1684,
+1685,
+1686,
+1687,
+1688,
+1689,
+1690,
+1691,
+1692,
+1693
 ],
-"last_list": "2026-11-03T07:13:34.665846+00:00",
-"cleared_upto": 1667,
-"last_msg_id": 1680,
-"force": true
+"last_list": "2026-11-03T07:17:33.399457+00:00",
+"cleared_upto": 1680,
+"last_msg_id": 1693
 }

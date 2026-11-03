@@ -1404,6 +1404,27 @@
 "sources": [
 "@cvsenderseaman"
 ]
+},
+"aquamarine-crew.com": {
+"emails": [
+"application@aquamarine-crew.com",
+"application@aquamarine-shipping.ae"
+],
+"telegram": [],
+"phones": [
+"+380633459525",
+"+380989455106",
+"+923398101994"
+],
+"co": 2,
+"so": 1,
+"vessels": [
+"LPG/LNG"
+],
+"last": "2026-11-03",
+"sources": [
+"@crewingua"
+]
 }
 },
 "last_file": "2026-45",
