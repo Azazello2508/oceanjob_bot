@@ -81,16 +81,1006 @@
 "repeat": false,
 "time": "2026-11-02T22:49:55.746175+00:00",
 "junior_dp": false
+},
+{
+"title": "Chief Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/368392",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-03T07:12:21.278220+00:00",
+"junior_dp": false
+},
+{
+"title": "2nd Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/368394",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-03T07:12:21.279431+00:00",
+"junior_dp": false
+},
+{
+"title": "Chief Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/368395",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-03T07:12:21.279510+00:00",
+"junior_dp": false
+},
+{
+"title": "Chief Officer DPO for DP2 Fast Supply Intervention Vessel / Crew Boat",
+"url": "https://www.seacareer.com/i36799/chief-officer-dpo-for-dp2-fast-supply-intervention-vessel-crew-boat/",
+"source": "seacareer.com",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "Chief Officer / DPO",
+"vessel": "Crew boat",
+"company": "Chief Officer DPO for DP2 Fast Supp…"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-03T07:12:26.095018+00:00",
+"junior_dp": false
+},
+{
+"title": "2nd Officer",
+"url": "https://seajobs.ru/ru/vacancy/17950/2nd-officer-container-ship",
+"source": "seajobs.ru",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Container"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-03T07:12:30.709423+00:00",
+"junior_dp": false
+},
+{
+"title": "Need 2ND OFF DPO For FSIV DP2 Ires Ship Management LLP",
+"url": "https://maritime-union.com/job/231526",
+"source": "maritime-union.com",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "2nd Officer / DPO",
+"company": "Need 2ND OFF DPO For FSIV DP2 Ires…"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-03T07:12:44.393728+00:00",
+"junior_dp": false
+},
+{
+"title": "Chief Officer DPO for DP2 Fast Supply Intervention Vessel / Crew Boat Ryan Ship Management Pvt Ltd",
+"url": "https://maritime-union.com/job/231528",
+"source": "maritime-union.com",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "Chief Officer / DPO",
+"vessel": "Crew boat",
+"company": "Chief Officer DPO for DP2 Fast Supp…"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-03T07:12:44.393887+00:00",
+"junior_dp": false
+},
+{
+"title": "На приёмку новых судов проекта RSD 59, DWT 8144",
+"url": "https://t.me/onboard_su/20669",
+"source": "Telegram: @onboard_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-9dd5f645c16dcc7b",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"contract": "4+-1. Оплата проезда. Вак",
+"salary": "224 000 ₽",
+"email": "cv@crewmontenegro.com",
+"company": "crewmontenegro.com"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-03T06:12:59+00:00",
+"junior_dp": false
+},
+{
+"title": "YCrewing maritime agency, rendering services for seafarers employment",
+"url": "https://t.me/jobfor_seamen/12628",
+"source": "Telegram: @jobfor_seamen",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-e863c47c514e3b3f",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Bulk carrier",
+"salary": "9400$",
+"email": "crew@ycrewing.com",
+"tg": "ycrewing",
+"company": "ycrewing.com"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-03T07:02:08+00:00",
+"junior_dp": false
+},
+{
+"title": "YCrewing maritime agency, rendering services for seafarers employment",
+"url": "https://t.me/jobfor_seamen/12629",
+"source": "Telegram: @jobfor_seamen",
+"found": [
+"chief officer"
+],
+"fp": "fp-8f8625298cc5d918",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Product tanker",
+"salary": "10500$",
+"email": "crew@ycrewing.com",
+"tg": "ycrewing",
+"company": "ycrewing.com"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-03T07:02:22+00:00",
+"junior_dp": false
+},
+{
+"title": "YCrewing maritime agency, rendering services for seafarers employment",
+"url": "https://t.me/jobfor_seamen/12630",
+"source": "Telegram: @jobfor_seamen",
+"found": [
+"chief officer",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-3fdbb6246d25b5f5",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer",
+"vessel": "Crude oil tanker",
+"salary": "13500$",
+"email": "crew@ycrewing.com",
+"tg": "ycrewing",
+"company": "ycrewing.com"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-03T07:02:34+00:00",
+"junior_dp": false
+},
+{
+"title": "VACANCY: SECOND OFFICER",
+"url": "https://t.me/jobfor_seamen/12632",
+"source": "Telegram: @jobfor_seamen",
+"found": [
+"chief officer",
+"second officer"
+],
+"fp": "fp-257100eed0efc263",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer",
+"vessel": "Crude oil tanker",
+"salary": "4000-5200 USD",
+"joining": "ASAP",
+"contract": "2 MONTHS",
+"email": "crew@raymarinecrewing.com",
+"tg": "DaniilPRayMarine",
+"company": "raymarinecrewing.com"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-03T07:07:45+00:00",
+"junior_dp": false
+},
+{
+"title": "VACANCY: GAS ENGINEER",
+"url": "https://t.me/jobfor_seamen/12634",
+"source": "Telegram: @jobfor_seamen",
+"found": [
+"chief officer"
+],
+"fp": "fp-109ea19147ad185b",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"salary": "6000-8000 USD",
+"joining": "ASAP",
+"contract": "6+-1 / 4+-1",
+"email": "crew@raymarinecrewing.com",
+"tg": "DaniilPRayMarine",
+"company": "raymarinecrewing.com"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-03T07:08:18+00:00",
+"junior_dp": false
+},
+{
+"title": "Chief Officer",
+"url": "https://t.me/seamenjob/106047",
+"source": "Telegram: @seamenjob",
+"found": [
+"chief officer"
+],
+"fp": "fp-c16c88f2a210c56d",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo",
+"salary": "288000р на руки. Официальное т…",
+"joining": "в Турции. З/П 288000р на руки",
+"email": "adk@adship.ru",
+"company": "adship.ru"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-03T06:01:09+00:00",
+"junior_dp": false
+},
+{
+"title": "Crew for Gas Tanker/VLGC Vessel",
+"url": "https://t.me/seamenjob/106049",
+"source": "Telegram: @seamenjob",
+"found": [
+"chief officer",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-c055cd5e1a43337c",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer",
+"vessel": "MPP",
+"salary": "Not specified",
+"joining": "s, qualifications, and require",
+"contract": "Not specified",
+"email": "wsm-mnl-wmppirecruitment@wilhelmsen.com",
+"company": "wilhelmsen.com"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-03T07:05:04+00:00",
+"junior_dp": false
+},
+{
+"title": "Passenger Vacancies",
+"url": "https://t.me/job_for_seaman/16977",
+"source": "Telegram: @job_for_seaman",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-64fc65ca0d53a560",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Ro-Ro, Passenger",
+"salary": "5,000-5,500 €",
+"joining": "16.11.2026 | Contract: 3 month",
+"contract": "3 months | Region: France",
+"email": "cv@atlantic-marine.net",
+"company": "atlantic-marine.net"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-03T06:03:03+00:00",
+"junior_dp": false
+},
+{
+"title": "https://jobatsea.online/job/624824/chief-officer-dpo-for-dp2-fast-supply-intervention-vessel-crew-boat-at-ryanshipmanagement/",
+"url": "https://t.me/offshorevacancies/47018",
+"source": "Telegram: @offshorevacancies",
+"found": [
+"chief officer",
+"dpo"
+],
+"fp": "fp-ed43c59e448f69be",
+"offshore": true,
+"info": {
+"rank": "Chief Officer / DPO",
+"vessel": "Crew boat",
+"company": "https://jobatsea.online/job/624824/…"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-03T07:08:32+00:00",
+"junior_dp": false
+},
+{
+"title": "Компания ООО “Угольный морской порт Шахтерск” (Сахалин) приглашает на работу:",
+"url": "https://t.me/rekamore_su/164011",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-f4224da3e215ca7d",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo, Tug",
+"salary": "322 000 рублей (на руки)",
+"joining": "02 декабря",
+"email": "Sidorenkotv@eastmining.ru",
+"company": "eastmining.ru"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-03T04:17:03+00:00",
+"junior_dp": false
+},
+{
+"title": "Компания ООО \"СК \"АСТРОЛ\" приглашает на работу:",
+"url": "https://t.me/rekamore_su/164013",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-ffa44d609bd2a117",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo",
+"salary": "352 000 рублей (на руки) + доп…",
+"joining": "в Санкт-Петербурге",
+"email": "personal@sc-astrol.ru",
+"company": "sc-astrol.ru"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-03T04:30:05+00:00",
+"junior_dp": false
+},
+{
+"title": "Компания ООО \"БСК\" приглашает на работу:",
+"url": "https://t.me/rekamore_su/164014",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-1fa811d8dca6cfb2",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo",
+"salary": "297 000 рублей (на руки) + доп…",
+"joining": "СРОЧНАЯ",
+"contract": "4 месяца",
+"email": "personal@sc-astrol.ru",
+"company": "sc-astrol.ru"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-03T04:30:09+00:00",
+"junior_dp": false
+},
+{
+"title": "Компания ООО \"Белозерское пароходство\" приглашает на работу:",
+"url": "https://t.me/rekamore_su/164016",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-2d9cf4dc561105b4",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Tug",
+"email": "k.vasileva@karelkamen.ru",
+"company": "karelkamen.ru"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-03T04:32:04+00:00",
+"junior_dp": false
+},
+{
+"title": "Компания “Северный Альянс” приглашает на работу:",
+"url": "https://t.me/rekamore_su/164025",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-51743fd97eff3ead",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Tug",
+"salary": "330 750 руб. (на руки)",
+"joining": "06.11.2026г. Работа в Марокко",
+"email": "vacancy@north-alliance.com",
+"company": "north-alliance.com"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-03T04:36:22+00:00",
+"junior_dp": false
+},
+{
+"title": "Судоходная компания в связи с расширением флота приглашает на работу:",
+"url": "https://t.me/rekamore_su/164033",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-98c4f61a90bed5e6",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Tanker",
+"salary": "от 380 000 рублей (на руки)",
+"joining": "г. Астрахань",
+"contract": "4 месяца",
+"email": "sc_novo@flothr.ru",
+"company": "flothr.ru"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-03T05:15:01+00:00",
+"junior_dp": false
+},
+{
+"title": "Компания ООО “ТК Северный проект” приглашает на работу:",
+"url": "https://t.me/rekamore_su/164039",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-ebeb13f3c616dd74",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo",
+"salary": "360 000 рублей ежемесячно + от…",
+"joining": "срочная",
+"contract": "4 месяца",
+"email": "rabota@ashipping.ru",
+"company": "ashipping.ru"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-03T05:32:08+00:00",
+"junior_dp": false
+},
+{
+"title": "Компания \"Columbia Shipmanagement\" (Новороссийск) приглашает на работу:",
+"url": "https://t.me/rekamore_su/164041",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-e8ccdff4f504552a",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Tanker",
+"salary": "11 000 $ (discussable up to 11…",
+"contract": "4 мес",
+"email": "columbia@novocsmru.com",
+"company": "novocsmru.com"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-03T05:34:06+00:00",
+"junior_dp": false
+},
+{
+"title": "ООО «Балтийская Морская Компания» ведет набор специалистов в компанию \"RIX SHIPMANAGEMENT LTD\" (CYPRUS):",
+"url": "https://t.me/rekamore_su/164046",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-13c81967d96df0a7",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"salary": "7 600 евро",
+"contract": "4 месяца (+/- 1 месяц)",
+"email": "CREW@BALTICSS.COM",
+"company": "balticss.com"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-03T05:42:03+00:00",
+"junior_dp": false
+},
+{
+"title": "Компания ООО \"Легаси Марин\" приглашает на работу:",
+"url": "https://t.me/rekamore_su/164050",
+"source": "Telegram: @rekamore_su",
+"found": [
+"chief officer",
+"старший помощник"
+],
+"fp": "fp-48616b2d13993a9e",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Aframax",
+"salary": "13 925 USD",
+"joining": "в ближайшее время",
+"contract": "4 + 1 месяц",
+"email": "crew.cv@legacymarine.ru",
+"company": "legacymarine.ru"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-03T05:50:05+00:00",
+"junior_dp": false
+},
+{
+"title": "Судоходная компания \"Eco Shipping\" приглашает на работу:",
+"url": "https://t.me/rekamore_su/164054",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-ae4e819ce892b940",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo",
+"salary": "365 000 рублей",
+"joining": "срочная, в Архангельске",
+"contract": "5/5 ( +/-1)",
+"email": "e.kievskaya@ecoshp.ru",
+"company": "ecoshp.ru"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-03T06:04:15+00:00",
+"junior_dp": false
+},
+{
+"title": "Компания ООО “Трансоптимал СПБ” приглашает на работу:",
+"url": "https://t.me/rekamore_su/164056",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-a30fa0f6d174db13",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "LNG, General cargo",
+"salary": "124 870 рублей (чистыми на рук…",
+"joining": "❗️",
+"email": "transoptimalng@mail.ru",
+"company": "️ Компания ООО “Трансоптимал СПБ”"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-03T06:20:05+00:00",
+"junior_dp": false
+},
+{
+"title": "Компания ООО “Трэвелер Шиппинг” приглашает на работу:",
+"url": "https://t.me/rekamore_su/164062",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-42888872d2f67410",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Chemical tanker",
+"joining": "❗️",
+"email": "gavrilova_o@astonfleet.com",
+"company": "astonfleet.com"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-03T06:24:07+00:00",
+"junior_dp": false
+},
+{
+"title": "Анонс вакансий ООО \"П. ТрансКо\" на РЕЧНУЮ навигацию 2027 года.",
+"url": "https://t.me/rekamore_su/164070",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-0765aee547a9577a",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Tug",
+"company": "Анонс вакансий ООО \"П. ТрансКо\" на…"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-03T06:34:03+00:00",
+"junior_dp": false
+},
+{
+"title": "Компания ООО НП «Балтийское Морское Пароходство» приглашает на работу:",
+"url": "https://t.me/rekamore_su/164071",
+"source": "Telegram: @rekamore_su",
+"found": [
+"2off"
+],
+"fp": "fp-12f2b92bbfaa1dd8",
+"offshore": true,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Crude oil tanker",
+"salary": "2000 USD",
+"joining": "ASAP",
+"company": "ООО НП «Балтийское Морское Пароходс…"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-03T06:39:05+00:00",
+"junior_dp": false
+},
+{
+"title": "Компания ООО НП «Балтийское Морское Пароходство» приглашает на работу:",
+"url": "https://t.me/rekamore_su/164073",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-53cb10282b74dc9f",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Reefer",
+"salary": "5 500 USD",
+"joining": "СРОЧНАЯ в Санкт-Петербурге",
+"contract": "4+1",
+"company": "ООО НП «Балтийское Морское Пароходс…"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-03T06:39:12+00:00",
+"junior_dp": false
+},
+{
+"title": "Компания ООО «Борская судоходная компания» приглашает на работу:",
+"url": "https://t.me/rekamore_su/164078",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-19476a896c195fc8",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"salary": "обсуждается при собеседовании",
+"joining": "СРОЧНАЯ , г. Городец, Нижегоро",
+"contract": "4 месяца",
+"email": "kadry@bsklogistic.ru",
+"company": "bsklogistic.ru"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-03T06:44:05+00:00",
+"junior_dp": false
+},
+{
+"title": "Компания  “Инмортерминал” приглашает на работу:",
+"url": "https://t.me/rekamore_su/164082",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-f2075f0a0ec16e58",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Tanker",
+"salary": "418 252 рублей на руки, 480 99…"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-03T06:47:45+00:00",
+"junior_dp": false
+},
+{
+"title": "В турецкую компанию на танкер- химовоз 7000 dwt",
+"url": "https://t.me/rekamore_su/164091",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-9b2eab23d9e4ca6f",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Chemical tanker",
+"salary": "4800$",
+"joining": "начало ноября",
+"contract": "4+1 мес",
+"email": "office@safasco.ru",
+"company": "safasco.ru."
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-03T07:03:29+00:00",
+"junior_dp": false
+},
+{
+"title": "CHIEF OFFICER",
+"url": "https://t.me/cvsenderseaman/15149",
+"source": "Telegram: @cvsenderseaman",
+"found": [
+"chief officer"
+],
+"fp": "fp-a25c91b4f8082802",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo",
+"salary": "€5000 / month",
+"joining": "18.11.2026",
+"contract": "4",
+"email": "application@intercrewing.com",
+"company": "intercrewing.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-03T05:39:15+00:00",
+"junior_dp": false
+},
+{
+"title": "SECOND OFFICER",
+"url": "https://t.me/cvsenderseaman/15151",
+"source": "Telegram: @cvsenderseaman",
+"found": [
+"second officer"
+],
+"fp": "fp-f11a133bb3d7f99f",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Bulk carrier",
+"salary": "$5,500",
+"joining": "28.11.2026",
+"contract": "4",
+"email": "cv@seamploy.com",
+"company": "seamploy.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-03T05:44:35+00:00",
+"junior_dp": false
+},
+{
+"title": "SECOND OFFICER",
+"url": "https://t.me/cvsenderseaman/15152",
+"source": "Telegram: @cvsenderseaman",
+"found": [
+"second officer"
+],
+"fp": "fp-9a1baeaa02a9ed6e",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"salary": "4,100 USD",
+"joining": "26.11.2026",
+"contract": "5",
+"email": "cv@amergogroup.com",
+"company": "amergogroup.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-03T05:45:55+00:00",
+"junior_dp": false
+},
+{
+"title": "CHIEF OFFICER",
+"url": "https://t.me/cvsenderseaman/15162",
+"source": "Telegram: @cvsenderseaman",
+"found": [
+"chief officer"
+],
+"fp": "fp-16ffddd21b75f10e",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo",
+"salary": "5400-5900 EUR",
+"joining": "15.11.2026",
+"contract": "4 months",
+"email": "j.rudomyotova@marineman.eu",
+"company": "marineman.eu"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-03T05:55:55+00:00",
+"junior_dp": false
+},
+{
+"title": "CHIEF OFFICER",
+"url": "https://t.me/cvsenderseaman/15165",
+"source": "Telegram: @cvsenderseaman",
+"found": [
+"chief officer"
+],
+"fp": "fp-de418ffee17118b5",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Container",
+"salary": "7480-7980 USD / month",
+"joining": "10.11.2026",
+"contract": "4",
+"email": "cv@marineman.eu",
+"company": "marineman.eu"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-03T05:57:55+00:00",
+"junior_dp": false
+},
+{
+"title": "CHIEF OFFICER",
+"url": "https://t.me/cvsenderseaman/15167",
+"source": "Telegram: @cvsenderseaman",
+"found": [
+"chief officer"
+],
+"fp": "fp-aba9cb45ad620c00",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Bulk carrier",
+"salary": "7800-8200 USD / month",
+"joining": "07.11.2026",
+"contract": "4 months",
+"email": "a.sholda@vitamaritime.com.ua",
+"company": "vitamaritime.com.ua"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-03T06:00:35+00:00",
+"junior_dp": false
+},
+{
+"title": "CHIEF OFFICER",
+"url": "https://t.me/cvsenderseaman/15170",
+"source": "Telegram: @cvsenderseaman",
+"found": [
+"chief officer"
+],
+"fp": "fp-e54a5a24e89c8e2a",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Chemical tanker",
+"salary": "11500 USD / month",
+"joining": "09.11.2026",
+"contract": "4 months",
+"email": "o.kotoban@marineman.eu",
+"company": "marineman.eu"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-03T06:05:15+00:00",
+"junior_dp": false
+},
+{
+"title": "CHIEF OFFICER",
+"url": "https://t.me/cvsenderseaman/15180",
+"source": "Telegram: @cvsenderseaman",
+"found": [
+"chief officer"
+],
+"fp": "fp-f71f4892d1e5028c",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Jack-up",
+"salary": "Negotiable",
+"joining": "ASAP",
+"email": "c.barreto@ipspowerfulpeople.com",
+"company": "ipspowerfulpeople.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-03T06:15:15+00:00",
+"junior_dp": false
+},
+{
+"title": "SECOND OFFICER",
+"url": "https://t.me/cvsenderseaman/15181",
+"source": "Telegram: @cvsenderseaman",
+"found": [
+"second officer"
+],
+"fp": "fp-51cd42fb03814176",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Container",
+"salary": "4274 USD",
+"joining": "16-12-2026",
+"contract": "6+/-1 months",
+"email": "yulia.voronina@iqrewing.com",
+"company": "iqrewing.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-03T06:15:55+00:00",
+"junior_dp": false
+},
+{
+"title": "OPEN POSITIONS",
+"url": "https://t.me/cvsenderseaman/15183",
+"source": "Telegram: @cvsenderseaman",
+"found": [
+"second officer"
+],
+"fp": "fp-ee11ec45a5fe74fe",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Chemical tanker",
+"joining": "ASAP",
+"salary": "10000$",
+"email": "crew@ycrewing.com",
+"company": "ycrewing.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-03T06:48:35+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-1663,
-1664,
-1665,
-1666
+1668,
+1669,
+1670,
+1671,
+1672,
+1673,
+1674,
+1675,
+1676,
+1677,
+1678,
+1679,
+1680
 ],
-"last_list": "2026-11-02T22:50:35.610065+00:00",
-"cleared_upto": 1662,
-"last_msg_id": 1666,
+"last_list": "2026-11-03T07:13:34.665846+00:00",
+"cleared_upto": 1667,
+"last_msg_id": 1680,
 "force": true
 }

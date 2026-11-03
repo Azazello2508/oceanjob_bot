@@ -154,10 +154,10 @@
 "phones": [
 "+79506009222"
 ],
-"co": 1,
+"co": 2,
 "so": 0,
 "vessels": [],
-"last": "2026-11-02",
+"last": "2026-11-03",
 "sources": [
 "@rekamore_su"
 ]
@@ -379,12 +379,14 @@
 "telegram": [],
 "phones": [],
 "co": 1,
-"so": 0,
+"so": 1,
 "vessels": [
+"Bulk",
 "Tanker"
 ],
-"last": "2026-11-02",
+"last": "2026-11-03",
 "sources": [
+"@cvsenderseaman",
 "@maritimeforum"
 ]
 },
@@ -636,12 +638,13 @@
 "@anastasiaChRayMarine"
 ],
 "phones": [],
-"co": 2,
-"so": 0,
+"co": 4,
+"so": 1,
 "vessels": [
-"Bulk"
+"Bulk",
+"Tanker"
 ],
-"last": "2026-11-02",
+"last": "2026-11-03",
 "sources": [
 "@crewingua",
 "@jobfor_seamen"
@@ -704,14 +707,15 @@
 ],
 "telegram": [],
 "phones": [],
-"co": 1,
+"co": 2,
 "so": 0,
 "vessels": [
 "General cargo"
 ],
-"last": "2026-11-02",
+"last": "2026-11-03",
 "sources": [
-"@rekamore_su"
+"@rekamore_su",
+"@seamenjob"
 ]
 },
 "trinityshipping.ru": {
@@ -732,16 +736,17 @@
 },
 "ecoshp.ru": {
 "emails": [
-"e.kievskaya@ecoshp.ru"
+"e.kievskaya@ecoshp.ru",
+"k.korelskaya@ecoshp.ru"
 ],
 "telegram": [],
 "phones": [],
-"co": 1,
+"co": 2,
 "so": 0,
 "vessels": [
 "General cargo"
 ],
-"last": "2026-11-02",
+"last": "2026-11-03",
 "sources": [
 "@rekamore_su"
 ]
@@ -752,12 +757,12 @@
 ],
 "telegram": [],
 "phones": [],
-"co": 1,
+"co": 3,
 "so": 0,
 "vessels": [
 "General cargo"
 ],
-"last": "2026-11-02",
+"last": "2026-11-03",
 "sources": [
 "@rekamore_su"
 ]
@@ -768,13 +773,13 @@
 ],
 "telegram": [],
 "phones": [],
-"co": 1,
+"co": 2,
 "so": 0,
 "vessels": [
 "General cargo",
 "LPG/LNG"
 ],
-"last": "2026-11-02",
+"last": "2026-11-03",
 "sources": [
 "@rekamore_su"
 ]
@@ -788,12 +793,12 @@
 "+79112688991",
 "+79811194180"
 ],
-"co": 1,
+"co": 2,
 "so": 0,
 "vessels": [
 "Tanker"
 ],
-"last": "2026-11-02",
+"last": "2026-11-03",
 "sources": [
 "@rekamore_su"
 ]
@@ -896,17 +901,19 @@
 },
 "iqrewing.com": {
 "emails": [
-"galina.fedorova@iqrewing.com"
+"galina.fedorova@iqrewing.com",
+"yulia.voronina@iqrewing.com"
 ],
 "telegram": [],
 "phones": [],
 "co": 2,
-"so": 0,
+"so": 1,
 "vessels": [
 "Bulk",
+"Container",
 "General cargo"
 ],
-"last": "2026-11-02",
+"last": "2026-11-03",
 "sources": [
 "@cvsenderseaman"
 ]
@@ -987,16 +994,17 @@
 ],
 "telegram": [],
 "phones": [],
-"co": 2,
-"so": 2,
+"co": 3,
+"so": 3,
 "vessels": [
 "General cargo",
 "LPG/LNG",
 "Tanker"
 ],
-"last": "2026-11-02",
+"last": "2026-11-03",
 "sources": [
-"@maritimeforum"
+"@maritimeforum",
+"@seamenjob"
 ]
 },
 "ipspowerfulpeople.com": {
@@ -1005,13 +1013,14 @@
 ],
 "telegram": [],
 "phones": [],
-"co": 2,
+"co": 3,
 "so": 0,
 "vessels": [
 "Offshore"
 ],
-"last": "2026-11-02",
+"last": "2026-11-03",
 "sources": [
+"@cvsenderseaman",
 "@maritimeforum",
 "@offshoreatsea"
 ]
@@ -1126,6 +1135,274 @@
 "last": "2026-11-02",
 "sources": [
 "@shipscreweu"
+]
+},
+"crewmontenegro.com": {
+"emails": [
+"cv@crewmontenegro.com"
+],
+"telegram": [],
+"phones": [],
+"co": 1,
+"so": 0,
+"vessels": [],
+"last": "2026-11-03",
+"sources": [
+"@onboard_su"
+]
+},
+"ycrewing.com": {
+"emails": [
+"crew@ycrewing.com"
+],
+"telegram": [
+"@ycrewing"
+],
+"phones": [
+"+380958955317",
+"+995579067316",
+"+995593192661",
+"+995593292412"
+],
+"co": 2,
+"so": 3,
+"vessels": [
+"Bulk",
+"Chemical",
+"Tanker"
+],
+"last": "2026-11-03",
+"sources": [
+"@cvsenderseaman",
+"@jobfor_seamen"
+]
+},
+"vitamaritime.com.ua": {
+"emails": [
+"a.sholda@vitamaritime.com.ua",
+"crewing@vitamaritime.com.ua",
+"cv@atlantic-marine.net",
+"pegasuscrewing@gmail.com"
+],
+"telegram": [],
+"phones": [
+"+380507708856",
+"+380635719490",
+"+380687201967"
+],
+"co": 1,
+"so": 1,
+"vessels": [
+"Bulk",
+"Passenger",
+"Ro-Ro/PCTC"
+],
+"last": "2026-11-03",
+"sources": [
+"@cvsenderseaman",
+"@job_for_seaman"
+]
+},
+"eastmining.ru": {
+"emails": [
+"khusainovanv@eastmining.ru",
+"sidorenkotv@eastmining.ru"
+],
+"telegram": [],
+"phones": [
+"+79133843287",
+"+79147400925"
+],
+"co": 1,
+"so": 0,
+"vessels": [
+"General cargo",
+"Tug"
+],
+"last": "2026-11-03",
+"sources": [
+"@rekamore_su"
+]
+},
+"karelkamen.ru": {
+"emails": [
+"a.hlyst@karelkamen.ru",
+"k.vasileva@karelkamen.ru"
+],
+"telegram": [],
+"phones": [],
+"co": 1,
+"so": 0,
+"vessels": [
+"Tug"
+],
+"last": "2026-11-03",
+"sources": [
+"@rekamore_su"
+]
+},
+"north-alliance.com": {
+"emails": [
+"vacancy@north-alliance.com"
+],
+"telegram": [],
+"phones": [],
+"co": 1,
+"so": 0,
+"vessels": [
+"Tug"
+],
+"last": "2026-11-03",
+"sources": [
+"@rekamore_su"
+]
+},
+"flothr.ru": {
+"emails": [
+"sc_novo@flothr.ru"
+],
+"telegram": [],
+"phones": [],
+"co": 1,
+"so": 0,
+"vessels": [
+"Tanker"
+],
+"last": "2026-11-03",
+"sources": [
+"@rekamore_su"
+]
+},
+"ashipping.ru": {
+"emails": [
+"rabota@ashipping.ru"
+],
+"telegram": [],
+"phones": [],
+"co": 1,
+"so": 0,
+"vessels": [
+"General cargo"
+],
+"last": "2026-11-03",
+"sources": [
+"@rekamore_su"
+]
+},
+"novocsmru.com": {
+"emails": [
+"columbia@novocsmru.com"
+],
+"telegram": [],
+"phones": [
+"+79883200510"
+],
+"co": 1,
+"so": 0,
+"vessels": [
+"Tanker"
+],
+"last": "2026-11-03",
+"sources": [
+"@rekamore_su"
+]
+},
+"balticss.com": {
+"emails": [
+"crew@balticss.com"
+],
+"telegram": [],
+"phones": [],
+"co": 1,
+"so": 0,
+"vessels": [],
+"last": "2026-11-03",
+"sources": [
+"@rekamore_su"
+]
+},
+"astonfleet.com": {
+"emails": [
+"evtushenko_a@astonfleet.com",
+"gavrilova_o@astonfleet.com"
+],
+"telegram": [],
+"phones": [],
+"co": 1,
+"so": 0,
+"vessels": [
+"Tanker"
+],
+"last": "2026-11-03",
+"sources": [
+"@rekamore_su"
+]
+},
+"safasco.ru": {
+"emails": [
+"office@safasco.ru"
+],
+"telegram": [],
+"phones": [],
+"co": 1,
+"so": 0,
+"vessels": [
+"Tanker"
+],
+"last": "2026-11-03",
+"sources": [
+"@rekamore_su"
+]
+},
+"intercrewing.com": {
+"emails": [
+"application@intercrewing.com"
+],
+"telegram": [],
+"phones": [],
+"co": 1,
+"so": 0,
+"vessels": [
+"General cargo"
+],
+"last": "2026-11-03",
+"sources": [
+"@cvsenderseaman"
+]
+},
+"amergogroup.com": {
+"emails": [
+"cv@amergogroup.com"
+],
+"telegram": [],
+"phones": [],
+"co": 0,
+"so": 1,
+"vessels": [],
+"last": "2026-11-03",
+"sources": [
+"@cvsenderseaman"
+]
+},
+"marineman.eu": {
+"emails": [
+"cv@marineman.eu",
+"j.rudomyotova@marineman.eu",
+"o.kotoban@marineman.eu"
+],
+"telegram": [],
+"phones": [],
+"co": 3,
+"so": 0,
+"vessels": [
+"Chemical",
+"Container",
+"General cargo",
+"Tanker"
+],
+"last": "2026-11-03",
+"sources": [
+"@cvsenderseaman"
 ]
 }
 },
