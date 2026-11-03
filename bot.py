@@ -720,6 +720,9 @@ def main():
     if force_now:
         Path("force.txt").unlink()
     crew = load_crew()
+    if Path("send_crewings.txt").exists():   # «пришли справочник сейчас»
+        Path("send_crewings.txt").unlink()
+        crew["send_now"] = True
     if crew.get("file_msg"):
         KEEP_IDS.append(crew["file_msg"])
     day = load_day()
@@ -834,6 +837,10 @@ def main():
     if (now.weekday() == 0 and now.hour >= 9 and crew["last_file"] != this_week
             and crew["companies"]) or crew.pop("send_now", False):
         try:
+            if crew.get("file_msg"):            # старый файл убираем, чтобы не путаться
+                delete(crew["file_msg"])
+                if crew["file_msg"] in KEEP_IDS:
+                    KEEP_IDS.remove(crew["file_msg"])
             crew["file_msg"] = send_crew_file(crew)
             crew["last_file"] = this_week
         except Exception as e:
