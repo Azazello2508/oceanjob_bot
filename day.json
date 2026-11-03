@@ -4775,31 +4775,133 @@
 "repeat": false,
 "time": "2026-11-03T18:24:35.342084+00:00",
 "junior_dp": false
+},
+{
+"title": "2nd Officer for Cruise Vessel Magellan Discoverer",
+"url": "https://www.seacareer.com/i36802/2nd-officer-for-cruise-vessel-magellan-discoverer/",
+"source": "seacareer.com",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Cruise"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-03T19:11:55.067422+00:00",
+"junior_dp": false
+},
+{
+"title": "Alpha Crew Group has exciting openings aboard AHTS vessels!",
+"url": "https://t.me/marinejobs/43001",
+"source": "Telegram: @marinejobs",
+"found": [
+"chief officer",
+"sdpo",
+"dpo"
+],
+"fp": "fp-b4678a95ce069473",
+"offshore": true,
+"info": {
+"rank": "Chief Officer / SDPO",
+"vessel": "AHTS",
+"salary": "350 USD/day",
+"email": "cv@alphacrew.com",
+"company": "alphacrew.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-03T18:31:10+00:00",
+"junior_dp": false
+},
+{
+"title": "Position publishing service was stopped for the night.",
+"url": "https://t.me/marinecareerorg/17752",
+"source": "Telegram: @marinecareerorg",
+"found": [
+"chief officer"
+],
+"fp": "fp-73e18029b650d62a",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "VLCC, Crude oil tanker"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-03T19:00:51+00:00",
+"junior_dp": false
+},
+{
+"title": "OPEN ROLES FOR BULK/CONTAINER/GENERAL CARGO VESSELS",
+"url": "https://t.me/oceancrewjobs/32657",
+"source": "Telegram: @oceancrewjobs",
+"found": [
+"chief officer",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-f2d11305e0a0e530",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer",
+"vessel": "Bulk carrier, Container",
+"company": "https://oceancrew.org/vacancies/mer…"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-03T19:04:12+00:00",
+"junior_dp": false
+},
+{
+"title": "WE ARE HIRING FULL SET CREW ON VARIOUS OFFSHORE FLEET",
+"url": "https://t.me/oceancrewjobs/32659",
+"source": "Telegram: @oceancrewjobs",
+"found": [
+"chief officer",
+"chief mate",
+"2nd officer",
+"sdpo",
+"dpo",
+"2nd off"
+],
+"fp": "fp-d933f8d34d401503",
+"offshore": true,
+"info": {
+"rank": "Chief Officer / 2nd Officer / SDPO",
+"vessel": "PSV, AHTS",
+"company": "WE ARE HIRING FULL SET CREW ON VARI…"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-03T19:05:56+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-1936,
-1937,
-1938,
-1939,
-1940,
-1941,
-1942,
-1943,
-1944,
-1945,
-1946,
-1947,
-1948,
-1949,
-1950,
-1951,
-1952,
-1953,
-1954,
-1955
+1956,
+1957,
+1958,
+1959,
+1960,
+1961,
+1962,
+1963,
+1964,
+1965,
+1966,
+1967,
+1968,
+1969,
+1970,
+1971,
+1972,
+1973,
+1974,
+1975
 ],
-"last_list": "2026-11-03T18:25:48.620141+00:00",
-"cleared_upto": 1935,
-"last_msg_id": 1955
+"last_list": "2026-11-03T19:13:24.080735+00:00",
+"cleared_upto": 1955,
+"last_msg_id": 1975
 }
