@@ -66,14 +66,33 @@
 "repeat": false,
 "time": "2026-11-03T20:39:52+00:00",
 "junior_dp": false
+},
+{
+"title": "Seven Seas Recruitment is currently recruiting for the following position:",
+"url": "https://t.me/OnlyYacht/2309",
+"source": "Telegram: @OnlyYacht",
+"found": [
+"second officer"
+],
+"fp": "fp-e8b3e9955a9927ea",
+"offshore": false,
+"info": {
+"salary": "Competitive, DOE",
+"contract": "ors and senior crew"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-03T22:26:23+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-1977,
-1978,
-1979
+1980,
+1981,
+1982,
+1983
 ],
-"last_list": "2026-11-03T21:25:48.938607+00:00",
-"cleared_upto": 1976,
-"last_msg_id": 1979
+"last_list": "2026-11-03T23:05:09.359083+00:00",
+"cleared_upto": 1979,
+"last_msg_id": 1983
 }
