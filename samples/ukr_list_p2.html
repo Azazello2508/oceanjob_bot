@@ -1,0 +1,900 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <link rel="preload" as="image" href="/images/sub-fon.jpg" fetchpriority="high">
+        <script>
+        // Used by custom.js so the podbor-view pill toggle knows the two homepage URLs
+        // regardless of what the (state-dependent) logo link currently points to.
+        var SITE_HOME_URL = "https:\/\/ukrcrewing.com.ua\/en";
+        var SITE_EMPLOYERS_URL = "https:\/\/ukrcrewing.com.ua\/en\/employers";
+    </script>
+        <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-5E2W4ZC1J9"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-5E2W4ZC1J9');
+    </script>
+    <!-- Yandex.Metrika counter (starts after the page has loaded, so a blocked mc.yandex.ru doesn't hold the page
+  loading) -->
+  <script type="text/javascript">
+     window.addEventListener('load', function () {
+        setTimeout(function () {
+           (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+           m[i].l=1*new
+  Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+           (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+           ym(19870201, "init", {
+                clickmap:true,
+                trackLinks:true,
+                accurateTrackBounce:true
+           });
+        }, 0);
+     });
+  </script>
+  <noscript><div><img src="https://mc.yandex.ru/watch/19870201" style="position:absolute; left:-9999px;" alt=""
+  /></div></noscript>
+  <!-- /Yandex.Metrika counter -->
+
+  <meta name='yandex-verification' content='7bb96806e76cb4c9' />
+    <meta property="image" content="https://ukrcrewing.com.ua/images/logo_en.png?v=1.4.653"/>
+    <meta property="og:image" content="https://ukrcrewing.com.ua/images/logo_en.png?v=1.4.653"/>
+    <meta property="og:image:width" content="220"/>
+    <meta property="og:image:height" content="51"/>
+            <link href="/cms/template/video-js.css" rel="stylesheet" type="text/css">
+        <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="manifest" href="/manifest_en.json?v=1.4.653">
+
+            <title>Employers, employers</title>
+        <meta name="description" lang="en"
+              content="Employers, addresses, telephone numbers, contact details.">
+    
+            <meta name="keywords" lang="en"
+              content="крюинги, крюинговые компании, морские агентства">
+    
+    <link rel="icon" href="https://ukrcrewing.com.ua/favicon.ico" type="image/x-icon">
+
+    
+    
+    
+    
+    
+    <link rel="stylesheet" type="text/css" href="/cms/assets/vendors/croppie/croppie.css?v=1.4.653">
+
+    <link rel="stylesheet" type="text/css"
+          href="/cms/template/_style.css?v=1.4.653"/>
+    <link type="text/css" href="/cms/modules/jquery/min/min.css?v=1.4.653" rel="stylesheet"/>
+    <link href="/cms/modules/select2/select2.min.css?v=1.4.653" rel="stylesheet"/>
+    <link href="/cms/template/_media-queries.css?v=1.4.653" rel="stylesheet" type="text/css">
+        <SCRIPT type="text/javascript" src="/cms/modules/jquery/swfobject.js"></SCRIPT>
+    
+    <script>var delayedAlert = '';</script>
+
+    <style>
+        .filters-wrapper {
+            position: relative;
+        }
+
+        .filters-loader {
+            position: absolute;
+            inset: 0;
+            background: rgba(255,255,255,.7);
+            z-index: 999;
+            display: none;
+            pointer-events: all;
+        }
+
+        .filters-loader::after {
+            content: '';
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            width: 32px;
+            height: 32px;
+            border: 3px solid #ccc;
+            border-top-color: #007bff;
+            border-radius: 50%;
+            animation: spin 0.8s linear infinite;
+            transform: translate(-50%, -50%);
+        }
+
+        @keyframes spin {
+            to { transform: translate(-50%, -50%) rotate(360deg); }
+        }
+    </style>
+
+    <!--[if lt IE 9]>
+    <script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+    <![endif]-->
+
+    <style>
+        .visible-for-unauthorized {display: inline-block !important;} .visible-for-logged-in {display: none !important;}
+        .video-container {
+            margin: 20px auto;
+            background-color: white;
+            display: inline-block;
+        }
+
+        .video-container.left {
+            text-align: left;
+        }
+        .video-container.right {
+            text-align: right;
+        }
+
+        .video-container.center {
+            display: flex;
+            justify-content: center;
+        }
+
+        .video-container.third {
+            width: 33%;
+            margin: 0 auto;
+        }
+
+        .video-container.full {
+            width: 100%;
+        }
+
+        video {
+            width: 100%;
+            height: auto;
+            background-color: white;
+        }
+    </style>
+</head>
+<body>
+
+<div id="wrapper">
+    <div id="top">
+                        <a class="logo" href="https://ukrcrewing.com.ua/en"
+           title="Open the main page"><img
+                    src="/images/logo_en.png?v=1.4.653" alt="UkrCrewing"></a>
+
+        <div id="tlangswitch"><div class='lang_switch'><div class='lang_switch_current'>EN</div><div class='lang_switch_list'><a href='/change-language/ru' rel='nofollow'>RU</a><a href='/change-language/ua' rel='nofollow'>UA</a></div></div></div>
+
+        <div id="tlogin"><form method='post' action='/en/login' name='loginForm'>
+            <input id='topLoginEmail' name='email' class='placeholder-black hidden-placeholder' value='' placeholder='E-mail' data-placeholder='E-mail'><input id='topLoginPassword' name='password' type='password' style='margin-right:0' value='' class='placeholder-black hidden-placeholder' placeholder='Password' data-placeholder='Password'><br>
+            <input type='submit' class='button blue' id='doLogin' value='Log in' />
+
+            <a href='/en/login/register/'>Registration</a> | <a href='/en/login/forgot/'>Forgot your password?</a>
+            <input type='hidden' name='SubmitIt' value='1'>
+            <input type='hidden' name='from' value='/en/agency/p2/'>
+        </form></div>
+
+        <div id="tmenu" style="flex-wrap: wrap;display: flex;align-content: inherit;flex-direction: column;">
+            <a href='/en/vacancy' title='Vacancies'>Vacancies</a><a href='/en/seaman' title='Seafarers’ CVs'>Seafarers’ CVs</a><a href='/en/articles' title='Articles for Seafarers'>Articles for Seafarers</a><a href='/en/agency' title='Employers'>Employers</a><a href='/en/maps' title='Employers on Maps'>Employers on Maps</a><a href='/en/trainers-for-seaman' title='Training Centers'>Training Centers</a><a href='/en/seamanservices' title='For Seafarers'>For Seafarers</a><a href='/en/payservice' title='For Employers'>For Employers</a><a href='/en/contacts' title='Support Service'>Support Service</a>        </div>
+    </div>
+
+
+        <div id="podbor_selector">
+                <div class="tab_select">
+            <div class="tab_select_pill">
+                <a href="#tab1"
+                   class="first active">seafarers</a>
+                <a href="#tab2"
+                   class="second ">employers</a>
+            </div>
+
+            <a href="#tab2"
+               class="second ">CV</a>
+            <a href="#tab1"
+               class="first active">Vacancies</a>
+        </div>
+        <div id="tab1" class="tab_content orange activetab">
+            <div class="">
+                <div class="filters-loader"></div>
+                <form action="/en/vacancy/" name="vacancyForm" method="get">
+                    <input type="hidden" name="on_page" value="30"/>
+                    <input type="hidden" name="v_sort" value="0"/>
+                    <input type="hidden" name="v_sort_dir" value="0"/>
+
+                    <div class="sNorm">
+                        <label>Position</label>
+                                                    <select id="vPosition" name="v_position" class="select2 topSearchVacancyPositionSelect">
+                                <option value="*">All positions</option>
+                                <option value='1' >Master</option><option value='2' >Chief Officer</option><option value='26' >2nd Officer</option><option value='27' >3rd Officer</option><option value='98' >Junior Officer</option><option value='33' >Chief Engineer</option><option value='58' >Single Engineer</option><option value='230' >1st Engineer</option><option value='8' >2nd Engineer</option><option value='9' >3rd Engineer</option><option value='37' >4th Engineer</option><option value='65' >Gas Engineer</option><option value='241' >Sole Engineer</option><option value='143' >Junior Engineer</option><option value='182' >Electrical Engineer</option><option value='73' >ETO</option><option value='209' >Assistance ETO</option><option value='16' >Electrician</option><option value='208' >Assistance Electrician</option><option value='4' >Boatswain</option><option value='5' >Able Seaman</option><option value='64' >AB-Cook</option><option value='142' >AB-Motorman</option><option value='6' >Ordinary Seaman</option><option value='193' >OS-Welder</option><option value='213' >OS-Wiper</option><option value='202' >OS-Cook</option><option value='10' >Motorman 1st class</option><option value='11' >Motorman 2nd class</option><option value='63' >Motorman-Electrician</option><option value='94' >Motorman-Oiler</option><option value='97' >Oiler</option><option value='136' >Oiler-Welder</option><option value='66' >Wiper</option><option value='21' >Fitter</option><option value='93' >Fitter-Welder</option><option value='228' >Fitter Repairman</option><option value='60' >Engine Fitter</option><option value='61' >Deck Fitter</option><option value='184' >Chief Cook</option><option value='29' >Cook</option><option value='32' >Mess Boy</option><option value='24' >Pumpman</option><option value='186' >Donkerman</option><option value='28' >Deck Cadet</option><option value='34' >Engine Cadet</option><option value='119' >Electric Cadet</option><option value='20' >Steward</option>                            </select>
+                                            </div>
+
+
+                    <div class="sNorm">
+                        <label>Fleet</label>
+                                                <select id="vFleetType" name="v_fleet" attrHeight="90" class="select3 topSearchVacancyFleetSelect">
+                            <option value="*"  selected  >Any</option>
+                            <option value='1' >Merchant fleet</option><option value='2' >Offshore fleet</option><option value='4' >Passenger fleet</option><option value='5' >Tanker fleet</option>                        </select>
+                    </div>
+
+
+                    <div class="sNorm top-vacancy-vessel-type-select">
+                        <label>Vessel type</label>
+                                                <select name="v_vessel_type[]" id="vVesselType" multiple="multiple" selectedList="2" attrTitle=""
+                                attrNone="Any vessel type"
+                                class="select4 topSearchVacancyVesselTypeSelect" disabled="disabled" >
+                                                    </select>
+                    </div>
+
+                    <div class="sDates sNorm placeholder-black">
+                        <label>Joining date</label>
+                        <input class='dateinpt hidden-placeholder' type="text" id="vDateFrom" name='v_sdate'
+                               value="" placeholder="from"
+                               data-placeholder="from" autocomplete="off"/>&nbsp;-&nbsp;<input
+                                class='dateinpt hidden-placeholder' type="text" id="vDateTo" name='v_edate'
+                                value="" placeholder="to"
+                                data-placeholder="to" autocomplete="off"/>
+                    </div>
+
+                    <ul class="sButtons">
+                        <li class="sBut">
+                            <a id="doPodborVacancy" class="button brown"
+                               onClick="javascript:document.vacancyForm.submit();">Search</a>
+                            <a onClick="ClearFilter();" class="button2 brown2"
+                               title="Clear search">X</a>
+                        </li>
+
+                        <li class="sBut2">
+                            <a id="doPodborVacancyAdd">Advanced</a>
+                        </li>
+                    </ul>
+
+
+                    <div id="podborVacancyAdd">
+                        <div class="sNorm">
+                            <label>Vacancies from</label>
+                                                        <select name="v_country" id="v_country" class="select2 topSearchVacancyCountrySelect">
+                                <option value="*">Any country</option>
+                                <option value='70' >Finland</option><option value='79' >Georgia</option><option value='89' >Greece</option><option value='104' >Isle of Man</option><option value='140' >Moldova</option><option value='180' >Poland</option><option value='185' >Portugal</option><option value='190' >Romania</option><option value='192' >Russia</option><option value='231' >Ukraine</option>                            </select>
+                        </div>
+
+                        <div class="sNorm top-vacancy-city-select">
+                                                        <label>City</label>
+                            <select id="vCity" name="v_city[]" attrTitle="" attrNone="All cities"
+                                    class="select4 topSearchVacancyCitySelect" selectedList="4"
+                                    multiple="multiple" disabled="disabled">
+                                
+                            </select>
+                        </div>
+
+                    </div>
+                </form>
+            </div>
+        </div>
+
+        <div id="tab2" class="tab_content blue ">
+            <div class="">
+                <div class="filters-loader"></div>
+                <form action="/en/seaman/" name="seamanForm" method="get">
+                    <input type="hidden" name="on_page" value="30"/>
+                    <div class="sNorm">
+                        <label>Position</label>
+                                                <select id="sPosition" name="s_position" class="select2 topSearchSeamanPositionSelect">
+                            <option value="*">All positions</option>
+                            <option value='1' >Master</option><option value='39' >Staff Capitan</option><option value='2' >Chief Officer</option><option value='216' >1st Officer</option><option value='26' >2nd Officer</option><option value='27' >3rd Officer</option><option value='250' >4th Officer</option><option value='42' >Security Officer</option><option value='40' >Safety Officer</option><option value='98' >Junior Officer</option><option value='33' >Chief Engineer</option><option value='251' >Chief Engineer Trainee</option><option value='43' >Staff Chief Engineer</option><option value='222' >Staff Engineer</option><option value='58' >Single Engineer</option><option value='230' >1st Engineer</option><option value='8' >2nd Engineer</option><option value='9' >3rd Engineer</option><option value='37' >4th Engineer</option><option value='17' >Ref. Engineer</option><option value='65' >Gas Engineer</option><option value='179' >Watch Engineer</option><option value='241' >Sole Engineer</option><option value='133' >Rig Mechanic</option><option value='143' >Junior Engineer</option><option value='219' >A/C Engineer</option><option value='182' >Electrical Engineer</option><option value='224' >2nd Electrical Engineer</option><option value='225' >3rd Electrical Engineer</option><option value='73' >ETO</option><option value='236' >Trainee ETO</option><option value='209' >Assistance ETO</option><option value='226' >Electronic Engineer</option><option value='218' >Chief Electrician</option><option value='16' >Electrician</option><option value='221' >1st Electrician</option><option value='208' >Assistance Electrician</option><option value='4' >Boatswain</option><option value='5' >Able Seaman</option><option value='49' >AB-Fitter</option><option value='92' >AB-Welder</option><option value='64' >AB-Cook</option><option value='135' >AB-Electrician</option><option value='142' >AB-Motorman</option><option value='6' >Ordinary Seaman</option><option value='193' >OS-Welder</option><option value='213' >OS-Wiper</option><option value='202' >OS-Cook</option><option value='10' >Motorman 1st class</option><option value='11' >Motorman 2nd class</option><option value='185' >Motorman-Fitter</option><option value='63' >Motorman-Electrician</option><option value='94' >Motorman-Oiler</option><option value='178' >Motorman-Turner</option><option value='137' >Motorman-Welder</option><option value='97' >Oiler</option><option value='48' >Oiler-Fitter</option><option value='59' >Oiler-Turner</option><option value='136' >Oiler-Welder</option><option value='66' >Wiper</option><option value='150' >Ass. Cook</option><option value='21' >Fitter</option><option value='227' >Fitter-Turner</option><option value='93' >Fitter-Welder</option><option value='228' >Fitter Repairman</option><option value='60' >Engine Fitter</option><option value='61' >Deck Fitter</option><option value='12' >Welder</option><option value='22' >Turner</option><option value='184' >Chief Cook</option><option value='29' >Cook</option><option value='32' >Mess Boy</option><option value='24' >Pumpman</option><option value='192' >Plumber</option><option value='186' >Donkerman</option><option value='54' >Crane Operator</option><option value='203' >Excavator Driver</option><option value='71' >Barge Master</option><option value='69' >SDPO</option><option value='28' >Deck Cadet</option><option value='68' >DPO</option><option value='253' >Deck Engineer</option><option value='34' >Engine Cadet</option><option value='187' >Ref. Cadet</option><option value='70' >JDPO</option><option value='119' >Electric Cadet</option><option value='72' >HLO</option><option value='191' >Anchor Operator</option><option value='207' >HSE Officer</option><option value='121' >Radio Officer</option><option value='41' >Electric Officer</option><option value='56' >Ref. Machinist</option><option value='239' >Chief Steward</option><option value='50' >Superintendent</option><option value='211' >Marine Superintendent</option><option value='212' >Technical Superintendent</option><option value='52' >Chief Trawlmaster</option><option value='254' >Compboss</option><option value='53' >Trawlmaster</option><option value='57' >Fish Master</option><option value='55' >Fish Meal Plant Operator</option><option value='38' >Carpenter</option><option value='118' >Ass. Hotel Store Keeper</option><option value='105' >Cabin Steward</option><option value='124' >Assistant Carpenter</option><option value='103' >Assistant Chief Housekeeper</option><option value='89' >Assistant Maitre D</option><option value='101' >Assistant Waiter</option><option value='204' >Assistant Bartender</option><option value='77' >Bartender</option><option value='138' >Bar Waiter</option><option value='146' >Broadcast Manager</option><option value='99' >Buffet Attendant</option><option value='83' >Casino Dealer</option><option value='120' >Casino Manager</option><option value='78' >Chief Housekeeper</option><option value='51' >Chief Technologist</option><option value='108' >Crew Cleaner</option><option value='163' >Crew Utility</option><option value='88' >Dancer</option><option value='130' >Disc Jockey</option><option value='30' >Doctor</option><option value='82' >Facilities Cleaner</option><option value='162' >Galley Utility</option><option value='62' >IT-manager</option><option value='176' >Laundry</option><option value='189' >Musician</option><option value='114' >Nurse</option><option value='141' >Painter</option><option value='183' >Photographer</option><option value='115' >Receptionist</option><option value='116' >Shop seller</option><option value='252' >Quarter Master</option><option value='75' >Sommelier</option><option value='112' >SPA Staff</option><option value='20' >Steward</option><option value='240' >Stewardess</option><option value='247' >Assistant Maintenance Supervisor</option><option value='242' >Deckhand</option><option value='188' >Technician</option><option value='243' >Mechanical Technician</option><option value='245' >Electrical Technician</option><option value='96' >Technologist</option><option value='23' >Waiter</option><option value='87' >Youth Staff</option><option value='190' >Diver</option><option value='194' >Chief Navigator</option><option value='195' >Navigator</option><option value='197' >Observer</option><option value='199' >Source Mechanic</option><option value='210' >Hotel Director</option><option value='217' >Hotel Engineer</option><option value='220' >Assistant A/C Engineer</option><option value='223' >Security Guard</option><option value='231' >Fireman</option><option value='233' >Chef De Partie</option><option value='234' >Asst IT Manager</option>                        </select>
+                    </div>
+
+                    <div class="sNorm">
+                        <label>Citizenship</label>
+
+                                                <select name="s_citizenship" id="s_citizenship" class="select2 topSearchSeamanCitizenshipSelect">
+                            <option value="*">Any</option>
+                            <option value='231' >Ukraine</option><option value='3' >Afghanistan</option><option value='15' >Aland Islands</option><option value='6' >Albania</option><option value='62' >Algeria</option><option value='4' >Antigua and Barbuda</option><option value='7' >Armenia</option><option value='13' >Australia</option><option value='16' >Azerbaijan</option><option value='32' >Bahamas</option><option value='19' >Bangladesh</option><option value='36' >Belarus</option><option value='17' >Bosnia and Herzegovina</option><option value='31' >Brazil</option><option value='22' >Bulgaria</option><option value='47' >Cameroon</option><option value='38' >Canada</option><option value='46' >Chile</option><option value='49' >Colombia</option><option value='50' >Costa Rica</option><option value='98' >Croatia</option><option value='51' >Cuba</option><option value='55' >Cyprus</option><option value='56' >Czech Republic</option><option value='59' >Denmark</option><option value='60' >Dominica</option><option value='63' >Ecuador</option><option value='65' >Egypt</option><option value='211' >El Salvador</option><option value='64' >Estonia</option><option value='69' >Ethiopia</option><option value='70' >Finland</option><option value='75' >France</option><option value='76' >Gabon</option><option value='85' >Gambia</option><option value='79' >Georgia</option><option value='57' >Germany</option><option value='82' >Ghana</option><option value='89' >Greece</option><option value='94' >Guyana</option><option value='100' >Hungary</option><option value='105' >India</option><option value='101' >Indonesia</option><option value='108' >Iran</option><option value='107' >Iraq</option><option value='103' >Israel</option><option value='110' >Italy</option><option value='44' >Ivory Coast</option><option value='113' >Jordan</option><option value='126' >Kazakhstan</option><option value='115' >Kenya</option><option value='116' >Kyrgyzstan</option><option value='136' >Latvia</option><option value='128' >Lebanon</option><option value='137' >Libya</option><option value='134' >Lithuania</option><option value='143' >Madagascar</option><option value='159' >Malaysia</option><option value='156' >Maldives</option><option value='158' >Mexico</option><option value='140' >Moldova</option><option value='141' >Montenegro</option><option value='138' >Morocco</option><option value='147' >Myanmar</option><option value='167' >Netherlands</option><option value='165' >Nigeria</option><option value='168' >Norway</option><option value='173' >Oman</option><option value='179' >Pakistan</option><option value='174' >Panama</option><option value='175' >Peru</option><option value='178' >Philippines</option><option value='180' >Poland</option><option value='185' >Portugal</option><option value='189' >Reunion</option><option value='190' >Romania</option><option value='192' >Russia</option><option value='193' >Rwanda</option><option value='245' >Samoa</option><option value='191' >Serbia</option><option value='205' >Sierra Leone</option><option value='204' >Slovakia</option><option value='202' >Slovenia</option><option value='208' >Somalia</option><option value='248' >South Africa</option><option value='122' >South Korea</option><option value='68' >Spain</option><option value='131' >Sri Lanka</option><option value='197' >Sudan</option><option value='199' >Sweden</option><option value='43' >Switzerland</option><option value='213' >Syria</option><option value='230' >Tanzania</option><option value='219' >Thailand</option><option value='227' >Trinidad and Tobago</option><option value='224' >Tunisia</option><option value='226' >Turkey</option><option value='223' >Turkmenistan</option><option value='77' >United Kingdom</option><option value='234' >United States</option><option value='236' >Uzbekistan</option><option value='243' >Vanuatu</option><option value='239' >Venezuela</option><option value='242' >Vietnam</option><option value='246' >Yemen</option><option value='250' >Zimbabwe</option>                        </select>
+                    </div>
+                    <div class="sNorm">
+                        <label>Country</label>
+                                                <select name="s_country" id="s_country" class="select2 topSearchSeamanCountrySelect">
+                            <option value="*">Any</option>
+                            <option value='231' >Ukraine</option><option value='3' >Afghanistan</option><option value='15' >Aland Islands</option><option value='6' >Albania</option><option value='62' >Algeria</option><option value='4' >Antigua and Barbuda</option><option value='10' >Argentina</option><option value='7' >Armenia</option><option value='13' >Australia</option><option value='12' >Austria</option><option value='16' >Azerbaijan</option><option value='32' >Bahamas</option><option value='19' >Bangladesh</option><option value='18' >Barbados</option><option value='36' >Belarus</option><option value='20' >Belgium</option><option value='17' >Bosnia and Herzegovina</option><option value='31' >Brazil</option><option value='28' >Brunei</option><option value='22' >Bulgaria</option><option value='47' >Cameroon</option><option value='38' >Canada</option><option value='46' >Chile</option><option value='49' >Colombia</option><option value='98' >Croatia</option><option value='51' >Cuba</option><option value='55' >Cyprus</option><option value='56' >Czech Republic</option><option value='59' >Denmark</option><option value='63' >Ecuador</option><option value='65' >Egypt</option><option value='211' >El Salvador</option><option value='64' >Estonia</option><option value='69' >Ethiopia</option><option value='70' >Finland</option><option value='75' >France</option><option value='85' >Gambia</option><option value='79' >Georgia</option><option value='57' >Germany</option><option value='82' >Ghana</option><option value='89' >Greece</option><option value='100' >Hungary</option><option value='109' >Iceland</option><option value='105' >India</option><option value='101' >Indonesia</option><option value='108' >Iran</option><option value='107' >Iraq</option><option value='102' >Ireland</option><option value='103' >Israel</option><option value='110' >Italy</option><option value='44' >Ivory Coast</option><option value='114' >Japan</option><option value='113' >Jordan</option><option value='126' >Kazakhstan</option><option value='115' >Kenya</option><option value='116' >Kyrgyzstan</option><option value='136' >Latvia</option><option value='128' >Lebanon</option><option value='137' >Libya</option><option value='134' >Lithuania</option><option value='135' >Luxembourg</option><option value='143' >Madagascar</option><option value='159' >Malaysia</option><option value='156' >Maldives</option><option value='154' >Malta</option><option value='158' >Mexico</option><option value='73' >Micronesia</option><option value='140' >Moldova</option><option value='141' >Montenegro</option><option value='138' >Morocco</option><option value='147' >Myanmar</option><option value='167' >Netherlands</option><option value='165' >Nigeria</option><option value='168' >Norway</option><option value='173' >Oman</option><option value='179' >Pakistan</option><option value='174' >Panama</option><option value='175' >Peru</option><option value='178' >Philippines</option><option value='180' >Poland</option><option value='185' >Portugal</option><option value='183' >Puerto Rico</option><option value='188' >Qatar</option><option value='42' >Republic of the Congo</option><option value='189' >Reunion</option><option value='190' >Romania</option><option value='192' >Russia</option><option value='120' >Saint Kitts and Nevis</option><option value='245' >Samoa</option><option value='206' >San Marino</option><option value='194' >Saudi Arabia</option><option value='191' >Serbia</option><option value='205' >Sierra Leone</option><option value='200' >Singapore</option><option value='204' >Slovakia</option><option value='202' >Slovenia</option><option value='248' >South Africa</option><option value='122' >South Korea</option><option value='68' >Spain</option><option value='131' >Sri Lanka</option><option value='197' >Sudan</option><option value='199' >Sweden</option><option value='43' >Switzerland</option><option value='213' >Syria</option><option value='220' >Tajikistan</option><option value='230' >Tanzania</option><option value='219' >Thailand</option><option value='218' >Togo</option><option value='227' >Trinidad and Tobago</option><option value='224' >Tunisia</option><option value='226' >Turkey</option><option value='223' >Turkmenistan</option><option value='232' >Uganda</option><option value='2' >United Arab Emirates</option><option value='77' >United Kingdom</option><option value='234' >United States</option><option value='236' >Uzbekistan</option><option value='239' >Venezuela</option><option value='242' >Vietnam</option>                        </select>
+                    </div>
+                    <div class="sNorm">
+                        <label>Region</label>
+                                                <select name="s_region" id="s_region"
+                                class="select2 topSearchSeamanRegionSelect" disabled="disabled" >
+                            <option value="*">All regions</option>
+                                                    </select>
+                    </div>
+                    <div class="sNorm top-seaman-city-select">
+                                                <label>City</label>
+                        <select id="sCity" name="s_city[]" attrTitle="" attrNone="All cities"
+                                class="select4 topSearchSeamanCitySelect" selectedList="2"
+                                multiple="multiple" disabled="disabled">
+                            
+                        </select>
+                    </div>
+
+                    <ul class="sButtons">
+                        <li class="sBut">
+                            <a id="doPodborSeaman" class="button brown"
+                               onClick="javascript:document.seamanForm.submit();">Search</a>
+                            <a onClick="ClearFilter();" class="button2 brown2"
+                               title="Clear search">X</a>
+                        </li>
+
+                        <li class="sBut2">
+                            <a id="doPodborSeamanAdd">Advanced</a>
+                        </li>
+                    </ul>
+
+                    <div id="podborSeamanAdd">
+                        <div class="sNorm">
+                            <label>Age of seafarer</label>
+                            <input class='inpt hidden-placeholder' type='text' name='s_age' id='s_age'
+                                   value="" placeholder="from"
+                                   data-placeholder="from">&nbsp;-&nbsp;<input
+                                    class='inpt hidden-placeholder' type='text' name='s_age2' id='s_age2'
+                                    value="" placeholder="to"
+                                    data-placeholder="to">
+                        </div>
+
+                        <div class="sNorm">
+                            <label>Gender</label>
+                                                        <select name="s_gender" id="s_gender" attrHeight="120" class="select3 genderSelect">
+                                <option value='*'  >Any</option><option value='male'  >Male</option><option value='female'  >Female</option>                            </select>
+                        </div>
+
+                        <div class="sDates sNorm placeholder-black">
+                            <label>Readiness date</label>
+                            <input class='dateinpt hidden-placeholder' type="text" id="sDateFrom" name='s_sdate'
+                                   value="" placeholder="from"
+                                   data-placeholder="from" autocomplete="off"/>&nbsp;-&nbsp;<input
+                                    class='dateinpt hidden-placeholder' type="text" id="sDateTo" name='s_edate'
+                                    value="" placeholder="to"
+                                    data-placeholder="to" autocomplete="off"/>
+                        </div>
+
+                        <div class="sNorm">
+                            <label>Salary $</label>
+                            <input class='inpt hidden-placeholder' type='text' name='s_salary' id='s_salary'
+                                   value="" placeholder="from"
+                                   data-placeholder="from">&nbsp;-&nbsp;<input
+                                    class='inpt hidden-placeholder' type='text' name='s_salary2' id='s_salary2'
+                                    value="" placeholder="to"
+                                    data-placeholder="to">
+                        </div>
+
+
+                        <div class="sNorm">
+                            <label>English level</label>
+                                                        <select name="s_lang" id="s_lang" attrHeight="120" class="select3 langSelect">
+                                <option value='*'  >Any</option><option value='отлично'  >excellent</option><option value='хорошо'  >good</option><option value='средне'  >moderate</option><option value='не очень'  >poor</option><option value='не указал'  >non-specified</option>                            </select>
+                        </div>
+                        <div class="sNorm">
+                            <label class="hidden-md">Working experience available</label>
+                            <label class="visible-md">Working experience</label>
+                            <select name="s_exp" id="s_exp" attrHeight="90" class="select3">
+                                <option value="0"  selected  >No matter</option>
+                                <option value="1"  >Experienced</option>
+                            </select>
+                        </div>
+                        <div class="sNorm" style=" padding-right:0px;">
+                            <label>USA visa</label>
+                                                        <select name="s_visa" id="s_visa" attrHeight="60" class="select3 visaSelect">
+                                                                    <option value="1"  >Yes</option>
+                                                                                                    <option value="0"  selected  >---</option>
+                                                            </select>
+                        </div>
+
+                        <div class="sNorm" style=" padding-right:0px;">
+                            <label>Schengen</label>
+
+                                                        <select name="s_euvisa" id="s_euvisa" attrHeight="60" class="select3 euvisaSelect">
+                                                                    <option value="1"  >Yes</option>
+                                                                                                    <option value="0"  selected  >---</option>
+                                                            </select>
+                        </div>
+
+
+                        <br class="br">
+
+                        <div class="sNorm">
+                            <label>Fleet</label>
+
+                            
+                            <select id="sFleetType" name="s_fleet" attrHeight="90" class="select3 topSearchSeamanFleetSelect">
+                                <option value="*"  selected  >Any</option>
+                                <option value='1' >Merchant fleet</option><option value='2' >Offshore fleet</option><option value='3' >Fishing fleet</option><option value='4' >Passenger fleet</option><option value='5' >Tanker fleet</option><option value='6' >River fleet</option>                            </select>
+                        </div>
+
+                        <div class="sNorm top-seaman-vessel-type-select">
+                            <label>Vessel type</label>
+                                                        <select name="s_vessel_type[]" id="s_vessel_type" multiple="multiple" attrTitle="" attrNone="Any vessel type" class="select4 topSearchSeamanVesselTypeSelect" disabled="disabled" >
+                                                            </select>
+                        </div>
+
+                        <div class="sNorm">
+                            <label>Vessel name</label>
+                            <input type="text" name="s_ship_name" id="s_ship_name" class="inpt" value="">
+                        </div>
+
+                        <div class="sNorm">
+                            <label>Shipowner</label>
+                            <input type="text" name="s_shipowner" id="s_shipowner" class="inpt" value="">
+                        </div>
+
+
+                        <br class="br">
+
+                        <div class="sNorm">
+                            <label>Vessel flag</label>
+                            <input type="text" name="s_flag" id="s_flag" class="inpt" value="">
+                        </div>
+
+                        <div class="sNorm">
+                            <label>DWT</label>
+                            <input name="s_dwt" class="inpt hidden-placeholder"
+                                   value="" placeholder="from"
+                                   data-placeholder="from" id="s_dwt">&nbsp;-&nbsp;<input name="s_dwt2"
+                                                                                                      class="inpt hidden-placeholder"
+                                                                                                      value=""
+                                                                                                      placeholder="to"
+                                                                                                      data-placeholder="to"
+                                                                                                      id="s_dwt2">
+                        </div>
+
+                        <div class="sNorm">
+                            <label>BHP</label>
+                            <input name="s_bhp" class="inpt" value="" id="s_bhp">
+                        </div>
+
+                        <div class="sNorm" style="padding-right:0px;">
+                            <label>Main engine</label>
+                            <input name="s_engine" class="inpt" value="" id="s_engine">
+                        </div>
+                        <input name="s_word" type="hidden" value="">
+
+                        <input id="s_with_notes_only" name="s_with_notes_only" type="hidden" value="0">
+
+                    </div>
+
+                </form>
+            </div>
+        </div>
+    </div>
+
+    
+
+    <div id="content">
+                    <div id="wideLeft">
+        <div class="iCol1">
+            <h3 class="h1">For Seafarers</h3>
+            <ul>
+                <li><a href="/en/login/register/seaman" title="Register and fill in CV">Fill in application form</a></li>
+                <li><a href="/en/top">To get CV to the TOP</a></li>
+                <li><a href="/en/emailingtoemployers">Send your CV</a></li>
+                <li><a href="/en/emailbyyourself">Download employer database</a></li>
+                <li><a href="/en/login/register/seaman" title="Register and fill in CV to receive vacancies">Sign up to vacancy e-mailing</a></li>
+                
+            </ul>
+        </div>
+        <div class="iCol2">
+            <h3 class="h1">For Employers</h3>
+            <ul>
+                <li><a href="/en/login/register/agency">Employer Registration</a></li>
+                <li><a href="/en/seamenbase">Seafarers' CVs</a></li>
+                <li><a href="/en/addvacancies">Posting of Vacancies</a></li>
+                <li><a href="/en/newsletter">Receive new CVs</a></li>
+                <li><a href="/en/market_investigation">Market Investigation</a></li>
+                <li><a href="/en/sales">Website Advertising</a></li>
+            </ul>
+        </div>                <br class="br">
+                <br><hr><div id="wideHotArticles"><div class='iCol11'><a href='/en/articles/medical_commission'>Maritime Medical Examination in Georgia Without a Queue. Special Conditions for Seafarers from Ukraine, Russia and Belarus</a><p>
+	<a href="https://ukrcrewing.com.ua/cms/www.mh.com.ge" target="_blank"><img alt="" src="https://ukrcrewing.com.ua//userfiles/Image/2023/05/cropped-bez-imeni-1y-e1663438118411.png" style="height: 43px; width: 150px;" /></a></p>
+<p>
+	25 years of experience, P&amp;I Club certificates, yellow fever vaccination, special offers for seafarers from other countries: transfer service, accommodation search, discounts on certificates in partner training centers, employment assistance through Georgian crewing companies.</p>
+<p>
+	 </p></div><div class='iCol12'><a href='/en/articles/european_etc'>TOP European Marine Training Centres. Where to go When Certificates Expire?</a><p>
+	Every five years the command staff is required to change certificates and update the package of documents for further work. Ratings need to improve their qualifications to move up the career ladder. But what to do if you now live in Europe and there is no opportunity to undergo training in a Ukrainian TC?  </p></div><br class="br"><div class='iCol11'><a href='/en/articles/liberian_registry'>How a Seafarer Can Obtain a Liberian Registry Certificate and Complete Verification in 2026</a><p>
+	In 2026, the rules for issuing certificates for work on vessels under the Liberian flag were updated.</p>
+<p>
+	Where and how to properly obtain maritime certificates, what requirements are currently in force, and how to complete the process without losing time.</p>
+<p>
+	Detailed information can be found on the website of AVANT Training Center or by contacting the training department at +38 (067) 300-83-38.</p>
+<div>
+	 </div></div><div class='iCol12'><a href='/en/articles/european_etc_part2'>TOP European Maritime Training Centers. Part 2: Latvia, Romania, Croatia, Cyprus</a><p>
+	&quot;Crewing Guide&quot; has previously covered training centers with branches both in Ukraine and worldwide, and has also focused on maritime training centers in Poland. In this article, we&#39;ve compiled training centers from Latvia, Romania, Croatia, and Cyprus for you.</p></div><br class="br"></div>
+                <br class="br">
+                <hr>
+                <br>
+                <div id="leftAd">
+                    <div id="dom_place_9269"></div>
+                    
+                </div>
+            </div>
+            
+
+        <div id="left"
+             class="page-content agency-page-content">
+            <h1 class='site_title'>Employers</h1>		<br/>
+
+		<form method="get">
+			<div class="lblock with-pager-icons">
+				<i class="pager-icons pager-icons-country"></i> <span
+						class="pager-span">Country:</span><br/>
+				<select class="select3" id="aCountry" name="a_country"
+						onChange="this.form.a_city.value='*';this.form.action='/en/agency/p1';this.form.submit();">
+					<option value="*">All countries</option>
+
+					<option value='231' >Ukraine</option><option value='62' >Algeria</option><option value='8' >Angola</option><option value='10' >Argentina</option><option value='13' >Australia</option><option value='16' >Azerbaijan</option><option value='23' >Bahrain</option><option value='19' >Bangladesh</option><option value='20' >Belgium</option><option value='22' >Bulgaria</option><option value='38' >Canada</option><option value='48' >China</option><option value='50' >Costa Rica</option><option value='98' >Croatia</option><option value='55' >Cyprus</option><option value='56' >Czech Republic</option><option value='59' >Denmark</option><option value='65' >Egypt</option><option value='64' >Estonia</option><option value='74' >Faroe Islands</option><option value='70' >Finland</option><option value='75' >France</option><option value='79' >Georgia</option><option value='57' >Germany</option><option value='89' >Greece</option><option value='95' >Hong Kong</option><option value='105' >India</option><option value='101' >Indonesia</option><option value='102' >Ireland</option><option value='104' >Isle of Man</option><option value='103' >Israel</option><option value='110' >Italy</option><option value='113' >Jordan</option><option value='126' >Kazakhstan</option><option value='124' >Kuwait</option><option value='136' >Latvia</option><option value='134' >Lithuania</option><option value='159' >Malaysia</option><option value='154' >Malta</option><option value='144' >Marshall Islands</option><option value='140' >Moldova</option><option value='141' >Montenegro</option><option value='147' >Myanmar</option><option value='167' >Netherlands</option><option value='172' >New Zealand</option><option value='165' >Nigeria</option><option value='168' >Norway</option><option value='174' >Panama</option><option value='178' >Philippines</option><option value='180' >Poland</option><option value='185' >Portugal</option><option value='188' >Qatar</option><option value='190' >Romania</option><option value='192' >Russia</option><option value='194' >Saudi Arabia</option><option value='207' >Senegal</option><option value='196' >Seychelles</option><option value='200' >Singapore</option><option value='122' >South Korea</option><option value='68' >Spain</option><option value='131' >Sri Lanka</option><option value='199' >Sweden</option><option value='43' >Switzerland</option><option value='219' >Thailand</option><option value='226' >Turkey</option><option value='2' >United Arab Emirates</option><option value='77' >United Kingdom</option><option value='234' >United States</option><option value='242' >Vietnam</option><option value='250' >Zimbabwe</option>				</select>
+			</div>
+
+			<div class="lblock with-pager-icons">
+				<i class="pager-icons pager-icons-city"></i> <span class="pager-span">City:</span><br/>
+				<select class="select3" id="aCity" name="a_city"
+						onChange="this.form.action='/en/agency/p1';this.form.submit();">
+					<option value="*">All cities</option>
+									</select>
+			</div>
+			<div class="lblock thin with-pager-icons">
+				<i class="pager-icons pager-icons-per-page"></i> <span
+						class="pager-span">Per page:</span><br/>
+				<select class="select3" id="sOnPage" name="on_page"
+						onChange="this.form.action='/en/agency/p1';this.form.submit();"
+						attrHeight="90">
+					<option value="30"  selected >30</option>
+					<option value="50" >50</option>
+					<option value="100" >100</option>
+				</select>
+			</div>
+		</form>
+		<br class="br"/>
+		<div class='search_chars'><a href='/en/agency/p1/A'>A</a><a href='/en/agency/p1/B'>B</a><a href='/en/agency/p1/C'>C</a><a href='/en/agency/p1/D'>D</a><a href='/en/agency/p1/E'>E</a><a href='/en/agency/p1/F'>F</a><a href='/en/agency/p1/G'>G</a><a href='/en/agency/p1/H'>H</a><a href='/en/agency/p1/I'>I</a><a href='/en/agency/p1/J'>J</a><a href='/en/agency/p1/K'>K</a><a href='/en/agency/p1/L'>L</a><a href='/en/agency/p1/M'>M</a><a href='/en/agency/p1/N'>N</a><a href='/en/agency/p1/O'>O</a><a href='/en/agency/p1/P'>P</a><a href='/en/agency/p1/Q'>Q</a><a href='/en/agency/p1/R'>R</a><a href='/en/agency/p1/S'>S</a><a href='/en/agency/p1/T'>T</a><a href='/en/agency/p1/U'>U</a><a href='/en/agency/p1/V'>V</a><a href='/en/agency/p1/W'>W</a><a href='/en/agency/p1/X'>X</a><a href='/en/agency/p1/Y'>Y</a><a href='/en/agency/p1/Z'>Z</a></div><a href='/en/agency/p1/?all=true' class='button blue'>All employers</a><br /><br />
+			<div class="small">Found 1,630 companies:</div>
+	
+	<table class="nwrap va-top">
+		<tr>
+			<th width="60%">Name</th>
+			<th width="15%">Country</th>
+			<th width="25%">City</th>
+            <th width="15%">Vacancies</th>
+		</tr>
+		<tr  class='c' ><td class='wrap'><a href='/en/agency/agpindia'>AGP International Services</a></td><td>India</td><td>Ajaigarh</td><td></td></tr><tr ><td class='wrap'><a href='/en/agency/agpindia_team'>AGP International Services (Chennai)</a></td><td>India</td><td>Chennai</td><td></td></tr><tr  class='c' ><td class='wrap'><a href='/en/agency/agricorehk'>Agricore Shipping</a></td><td>China</td><td>Qingdao</td><td></td></tr><tr ><td class='wrap'><a href='/en/agency/agw'>AGW Maritime</a></td><td>Ukraine</td><td>Odesa</td><td></td></tr><tr  class='c' ><td class='wrap'><a href='/en/agency/aielym'>Aielym Maritime Group</a></td><td>Hong Kong</td><td>Hong Kong</td><td></td></tr><tr ><td class='wrap'><a href='/en/agency/akkerman'>Akkerman Crew Agency LLC</a></td><td>Ukraine</td><td>Bilhorod-Dnistrovskyi</td><td></td></tr><tr  class='c' ><td class='wrap'><a href='/en/agency/akmar_transport'>Akmar Transport</a></td><td>Ukraine</td><td>Odesa</td><td></td></tr><tr ><td class='wrap'><a href='/en/agency/al_ship'>AL Group</a></td><td>Germany</td><td>Hamburg</td><td></td></tr><tr  class='c' ><td class='wrap'><a href='/en/agency/alhail'>Al Hail Marine Services</a></td><td>United Arab Emirates</td><td>Abu Dhabi</td><td></td></tr><tr ><td class='wrap'><a href='/en/agency/al_huzair_marine'>Al huzair marine services pvt ltd</a></td><td>India</td><td>Mumbai</td><td></td></tr><tr  class='c' ><td class='wrap'><a href='/en/agency/alassia'>Alassia NewShips Management Inc.</a></td><td>Greece</td><td>Marousi</td><td></td></tr><tr ><td class='wrap'><a href='/en/agency/albatankers'>Alba Tankers Poland SP. Z O.O.</a></td><td>Poland</td><td>Swinoujscie</td><td></td></tr><tr  class='c' ><td class='wrap'><a href='/en/agency/albacore_est'>Albacore Maritime Ltd.</a></td><td>Estonia</td><td>Tallinn</td><td></td></tr><tr ><td class='wrap'><a href='/en/agency/albertashipmanagement'>Alberta</a></td><td>Greece</td><td>Athens</td><td></td></tr><tr  class='c' ><td class='wrap'><a href='/en/agency/albros_spb'>Albros Saint-Petesburg</a></td><td>Russia</td><td>Saint Petersburg</td><td></td></tr><tr ><td class='wrap'><a href='/en/agency/albros_don'>Albros-Don</a></td><td>Russia</td><td>Rostov-na-Donu</td><td></td></tr><tr  class='c' ><td class='wrap'><a href='/en/agency/alcor'>Alcor Group</a></td><td>Russia</td><td>Vladivostok</td><td></td></tr><tr ><td class='wrap'><a href='/en/agency/alcyonshipping'>Alcyon Shipping Co. Ltd</a></td><td>Greece</td><td>Marousi</td><td></td></tr><tr  class='c' ><td class='wrap'><a href='/en/agency/alemax_shipping'>Alemax Shipping Co.</a></td><td>Turkey</td><td>Istanbul</td><td></td></tr><tr ><td class='wrap'><a href='/en/agency/alexcrewing'>Alex Crewing Company LTD</a></td><td>Ukraine</td><td>Mykolaiv</td><td></td></tr><tr  class='c' ><td class='wrap'><a href='/en/agency/alexiashipping'>Alexia Shipping Agency</a></td><td>Egypt</td><td>Alexandria</td><td></td></tr><tr ><td class='wrap'><a href='/en/agency/alexnika'>Alexnika Maritime Company LTD</a></td><td>Russia</td><td>Rostov-na-Donu</td><td></td></tr><tr  class='c' ><td class='wrap'><a href='/en/agency/alfacrewinglt'>Alfa Crewing Bureau</a></td><td>Lithuania</td><td>Klaipeda</td><td></td></tr><tr ><td class='wrap'><a href='/en/agency/alfaship'>Alfa Ship & Crew Management GmbH</a></td><td>Germany</td><td>Hamburg</td><td></td></tr><tr  class='c' ><td class='wrap'><a href='/en/agency/alians_marine_kgd'>Alians Marine LLC</a></td><td>Russia</td><td>Kaliningrad</td><td></td></tr><tr ><td class='wrap'><a href='/en/agency/alioth_kgd'>Alioth LLC</a></td><td>Russia</td><td>Kaliningrad</td><td></td></tr><tr  class='c' ><td class='wrap'><a href='/en/agency/alita_security'>Alita Security</a></td><td>Ukraine</td><td>Odesa</td><td></td></tr><tr ><td class='wrap'><a href='/en/agency/alkasar'>Alkasar</a></td><td>Russia</td><td>Rostov-na-Donu</td><td></td></tr><tr  class='c' ><td class='wrap'><a href='/en/agency/all_crew_llc'>All Crew LLC</a></td><td>Russia</td><td>Kaliningrad</td><td><a href='/en/agency/all_crew_llc'> 12 vacancies</a></td></tr><tr ><td class='wrap'><a href='/en/agency/allfastgroup'>All Fast Group FZCO</a></td><td>United Arab Emirates</td><td>Dubai</td><td></td></tr>	</table>
+
+
+			<div class='pager' style="display: flex;justify-content: space-between;">
+
+			<a href='/en/emailingtoemployers' class='pageLeft activateModal button blue mass-mail-comp' style='width:160px; text-align: center'>Send your CV</a><a class='pageLeft' href='/en/agency/p1/'>&lt; Previous</a><div class='digitsWrap'><a class='digits '  href='/en/agency/p1/'>1</a> <a class='digits current'  href='/en/agency/p2/'>2</a> <a class='digits '  href='/en/agency/p3/'>3</a> <a class='digits '  href='/en/agency/p4/'>4</a> <a class='digits '  href='/en/agency/p5/'>5</a> <a class='digits '  href='/en/agency/p6/'>...</a> </div><a class='pageRight' href='/en/agency/p3/'>Next &gt;</a>			<div class='onpageWrap with-pager-icons'>
+				<form method="get">
+					<i class="pager-icons pager-icons-per-page"></i> <span>Per page:</span>
+					<select class="select3" name="on_page"
+							onChange="this.form.action='/en/agency/p1';this.form.submit();"
+							attrHeight="90">
+						<option value="30"  selected >30</option>
+						<option value="50" >50</option>
+						<option value="100" >100</option>
+					</select>
+				</form>
+			</div>
+		</div>
+        <br><div class='subscribe-to-vacancy-search-wrap'><h3 class='subscribe-to-vacancy-search'>Подпишитесь на рассылку новых<br> вакансий, чтобы узнавать о них первыми.</h3><span style='color: white'>Get in touch and find your dream job.</span><br/><input style='padding:4px 30px;margin-top:20px;' class='activateModal button blue' id='subscribeToVacancySearch' value='By mail' type='button'><input style='padding:4px 30px;margin-top:20px;margin-left:40px' class='activateModal button blue' id='subscribeToVacancySearchTelegram' value='In Telegram' type='button'><input type="hidden" name="subscribeToVacancySearchAll" id="subscribeToVacancySearchAll" value="1"><input type="hidden" id="subscribeToVacancySearchPosition" value=""><input type="hidden" id="subscribeToVacancySearchFleetId" value=""><input type="hidden" id="subscribeToVacancySearchVesselType" value=""><input type="hidden" id="subscribeToVacancySearchCountry" value=""><input type="hidden" id="subscribeToVacancySearchCity" value=""><input type="hidden" id="subscribeToVacancySearchCurrentPage" value=""></div>
+            <div style="display:none;">
+                <div id="set_for_t">
+                </div>
+            </div>
+            <br><div class="uMenu"><br class="br"/><br /><hr><br />
+        <div class="iCol1">
+            <h3 class="h1">For Seafarers</h3>
+            <ul>
+                <li><a href="/en/login/register/seaman" title="Register and fill in CV">Fill in application form</a></li>
+                <li><a href="/en/top">To get CV to the TOP</a></li>
+                <li><a href="/en/emailingtoemployers">Send your CV</a></li>
+                <li><a href="/en/emailbyyourself">Download employer database</a></li>
+                <li><a href="/en/login/register/seaman" title="Register and fill in CV to receive vacancies">Sign up to vacancy e-mailing</a></li>
+                
+            </ul>
+        </div>
+        <div class="iCol2">
+            <h3 class="h1">For Employers</h3>
+            <ul>
+                <li><a href="/en/login/register/agency">Employer Registration</a></li>
+                <li><a href="/en/seamenbase">Seafarers' CVs</a></li>
+                <li><a href="/en/addvacancies">Posting of Vacancies</a></li>
+                <li><a href="/en/newsletter">Receive new CVs</a></li>
+                <li><a href="/en/market_investigation">Market Investigation</a></li>
+                <li><a href="/en/sales">Website Advertising</a></li>
+            </ul>
+        </div><br  class="br"><br /></div>
+                            <br />
+
+
+                            <hr class="hr2" />
+            
+                        <div class='direct_horizontal'>
+                        </div>
+            
+                                <br class="br">
+                        <table id="bottomDomBanners" class="nb bottom_dom">
+                <tr>
+                    <td width="50%">
+                        <div id="dom_place_13824"></div>
+                    </td>
+                     <td width="50%" class="rght">
+                        <div id="dom_place_13825"></div>
+                    </td>
+                </tr>
+            </table>
+
+            
+        </div>
+
+        <div id="right" class="sidebar-content">
+            <div class="dom_place_m">
+                <div id="dom_place_4708"></div>
+            </div>
+
+            <div id="bleft">
+                <div class="dom_place_s">
+                    <div id="dom_place_5528"></div>
+                </div>
+
+                <div class="dom_place_s">
+                    <div id="dom_place_4689"></div>
+                </div>
+
+                <div class="dom_place_s">
+                    <div id="dom_place_4692"></div>
+                </div>
+
+                <div class="dom_place_s">
+                    <div id="dom_place_4694"></div>
+                </div>
+
+                <div class="dom_place_s">
+                    <div id="dom_place_4696"></div>
+                </div>
+
+                <div class="dom_place_s">
+                    <div id="dom_place_6779"></div>
+                </div>
+            </div>
+
+            <div id="bright">
+                <div class="dom_place_s">
+                    <div id="dom_place_4534"></div>
+                </div>
+
+                <div class="dom_place_s">
+                    <div id="dom_place_4806"></div>
+                </div>
+
+                <div class="dom_place_s">
+                    <div id="dom_place_4700"></div>
+                </div>
+
+                <div class="dom_place_s">
+                    <div id="dom_place_4701"></div>
+                </div>
+
+                <div class="dom_place_s">
+                    <div id="dom_place_6780"></div>
+                </div>
+            </div>
+
+            <div class="dom_place_m" style="height: auto; max-height:109px; margin-bottom:12px">
+                <div id="dom_place_14201"></div>
+            </div>
+
+            <div class="dom_place_m" style="height: auto; max-height:109px; margin-bottom:12px">
+                <div id="dom_place_14202"></div>
+            </div>
+
+            <div class="dom_place_m" style="height: auto; max-height:109px; margin-bottom:12px">
+                <div id="dom_place_15002"></div>
+            </div>
+
+            <div class="dom_place_m" style="height: auto; max-height:109px;">
+                <div id="dom_place_15003"></div>
+            </div>
+
+            <div class="dom_place_m" style="height: auto; max-height:250px;">
+                <div id="dom_place_15004"></div>
+            </div>
+
+            <div class="dom_crewing_guide" style="margin: 12px 0 0 0;">
+                <div id="dom_place_15000"></div>
+            </div>
+
+                                </div>
+    </div>
+
+    <br class="br">
+
+    <div id="footer" class="blue">
+        <div id="footer_content">
+            <div class="footer-logo">
+                <div id="blogo">
+                    <a class="logo_en" href="https://ukrcrewing.com.ua/en" title="Open the main page"></a>
+                </div>
+                <div class="socials-icons">
+                    <a href="https://www.facebook.com/ukrcrewing.com.ua/" target="_blank" title="Handbook "Crewing Guide""><img src='/images/fb.png' alt='Facebook' loading='lazy'></a>
+                    <a href="https://www.instagram.com/ukrcrewing/" target="_blank" title="Handbook "Crewing Guide""><img src='/images/ins.png' alt='Instagram' loading='lazy'></a>
+                    <a href="https://t.me/ukrcrewing_official" target="_blank" title="Handbook "Crewing Guide""><img src='/images/tg.png' alt='Telegram' loading='lazy'></a>
+                </div>
+                                            </div>
+
+                            <div class="footer-section">
+                    <h4>General</h4>
+                    <ul>
+                                                    <li><a href="/en/vacancy">Vacancies</a></li>
+                                                    <li><a href="/en/seaman">Seafarers’ CVs</a></li>
+                                                    <li><a href="/en/agency">Employers</a></li>
+                                                    <li><a href="/en/news">News</a></li>
+                                                    <li><a href="/en/articles">Articles</a></li>
+                                                    <li><a href="/en/special_offers">Special Offers</a></li>
+                                                    <li><a href="/en/map">Website Map</a></li>
+                                            </ul>
+                </div>
+                            <div class="footer-section">
+                    <h4>For Employers</h4>
+                    <ul>
+                                                    <li><a href="/en/login/register/agency">Registration for Employers</a></li>
+                                                    <li><a href="/en/seamenbase">Base of Seafarers</a></li>
+                                                    <li><a href="/en/addvacancies">Posting of Vacancies</a></li>
+                                                    <li><a href="/en/topvacancy">Get Vacancy to the TOP</a></li>
+                                                    <li><a href="/en/newsletter">E-mailing of Recent CVs</a></li>
+                                                    <li><a href="/en/market_investigation">Market Investigation</a></li>
+                                                    <li><a href="/en/sales">Website Advertising</a></li>
+                                            </ul>
+                </div>
+                            <div class="footer-section">
+                    <h4>For Seafarers</h4>
+                    <ul>
+                                                    <li><a href="/en/login/register/seaman">Create a CV</a></li>
+                                                    <li><a href="/en/top">Get CV to the TOP</a></li>
+                                                    <li><a href="/en/emailingtoemployers">E-mailing to Employers</a></li>
+                                                    <li><a href="/en/emailbyyourself">Email by Yourself</a></li>
+                                                    <li><a href="/en/faq">Legal Consultation</a></li>
+                                                    <li><a href="/en/library">Library</a></li>
+                                                    <li><a href="/en/maps">Employers on Maps</a></li>
+                                            </ul>
+                </div>
+                    </div>
+        <div id="footer_block" class="footer_block_en">
+            © 2008 - 2026.
+            Crewing Guide.        </div>
+    </div>
+
+
+            </div>
+        </div>
+
+        <div style="display:none;">
+            <div id="popupModalWindow" class="box-modal agency-modal">
+                <div class="box-modal_close arcticmodal-close">&nbsp;</div>
+                <div class="mcontent"></div>
+            </div>
+        </div>
+
+        <div style="display:none;">
+            <div id="alertWindow" class="box-modal" rel="alert">
+                <div class="box-modal_close arcticmodal-close">&nbsp;</div>
+                <div class="mcontent"></div>
+            </div>
+        </div>
+
+        <div style="display:none;">
+            <div id="confirmWindow" class="box-modal" rel="confirm">
+                <div class="mcontent"></div>
+                <br />
+                <div align="center">
+                    <div class="confirm-success box-modal_button orange">Confirm</div>
+                    <div class="arcticmodal-close box-modal_button">Cancel</div>
+                </div>
+            </div>
+        </div>
+
+		<div style="display:none;">
+			<div id="seamanUploadPhoto" class="box-modal">
+				<div class="mcontent">
+					<div class="edit-photo"></div>
+					<div class="edit-photo__buttons">
+						<span class="rotate-photo rotate-left" data-deg="90"></span>
+						<span class="rotate-photo rotate-right" data-deg="-90"></span>
+					</div>
+				</div>
+				<br>
+				<div align="center">
+					<div class="confirm-success box-modal_button orange">Confirm</div>
+					<div class="arcticmodal-close box-modal_button">Cancel</div>
+				</div>
+			</div>
+		</div>
+
+		<div style="display:none;">
+			<div id="agencySeamanConnect" class="box-modal">
+				<div class="box-modal_close arcticmodal-close">&nbsp;</div>
+				<div class="mcontent">
+				</div>
+			</div>
+        </div>
+
+		<div style="display:none;">
+			<div id="agencySeamanConnectMsg" class="box-modal">
+				<div class="box-modal_close arcticmodal-close">&nbsp;</div>
+				<div class="mcontent">
+				</div>
+			</div>
+		</div>
+
+		<div style="display:none;">
+			<div id="seamanCheckChange" class="box-modal">
+				<div class="box-modal_close arcticmodal-close">&nbsp;</div>
+				<div class="mcontent"></div>
+				<br>
+				<div align="center">
+					<div class="check-change-success box-modal_button orange">Yes</div>
+					<div class="check-change-false confirm-success arcticmodal-close box-modal_button">No</div>
+				</div>
+			</div>
+		</div>
+
+        <div style="display:none;">
+            <div id="seamanProfileTabsWarningsWindow" class="box-modal" rel="alert">
+                <div class="box-modal_close arcticmodal-close">&nbsp;</div>
+                <div class="mcontent"></div>
+            </div>
+        </div>
+
+        <div style="display:none;">
+            <div id="agencyRequestForSeamanDetailsWindow" class="box-modal" rel="alert">
+                <div class="box-modal_close arcticmodal-close">&nbsp;</div>
+                <div class="mcontent"></div>
+            </div>
+        </div>
+
+        <div style="display:none;">
+            <div id="seamanVacancyApplyWindow" class="box-modal" rel="alert">
+                <div class="box-modal_close arcticmodal-close">&nbsp;</div>
+                <div class="mcontent"></div>
+            </div>
+        </div>
+
+        <div style="display:none;">
+            <div id="agencyRequestForPostingVacanciesWindow" class="box-modal" rel="alert">
+                <div class="box-modal_close arcticmodal-close">&nbsp;</div>
+                <div class="mcontent"></div>
+            </div>
+        </div>
+
+        <div style="display:none;">
+            <div id="errorFieldsAlertWindow" class="box-modal" rel="alert">
+                <div class="box-modal_close arcticmodal-close">&nbsp;</div>
+                <div class="mcontent"></div>
+            </div>
+        </div>
+
+        <div class="cookie-consent-container-wrap"><div class="cookie-consent-container"></div><div class="cookie-consent-content"><div><span>This website uses cookies to ensure you get the best experience on our website. By continuing to browse, you consent to our use of cookies.</span> <a href="/en/cookie-policy" class="cookie-consent-more">Learn more</a></div><a class="cookie-consent-ok">Got it</a></div></div>
+        <script type="text/javascript" src="/cms/modules/jquery/min/min.js?v=2"></script>
+        <script type="text/javascript" src="/cms/modules/select2/select2.min.js"></script>
+
+        
+        <script src="/cms/modules/phoneNumbers/jquery.caret.js?v=1.4.653"></script>
+        <script src="/cms/modules/phoneNumbers/jquery.mobilePhoneNumber.custom.js?v=1.4.653"></script>
+
+        
+        
+        
+        
+		<script type="text/javascript">
+    window.jsMessages = {"0":"Filter cleared.","1":"Send application form","2":"Save parameters","3":"The data should be entered in Latin - make sure the information is correct.","4":"<b>An acceptable salary range is from 100 to 20,000<\/b><br><br><br>Please indicate the salary you really want to have.<br><br>In this case, companies will be able to see your CV, when looking for seafarers using the salary filter.<br><br>Obviously, with a salary value of 1 or 1,000,000, a CV will not appear in search results. This will reduce the number of views.<br><br>Do you want more CV views?<br>Please write a real salary.","5":"Wrong telephone number. The number should be dialed according to international format. For example:","6":"for Ukraine: +38 (050) 777-77-77","7":"for the Russian Federation: +7 (918) 777-77-77","8":"Personal mobile number should be filled in.","9":"E-mail should be filled in.","10":"Full name should be filled in.","11":"Address should be filled in.","12":"Position should be filled in.","13":"City should be selected.","14":"Region should be selected.","15":"Country should be selected.","16":"Ukrainian biometric passport available should be filled in.","17":"Citizenship should be filled in.","18":"Tariff rate should be filled in.","19":"Currency of payment should be selected.","20":"E-mail should be specified.","21":"check if E-mail is correct.","22":"dates not  filled in","23":"US Visa date expired. Set new date or specify if you have\/don't have US Visa","24":"Schengen Visa date expired. Set new date or specify if you have\/don't have Schengen Visa","25":"Correct readiness date","26":"Specify position","27":"all required blank fields should be filled in","28":"Confirm user license agreement  is read","29":"Document validity not filled in","30":"Certificate validity not filled in","31":"Correct document validity","32":"Correct certificate validity","33":"At least 1 certificate should be filled in.","34":"Error","35":"Settings saved","36":"Error. Current password should be entered","37":"Error. Updated password should be entered and match the verification password","38":"Error. Current password is not correct","39":"Error. Updated password should be entered, it should not match the previous password","40":"Password was updated successfully. Details were sent to your e-mail","41":"Error. Updated login should be entered, it should not match the previous login or verification login","42":"Error. Updated login should match e-mail address","43":"Error. Updated login should be entered and match the verification login","44":"Error. This login has been entered before. Enter another login","45":"Error. The entered login is not allowed for use at this website. Enter another login","46":"Invalid file type, only jpg, png and gif is supported","47":"Invalid file size, make sure your file is less than 4Mb.","48":"Invalid file type, only doc, xls, pdf and txt is supported","49":"Do you want to send this file?","50":"Invalid file type, only doc and xls is supported","51":"Photo should be at least","52":"Do you want to delete image?","53":"Print version","54":"New tariff rate selected","55":"is not confirmed by system manager yet.","56":"You can not update tariff before the previous update is confirmed.","57":"The selected SMS tariff is not confirmed by system manager yet.","58":"You can not swith to new tariff before the previous update is confirmed.","59":"Price","60":"UAH","61":"RUB","62":"euro","63":"Choose region","64":"Choose country first","65":"Choose city","66":"Choose region first","67":"All regions","68":"All cities","69":"Any","70":"Any vessel type","71":"Choose vessel type","72":"Choose a fleet first","73":"Please choose","74":"Show password","75":"Hide password","76":"Do you want to delete note?","77":"CV must be evaluated","78":"Note saved successfully","79":"Note deleted","80":"Error occurred, try again later..","81":"YOUR REQUEST HAS BEEN SUCCESSFULLY SENT.","82":"Telephone should be filled in.","83":"Your Name","84":"Company name","85":"Use only numbers and special characters  +\/- in the Voyage Duration field.","86":"Use only numbers and special characters  +\/- in the Salary field.","87":"If you want to provide more details, go to the Additional info field.","88":"\u041d\u0430 \u0443\u043a\u0430\u0437\u0430\u043d\u043d\u044b\u0439 \u0432\u0430\u043c\u0438 \u0430\u0434\u0440\u0435\u0441 [EMAIL] \u043e\u0442\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u043e \u043f\u0438\u0441\u044c\u043c\u043e \u0441 \u043f\u043e\u0434\u0442\u0432\u0435\u0440\u0436\u0434\u0435\u043d\u0438\u0435\u043c.","90":"Please follow the link to start vacancy monitoring.","91":"Password","92":"Loading...","93":"Price","94":"Phone number","95":"Please tell us","96":"We need it to send the request.","97":"and","98":"Full name","99":"WE'RE WAITING FOR YOU TO CONFIRM YOUR E-MAIL","100":"You will get an email soon or we will call you at the earliest opportunity.","101":"Gender should be filled in.","102":"Tel. Number standard has been changed","103":"Please add your Tel. Numbers according to new standard to save your CV","104":"Personal mobile number","105":"Fixed line number","106":"Contact number","110":"Please do not duplicate telephone numbers.","111":"Each number must be mentioned only once.","112":"required","113":"optional","114":"The blank field with your personal mobile number must be filled in mandatory.","115":"Other blank fields are recommended to be filled in.","116":"Contact person should be filled in.","117":"Company application form","118":"Company application forms","119":"Text is limited to [CHAR_LIMIT] characters.","120":"Use only numbers in the Minimum quantity of contracts field.","121":"Use only numbers in the Year of vessel's construction field.","122":"Check if Salary field is correct.","123":"Response successfully sent","124":"Cover letter saved successfully","125":"New","126":"The company will receive your CV in Word format as well as your cover letter.","127":"The company will receive your CV in Word format as well as application form and your cover letter.","128":"Check if the date is filled in correctly.","129":"You're leaving the page without saving new information.<br>Do you want to save it?","130":"<b>All CAPITAL letters are prohibited.<\/b><br><br>To fill out your CV correctly, please turn off the \u201cCaps Lock\u201d key and continue with lowercase letters.","131":"<b>All CAPITAL letters are prohibited.<\/b><br><br>Some fields on your CV are filled in capital letters.<br>These fields are highlighted in red.<br>Please fill them in using lowercase letters.","132":"Make sure the dates are correct.<br><br>The start date of a contract must be earlier than the end date.","133":"Make sure the dates are correct.<br><br>The start date of a new contract must be later than the end date of a previous contract.","134":"This contract has already been completed and successfully saved<br><br>You shouldn't duplicate it.<br>Better, proceed with filling out a new contract.","135":"Make sure the dates are correct.<br><br>The format 00.00.0000 is considered incorrect.","136":"Qualification","137":"Date of expiry","138":"Number","139":"Country","140":"Unlimited","141":"Add COC Endorsement","142":"Error during deletion","143":"<b>COC & Endorsement field is empty<\/b><br><br>Please fill in with certificates of competency and endorsements you have.","144":"Choose a company from the list","145":"Please enter 2 or more caracters","146":"THERE IS ALREADY SUCH VACANCY ON THE SITE","147":"Duplicates are not allowed","148":"CONFIRM YOUR EMAIL","149":"To subscribe for new vacancies","150":"Open it and follow the link.","151":"SUBSCRIPTION FOR NEW VACANCIES CONFIRMED","152":"New vacancies will be sent to","153":"You can change the mailing settings","154":"in your profile","155":"Back to vacancies","156":"They will be sent to your e-mail","157":"Vacancies can also be received in Telegram","158":"\u041d\u0435\u043e\u0431\u0445\u043e\u0434\u0438\u043c\u043e \u0443\u0437\u0430\u043a\u0430\u0442\u044c \u0443\u0440\u043e\u0432\u0435\u043d\u044c \u0437\u043d\u0430\u043d\u0438\u044f \u0430\u043d\u0433\u043b\u0438\u0439\u0441\u043a\u043e\u0433\u043e \u044f\u0437\u044b\u043a\u0430","159":"Invalid file size, make sure your file is less than 1Mb.","160":"You have successfully unsubscribed from the newsletter!","161":"You have subscribed to the outlet and will no longer remove any lists.","162":"You can subscribe again in your account.","163":"If you want to turn around, write to us.","164":"You will no longer receive these emails.","165":"You have unsubscribed and will no longer receive new CVs.","166":"Save note","167":"Add note","168":"Expand","169":"Collapse"};
+    window.dbGetUrl = "/cms/modules/_dbget.php?lang=eng";
+    window.cvtUrl = "/cms/modules/ajax/cvt.php";
+    window.loginProfileUrl = "/en/login/profile";
+    window.getSeamanSearchCitiesByRegionUrl = "/cms/modules/ajax/get_seaman_search_cities_by_region.php?lang=eng";
+    window.getVacancySearchVesselTypeByFleetUrl = "/cms/modules/ajax/get_vacancy_search_vessel_type_by_fleet.php?lang=eng";
+</script>
+
+                    <script type="text/javascript" src="/cms/assets/vendors/croppie/croppie.js?v=1.4.653"></script>
+                <script type="text/javascript" src="/cms/modules/jquery/jquery.dOb.js"></script>
+        <script type="text/javascript" src="/cms/template/custom.js?v=1.4.653"></script>
+        <script type="text/javascript" src="/cms/template/zakaz.js?v=1.4.653"></script>
+
+        <script type="text/javascript" src="/cms/modules/fileupload/js/jquery.fileupload.js?1"></script>
+        <script type="text/javascript" src="/cms/modules/fileupload/js/jquery.iframe-transport.js?1"></script>
+        <script type="text/javascript" src="/cms/template/_bs.js?v=1.4.653"></script>
+
+		                    <script type="text/javascript" src="/cms/modules/jquery/video.min.js"></script>
+        	</body>
+</html>
+
