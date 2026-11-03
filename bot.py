@@ -799,6 +799,18 @@ def main():
             crew["last_file"] = this_week
         except Exception as e:
             print(f"Не удалось отправить справочник: {e}")
+    # Справочник всегда закреплён вверху чата
+    if crew.get("file_msg") and crew.get("pinned") != crew["file_msg"]:
+        try:
+            r = requests.post(f"https://api.telegram.org/bot{TOKEN}/pinChatMessage",
+                              data={"chat_id": CHAT_ID, "message_id": crew["file_msg"],
+                                    "disable_notification": "true"}, timeout=30)
+            if r.ok:
+                crew["pinned"] = crew["file_msg"]
+            else:
+                print(f"Не удалось закрепить справочник: {r.text}")
+        except Exception as e:
+            print(f"Не удалось закрепить справочник: {e}")
     crewings.save(crew)
 
     if LAST_SENT:
