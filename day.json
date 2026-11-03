@@ -1,10 +1,79 @@
 {
 "date": "2026-11-04",
-"jobs": [],
-"msg_ids": [
-1976
+"jobs": [
+{
+"title": "2nd Officer",
+"url": "https://seajobs.ru/ru/vacancy/17962/2nd-officer-chemicaloil-products-tanker",
+"source": "seajobs.ru",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Chemical tanker"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-03T21:24:51.887988+00:00",
+"junior_dp": false
+},
+{
+"title": "Chief Officer",
+"url": "https://seajobs.ru/ru/vacancy/17970/chief-officer-crude-oil-tanker",
+"source": "seajobs.ru",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Crude oil tanker"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-03T21:24:51.891723+00:00",
+"junior_dp": false
+},
+{
+"title": "2nd Officer",
+"url": "https://seajobs.ru/ru/vacancy/17966/2nd-officer-crude-oil-tanker",
+"source": "seajobs.ru",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Crude oil tanker"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-03T21:24:51.891908+00:00",
+"junior_dp": false
+},
+{
+"title": "Open Positions for Drillship",
+"url": "https://t.me/oceancrewjobs/32662",
+"source": "Telegram: @oceancrewjobs",
+"found": [
+"dpo"
 ],
-"last_list": "2026-11-03T20:35:35.199517+00:00",
-"cleared_upto": 1975,
-"last_msg_id": 1976
+"fp": "fp-142c136b5b94b087",
+"offshore": true,
+"info": {
+"rank": "DPO",
+"company": "https://oceancrew.org/vacancies/dri…"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-03T20:39:52+00:00",
+"junior_dp": false
+}
+],
+"msg_ids": [
+1977,
+1978,
+1979
+],
+"last_list": "2026-11-03T21:25:48.938607+00:00",
+"cleared_upto": 1976,
+"last_msg_id": 1979
 }
