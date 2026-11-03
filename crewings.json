@@ -36928,7 +36928,7 @@
 "crewell": "https://crewell.net/en/companies/58901/"
 },
 "name": "Navis Crew Management",
-"off": 58,
+"off": 59,
 "offshore_hint": false,
 "phones": [
 "+380507055005",
@@ -36952,7 +36952,7 @@
 "@shipscreweu"
 ],
 "telegram": [],
-"total": 58,
+"total": 59,
 "vessels": [
 "Container",
 "Dredger",
@@ -38898,7 +38898,7 @@
 "@Sofia_OliveCrew",
 "@Svetlana_OliveCrew"
 ],
-"total": 207,
+"total": 208,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -44991,6 +44991,30 @@
 "total": 0,
 "vessels": [],
 "website": "soechi.com"
+},
+"soechi.id": {
+"address": "",
+"city": "",
+"co": 0,
+"country": "",
+"emails": [
+"caroline.ritonga@soechi.id"
+],
+"first": "2026-11-03",
+"last": "2026-11-03",
+"links": {},
+"name": "",
+"off": 0,
+"offshore_hint": false,
+"phones": [],
+"so": 1,
+"sources": [
+"@Sea_format"
+],
+"telegram": [],
+"total": 1,
+"vessels": [],
+"website": ""
 },
 "sofomation.com": {
 "address": "",
@@ -53433,7 +53457,7 @@
 "ALPHACREW": 3565,
 "BSMCSCUKRAINE": 4306,
 "CREW_ARIA": 13951,
-"Crew_Radar": 3139,
+"Crew_Radar": 3140,
 "JobForMariners": 1198,
 "Merchant_Fleet": 582,
 "OffshoreFleetJob": 11056,
@@ -53441,11 +53465,11 @@
 "OnlyOffshore": 38767,
 "OnlyYacht": 2308,
 "SM_job_center": 2466,
-"Sea_format": 12333,
+"Sea_format": 12334,
 "TSMexp": 853,
 "Yacht_Vacancies": 286,
 "allcrewing": 3805,
-"andreeyVstart": 1375,
+"andreeyVstart": 1378,
 "balticcareer": 5300,
 "crewingua": 44721,
 "crs_vacancies": 3547,
@@ -53459,10 +53483,10 @@
 "job_for_seaman": 16983,
 "jobfor_seamen": 12638,
 "marinecareerorg": 17751,
-"marinejobs": 42998,
+"marinejobs": 42999,
 "marinejobz": 194156,
 "marineman_ltd": 48297,
-"maritimeforum": 254591,
+"maritimeforum": 254602,
 "merchantNavyrealjob": 262,
 "morehod_ru": 30711,
 "oceancrewjobs": 32656,
@@ -53470,7 +53494,7 @@
 "offshorecv": 1570,
 "offshorevacancies": 47041,
 "oilrigs": 778,
-"olive_crew": 2889,
+"olive_crew": 2890,
 "onboard_su": 20676,
 "rekamore_su": 164164,
 "roster_marine": 1729,

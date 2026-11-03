@@ -4702,31 +4702,74 @@
 "repeat": true,
 "time": "2026-11-03T16:03:01+00:00",
 "junior_dp": false
+},
+{
+"title": "3rd Officer / DPO – MPSV DP3 – North Sea",
+"url": "https://t.me/marinejobs/42999",
+"source": "Telegram: @marinejobs",
+"found": [
+"dpo"
+],
+"fp": "fp-3b8287be4fc96483",
+"offshore": true,
+"info": {
+"rank": "DPO",
+"vessel": "PSV, MPSV",
+"salary": "EUR 240 per day",
+"joining": "18 November 2026",
+"contract": "4 weeks",
+"email": "crew@navis.eu",
+"company": "navis.eu"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-03T17:01:34+00:00",
+"junior_dp": false
+},
+{
+"title": "Chief Engineer",
+"url": "https://t.me/Sea_format/12334",
+"source": "Telegram: @Sea_format",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-03261fd470c305c4",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"email": "caroline.ritonga@soechi.id",
+"company": "soechi.id"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-03T17:07:51+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-1896,
-1897,
-1898,
-1899,
-1900,
-1901,
-1902,
-1903,
-1904,
-1905,
-1906,
-1907,
-1908,
-1909,
-1910,
-1911,
-1912,
-1913,
-1914,
-1915
+1916,
+1917,
+1918,
+1919,
+1920,
+1921,
+1922,
+1923,
+1924,
+1925,
+1926,
+1927,
+1928,
+1929,
+1930,
+1931,
+1932,
+1933,
+1934,
+1935
 ],
-"last_list": "2026-11-03T16:49:34.304595+00:00",
-"cleared_upto": 1895,
-"last_msg_id": 1915
+"last_list": "2026-11-03T17:39:07.823068+00:00",
+"cleared_upto": 1915,
+"last_msg_id": 1935
 }
