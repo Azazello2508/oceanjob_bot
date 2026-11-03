@@ -1,15 +1,15 @@
 name: Проверка вакансий
 
+# GitHub часто пропускает запуски по расписанию, поэтому бот работает «вахтами»:
+# один запуск длится ~5,5 часа и внутри сам проверяет вакансии каждые 45 минут.
+# Расписание раз в час нужно только для того, чтобы следующая вахта уже ждала в очереди.
 on:
   schedule:
-    # каждые 45 минут: 00:07, 00:52, 01:37, 02:22, 03:07 … (UTC)
-    - cron: "7,52 0-21/3 * * *"
-    - cron: "37 1-22/3 * * *"
-    - cron: "22 2-23/3 * * *"
+    - cron: "13 * * * *"
   workflow_dispatch:        # кнопка ручного запуска
 
 permissions:
-  contents: write           # чтобы сохранять seen.json
+  contents: write           # чтобы сохранять seen.json, day.json, crewings.json
 
 concurrency:
   group: check
@@ -18,6 +18,7 @@ concurrency:
 jobs:
   check:
     runs-on: ubuntu-latest
+    timeout-minutes: 350
     steps:
       - uses: actions/checkout@v4
 
@@ -27,21 +28,30 @@ jobs:
 
       - run: pip install -r requirements.txt
 
-      - name: Проверить вакансии
+      - name: Вахта — проверка вакансий каждые 45 минут
         env:
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-        run: python bot.py
-
-      - name: Запомнить отправленные
-        if: always()
         run: |
           git config user.name "oceanjob-bot"
           git config user.email "oceanjob-bot@users.noreply.github.com"
-          git add seen.json day.json crewings.json
-          git diff --cached --quiet || git commit -m "Обновить список вакансий"
-          # Если за время проверки в репозиторий что-то добавили — подтянуть и повторить
-          for i in 1 2 3; do
-            git pull --rebase -q origin main && git push && break
-            sleep 5
+          start=$(date +%s); last=0
+          while [ $(( $(date +%s) - start )) -lt 19500 ]; do      # ~5 ч 25 мин
+            git pull -q --rebase origin main || { git rebase --abort 2>/dev/null; git fetch -q origin; git reset -q --hard origin/main; }
+            now=$(date +%s)
+            # проверка раз в 45 минут или сразу, если появился файл force.txt («обнови сейчас»)
+            if [ $(( now - last )) -ge 2700 ] || [ -f force.txt ]; then
+              echo "=== Проверка $(date -u +%H:%M) UTC ==="
+              python bot.py || echo "Проверка завершилась с ошибкой"
+              git add -A
+              git diff --cached --quiet || git commit -q -m "Обновить список вакансий"
+              ok=0
+              for i in 1 2 3; do
+                if git pull -q --rebase origin main && git push -q; then ok=1; break; fi
+                git rebase --abort 2>/dev/null; sleep 5
+              done
+              [ $ok = 1 ] || { git fetch -q origin; git reset -q --hard origin/main; }
+              last=$(date +%s)
+            fi
+            sleep 240
           done

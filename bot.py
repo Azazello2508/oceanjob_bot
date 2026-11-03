@@ -716,6 +716,9 @@ def send_crew_file(crew):
 
 def main():
     seen = load_seen() or set()
+    force_now = Path("force.txt").exists()   # «обнови сейчас»: файл кладут вручную
+    if force_now:
+        Path("force.txt").unlink()
     crew = load_crew()
     if crew.get("file_msg"):
         KEEP_IDS.append(crew["file_msg"])
@@ -819,7 +822,7 @@ def main():
     has_new = any(j["new"] for j in day["jobs"])
     last = datetime.fromisoformat(day["last_list"]) if day["last_list"] else None
     due = last is None or datetime.now(timezone.utc) - last >= LIST_EVERY - timedelta(minutes=10)
-    if (has_new and due) or report or day.pop("force", False):
+    if (has_new and due) or report or day.pop("force", False) or force_now:
         try:
             publish(day, report)
             print("Список обновлён")
