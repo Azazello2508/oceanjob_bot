@@ -1323,25 +1323,189 @@
 "repeat": false,
 "time": "2026-11-03T07:55:11+00:00",
 "junior_dp": true
+},
+{
+"title": "Chief Officer on Chemical tanker",
+"url": "https://crewell.net/en/vacancies/464574/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Chemical tanker"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-03T08:51:37.274841+00:00",
+"junior_dp": false
+},
+{
+"title": "Chief Officer on LPG",
+"url": "https://crewell.net/en/vacancies/464576/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "LPG"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-03T08:51:37.276457+00:00",
+"junior_dp": false
+},
+{
+"title": "Chief Officer on Container Ship",
+"url": "https://crewell.net/en/vacancies/464579/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Container"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-03T08:51:37.276563+00:00",
+"junior_dp": false
+},
+{
+"title": "Chief Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/368404",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-03T08:51:38.581632+00:00",
+"junior_dp": false
+},
+{
+"title": "CHIEF OFFICER – GENERAL CARGO",
+"url": "https://t.me/balticcareer/5248",
+"source": "Telegram: @balticcareer",
+"found": [
+"chief officer"
+],
+"fp": "fp-841b9a9d4ccaf667",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo",
+"salary": "5200 EUR / month",
+"contract": "4 months +/- 1 month"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-03T08:18:24+00:00",
+"junior_dp": false
+},
+{
+"title": "https://jobatsea.online/job/624846/2nd-officer-on-ahts-in-north-sea-waters-at-osm-thome/",
+"url": "https://t.me/offshorevacancies/47023",
+"source": "Telegram: @offshorevacancies",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "2nd Officer",
+"vessel": "AHTS"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-03T08:29:55+00:00",
+"junior_dp": false
+},
+{
+"title": "HIRING ONBOARD PRIVATE & CHARTER MOTOR YACHT",
+"url": "https://t.me/oceancrewjobs/32649",
+"source": "Telegram: @oceancrewjobs",
+"found": [
+"chief officer"
+],
+"fp": "fp-19642a962d435ade",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "AHTS, Cruise",
+"company": "https://oceancrew.org/vacancies/cru…"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-03T08:42:34+00:00",
+"junior_dp": false
+},
+{
+"title": "OPEN ROLES FOR BULK CARRIER & TANKER VESSELS",
+"url": "https://t.me/oceancrewjobs/32650",
+"source": "Telegram: @oceancrewjobs",
+"found": [
+"chief officer",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-fc247c45445b2865",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer",
+"vessel": "Bulk carrier",
+"company": "https://oceancrew.org/vacancies/mer…"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-03T08:42:53+00:00",
+"junior_dp": false
+},
+{
+"title": "NEW JOBS",
+"url": "https://t.me/oceancrewjobs/32651",
+"source": "Telegram: @oceancrewjobs",
+"found": [
+"chief officer",
+"dpo"
+],
+"fp": "fp-95a66b2b2a1b9ca8",
+"offshore": true,
+"info": {
+"rank": "Chief Officer / DPO",
+"vessel": "PSV, AHTS",
+"company": "https://oceancrew.org/vacancies/off…"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-03T08:43:01+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-1736,
-1737,
-1738,
-1739,
-1740,
-1741,
-1742,
-1743,
-1744,
-1745,
-1746,
-1747,
-1748,
-1749
+1751,
+1752,
+1753,
+1754,
+1755,
+1756,
+1757,
+1758,
+1759,
+1760,
+1761,
+1762,
+1763,
+1764,
+1765,
+1766
 ],
-"last_list": "2026-11-03T07:59:27.873454+00:00",
-"cleared_upto": 1735,
-"last_msg_id": 1749
+"last_list": "2026-11-03T08:52:58.376262+00:00",
+"cleared_upto": 1750,
+"last_msg_id": 1766
 }
