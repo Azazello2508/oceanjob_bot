@@ -1,6 +1,7 @@
 """Проверяет новые вакансии Chief Officer на crewell.net и присылает их в Telegram."""
 
 import hashlib
+import sys
 import html
 import json
 import os
@@ -10,6 +11,8 @@ from pathlib import Path
 
 import requests
 from bs4 import BeautifulSoup
+
+import crewings
 
 TOKEN = os.environ["TELEGRAM_TOKEN"]
 CHAT_ID = os.environ["TELEGRAM_CHAT_ID"]
@@ -209,6 +212,8 @@ def fingerprint(text):
 
 # Самый большой номер поста, увиденный в каждом канале за эту проверку
 LAST_POST = {}
+# Все посты, прочитанные в каналах за эту проверку (для справочника крюингов)
+ALL_POSTS = {}
 # До какого номера поста листать канал назад (если сегодня канал уже читали)
 STOP_AT = {}
 
@@ -254,6 +259,7 @@ def get_channel(name, max_pages=6):
             continue
         ids.add(post)
         text = box.get_text("\n", strip=True)
+        ALL_POSTS.setdefault(name, []).append((num(post), text))
         if any(k in text.lower() for k in KEYWORDS):
             t = msg.select_one("a.tgme_widget_message_date time[datetime]") or msg.select_one("time[datetime]")
             jobs.append({
@@ -649,7 +655,6 @@ def publish(day, report=None):
 
 
 # ---------- Справочник крюингов ----------
-CREW_FILE = Path("crewings.json")
 CO_WORDS = ["chief officer", "c/o", "chief mate", "choff", "ch/off", "co/dpo", "co/sdpo",
             "старпом", "старший помощник", "ст. помощник", "ст.помощник"]
 SO_WORDS = ["second officer", "2nd officer", "2/o", "2off", "2nd off", "2/off", "2o/dpo"]
@@ -664,62 +669,12 @@ FREE_MAIL = {"gmail.com", "yahoo.com", "hotmail.com", "outlook.com", "mail.ru", 
              "yandex.ru", "i.ua", "icloud.com", "bk.ru", "inbox.ru", "list.ru", "meta.ua", "yandex.ua"}
 
 
-def load_crew():
-    return json.loads(CREW_FILE.read_text()) if CREW_FILE.exists() else {"companies": {}, "last_file": ""}
-
-
-def add_crewing(crew, text, source):
-    """Достаёт из текста вакансии контакты крюинга и обновляет справочник."""
-    low = text.lower()
-    emails = sorted({e.lower().rstrip(".") for e in re.findall(r"[\w.+-]+@[\w-]+\.[\w.-]+", text)})
-    channels = {c.lower() for c in CHANNELS}
-    tgs = sorted({"@" + h for h in re.findall(r"(?<![\w.])@(\w{4,})", text)
-                  if h.lower() not in channels and not h.lower().endswith("bot")})
-    phones = sorted({re.sub(r"[^\d+]", "", p) for p in re.findall(r"\+\d[\d\s()-]{8,}\d", text)})
-    if not emails and not tgs:
-        return
-    if emails:
-        domain = emails[0].split("@")[1]
-        key = emails[0] if domain in FREE_MAIL else domain
-    else:
-        key = tgs[0].lower()
-    c = crew["companies"].setdefault(key, {"emails": [], "telegram": [], "phones": [], "co": 0,
-                                           "so": 0, "vessels": [], "last": "", "sources": []})
-    for field, values in (("emails", emails), ("telegram", tgs), ("phones", phones), ("sources", [source])):
-        c[field] = sorted(set(c[field]) | set(values))[:8]
-    c["co"] += any(w in low for w in CO_WORDS)
-    c["so"] += any(w in low for w in SO_WORDS)
-    c["vessels"] = sorted(set(c["vessels"]) | {v for v, ws in VESSELS.items() if any(w in low for w in ws)})
-    c["last"] = datetime.now(LOCAL_TZ).strftime("%Y-%m-%d")
-
-
-def send_crew_file(crew):
-    """Присылает в чат таблицу крюингов (CSV — открывается в Excel и Google Таблицах)."""
-    import csv, io
-    rows = sorted(crew["companies"].items(), key=lambda kv: (kv[1]["co"], kv[1]["so"]), reverse=True)
-    buf = io.StringIO()
-    w = csv.writer(buf, delimiter=";")
-    w.writerow(["Компания", "E-mail", "Telegram", "Телефон", "Вакансий Chief Officer",
-                "Вакансий 2nd Officer", "Типы судов", "Последняя вакансия", "Где публикует"])
-    for key, c in rows:
-        w.writerow([key, ", ".join(c["emails"]), ", ".join(c["telegram"]), ", ".join(c["phones"]),
-                    c["co"], c["so"], ", ".join(c["vessels"]), c["last"], ", ".join(c["sources"])])
-    data = buf.getvalue().encode("utf-8-sig")
-    name = f"crewings_{datetime.now(LOCAL_TZ):%Y-%m-%d}.csv"
-    r = requests.post(f"https://api.telegram.org/bot{TOKEN}/sendDocument",
-                      data={"chat_id": CHAT_ID, "caption": f"📇 Справочник крюингов: {len(rows)} компаний. "
-                            "Сверху — кто чаще ищет Chief Officer."},
-                      files={"document": (name, data, "text/csv")}, timeout=60)
-    r.raise_for_status()
-    return r.json()["result"]["message_id"]
-
-
 def main():
     seen = load_seen() or set()
     force_now = Path("force.txt").exists()   # «обнови сейчас»: файл кладут вручную
     if force_now:
         Path("force.txt").unlink()
-    crew = load_crew()
+    crew = crewings.load()
     if Path("send_crewings.txt").exists():   # «пришли справочник сейчас»
         Path("send_crewings.txt").unlink()
         crew["send_now"] = True
@@ -808,8 +763,6 @@ def main():
                 day_fps.add(fp)
             if not known:
                 sent += 1
-            if is_channel and (not known or crew.get("backfill")):
-                add_crewing(crew, job["title"], label.replace("Telegram: ", ""))
         seen.update(j["id"] for j in jobs)
         seen.update(j["fp"] for j in jobs if j.get("fp"))
         # Запоминаем самый новый пост и то, что сегодня канал уже прочитан целиком
@@ -834,6 +787,7 @@ def main():
 
     now = datetime.now(LOCAL_TZ)
     this_week = now.strftime("%G-%V")
+    crewings.update(sys.modules[__name__], crew, ALL_POSTS, seconds=240)
     if (now.weekday() == 0 and now.hour >= 9 and crew["last_file"] != this_week
             and crew["companies"]) or crew.pop("send_now", False):
         try:
@@ -841,12 +795,11 @@ def main():
                 delete(crew["file_msg"])
                 if crew["file_msg"] in KEEP_IDS:
                     KEEP_IDS.remove(crew["file_msg"])
-            crew["file_msg"] = send_crew_file(crew)
+            crew["file_msg"] = crewings.send_file(sys.modules[__name__], crew)
             crew["last_file"] = this_week
         except Exception as e:
             print(f"Не удалось отправить справочник: {e}")
-    crew.pop("backfill", None)
-    CREW_FILE.write_text(json.dumps(crew, ensure_ascii=False, indent=0))
+    crewings.save(crew)
 
     if LAST_SENT:
         day["last_msg_id"] = LAST_SENT

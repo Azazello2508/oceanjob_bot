@@ -1,8 +1,0 @@
-ukr_list.html 200 79474
-ukr_list_p2.html 200 79216
-ukr_company.html 200 89026
-crewell_list.html 200 288404
-crewell_company.html 200 50912
-seajobs_list.html 200 123075
-tg_page.html 200 130011
-tg_before.html 200 92660

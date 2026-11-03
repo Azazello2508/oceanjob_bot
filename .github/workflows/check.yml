@@ -42,6 +42,7 @@ jobs:
             # проверка раз в 45 минут или сразу, если появился файл force.txt («обнови сейчас»)
             if [ $(( now - last )) -ge 2700 ] || [ -f force.txt ]; then
               echo "=== Проверка $(date -u +%H:%M) UTC ==="
+              pip install -q -r requirements.txt || true
               python bot.py || echo "Проверка завершилась с ошибкой"
               git add -A
               git diff --cached --quiet || git commit -q -m "Обновить список вакансий"
