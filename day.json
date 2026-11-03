@@ -1922,28 +1922,225 @@
 "repeat": false,
 "time": "2026-11-03T09:12:14+00:00",
 "junior_dp": false
+},
+{
+"title": "2nd Officer on General Cargo Vessel",
+"url": "https://crewell.net/en/vacancies/464597/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "General cargo"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-03T10:34:30.886326+00:00",
+"junior_dp": false
+},
+{
+"title": "Chief Officer on Container Ship",
+"url": "https://crewell.net/en/vacancies/464594/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Container"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-03T10:34:30.888063+00:00",
+"junior_dp": false
+},
+{
+"title": "Chief Officer on Dry cargo vessel",
+"url": "https://crewell.net/en/vacancies/464595/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-03T10:34:30.888181+00:00",
+"junior_dp": false
+},
+{
+"title": "VACANCY ON LNG TANKER",
+"url": "https://t.me/maritimeforum/254316",
+"source": "Telegram: @maritimeforum",
+"found": [
+"2nd officer",
+"2/o",
+"2nd off"
+],
+"fp": "fp-c5e6d78264827f93",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "LNG",
+"joining": "End of November / Beginning of",
+"contract": "Junior ranks — 6 ± 1 mo",
+"email": "RossMarine.info@ukr.net"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-03T10:20:54+00:00",
+"junior_dp": false
+},
+{
+"title": "ARGENT OPENING – LNG VESSEL",
+"url": "https://t.me/maritimeforum/254318",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer",
+"second officer"
+],
+"fp": "fp-7dd4551466abdff8",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer",
+"vessel": "VLCC, LNG",
+"salary": "DETAILS – LNG",
+"email": "RossMarine.info@ukr.net"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-03T10:20:55+00:00",
+"junior_dp": false
+},
+{
+"title": "Merchant Fleet  Vacancies",
+"url": "https://t.me/maritimeforum/254319",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-112d3e7382bc7a04",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Bulk carrier, Container",
+"salary": "9300 $ per month",
+"joining": "на борт: 20.11.2026"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-03T10:27:11+00:00",
+"junior_dp": false
+},
+{
+"title": "Компания ГК \"ОТЭКО\" приглашает на  работу:",
+"url": "https://t.me/rekamore_su/164123",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-105216998cd5ccaa",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Tug",
+"email": "e.davydenko@oteko.ru",
+"company": "oteko.ru"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-03T10:14:10+00:00",
+"junior_dp": false
+},
+{
+"title": "Компания \"Intercontinental Shipping Group\" приглашает на работу:",
+"url": "https://t.me/rekamore_su/164124",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-0ebbc6f0b9678d21",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo",
+"salary": "своевременно",
+"joining": "в иностранном порту - БЛИЖАЙША",
+"email": "crew@incsgl.com",
+"company": "incsgl.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-03T10:15:20+00:00",
+"junior_dp": false
+},
+{
+"title": "C/E to join a trailing suction hopper dredger",
+"url": "https://t.me/gm_seaman_cv/2659",
+"source": "Telegram: @gm_seaman_cv",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-c841448e7b3127d0",
+"offshore": true,
+"info": {
+"rank": "2nd Officer",
+"vessel": "General cargo, AHTS",
+"salary": "EUR 4,500 NET Negotiable DOE)",
+"joining": "Week 45–47",
+"contract": "Polish",
+"email": "info.poland@tospeople.com",
+"company": "tospeople.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-03T09:57:06+00:00",
+"junior_dp": false
+},
+{
+"title": "New Senior Officers vacancies",
+"url": "https://t.me/seavacancies/25158",
+"source": "Telegram: @seavacancies",
+"found": [
+"chief officer"
+],
+"fp": "fp-ab6dfa12d5b1381b",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Crude oil tanker, Bulk carrier",
+"joining": "20 Nov",
+"salary": "$7,300"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-03T10:03:02+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-1769,
-1770,
-1771,
-1772,
-1773,
-1774,
-1775,
-1776,
-1777,
-1778,
-1779,
-1780,
-1781,
-1782,
-1783,
-1784,
-1785
+1786,
+1787,
+1788,
+1789,
+1790,
+1791,
+1792,
+1793,
+1794,
+1795,
+1796,
+1797,
+1798,
+1799,
+1800,
+1801,
+1802
 ],
-"last_list": "2026-11-03T09:46:21.824912+00:00",
-"cleared_upto": 1768,
-"last_msg_id": 1785
+"last_list": "2026-11-03T10:35:51.415970+00:00",
+"cleared_upto": 1785,
+"last_msg_id": 1802
 }
