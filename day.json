@@ -1648,25 +1648,488 @@
 "repeat": false,
 "time": "2026-11-04T07:47:08+00:00",
 "junior_dp": false
+},
+{
+"title": "Chief Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/368511",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-04T09:11:39.130036+00:00",
+"junior_dp": false
+},
+{
+"title": "Chief Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/368517",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-04T09:11:39.131619+00:00",
+"junior_dp": false
+},
+{
+"title": "VACANCY ON LNG TANKER",
+"url": "https://t.me/maritimeforum/254625",
+"source": "Telegram: @maritimeforum",
+"found": [
+"2nd officer",
+"2/o",
+"2nd off"
+],
+"fp": "fp-c5e6d78264827f93",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "LNG",
+"joining": "End of November / Beginning of",
+"contract": "Junior ranks — 6 ± 1 mo",
+"email": "RossMarine.info@ukr.net"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-04T08:24:09+00:00",
+"junior_dp": false
+},
+{
+"title": "ARGENT OPENING – LNG VESSEL",
+"url": "https://t.me/maritimeforum/254627",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer",
+"second officer"
+],
+"fp": "fp-7dd4551466abdff8",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer",
+"vessel": "VLCC, LNG",
+"salary": "DETAILS – LNG",
+"email": "RossMarine.info@ukr.net"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-04T08:24:09+00:00",
+"junior_dp": false
+},
+{
+"title": "VACANCIES ON PACIFIC GAS – VLGC & LEG",
+"url": "https://t.me/maritimeforum/254629",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-118d73c21a32e771",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"salary": "USD 13,800–14,300",
+"joining": "end of December",
+"email": "RossMarine.info@ukr.net"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-04T08:24:09+00:00",
+"junior_dp": false
+},
+{
+"title": "URGENTLY",
+"url": "https://t.me/maritimeforum/254632",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-19cfbe8e74e750cd",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer",
+"vessel": "VLCC, Crude oil tanker",
+"salary": "S + HORMUZ STRAIT BONUS"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-04T08:30:58+00:00",
+"junior_dp": false
+},
+{
+"title": "URGENTLY",
+"url": "https://t.me/maritimeforum/254634",
+"source": "Telegram: @maritimeforum",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-1f51073c49e9e6aa",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"salary": "5750 USD"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-04T08:34:23+00:00",
+"junior_dp": false
+},
+{
+"title": "OPEN VACANCIES — CRUDE OIL TANKER",
+"url": "https://t.me/maritimeforum/254636",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-ee5a7d32e65eb980",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Crude oil tanker",
+"joining": "First decade of November",
+"email": "marvelmarinecrewing@gmail.com"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-04T08:35:33+00:00",
+"junior_dp": false
+},
+{
+"title": "WE NEED",
+"url": "https://t.me/maritimeforum/254638",
+"source": "Telegram: @maritimeforum",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-eb7a4c863369029a",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Bulk carrier",
+"joining": "ASAP",
+"salary": "6500 USD",
+"email": "info@staff-service-expert.com",
+"company": "staff-service-expert.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-04T08:41:00+00:00",
+"junior_dp": false
+},
+{
+"title": "СРОЧНО НА НОЯБРЬ НУЖНЫ МОРЯКИ ЗАРПЛАТА СТАРПОМ -6100€ , 3- ШТУРМАН- 3200€ МОЖНО В СТАРТ ,ЗНАНИЕ АНГЛИЙСКОГО ЯЗЫКА. ЗВОНИТЕ  МЕНЕДЖЕР ИРИНА ВАЦАП АНКЕТУ НА ВАЦАП…",
+"url": "https://t.me/maritimeforum/254646",
+"source": "Telegram: @maritimeforum",
+"found": [
+"старпом"
+],
+"fp": "fp-6383c03b14ff4f78",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo",
+"salary": "СТАРПОМ -6100€ , 3- ШТУРМАН- 3…"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-04T09:11:30+00:00",
+"junior_dp": false
+},
+{
+"title": "HOT VACANCIES IN VITA MARITIME LTD.",
+"url": "https://t.me/crewingua/44730",
+"source": "Telegram: @crewingua",
+"found": [
+"chief officer",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-97993abce92a338f",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer",
+"vessel": "Chemical tanker, Container",
+"salary": "9,600–9,800 USD",
+"joining": "Mid of December",
+"email": "a.sholda@vitamaritime.com.ua",
+"company": "vitamaritime.com.ua"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-04T08:57:34+00:00",
+"junior_dp": false
+},
+{
+"title": "https://jobatsea.online/job/624873/2nd-mate-dpo-for-cable-layer-vessel-at-polaris-maritime-services-ltd/",
+"url": "https://t.me/offshorevacancies/47045",
+"source": "Telegram: @offshorevacancies",
+"found": [
+"dpo"
+],
+"fp": "fp-f2f54b3a75bd2a29",
+"offshore": true,
+"info": {
+"rank": "DPO",
+"company": "https://jobatsea.online/job/624873/…"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-04T08:39:08+00:00",
+"junior_dp": false
+},
+{
+"title": "АКТУАЛЬНЫЕ ВАКАНСИИ",
+"url": "https://t.me/rekamore_su/164251",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-b21aa543d182f568",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "AHTS, Tug"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-04T09:00:10+00:00",
+"junior_dp": false
+},
+{
+"title": "Компания ООО “ТК Северный проект” приглашает на работу:",
+"url": "https://t.me/rekamore_su/164253",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-af08848054883f34",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo",
+"salary": "360 000 рублей ежемесячно + от…",
+"joining": "срочная",
+"contract": "4 месяца",
+"email": "rabota@ashipping.ru",
+"company": "ashipping.ru"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-04T09:02:50+00:00",
+"junior_dp": false
+},
+{
+"title": "Master",
+"url": "https://t.me/offshoreatsea/24922",
+"source": "Telegram: @offshoreatsea",
+"found": [
+"sdpo",
+"dpo"
+],
+"fp": "fp-356a6b92174d1d6e",
+"offshore": true,
+"info": {
+"rank": "SDPO",
+"vessel": "PSV",
+"salary": "Negotiable, depending on exper…",
+"email": "crewing@marpocrew.com.ua",
+"company": "marpocrew.com.ua"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-04T08:53:20+00:00",
+"junior_dp": false
+},
+{
+"title": "Chief Officer",
+"url": "https://t.me/offshoreatsea/24923",
+"source": "Telegram: @offshoreatsea",
+"found": [
+"chief officer",
+"sdpo",
+"dpo"
+],
+"fp": "fp-012e6dbb06b1ae12",
+"offshore": true,
+"info": {
+"rank": "Chief Officer / SDPO",
+"vessel": "PSV",
+"salary": "Negotiable, depending on exper…",
+"email": "crewing@marpocrew.com.ua",
+"company": "marpocrew.com.ua"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-04T08:53:21+00:00",
+"junior_dp": false
+},
+{
+"title": "2nd Officer",
+"url": "https://t.me/offshoreatsea/24926",
+"source": "Telegram: @offshoreatsea",
+"found": [
+"2nd officer",
+"dpo",
+"2nd off"
+],
+"fp": "fp-d8745eb908ff67cd",
+"offshore": true,
+"info": {
+"rank": "2nd Officer / DPO",
+"vessel": "PSV",
+"salary": "Negotiable, depending on exper…",
+"email": "crewing@marpocrew.com.ua",
+"company": "marpocrew.com.ua"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-04T08:53:25+00:00",
+"junior_dp": false
+},
+{
+"title": "Master",
+"url": "https://t.me/offshoreatsea/24928",
+"source": "Telegram: @offshoreatsea",
+"found": [
+"sdpo",
+"dpo"
+],
+"fp": "fp-7c46a84ae205c036",
+"offshore": true,
+"info": {
+"rank": "SDPO",
+"vessel": "PSV, MPSV",
+"contract": "70+ days",
+"email": "Isabelle.j@worldwide-rs.com",
+"company": "worldwide-rs.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-04T08:55:06+00:00",
+"junior_dp": false
+},
+{
+"title": "OFFSHORE VACANCY",
+"url": "https://t.me/gm_seaman_cv/2664",
+"source": "Telegram: @gm_seaman_cv",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-311d2665018a2459",
+"offshore": true,
+"info": {
+"rank": "2nd Officer",
+"vessel": "General cargo, MPP",
+"salary": "Negotiable Eur/Net",
+"joining": "ASAP",
+"contract": "3 months",
+"email": "yuriy@desecrew.com",
+"company": "desecrew.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-04T08:36:38+00:00",
+"junior_dp": false
+},
+{
+"title": "SECOND OFFICER DPO",
+"url": "https://t.me/cvsenderseaman/15281",
+"source": "Telegram: @cvsenderseaman",
+"found": [
+"second officer",
+"2nd officer",
+"dpo",
+"2nd off"
+],
+"fp": "fp-76a25cef3975e644",
+"offshore": true,
+"info": {
+"rank": "2nd Officer / DPO",
+"vessel": "PSV",
+"salary": "Negotiable",
+"joining": "Beg. of December",
+"contract": "2",
+"email": "nvms-ro-crew@navmar.eu",
+"company": "navmar.eu"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-04T08:28:59+00:00",
+"junior_dp": false
+},
+{
+"title": "CHIEF OFFICER",
+"url": "https://t.me/cvsenderseaman/15286",
+"source": "Telegram: @cvsenderseaman",
+"found": [
+"chief officer"
+],
+"fp": "fp-999fbbb6d7809a5b",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "PSV",
+"salary": "Negotiable",
+"joining": "ASAP",
+"email": "crewing@marpocrew.com.ua",
+"company": "marpocrew.com.ua"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-04T09:04:59+00:00",
+"junior_dp": false
+},
+{
+"title": "SECOND OFFICER",
+"url": "https://t.me/cvsenderseaman/15289",
+"source": "Telegram: @cvsenderseaman",
+"found": [
+"second officer"
+],
+"fp": "fp-4b43480a0e44f8cb",
+"offshore": true,
+"info": {
+"rank": "2nd Officer",
+"vessel": "PSV",
+"salary": "Negotiable",
+"joining": "ASAP",
+"email": "crewing@marpocrew.com.ua",
+"company": "marpocrew.com.ua"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-04T09:06:59+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-2039,
-2040,
-2041,
-2042,
-2043,
-2044,
-2045,
-2046,
-2047,
-2048,
-2049,
-2050,
-2051,
-2052
+2053,
+2054,
+2055,
+2056,
+2057,
+2058,
+2059,
+2060,
+2061,
+2062,
+2063,
+2064,
+2065,
+2066
 ],
-"last_list": "2026-11-04T08:23:00.472772+00:00",
-"cleared_upto": 2038,
-"last_msg_id": 2052
+"last_list": "2026-11-04T09:12:57.113568+00:00",
+"cleared_upto": 2052,
+"last_msg_id": 2066
 }
