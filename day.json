@@ -2571,26 +2571,342 @@
 "repeat": false,
 "time": "2026-11-04T10:14:16+00:00",
 "junior_dp": false
+},
+{
+"title": "СРОЧНО / URGENT VACANCIES • VLGC FLEET • ASAP EMBARKATION",
+"url": "https://t.me/maritimeforum/254706",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-11f00018051dfa22",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer",
+"salary": "(Salary)",
+"joining": "в самое ближайшее время (",
+"contract": "(Contract)"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-04T11:13:31+00:00",
+"junior_dp": false
+},
+{
+"title": "We are looking for 20 DPO to join CSV DP2 vessel.",
+"url": "https://t.me/seajobfinder/42157",
+"source": "Telegram: @seajobfinder",
+"found": [
+"dpo"
+],
+"fp": "fp-c62c774d4e946085",
+"offshore": true,
+"info": {
+"rank": "DPO",
+"joining": "2nd of December",
+"contract": "6 weeks +-2",
+"email": "cv.Iv@angloeastern.com",
+"company": "angloeastern.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-04T10:55:23+00:00",
+"junior_dp": false
+},
+{
+"title": "Position:",
+"url": "https://t.me/CREW_ARIA/13960",
+"source": "Telegram: @CREW_ARIA",
+"found": [
+"chief officer"
+],
+"fp": "fp-2628dd7019757ab3",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Product tanker",
+"salary": "12156 USD",
+"joining": "15.11.2026",
+"contract": "3 months",
+"email": "cv@ultramarin.lv",
+"company": "ultramarin.lv"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-04T10:57:55+00:00",
+"junior_dp": false
+},
+{
+"title": "VLCC Crew Takeover – Ukraine",
+"url": "https://t.me/marinejobs/43029",
+"source": "Telegram: @marinejobs",
+"found": [
+"chief officer"
+],
+"fp": "fp-201d890e54e7bfe6",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "VLCC",
+"joining": "First half of December",
+"contract": "👤",
+"email": "ua-csc-ode-man@bs-shipmanagement.com",
+"company": "bs-shipmanagement.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-04T11:37:37+00:00",
+"junior_dp": false
+},
+{
+"title": "VACANCY: SECOND ENGINEER",
+"url": "https://t.me/crewingua/44736",
+"source": "Telegram: @crewingua",
+"found": [
+"chief officer"
+],
+"fp": "fp-fd0124fa877b6847",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Bulk carrier",
+"salary": "8500",
+"joining": "Asap",
+"contract": "4 +/- 1 months",
+"email": "crew@raymarinecrewing.com",
+"tg": "AnastasiaKRayMarine",
+"company": "raymarinecrewing.com"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-04T11:01:04+00:00",
+"junior_dp": false
+},
+{
+"title": "TANKER FLEET - Crude Oil tanker",
+"url": "https://t.me/crewingua/44737",
+"source": "Telegram: @crewingua",
+"found": [
+"chief officer"
+],
+"fp": "fp-c5e205859b8971cd",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Crude oil tanker",
+"joining": "Mid of November",
+"salary": "12.000 - 13.000$",
+"email": "crew@oceanodyssey.com.ua",
+"company": "oceanodyssey.com.ua"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-04T11:32:03+00:00",
+"junior_dp": false
+},
+{
+"title": "DRY CARGO FLEET - General Cargo",
+"url": "https://t.me/crewingua/44739",
+"source": "Telegram: @crewingua",
+"found": [
+"chief officer"
+],
+"fp": "fp-089021987648a468",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo",
+"joining": "ASAP",
+"salary": "6.000$",
+"email": "crew@oceanodyssey.com.ua",
+"company": "oceanodyssey.com.ua"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-04T11:32:04+00:00",
+"junior_dp": false
+},
+{
+"title": "https://jobatsea.online/job/624903/ch-offsdpo-with-ahts-dp2-experience-at-seven-seas-maritime-services/",
+"url": "https://t.me/offshorevacancies/47054",
+"source": "Telegram: @offshorevacancies",
+"found": [
+"sdpo",
+"dpo"
+],
+"fp": "fp-df7f77e154c6063f",
+"offshore": true,
+"info": {
+"rank": "SDPO",
+"vessel": "AHTS",
+"company": "https://jobatsea.online/job/624903/…"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-04T11:39:56+00:00",
+"junior_dp": false
+},
+{
+"title": "URGENT VACANCIES FOR DFDE LNG",
+"url": "https://t.me/univis_crewing/4998",
+"source": "Telegram: @univis_crewing",
+"found": [
+"ch/off"
+],
+"fp": "fp-823122699378084a",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "LNG",
+"salary": "s",
+"contract": "4M",
+"email": "hr@univis.com.ua",
+"tg": "univisltd",
+"company": "univis.com.ua"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-04T11:42:17+00:00",
+"junior_dp": false
+},
+{
+"title": "2nd Engineer",
+"url": "https://t.me/gm_seaman_cv/2667",
+"source": "Telegram: @gm_seaman_cv",
+"found": [
+"chief officer",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-e4c548a01b0a5f72",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer",
+"vessel": "LPG, LNG",
+"salary": "12156 USD",
+"joining": "15.11.2026",
+"contract": "3 months",
+"email": "cv@ultramarin.lv",
+"company": "ultramarin.lv"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-04T11:03:32+00:00",
+"junior_dp": false
+},
+{
+"title": "CHIEF OFFICER",
+"url": "https://t.me/cvsenderseaman/15319",
+"source": "Telegram: @cvsenderseaman",
+"found": [
+"chief officer"
+],
+"fp": "fp-3c81e9c3e9a61853",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "PSV, AHTS",
+"salary": "Negotiable",
+"joining": "ASAP",
+"contract": "90/60 rotation",
+"email": "jobs@aavishka.com",
+"company": "aavishka.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-04T10:55:40+00:00",
+"junior_dp": false
+},
+{
+"title": "CHIEF OFFICER",
+"url": "https://t.me/cvsenderseaman/15321",
+"source": "Telegram: @cvsenderseaman",
+"found": [
+"chief officer"
+],
+"fp": "fp-cff2c64bf3af4181",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Product tanker",
+"salary": "12156 USD / month",
+"joining": "15.11.2026",
+"contract": "3 months",
+"email": "cv@ultramarin.lv",
+"company": "ultramarin.lv"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-04T11:09:00+00:00",
+"junior_dp": false
+},
+{
+"title": "SECOND OFFICER",
+"url": "https://t.me/cvsenderseaman/15322",
+"source": "Telegram: @cvsenderseaman",
+"found": [
+"second officer"
+],
+"fp": "fp-20614ae538c0e68f",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Crude oil tanker",
+"salary": "5150 EUR / month",
+"joining": "11.11.2026",
+"contract": "4 (+/-1) months",
+"email": "application@trident-maritime.com",
+"company": "trident-maritime.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-04T11:11:40+00:00",
+"junior_dp": false
+},
+{
+"title": "CHIEF OFFICER",
+"url": "https://t.me/cvsenderseaman/15326",
+"source": "Telegram: @cvsenderseaman",
+"found": [
+"chief officer"
+],
+"fp": "fp-d165e5c597f9aefb",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Bulk carrier",
+"salary": "8000-8400 USD / month",
+"joining": "15.12.2026",
+"contract": "4 months",
+"email": "viktoria.tkachenko@denmax-ua.com",
+"company": "denmax-ua.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-04T11:14:20+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-2082,
-2083,
-2084,
-2085,
-2086,
-2087,
-2088,
-2089,
-2090,
-2091,
-2092,
-2093,
-2094,
-2095,
-2096
+2097,
+2098,
+2099,
+2100,
+2101,
+2102,
+2103,
+2104,
+2105,
+2106,
+2107,
+2108,
+2109,
+2110,
+2111
 ],
-"last_list": "2026-11-04T10:53:29.279203+00:00",
-"cleared_upto": 2081,
-"last_msg_id": 2096
+"last_list": "2026-11-04T11:43:37.128307+00:00",
+"cleared_upto": 2096,
+"last_msg_id": 2111
 }
