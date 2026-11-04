@@ -4516,28 +4516,324 @@
 "repeat": false,
 "time": "2026-11-04T15:04:27+00:00",
 "junior_dp": false
+},
+{
+"title": "Chief Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/368639",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-04T16:19:48.070141+00:00",
+"junior_dp": false
+},
+{
+"title": "Chief Officer",
+"url": "https://t.me/maritimeforum/254847",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-2c2a4c5cf9c9a284",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "VLCC",
+"contract": "3 months",
+"salary": "$11,637\n",
+"email": "crewing@balticshipping.pl",
+"company": "balticshipping.pl"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-04T15:56:19+00:00",
+"junior_dp": false
+},
+{
+"title": "2nd Officer",
+"url": "https://t.me/maritimeforum/254848",
+"source": "Telegram: @maritimeforum",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-765b1b833b97f419",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "MPP",
+"contract": "4 months",
+"email": "cv@bims.lv",
+"company": "bims.lv"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-04T15:56:24+00:00",
+"junior_dp": false
+},
+{
+"title": "Chief Officer",
+"url": "https://t.me/maritimeforum/254854",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-f75690c854f1b7f2",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo",
+"contract": "5 months",
+"email": "crew@sealander.agency",
+"company": "sealander.agency"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-04T15:56:59+00:00",
+"junior_dp": false
+},
+{
+"title": "НА  GEN  CARGO  5000 DWT",
+"url": "https://t.me/crewingua/44747",
+"source": "Telegram: @crewingua",
+"found": [
+"2off",
+"choff"
+],
+"fp": "fp-6255f5a6907b138d",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer",
+"joining": "В  НОЯБРЕ / ДЕКАБРЕ",
+"salary": "€ 7500\n"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-04T15:52:01+00:00",
+"junior_dp": false
+},
+{
+"title": "НА  LPG   17000  DWT",
+"url": "https://t.me/crewingua/44748",
+"source": "Telegram: @crewingua",
+"found": [
+"choff"
+],
+"fp": "fp-8a790f5ff3c67a4c",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "LPG",
+"joining": "В   НАЧАЛЕ  НОЯБРЯ",
+"salary": "$15000\n"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-04T15:52:04+00:00",
+"junior_dp": false
+},
+{
+"title": "НА  GEN  CARGO  8000 DWT",
+"url": "https://t.me/crewingua/44749",
+"source": "Telegram: @crewingua",
+"found": [
+"2off",
+"choff"
+],
+"fp": "fp-b394046c0fd9f43a",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer",
+"salary": "€ 9400\n"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-04T15:53:03+00:00",
+"junior_dp": false
+},
+{
+"title": "FOR  OIL/CHEM  TANKER  DWT 17000",
+"url": "https://t.me/crewingua/44750",
+"source": "Telegram: @crewingua",
+"found": [
+"2off"
+],
+"fp": "fp-19e7dfad637976f4",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Chemical tanker",
+"salary": "$5000\n"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-04T15:53:04+00:00",
+"junior_dp": false
+},
+{
+"title": "НА  GEN  CARGO  7000 DWT",
+"url": "https://t.me/crewingua/44751",
+"source": "Telegram: @crewingua",
+"found": [
+"2off",
+"choff"
+],
+"fp": "fp-ef95290d8b03ec3b",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer",
+"salary": "$ 9000\n"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-04T15:53:11+00:00",
+"junior_dp": false
+},
+{
+"title": "DECK OFFICERS (42)",
+"url": "https://t.me/marineman_ltd/48300",
+"source": "Telegram: @marineman_ltd",
+"found": [
+"chief officer",
+"second officer"
+],
+"fp": "fp-d32b5eb646ebdd1e",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer",
+"vessel": "LPG, LNG"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-04T16:00:02+00:00",
+"junior_dp": false
+},
+{
+"title": "НА  GEN  CARGO  7000 DWT",
+"url": "https://t.me/JobForMariners/1199",
+"source": "Telegram: @JobForMariners",
+"found": [
+"2off",
+"choff"
+],
+"fp": "fp-66ea07a0a040cb64",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer",
+"salary": "$ 9000\n"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-04T15:47:00+00:00",
+"junior_dp": false
+},
+{
+"title": "https://jobatsea.online/job/624965/chief-officer-sdpo-to-join-a-psv-dp2-at-tos-energy-maritime-crew/",
+"url": "https://t.me/offshorevacancies/47071",
+"source": "Telegram: @offshorevacancies",
+"found": [
+"chief officer",
+"sdpo",
+"dpo"
+],
+"fp": "fp-f5ae24e8322a2c75",
+"offshore": true,
+"info": {
+"rank": "Chief Officer / SDPO",
+"vessel": "PSV",
+"company": "https://jobatsea.online/job/624965/…"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-04T16:02:38+00:00",
+"junior_dp": false
+},
+{
+"title": "URGENT VACANCY: 2O DPO | BOKA NORTHERN OCEAN | UK",
+"url": "https://t.me/truemalina_offshore/788",
+"source": "Telegram: @truemalina_offshore",
+"found": [
+"second officer",
+"dpo"
+],
+"fp": "fp-ffa37487fe58de81",
+"offshore": true,
+"info": {
+"rank": "2nd Officer / DPO",
+"joining": "временный контракт на 4 неде",
+"contract": "на 4 недели",
+"email": "ae.careers@angloeastern.com",
+"company": "angloeastern.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-04T16:10:53+00:00",
+"junior_dp": false
+},
+{
+"title": "Список закрытых каналов в",
+"url": "https://t.me/rekamore_su/164269",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-de84ab9948b9e3a9",
+"offshore": false,
+"info": {
+"rank": "Chief Officer"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-04T16:03:01+00:00",
+"junior_dp": false
+},
+{
+"title": "New Watch Officers vacancies",
+"url": "https://t.me/seavacancies/25166",
+"source": "Telegram: @seavacancies",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-bab0cfeb96ab902b",
+"offshore": true,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Chemical tanker, Bulk carrier",
+"joining": "20 Nov",
+"salary": "$3,000-4,500"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-04T16:03:02+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-2161,
-2162,
-2163,
-2164,
-2165,
-2166,
-2167,
-2168,
-2169,
-2170,
-2171,
-2172,
-2173,
-2174,
-2175,
-2176,
-2177
+2178,
+2179,
+2180,
+2181,
+2182,
+2183,
+2184,
+2185,
+2186,
+2187,
+2188,
+2189,
+2190,
+2191,
+2192,
+2193,
+2194
 ],
-"last_list": "2026-11-04T15:31:34.778582+00:00",
-"cleared_upto": 2160,
-"last_msg_id": 2177
+"last_list": "2026-11-04T16:21:11.282839+00:00",
+"cleared_upto": 2177,
+"last_msg_id": 2194
 }
