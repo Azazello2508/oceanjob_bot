@@ -2190,10 +2190,10 @@
 "resume@ai.mwship.ru"
 ],
 "first": "2026-11-03",
-"last": "2026-11-03",
+"last": "2026-11-04",
 "links": {},
 "name": "",
-"off": 4,
+"off": 5,
 "offshore_hint": false,
 "phones": [
 "+79654521698",
@@ -2206,7 +2206,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 4,
+"total": 5,
 "vessels": [
 "Offshore",
 "Tug"
@@ -4635,7 +4635,7 @@
 "resume@ansc.ru"
 ],
 "first": "2026-11-03",
-"last": "2026-11-03",
+"last": "2026-11-04",
 "links": {
 "crewell": "https://crewell.net/en/companies/254721/"
 },
@@ -4650,7 +4650,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 2,
+"total": 3,
 "vessels": [
 "Passenger"
 ],
@@ -5973,13 +5973,13 @@
 "ashipping.ru": {
 "address": "",
 "city": "",
-"co": 3,
+"co": 4,
 "country": "",
 "emails": [
 "rabota@ashipping.ru"
 ],
 "first": "2026-11-03",
-"last": "2026-11-03",
+"last": "2026-11-04",
 "links": {},
 "name": "ООО “ТК Северный проект”",
 "off": 0,
@@ -5991,7 +5991,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 4,
+"total": 6,
 "vessels": [
 "General cargo",
 "Tanker"
@@ -7332,7 +7332,7 @@
 "ok@bluewaveshipping.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-03",
+"last": "2026-11-04",
 "links": {},
 "name": "ООО «СК «Голубая Волна»",
 "off": 0,
@@ -7344,7 +7344,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 6,
+"total": 7,
 "vessels": [
 "General cargo"
 ],
@@ -7531,13 +7531,13 @@
 "balticss.com": {
 "address": "Pobeda sq. 4? office 18",
 "city": "Kaliningrad",
-"co": 2,
+"co": 3,
 "country": "Russia",
 "emails": [
 "crew@balticss.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-03",
+"last": "2026-11-04",
 "links": {
 "crewell": "https://crewell.net/en/companies/262841/"
 },
@@ -7551,7 +7551,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 3,
+"total": 5,
 "vessels": [],
 "website": "balticss.com"
 },
@@ -12261,7 +12261,7 @@
 "crew@donmastershipping.ru"
 ],
 "first": "2026-11-03",
-"last": "2026-11-03",
+"last": "2026-11-04",
 "links": {},
 "name": "ООО \"Донмастер\"",
 "off": 0,
@@ -12273,7 +12273,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 3,
+"total": 4,
 "vessels": [],
 "website": ""
 },
@@ -16412,7 +16412,7 @@
 "crew@i-muromets.ru"
 ],
 "first": "2026-11-03",
-"last": "2026-11-03",
+"last": "2026-11-04",
 "links": {
 "crewell": "https://crewell.net/en/companies/302158/"
 },
@@ -16427,7 +16427,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 7,
+"total": 8,
 "vessels": [
 "Tanker"
 ],
@@ -19211,14 +19211,14 @@
 "legacymarine.ru": {
 "address": "",
 "city": "",
-"co": 10,
+"co": 11,
 "country": "",
 "emails": [
 "crew.cv@legacymarine.ru",
 "crew2@legacymarine.ru"
 ],
 "first": "2026-11-03",
-"last": "2026-11-03",
+"last": "2026-11-04",
 "links": {},
 "name": "ООО \"Легаси Марин\"",
 "off": 0,
@@ -19234,7 +19234,7 @@
 "@sidantey"
 ],
 "telegram": [],
-"total": 11,
+"total": 12,
 "vessels": [
 "Tanker"
 ],
@@ -22808,7 +22808,7 @@
 "job.balt@morspas.ru"
 ],
 "first": "2026-11-03",
-"last": "2026-11-03",
+"last": "2026-11-04",
 "links": {
 "crewell": "https://crewell.net/en/companies/251355/"
 },
@@ -22823,7 +22823,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 2,
+"total": 3,
 "vessels": [],
 "website": "morspas.ru"
 },
@@ -36307,7 +36307,7 @@
 "fenics.m26@yandex.ru"
 ],
 "first": "2026-11-03",
-"last": "2026-11-03",
+"last": "2026-11-04",
 "links": {},
 "name": "ООО \"ФЕНИКС МЕНЕДЖМЕНТ\"",
 "off": 0,
@@ -36319,7 +36319,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 7,
+"total": 8,
 "vessels": [],
 "website": ""
 },
@@ -37875,16 +37875,18 @@
 "last": "2026-11-04",
 "links": {},
 "name": "",
-"off": 8,
+"off": 10,
 "offshore_hint": false,
 "phones": [],
 "so": 0,
 "sources": [
+"@marinejobs",
 "@morehod_ru",
-"@rekamore_su"
+"@rekamore_su",
+"@seamenjob"
 ],
 "telegram": [],
-"total": 20,
+"total": 22,
 "vessels": [
 "Offshore",
 "Passenger",
@@ -38039,13 +38041,13 @@
 "novocsmru.com": {
 "address": "",
 "city": "",
-"co": 3,
+"co": 4,
 "country": "",
 "emails": [
 "columbia@novocsmru.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-03",
+"last": "2026-11-04",
 "links": {},
 "name": "Columbia Shipmanagement",
 "off": 0,
@@ -38059,7 +38061,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 5,
+"total": 7,
 "vessels": [
 "Chemical",
 "Tanker"
@@ -41778,7 +41780,7 @@
 "zalikovaaa@rusgeology.ru"
 ],
 "first": "2026-11-03",
-"last": "2026-11-03",
+"last": "2026-11-04",
 "links": {
 "crewell": "https://crewell.net/en/companies/266347/"
 },
@@ -41793,7 +41795,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 8,
+"total": 10,
 "vessels": [],
 "website": "rusgeology.ru"
 },
@@ -41806,7 +41808,7 @@
 "crew@rusship.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-03",
+"last": "2026-11-04",
 "links": {},
 "name": "ООО \"Руссшип\"",
 "off": 0,
@@ -41820,7 +41822,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 6,
+"total": 8,
 "vessels": [],
 "website": ""
 },
@@ -53513,30 +53515,30 @@
 "job_for_seaman": 16983,
 "jobfor_seamen": 12638,
 "marinecareerorg": 17752,
-"marinejobs": 43007,
+"marinejobs": 43008,
 "marinejobz": 194156,
 "marineman_ltd": 48297,
 "maritimeforum": 254606,
 "merchantNavyrealjob": 262,
 "morehod_ru": 30712,
-"oceancrewjobs": 32662,
+"oceancrewjobs": 32665,
 "offshoreatsea": 24905,
 "offshorecv": 1570,
 "offshorevacancies": 47041,
 "oilrigs": 778,
 "olive_crew": 2890,
 "onboard_su": 20676,
-"rekamore_su": 164185,
+"rekamore_su": 164202,
 "roster_marine": 1729,
 "seajobfinder": 42156,
-"seamenjob": 106070,
+"seamenjob": 106072,
 "seamenvacancy": 1371,
-"seavacancies": 25162,
+"seavacancies": 25163,
 "shipjobsindia": 420,
 "shipscreweu": 16544,
 "sidantey": 399,
 "supermariner_ua": 3869,
-"truemalina_offshore": 784,
+"truemalina_offshore": 785,
 "ukrcrewing_official": 2372,
 "univis_crewing": 4997,
 "vshipsoffshore": 1070
