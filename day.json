@@ -1,10 +1,53 @@
 {
 "date": "2026-11-05",
-"jobs": [],
-"msg_ids": [
-2246
+"jobs": [
+{
+"title": "HIRING CANDIDATES ONBOARD MOTOR YACHT",
+"url": "https://t.me/oceancrewjobs/32678",
+"source": "Telegram: @oceancrewjobs",
+"found": [
+"chief officer"
 ],
-"last_list": "2026-11-04T20:12:30.952270+00:00",
-"cleared_upto": 2245,
-"last_msg_id": 2246
+"fp": "fp-80824d0bc3248ec5",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Bulk carrier, AHTS",
+"company": "https://oceancrew.org/vacancies/cru…"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-04T21:20:23+00:00",
+"junior_dp": false
+},
+{
+"title": "NEED ALL RANKS ON ASD TUG BOAT",
+"url": "https://t.me/oceancrewjobs/32680",
+"source": "Telegram: @oceancrewjobs",
+"found": [
+"chief officer",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-756fcc4ae8915a8b",
+"offshore": true,
+"info": {
+"rank": "Chief Officer / 2nd Officer",
+"vessel": "PSV, AHTS",
+"company": "https://oceancrew.org/vacancies/off…"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-04T21:20:35+00:00",
+"junior_dp": false
+}
+],
+"msg_ids": [
+2247,
+2248,
+2249
+],
+"last_list": "2026-11-04T21:52:38.352338+00:00",
+"cleared_upto": 2246,
+"last_msg_id": 2249
 }
