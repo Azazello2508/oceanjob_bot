@@ -342,20 +342,65 @@
 "repeat": true,
 "time": "2026-11-04T04:32:03+00:00",
 "junior_dp": false
+},
+{
+"title": "Offshore. Job selection for 04/11/2026",
+"url": "https://t.me/SM_job_center/2468",
+"source": "Telegram: @SM_job_center",
+"found": [
+"chief officer",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-e92a1d9d5c5f77df",
+"offshore": true,
+"info": {
+"rank": "Chief Officer / 2nd Officer",
+"vessel": "AHTS, OSV",
+"salary": "$1,570/month",
+"email": "cv@alphacrew.com",
+"company": "alphacrew.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-04T05:05:02+00:00",
+"junior_dp": false
+},
+{
+"title": "Компания “Северный Альянс” приглашает на работу:",
+"url": "https://t.me/rekamore_su/164183",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-51743fd97eff3ead",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Tug",
+"salary": "330 750 руб. (на руки)",
+"joining": "06.11.2026г. Работа в Марокко",
+"email": "vacancy@north-alliance.com",
+"company": "north-alliance.com"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-04T04:36:27+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-1997,
-1998,
-1999,
-2000,
-2001,
-2002,
-2003,
-2004,
-2005
+2006,
+2007,
+2008,
+2009,
+2010,
+2011,
+2012,
+2013,
+2014
 ],
-"last_list": "2026-11-04T04:35:19.953959+00:00",
-"cleared_upto": 1996,
-"last_msg_id": 2005
+"last_list": "2026-11-04T05:24:52.954211+00:00",
+"cleared_upto": 2005,
+"last_msg_id": 2014
 }

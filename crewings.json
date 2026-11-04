@@ -3447,7 +3447,7 @@
 "alphacrew.com": {
 "address": "17, Rishelievskaya, 2 floor",
 "city": "Odessa",
-"co": 37,
+"co": 38,
 "country": "Ukraine",
 "emails": [
 "crewing@alphacrew.com",
@@ -3460,13 +3460,13 @@
 "info.tma@tschudishipmanagement.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-03",
+"last": "2026-11-04",
 "links": {
 "crewell": "https://crewell.net/en/companies/64276/",
 "ukrcrewing": "https://ukrcrewing.com.ua/en/agency/alpha_crew"
 },
 "name": "AlphaCrew Maritime",
-"off": 397,
+"off": 398,
 "offshore_hint": true,
 "phones": [
 "+35726000899",
@@ -3478,7 +3478,7 @@
 "+380487373885",
 "+380974006633"
 ],
-"so": 15,
+"so": 16,
 "sources": [
 "@ALPHACREW",
 "@OffshoreFleetJob",
@@ -3500,7 +3500,7 @@
 "@Olga_Alpha_Crew",
 "@irina_alpha"
 ],
-"total": 425,
+"total": 426,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -6304,7 +6304,7 @@
 "hr@aspol-line.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-03",
+"last": "2026-11-04",
 "links": {},
 "name": "Balt Shipping",
 "off": 0,
@@ -6318,7 +6318,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 1,
+"total": 2,
 "vessels": [
 "General cargo"
 ],
@@ -37866,16 +37866,16 @@
 "north-alliance.com": {
 "address": "",
 "city": "",
-"co": 6,
+"co": 7,
 "country": "",
 "emails": [
 "vacancy@north-alliance.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-03",
+"last": "2026-11-04",
 "links": {},
 "name": "",
-"off": 6,
+"off": 8,
 "offshore_hint": false,
 "phones": [],
 "so": 0,
@@ -37884,7 +37884,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 13,
+"total": 20,
 "vessels": [
 "Offshore",
 "Passenger",
@@ -53494,7 +53494,7 @@
 "Offshore_Vacancies": 870,
 "OnlyOffshore": 38777,
 "OnlyYacht": 2311,
-"SM_job_center": 2467,
+"SM_job_center": 2468,
 "Sea_format": 12334,
 "TSMexp": 853,
 "Yacht_Vacancies": 286,
@@ -53518,7 +53518,7 @@
 "marineman_ltd": 48297,
 "maritimeforum": 254606,
 "merchantNavyrealjob": 262,
-"morehod_ru": 30711,
+"morehod_ru": 30712,
 "oceancrewjobs": 32662,
 "offshoreatsea": 24905,
 "offshorecv": 1570,
@@ -53526,10 +53526,10 @@
 "oilrigs": 778,
 "olive_crew": 2890,
 "onboard_su": 20676,
-"rekamore_su": 164176,
+"rekamore_su": 164185,
 "roster_marine": 1729,
 "seajobfinder": 42156,
-"seamenjob": 106068,
+"seamenjob": 106070,
 "seamenvacancy": 1371,
 "seavacancies": 25162,
 "shipjobsindia": 420,
