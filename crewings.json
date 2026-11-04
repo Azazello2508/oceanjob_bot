@@ -1020,27 +1020,28 @@
 "aavishka.com": {
 "address": "U/N. B-102,1st Floor, Crystal Plaza, New Link Road,Opp.Infinity Mall,Lokhandwala",
 "city": "Mumbai",
-"co": 0,
+"co": 1,
 "country": "India",
 "emails": [
 "jobs@aavishka.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-03",
+"last": "2026-11-04",
 "links": {
 "crewell": "https://crewell.net/en/companies/89488/"
 },
 "name": "AAVISHKA SHIPPING PVT LTD.",
-"off": 2,
+"off": 3,
 "offshore_hint": false,
 "phones": [],
-"so": 0,
+"so": 1,
 "sources": [
 "@Sea_format",
+"@cvsenderseaman",
 "crewell.net"
 ],
 "telegram": [],
-"total": 2,
+"total": 3,
 "vessels": [
 "Offshore"
 ],
@@ -4980,14 +4981,14 @@
 "aquamarine-crew.com": {
 "address": "Polskyi descent 11",
 "city": "Odessa",
-"co": 21,
+"co": 23,
 "country": "Ukraine",
 "emails": [
 "application@aquamarine-crew.com",
 "application@aquamarine-shipping.ae"
 ],
 "first": "2026-11-03",
-"last": "2026-11-03",
+"last": "2026-11-04",
 "links": {
 "crewell": "https://crewell.net/en/companies/161628/",
 "ukrcrewing": "https://ukrcrewing.com.ua/en/agency/aquamarine_odessa"
@@ -5000,14 +5001,14 @@
 "+380989455106",
 "+923398101994"
 ],
-"so": 11,
+"so": 12,
 "sources": [
 "@crewingua",
 "crewell.net",
 "ukrcrewing.com.ua"
 ],
 "telegram": [],
-"total": 30,
+"total": 34,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -5534,14 +5535,14 @@
 "armada-holding.com": {
 "address": "60D French Boulevard, Odessa, Ukraine",
 "city": "Odessa",
-"co": 4,
+"co": 6,
 "country": "Ukraine",
 "emails": [
 "crew@armada-holding.com",
 "gm@armada-holding.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-03",
+"last": "2026-11-04",
 "links": {
 "crewell": "https://crewell.net/en/companies/251882/",
 "ukrcrewing": "https://ukrcrewing.com.ua/en/agency/armadaholding"
@@ -5566,7 +5567,7 @@
 "ukrcrewing.com.ua"
 ],
 "telegram": [],
-"total": 23,
+"total": 25,
 "vessels": [
 "Bulk",
 "Container",
@@ -6870,7 +6871,7 @@
 "last": "2026-11-04",
 "links": {},
 "name": "Area Mauritania Offshore Marine",
-"off": 33,
+"off": 35,
 "offshore_hint": false,
 "phones": [
 "+380487774163",
@@ -6892,7 +6893,7 @@
 "@truemalina_offshore"
 ],
 "telegram": [],
-"total": 38,
+"total": 40,
 "vessels": [
 "Dredger",
 "Offshore",
@@ -7431,7 +7432,7 @@
 "cv.riga@baltic-crew.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-03",
+"last": "2026-11-04",
 "links": {},
 "name": "",
 "off": 0,
@@ -7439,10 +7440,11 @@
 "phones": [],
 "so": 0,
 "sources": [
+"@cvsenderseaman",
 "@maritimeforum"
 ],
 "telegram": [],
-"total": 1,
+"total": 2,
 "vessels": [
 "Chemical",
 "Tanker"
@@ -8698,7 +8700,7 @@
 "bsc-spb.com": {
 "address": "2 Liter-D, Vidanvskaya street",
 "city": "Saint-Petersburg",
-"co": 3,
+"co": 7,
 "country": "Russia",
 "emails": [
 "cd@bsc-spb.com",
@@ -8710,7 +8712,7 @@
 "crewell": "https://crewell.net/en/companies/48029/"
 },
 "name": "CHINA at New Times Shipbuilding Co Ltd",
-"off": 7,
+"off": 11,
 "offshore_hint": false,
 "phones": [],
 "so": 4,
@@ -8720,7 +8722,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 11,
+"total": 15,
 "vessels": [
 "Bulk",
 "LPG/LNG",
@@ -8733,13 +8735,13 @@
 "bsklogistic.ru": {
 "address": "",
 "city": "",
-"co": 5,
+"co": 6,
 "country": "",
 "emails": [
 "kadry@bsklogistic.ru"
 ],
 "first": "2026-11-03",
-"last": "2026-11-03",
+"last": "2026-11-04",
 "links": {},
 "name": "ООО «Борская судоходная компания»",
 "off": 0,
@@ -8753,7 +8755,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 6,
+"total": 7,
 "vessels": [],
 "website": ""
 },
@@ -10796,7 +10798,7 @@
 "crewingservices.co.uk": {
 "address": "",
 "city": "",
-"co": 8,
+"co": 9,
 "country": "",
 "emails": [
 "shelly.mountain@crewingservices.co.uk"
@@ -10805,7 +10807,7 @@
 "last": "2026-11-04",
 "links": {},
 "name": "STCW SA",
-"off": 7,
+"off": 8,
 "offshore_hint": false,
 "phones": [],
 "so": 0,
@@ -10813,6 +10815,7 @@
 "@CREW_ARIA",
 "@Offshore_Vacancies",
 "@OnlyOffshore",
+"@cvsenderseaman",
 "@help_seafarers",
 "@marinejobs",
 "@maritimeforum",
@@ -10822,7 +10825,7 @@
 "@shipscreweu"
 ],
 "telegram": [],
-"total": 22,
+"total": 23,
 "vessels": [
 "Offshore"
 ],
@@ -11371,7 +11374,7 @@
 "crewing@cymare.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-03",
+"last": "2026-11-04",
 "links": {
 "crewell": "https://crewell.net/en/companies/91169/"
 },
@@ -11388,11 +11391,12 @@
 "@CREW_ARIA",
 "@OffshoreFleetJob",
 "@Offshore_Vacancies",
+"@cvsenderseaman",
 "@maritimeforum",
 "crewell.net"
 ],
 "telegram": [],
-"total": 12,
+"total": 13,
 "vessels": [
 "Chemical",
 "Dredger",
@@ -11840,13 +11844,13 @@
 "dept.crew@gmail.com": {
 "address": "",
 "city": "",
-"co": 0,
+"co": 1,
 "country": "",
 "emails": [
 "dept.crew@gmail.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-03",
+"last": "2026-11-04",
 "links": {},
 "name": "",
 "off": 0,
@@ -11859,7 +11863,7 @@
 "@crewingua"
 ],
 "telegram": [],
-"total": 16,
+"total": 17,
 "vessels": [
 "Bulk",
 "General cargo"
@@ -13953,6 +13957,32 @@
 "vessels": [
 "General cargo",
 "Tanker"
+],
+"website": ""
+},
+"fortisengineering.net": {
+"address": "",
+"city": "",
+"co": 0,
+"country": "",
+"emails": [
+"admin@fortisengineering.net"
+],
+"first": "2026-11-04",
+"last": "2026-11-04",
+"links": {},
+"name": "",
+"off": 1,
+"offshore_hint": false,
+"phones": [],
+"so": 0,
+"sources": [
+"@seamenjob"
+],
+"telegram": [],
+"total": 1,
+"vessels": [
+"Offshore"
 ],
 "website": ""
 },
@@ -16909,7 +16939,7 @@
 "application@intercrewing.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-03",
+"last": "2026-11-04",
 "links": {
 "crewell": "https://crewell.net/en/companies/27862/"
 },
@@ -16930,7 +16960,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 12,
+"total": 13,
 "vessels": [
 "Bulk",
 "General cargo",
@@ -18251,11 +18281,13 @@
 "ketrinshipping.com": {
 "address": "Rudera Boskovica 7",
 "city": "SPLIT",
-"co": 0,
+"co": 1,
 "country": "Croatia",
-"emails": [],
+"emails": [
+"crew@ketrinshipping.com"
+],
 "first": "2026-11-03",
-"last": "",
+"last": "2026-11-04",
 "links": {
 "crewell": "https://crewell.net/en/companies/289900/"
 },
@@ -18265,11 +18297,14 @@
 "phones": [],
 "so": 0,
 "sources": [
+"@cvsenderseaman",
 "crewell.net"
 ],
 "telegram": [],
-"total": 0,
-"vessels": [],
+"total": 1,
+"vessels": [
+"LPG/LNG"
+],
 "website": "ketrinshipping.com"
 },
 "keylines.co.in": {
@@ -19480,7 +19515,7 @@
 "crewing@libra.od.ua"
 ],
 "first": "2026-11-03",
-"last": "2026-11-03",
+"last": "2026-11-04",
 "links": {},
 "name": "",
 "off": 0,
@@ -19491,10 +19526,11 @@
 "so": 0,
 "sources": [
 "@SM_job_center",
+"@cvsenderseaman",
 "@job_for_seaman"
 ],
 "telegram": [],
-"total": 3,
+"total": 4,
 "vessels": [
 "Bulk"
 ],
@@ -20449,7 +20485,7 @@
 "o.kotoban@marineman.eu"
 ],
 "first": "2026-11-03",
-"last": "2026-11-03",
+"last": "2026-11-04",
 "links": {},
 "name": "Why Marine",
 "off": 0,
@@ -20475,7 +20511,7 @@
 "@marinemanapply",
 "@rudomyotova"
 ],
-"total": 73,
+"total": 74,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -36892,7 +36928,7 @@
 "valerii.shendryk@navilands.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-03",
+"last": "2026-11-04",
 "links": {
 "crewell": "https://crewell.net/en/companies/377856/"
 },
@@ -36903,11 +36939,12 @@
 "so": 0,
 "sources": [
 "@SM_job_center",
+"@cvsenderseaman",
 "@maritimeforum",
 "crewell.net"
 ],
 "telegram": [],
-"total": 4,
+"total": 5,
 "vessels": [
 "Bulk",
 "Container"
@@ -36954,7 +36991,7 @@
 "g.mpoikos@ipspowerfulpeople.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-03",
+"last": "2026-11-04",
 "links": {
 "crewell": "https://crewell.net/en/companies/58901/"
 },
@@ -36983,7 +37020,7 @@
 "@shipscreweu"
 ],
 "telegram": [],
-"total": 59,
+"total": 60,
 "vessels": [
 "Container",
 "Dredger",
@@ -39174,7 +39211,7 @@
 "info@orions-group.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-03",
+"last": "2026-11-04",
 "links": {
 "crewell": "https://crewell.net/en/companies/290552/"
 },
@@ -39188,8 +39225,9 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 1,
+"total": 2,
 "vessels": [
+"LPG/LNG",
 "Tanker"
 ],
 "website": "orions-group.com"
@@ -39287,7 +39325,7 @@
 "olena.kurinaki@osmthome.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-03",
+"last": "2026-11-04",
 "links": {
 "crewell": "https://crewell.net/en/companies/65957/"
 },
@@ -39300,6 +39338,7 @@
 "so": 1,
 "sources": [
 "@SM_job_center",
+"@cvsenderseaman",
 "@help_seafarers",
 "@job_for_seaman",
 "@offshoreatsea",
@@ -39309,8 +39348,9 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 23,
+"total": 24,
 "vessels": [
+"LPG/LNG",
 "Offshore",
 "Ro-Ro/PCTC"
 ],
@@ -40351,7 +40391,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 6,
+"total": 7,
 "vessels": [
 "General cargo"
 ],
@@ -41014,7 +41054,7 @@
 "crew@raymarinecrewing.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-03",
+"last": "2026-11-04",
 "links": {
 "crewell": "https://crewell.net/en/companies/374687/"
 },
@@ -41040,7 +41080,7 @@
 "@DaniilPRayMarine",
 "@anastasiaChRayMarine"
 ],
-"total": 124,
+"total": 125,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -41447,18 +41487,19 @@
 "ne_alikova@rnf.rosneft.ru"
 ],
 "first": "2026-11-03",
-"last": "2026-11-03",
+"last": "2026-11-04",
 "links": {},
 "name": "АО «Роснефтефлот»",
-"off": 1,
+"off": 3,
 "offshore_hint": false,
 "phones": [],
 "so": 0,
 "sources": [
-"@morehod_ru"
+"@morehod_ru",
+"@rekamore_su"
 ],
 "telegram": [],
-"total": 1,
+"total": 3,
 "vessels": [
 "Offshore"
 ],
@@ -41705,7 +41746,7 @@
 "rp-shipping@yandex.ru"
 ],
 "first": "2026-11-03",
-"last": "2026-11-03",
+"last": "2026-11-04",
 "links": {},
 "name": "",
 "off": 0,
@@ -41716,7 +41757,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 6,
+"total": 8,
 "vessels": [
 "Tanker"
 ],
@@ -41731,7 +41772,7 @@
 "crewing@rpk-kola.ru"
 ],
 "first": "2026-11-03",
-"last": "2026-11-03",
+"last": "2026-11-04",
 "links": {},
 "name": "ООО «РПК «КОЛА»",
 "off": 0,
@@ -41745,7 +41786,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 2,
+"total": 3,
 "vessels": [
 "Tanker"
 ],
@@ -43897,7 +43938,7 @@
 "recruitment@seaway-international.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-03",
+"last": "2026-11-04",
 "links": {
 "crewell": "https://crewell.net/en/companies/246153/"
 },
@@ -43911,10 +43952,11 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 3,
+"total": 4,
 "vessels": [
 "LPG/LNG",
-"Passenger"
+"Passenger",
+"Tanker"
 ],
 "website": "seaway.ro"
 },
@@ -47229,12 +47271,12 @@
 "career@orca-crew.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-03",
+"last": "2026-11-04",
 "links": {
 "crewell": "https://crewell.net/en/companies/194804/"
 },
 "name": "Transport & Offshore Services Ukraine",
-"off": 80,
+"off": 81,
 "offshore_hint": false,
 "phones": [
 "+380672802995"
@@ -47255,7 +47297,7 @@
 "@offshorecv"
 ],
 "telegram": [],
-"total": 97,
+"total": 98,
 "vessels": [
 "Bulk",
 "Container",
@@ -49592,7 +49634,7 @@
 "tturygina@vodohod.ru"
 ],
 "first": "2026-11-03",
-"last": "2026-11-03",
+"last": "2026-11-04",
 "links": {},
 "name": "ООО «ВодоходЪ»",
 "off": 0,
@@ -49603,7 +49645,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 12,
+"total": 18,
 "vessels": [],
 "website": ""
 },
@@ -51202,7 +51244,7 @@
 "telegram": [
 "@ycrewing"
 ],
-"total": 59,
+"total": 60,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -53493,39 +53535,39 @@
 "tg_hw": {
 "ALPHACREW": 3565,
 "BSMCSCUKRAINE": 4306,
-"CREW_ARIA": 13952,
+"CREW_ARIA": 13953,
 "Crew_Radar": 3140,
 "JobForMariners": 1198,
-"Merchant_Fleet": 586,
+"Merchant_Fleet": 587,
 "OffshoreFleetJob": 11056,
-"Offshore_Vacancies": 870,
+"Offshore_Vacancies": 871,
 "OnlyOffshore": 38777,
 "OnlyYacht": 2311,
 "SM_job_center": 2468,
 "Sea_format": 12334,
 "TSMexp": 853,
-"Yacht_Vacancies": 286,
+"Yacht_Vacancies": 287,
 "allcrewing": 3805,
 "andreeyVstart": 1378,
-"balticcareer": 5300,
-"crewingua": 44721,
+"balticcareer": 5301,
+"crewingua": 44726,
 "crs_vacancies": 3547,
 "cruiseshipjobs": 3,
-"cvsenderseaman": 15246,
+"cvsenderseaman": 15265,
 "findseajobs": 32567,
 "galaxymaritimeua": 1249,
 "gm_seaman_cv": 2662,
 "help_seafarers": 4884,
 "ismira_agency": 439,
-"job_for_seaman": 16986,
+"job_for_seaman": 16987,
 "jobfor_seamen": 12640,
 "marinecareerorg": 17752,
-"marinejobs": 43009,
+"marinejobs": 43010,
 "marinejobz": 194156,
 "marineman_ltd": 48297,
 "maritimeforum": 254606,
 "merchantNavyrealjob": 262,
-"morehod_ru": 30712,
+"morehod_ru": 30715,
 "oceancrewjobs": 32665,
 "offshoreatsea": 24905,
 "offshorecv": 1570,
@@ -53533,10 +53575,10 @@
 "oilrigs": 778,
 "olive_crew": 2890,
 "onboard_su": 20676,
-"rekamore_su": 164222,
+"rekamore_su": 164238,
 "roster_marine": 1729,
 "seajobfinder": 42156,
-"seamenjob": 106072,
+"seamenjob": 106073,
 "seamenvacancy": 1371,
 "seavacancies": 25163,
 "shipjobsindia": 420,
