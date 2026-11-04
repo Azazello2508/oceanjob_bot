@@ -4922,28 +4922,88 @@
 "repeat": false,
 "time": "2026-11-04T17:40:00.410057+00:00",
 "junior_dp": false
+},
+{
+"title": "MULTIPLE MARITIME & OFFSHORE VACANCIES",
+"url": "https://t.me/offshorecv/1573",
+"source": "Telegram: @offshorecv",
+"found": [
+"chief mate"
+],
+"fp": "fp-067f0895a3de17b5",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo",
+"contract": "Temporary",
+"email": "career@orca-crew.com",
+"company": "orca-crew.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-04T19:00:19+00:00",
+"junior_dp": false
+},
+{
+"title": "Seven Seas Recruitment is currently recruiting for the following position:",
+"url": "https://t.me/OnlyYacht/2312",
+"source": "Telegram: @OnlyYacht",
+"found": [
+"second officer"
+],
+"fp": "fp-c1458e117e837600",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"salary": "Strong Salary on Offer (in EUR…",
+"contract": "AL SECOND OFFICER for an"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-04T19:04:33+00:00",
+"junior_dp": false
+},
+{
+"title": "Position publishing service was stopped for the night.",
+"url": "https://t.me/marinecareerorg/17753",
+"source": "Telegram: @marinecareerorg",
+"found": [
+"chief officer",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-5c452f1ad410319d",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer",
+"vessel": "LPG, Product tanker"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-04T19:00:57+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-2212,
-2213,
-2214,
-2215,
-2216,
-2217,
-2218,
-2219,
-2220,
-2221,
-2222,
-2223,
-2224,
-2225,
-2226,
-2227,
-2228
+2229,
+2230,
+2231,
+2232,
+2233,
+2234,
+2235,
+2236,
+2237,
+2238,
+2239,
+2240,
+2241,
+2242,
+2243,
+2244,
+2245
 ],
-"last_list": "2026-11-04T18:31:52.530818+00:00",
-"cleared_upto": 2211,
-"last_msg_id": 2228
+"last_list": "2026-11-04T19:22:04.652664+00:00",
+"cleared_upto": 2228,
+"last_msg_id": 2245
 }

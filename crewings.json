@@ -39534,7 +39534,7 @@
 "orca-crew.com": {
 "address": "Stefan Mihaileanu",
 "city": "Constanta",
-"co": 18,
+"co": 19,
 "country": "Romania",
 "emails": [
 "career@orca-crew.com",
@@ -39552,7 +39552,7 @@
 "crewell": "https://crewell.net/en/companies/168202/"
 },
 "name": "ORCA Crew Services",
-"off": 73,
+"off": 74,
 "offshore_hint": false,
 "phones": [
 "+38551336497"
@@ -39573,7 +39573,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 85,
+"total": 86,
 "vessels": [
 "Dredger",
 "General cargo",
@@ -44739,7 +44739,7 @@
 "off": 1,
 "offshore_hint": false,
 "phones": [],
-"so": 2,
+"so": 3,
 "sources": [
 "@CREW_ARIA",
 "@OnlyYacht",
@@ -44748,7 +44748,7 @@
 "@shipscreweu"
 ],
 "telegram": [],
-"total": 45,
+"total": 46,
 "vessels": [
 "Offshore"
 ],
@@ -51885,10 +51885,10 @@
 "hannah@yoacrew.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-03",
+"last": "2026-11-04",
 "links": {},
 "name": "",
-"off": 5,
+"off": 6,
 "offshore_hint": false,
 "phones": [],
 "so": 3,
@@ -51897,7 +51897,7 @@
 "@Yacht_Vacancies"
 ],
 "telegram": [],
-"total": 48,
+"total": 49,
 "vessels": [
 "Chemical",
 "Offshore",
@@ -54106,8 +54106,8 @@
 "OffshoreFleetJob": 11059,
 "Offshore_Vacancies": 876,
 "OnlyOffshore": 38816,
-"OnlyYacht": 2311,
-"SM_job_center": 2470,
+"OnlyYacht": 2313,
+"SM_job_center": 2471,
 "Sea_format": 12334,
 "TSMexp": 854,
 "Yacht_Vacancies": 290,
@@ -54125,7 +54125,7 @@
 "ismira_agency": 439,
 "job_for_seaman": 16994,
 "jobfor_seamen": 12649,
-"marinecareerorg": 17752,
+"marinecareerorg": 17753,
 "marinejobs": 43057,
 "marinejobz": 194156,
 "marineman_ltd": 48305,
@@ -54134,7 +54134,7 @@
 "morehod_ru": 30749,
 "oceancrewjobs": 32677,
 "offshoreatsea": 24959,
-"offshorecv": 1572,
+"offshorecv": 1573,
 "offshorevacancies": 47079,
 "oilrigs": 778,
 "olive_crew": 2894,
@@ -54148,7 +54148,7 @@
 "shipjobsindia": 420,
 "shipscreweu": 16555,
 "sidantey": 399,
-"supermariner_ua": 3871,
+"supermariner_ua": 3872,
 "truemalina_offshore": 788,
 "ukrcrewing_official": 2374,
 "univis_crewing": 4998,
