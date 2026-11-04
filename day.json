@@ -2410,26 +2410,187 @@
 "repeat": false,
 "time": "2026-11-04T09:42:59+00:00",
 "junior_dp": false
+},
+{
+"title": "Chief Officer",
+"url": "https://seajobs.ru/ru/vacancy/17974/chief-officer-bulk-carrier",
+"source": "seajobs.ru",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Bulk carrier"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-04T10:52:22.711321+00:00",
+"junior_dp": false
+},
+{
+"title": "На приёмку новых судов проекта RSD 59, DWT 8144",
+"url": "https://t.me/onboard_su/20678",
+"source": "Telegram: @onboard_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-9dd5f645c16dcc7b",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"contract": "4+-1. Оплата проезда. Вак",
+"salary": "224 000 ₽",
+"email": "cv@crewmontenegro.com",
+"company": "crewmontenegro.com"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-04T10:01:46+00:00",
+"junior_dp": false
+},
+{
+"title": "Tanker Crew Needed — Ukrainian Nationals Only",
+"url": "https://t.me/marinejobs/43024",
+"source": "Telegram: @marinejobs",
+"found": [
+"chief officer"
+],
+"fp": "fp-b83d021445ba8e0f",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Crude oil tanker",
+"joining": "BSM Crewing Service Centre Ukr",
+"contract": "3rd Officer — 5-month c",
+"email": "ua-csc-ode-man@bs-shipmanagement.com",
+"company": "bs-shipmanagement.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-04T10:41:01+00:00",
+"junior_dp": false
+},
+{
+"title": "High-Paying Jobs",
+"url": "https://t.me/ukrcrewing_official/2373",
+"source": "Telegram: @ukrcrewing_official",
+"found": [
+"chief officer",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-66097b00dad50782",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer",
+"vessel": "LPG, LNG",
+"salary": "18500 $"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-04T10:05:06+00:00",
+"junior_dp": false
+},
+{
+"title": "Chief Officer",
+"url": "https://t.me/offshoreatsea/24936",
+"source": "Telegram: @offshoreatsea",
+"found": [
+"chief officer"
+],
+"fp": "fp-01fab15353ef851a",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "PSV, AHTS",
+"salary": "To be discussed during the int…",
+"joining": "subject to issuance of ARAMCO",
+"contract": "90 days on / 60 days off",
+"email": "jobs@aavishka.com",
+"company": "aavishka.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-04T10:44:52+00:00",
+"junior_dp": false
+},
+{
+"title": "Positions onboard Bulk Carrier Vessel",
+"url": "https://t.me/oceancrewjobs/32672",
+"source": "Telegram: @oceancrewjobs",
+"found": [
+"chief officer"
+],
+"fp": "fp-0237a806311ed91f",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Bulk carrier",
+"company": "https://oceancrew.org/vacancies/mer…"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-04T10:13:32+00:00",
+"junior_dp": false
+},
+{
+"title": "Crew for LCT Vessel",
+"url": "https://t.me/oceancrewjobs/32673",
+"source": "Telegram: @oceancrewjobs",
+"found": [
+"chief officer"
+],
+"fp": "fp-f0fafa474f95b886",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"company": "Crew for LCT Vessel"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-04T10:13:51+00:00",
+"junior_dp": false
+},
+{
+"title": "Crew onboard LPG / LNG Tanker Vessels",
+"url": "https://t.me/oceancrewjobs/32674",
+"source": "Telegram: @oceancrewjobs",
+"found": [
+"chief officer",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-839a032ff4f688f8",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer",
+"vessel": "LPG, LNG",
+"company": "Crew onboard LPG / LNG Tanker Vesse…"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-04T10:14:16+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-2067,
-2068,
-2069,
-2070,
-2071,
-2072,
-2073,
-2074,
-2075,
-2076,
-2077,
-2078,
-2079,
-2080,
-2081
+2082,
+2083,
+2084,
+2085,
+2086,
+2087,
+2088,
+2089,
+2090,
+2091,
+2092,
+2093,
+2094,
+2095,
+2096
 ],
-"last_list": "2026-11-04T10:02:55.254395+00:00",
-"cleared_upto": 2066,
-"last_msg_id": 2081
+"last_list": "2026-11-04T10:53:29.279203+00:00",
+"cleared_upto": 2081,
+"last_msg_id": 2096
 }
