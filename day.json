@@ -255,18 +255,107 @@
 "repeat": false,
 "time": "2026-11-04T01:50:42+00:00",
 "junior_dp": false
+},
+{
+"title": "Компания ООО “Угольный морской порт Шахтерск” (Сахалин) приглашает на работу:",
+"url": "https://t.me/rekamore_su/164168",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-f4224da3e215ca7d",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo, Tug",
+"salary": "322 000 рублей (на руки)",
+"joining": "02 декабря",
+"email": "Sidorenkotv@eastmining.ru",
+"company": "eastmining.ru"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-04T04:17:04+00:00",
+"junior_dp": false
+},
+{
+"title": "Компания ООО \"СК \"АСТРОЛ\" приглашает на работу:",
+"url": "https://t.me/rekamore_su/164170",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-ffa44d609bd2a117",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo",
+"salary": "352 000 рублей (на руки) + доп…",
+"joining": "в Санкт-Петербурге",
+"email": "personal@sc-astrol.ru",
+"company": "sc-astrol.ru"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-04T04:30:05+00:00",
+"junior_dp": false
+},
+{
+"title": "Компания ООО \"БСК\" приглашает на работу:",
+"url": "https://t.me/rekamore_su/164171",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-1fa811d8dca6cfb2",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo",
+"salary": "297 000 рублей (на руки) + доп…",
+"joining": "СРОЧНАЯ",
+"contract": "4 месяца",
+"email": "personal@sc-astrol.ru",
+"company": "sc-astrol.ru"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-04T04:30:08+00:00",
+"junior_dp": false
+},
+{
+"title": "Компания ООО \"Белозерское пароходство\" приглашает на работу:",
+"url": "https://t.me/rekamore_su/164173",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-2d9cf4dc561105b4",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Tug",
+"email": "k.vasileva@karelkamen.ru",
+"company": "karelkamen.ru"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-04T04:32:03+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-1990,
-1991,
-1992,
-1993,
-1994,
-1995,
-1996
+1997,
+1998,
+1999,
+2000,
+2001,
+2002,
+2003,
+2004,
+2005
 ],
-"last_list": "2026-11-04T02:06:45.129158+00:00",
-"cleared_upto": 1989,
-"last_msg_id": 1996
+"last_list": "2026-11-04T04:35:19.953959+00:00",
+"cleared_upto": 1996,
+"last_msg_id": 2005
 }

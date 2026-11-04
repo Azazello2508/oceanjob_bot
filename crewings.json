@@ -12550,14 +12550,14 @@
 "eastmining.ru": {
 "address": "",
 "city": "",
-"co": 2,
+"co": 3,
 "country": "",
 "emails": [
 "khusainovanv@eastmining.ru",
 "sidorenkotv@eastmining.ru"
 ],
 "first": "2026-11-03",
-"last": "2026-11-03",
+"last": "2026-11-04",
 "links": {},
 "name": "ООО “Угольный морской порт Шахтерск”",
 "off": 0,
@@ -12571,7 +12571,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 2,
+"total": 3,
 "vessels": [
 "General cargo",
 "Tug"
@@ -18173,14 +18173,14 @@
 "karelkamen.ru": {
 "address": "",
 "city": "",
-"co": 3,
+"co": 4,
 "country": "",
 "emails": [
 "a.hlyst@karelkamen.ru",
 "k.vasileva@karelkamen.ru"
 ],
 "first": "2026-11-03",
-"last": "2026-11-03",
+"last": "2026-11-04",
 "links": {},
 "name": "ООО \"Белозерское пароходство\"",
 "off": 0,
@@ -18192,7 +18192,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 9,
+"total": 12,
 "vessels": [
 "Tug"
 ],
@@ -22351,7 +22351,7 @@
 "kuznetsova@midvolga.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-03",
+"last": "2026-11-04",
 "links": {},
 "name": "",
 "off": 0,
@@ -22363,7 +22363,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 2,
+"total": 3,
 "vessels": [
 "General cargo",
 "Tanker"
@@ -35867,7 +35867,7 @@
 "ok_flot@mail.ru"
 ],
 "first": "2026-11-03",
-"last": "2026-11-03",
+"last": "2026-11-04",
 "links": {},
 "name": "ООО \"СК ТРАНСФЛОТ\"",
 "off": 0,
@@ -35879,7 +35879,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 3,
+"total": 4,
 "vessels": [],
 "website": ""
 },
@@ -41467,7 +41467,7 @@
 "n.gunchenko@fersol.pro"
 ],
 "first": "2026-11-03",
-"last": "2026-11-03",
+"last": "2026-11-04",
 "links": {},
 "name": "ООО \"Роктри ВГК Стивидор\"",
 "off": 0,
@@ -41479,7 +41479,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 6,
+"total": 8,
 "vessels": [
 "Bulk"
 ],
@@ -42445,13 +42445,13 @@
 "sc-astrol.ru": {
 "address": "",
 "city": "",
-"co": 8,
+"co": 10,
 "country": "",
 "emails": [
 "personal@sc-astrol.ru"
 ],
 "first": "2026-11-03",
-"last": "2026-11-03",
+"last": "2026-11-04",
 "links": {},
 "name": "ООО \"СК \"",
 "off": 0,
@@ -42463,7 +42463,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 10,
+"total": 13,
 "vessels": [
 "General cargo",
 "Tanker"
@@ -53526,7 +53526,7 @@
 "oilrigs": 778,
 "olive_crew": 2890,
 "onboard_su": 20676,
-"rekamore_su": 164164,
+"rekamore_su": 164176,
 "roster_marine": 1729,
 "seajobfinder": 42156,
 "seamenjob": 106068,
@@ -53535,7 +53535,7 @@
 "shipjobsindia": 420,
 "shipscreweu": 16544,
 "sidantey": 399,
-"supermariner_ua": 3868,
+"supermariner_ua": 3869,
 "truemalina_offshore": 784,
 "ukrcrewing_official": 2372,
 "univis_crewing": 4997,
