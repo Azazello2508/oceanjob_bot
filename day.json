@@ -4812,28 +4812,88 @@
 "repeat": false,
 "time": "2026-11-04T16:03:02+00:00",
 "junior_dp": false
+},
+{
+"title": "Chief Officer on AHTS DP2",
+"url": "https://crewell.net/en/vacancies/464770/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "AHTS"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-04T17:09:21.953663+00:00",
+"junior_dp": false
+},
+{
+"title": "Today’s open vacancies through ORCA Crew Services:",
+"url": "https://t.me/seajobfinder/42195",
+"source": "Telegram: @seajobfinder",
+"found": [
+"chief mate"
+],
+"fp": "fp-609c2725560b155e",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo",
+"contract": "4 weeks",
+"email": "career@orca-crew.com",
+"company": "orca-crew.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-04T16:23:27+00:00",
+"junior_dp": false
+},
+{
+"title": "Hiring Chief Officer SDPO + PSV DP2",
+"url": "https://t.me/marinejobs/43056",
+"source": "Telegram: @marinejobs",
+"found": [
+"chief officer",
+"sdpo",
+"dpo"
+],
+"fp": "fp-0df78c108b22d574",
+"offshore": true,
+"info": {
+"rank": "Chief Officer / SDPO",
+"vessel": "PSV",
+"contract": "8 weeks on / 8 weeks off",
+"email": "n.kudaeiva@tospeople.com",
+"company": "tospeople.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-04T16:37:09+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-2178,
-2179,
-2180,
-2181,
-2182,
-2183,
-2184,
-2185,
-2186,
-2187,
-2188,
-2189,
-2190,
-2191,
-2192,
-2193,
-2194
+2195,
+2196,
+2197,
+2198,
+2199,
+2200,
+2201,
+2202,
+2203,
+2204,
+2205,
+2206,
+2207,
+2208,
+2209,
+2210,
+2211
 ],
-"last_list": "2026-11-04T16:21:11.282839+00:00",
-"cleared_upto": 2177,
-"last_msg_id": 2194
+"last_list": "2026-11-04T17:11:14.179264+00:00",
+"cleared_upto": 2194,
+"last_msg_id": 2211
 }

@@ -10893,7 +10893,7 @@
 "@shipscreweu"
 ],
 "telegram": [],
-"total": 28,
+"total": 34,
 "vessels": [
 "Offshore"
 ],
@@ -14032,16 +14032,17 @@
 "last": "2026-11-04",
 "links": {},
 "name": "",
-"off": 5,
+"off": 7,
 "offshore_hint": false,
 "phones": [],
 "so": 0,
 "sources": [
 "@OnlyOffshore",
+"@offshoreatsea",
 "@seajobfinder"
 ],
 "telegram": [],
-"total": 5,
+"total": 7,
 "vessels": [
 "Offshore"
 ],
@@ -39528,7 +39529,7 @@
 "orca-crew.com": {
 "address": "Stefan Mihaileanu",
 "city": "Constanta",
-"co": 16,
+"co": 18,
 "country": "Romania",
 "emails": [
 "career@orca-crew.com",
@@ -39546,7 +39547,7 @@
 "crewell": "https://crewell.net/en/companies/168202/"
 },
 "name": "ORCA Crew Services",
-"off": 69,
+"off": 73,
 "offshore_hint": false,
 "phones": [
 "+38551336497"
@@ -39567,7 +39568,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 79,
+"total": 85,
 "vessels": [
 "Dredger",
 "General cargo",
@@ -42193,7 +42194,7 @@
 "@maritimeforum"
 ],
 "telegram": [],
-"total": 24,
+"total": 25,
 "vessels": [
 "LPG/LNG",
 "Tanker"
@@ -44582,7 +44583,7 @@
 "crewell": "https://crewell.net/en/companies/64960/"
 },
 "name": "Advance Global Recruitment Ltd",
-"off": 222,
+"off": 227,
 "offshore_hint": false,
 "phones": [],
 "so": 12,
@@ -44601,7 +44602,7 @@
 "@offshoreatsea"
 ],
 "telegram": [],
-"total": 223,
+"total": 228,
 "vessels": [
 "Dredger",
 "General cargo",
@@ -47764,7 +47765,7 @@
 "tospeople.com": {
 "address": "33 B, SHEVCHENKO AVE., OFF, 6, ODESSA, UA",
 "city": "ODESSA",
-"co": 29,
+"co": 32,
 "country": "Ukraine",
 "emails": [
 "a.gulabyan@tospeople.com",
@@ -47782,7 +47783,7 @@
 "crewell": "https://crewell.net/en/companies/194804/"
 },
 "name": "Transport & Offshore Services Ukraine",
-"off": 91,
+"off": 95,
 "offshore_hint": false,
 "phones": [
 "+380672802995"
@@ -47803,7 +47804,7 @@
 "@offshorecv"
 ],
 "telegram": [],
-"total": 109,
+"total": 113,
 "vessels": [
 "Bulk",
 "Container",
@@ -51399,7 +51400,7 @@
 "crewell": "https://crewell.net/en/companies/54631/"
 },
 "name": "Worldwide Recruitment Solutions",
-"off": 66,
+"off": 68,
 "offshore_hint": false,
 "phones": [],
 "so": 13,
@@ -51418,7 +51419,7 @@
 "@offshorecv"
 ],
 "telegram": [],
-"total": 107,
+"total": 113,
 "vessels": [
 "Dredger",
 "Offshore",
@@ -54098,7 +54099,7 @@
 "Merchant_Fleet": 591,
 "OffshoreFleetJob": 11059,
 "Offshore_Vacancies": 876,
-"OnlyOffshore": 38803,
+"OnlyOffshore": 38815,
 "OnlyYacht": 2311,
 "SM_job_center": 2470,
 "Sea_format": 12334,
@@ -54119,22 +54120,22 @@
 "job_for_seaman": 16994,
 "jobfor_seamen": 12649,
 "marinecareerorg": 17752,
-"marinejobs": 43053,
+"marinejobs": 43056,
 "marinejobz": 194156,
 "marineman_ltd": 48305,
-"maritimeforum": 254887,
+"maritimeforum": 254894,
 "merchantNavyrealjob": 262,
 "morehod_ru": 30749,
 "oceancrewjobs": 32677,
-"offshoreatsea": 24956,
+"offshoreatsea": 24959,
 "offshorecv": 1572,
-"offshorevacancies": 47072,
+"offshorevacancies": 47074,
 "oilrigs": 778,
 "olive_crew": 2894,
 "onboard_su": 20679,
 "rekamore_su": 164269,
 "roster_marine": 1731,
-"seajobfinder": 42188,
+"seajobfinder": 42201,
 "seamenjob": 106086,
 "seamenvacancy": 1372,
 "seavacancies": 25166,
