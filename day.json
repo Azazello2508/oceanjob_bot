@@ -4459,28 +4459,85 @@
 "repeat": false,
 "time": "2026-11-04T14:03:02+00:00",
 "junior_dp": false
+},
+{
+"title": "2nd Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/368634",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-04T15:30:04.022554+00:00",
+"junior_dp": false
+},
+{
+"title": "Tankers. Job selection for 04/11/2026",
+"url": "https://t.me/SM_job_center/2470",
+"source": "Telegram: @SM_job_center",
+"found": [
+"chief officer"
+],
+"fp": "fp-7493bec1effe2e42",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "VLCC, Chemical tanker",
+"salary": "$11,400/month",
+"email": "forcv@eurocrew-ua.com",
+"company": "eurocrew-ua.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-04T15:05:05+00:00",
+"junior_dp": false
+},
+{
+"title": "Chief Officer / DPO — Research Support Vessel DP2",
+"url": "https://t.me/Crew_Radar/3143",
+"source": "Telegram: @Crew_Radar",
+"found": [
+"chief officer",
+"dpo"
+],
+"fp": "fp-c778b515d0572b6d",
+"offshore": true,
+"info": {
+"rank": "Chief Officer / DPO",
+"salary": "Not stated",
+"joining": "09.11.2026",
+"contract": "Not stated"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-04T15:04:27+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-2144,
-2145,
-2146,
-2147,
-2148,
-2149,
-2150,
-2151,
-2152,
-2153,
-2154,
-2155,
-2156,
-2157,
-2158,
-2159,
-2160
+2161,
+2162,
+2163,
+2164,
+2165,
+2166,
+2167,
+2168,
+2169,
+2170,
+2171,
+2172,
+2173,
+2174,
+2175,
+2176,
+2177
 ],
-"last_list": "2026-11-04T14:41:52.154454+00:00",
-"cleared_upto": 2143,
-"last_msg_id": 2160
+"last_list": "2026-11-04T15:31:34.778582+00:00",
+"cleared_upto": 2160,
+"last_msg_id": 2177
 }
