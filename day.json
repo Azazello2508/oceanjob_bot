@@ -4885,9 +4885,10 @@
 "vessel": "Chemical tanker",
 "company": "Master, Chief Engineer, Chief Offic…"
 },
-"new": true,
+"new": false,
 "repeat": false,
-"time": "2026-11-04T17:40:00.407285+00:00"
+"time": "2026-11-04T17:40:00.407285+00:00",
+"junior_dp": false
 },
 {
 "title": "Chief Officer Job - AHTS DP Vessel Oilcity Crew Jobs Centre Ltd",
@@ -4901,9 +4902,10 @@
 "vessel": "AHTS",
 "company": "Chief Officer Job - AHTS DP Vessel…"
 },
-"new": true,
+"new": false,
 "repeat": false,
-"time": "2026-11-04T17:40:00.409935+00:00"
+"time": "2026-11-04T17:40:00.409935+00:00",
+"junior_dp": false
 },
 {
 "title": "Chief Officer / Second Officer DPO Jobs on DP2 Vessels Aavishka Marine Services",
@@ -4916,31 +4918,32 @@
 "rank": "Chief Officer / 2nd Officer / DPO",
 "company": "Chief Officer / Second Officer DPO…"
 },
-"new": true,
+"new": false,
 "repeat": false,
-"time": "2026-11-04T17:40:00.410057+00:00"
+"time": "2026-11-04T17:40:00.410057+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-2195,
-2196,
-2197,
-2198,
-2199,
-2200,
-2201,
-2202,
-2203,
-2204,
-2205,
-2206,
-2207,
-2208,
-2209,
-2210,
-2211
+2212,
+2213,
+2214,
+2215,
+2216,
+2217,
+2218,
+2219,
+2220,
+2221,
+2222,
+2223,
+2224,
+2225,
+2226,
+2227,
+2228
 ],
-"last_list": "2026-11-04T17:11:14.179264+00:00",
-"cleared_upto": 2194,
-"last_msg_id": 2211
+"last_list": "2026-11-04T18:31:52.530818+00:00",
+"cleared_upto": 2211,
+"last_msg_id": 2228
 }
