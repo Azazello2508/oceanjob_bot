@@ -150,17 +150,123 @@
 "repeat": false,
 "time": "2026-11-04T00:42:49.291489+00:00",
 "junior_dp": false
+},
+{
+"title": "Chief Officer - MPV",
+"url": "https://t.me/seajobfinder/42153",
+"source": "Telegram: @seajobfinder",
+"found": [
+"chief officer"
+],
+"fp": "fp-3f73dbb4bd7a3073",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"email": "shelly.mountain@crewingservices.co.uk",
+"company": "crewingservices.co.uk"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-04T01:51:53+00:00",
+"junior_dp": false
+},
+{
+"title": "We are looking for a Chief Officer for research support vessel DP II",
+"url": "https://t.me/seajobfinder/42155",
+"source": "Telegram: @seajobfinder",
+"found": [
+"chief officer"
+],
+"fp": "fp-89ecdfbf89eb70e6",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"joining": "Brazil",
+"email": "YSykyrynska@atlasnextwave.com",
+"company": "atlasnextwave.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-04T01:52:54+00:00",
+"junior_dp": false
+},
+{
+"title": "Chief Officer",
+"url": "https://t.me/marinejobs/43006",
+"source": "Telegram: @marinejobs",
+"found": [
+"chief officer"
+],
+"fp": "fp-3fa8ad76e9254ac0",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"joining": "location",
+"email": "YSykyrynska@atlasnextwave.com",
+"company": "atlasnextwave.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-04T02:03:18+00:00",
+"junior_dp": false
+},
+{
+"title": "Deck Officer (2nd Mate) vacancy onboard Pipelay Barge (non-DP)",
+"url": "https://t.me/OnlyOffshore/38772",
+"source": "Telegram: @OnlyOffshore",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-c09fdf95a315d525",
+"offshore": true,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Barge",
+"salary": "information available at our o…",
+"contract": "35/35 rotations startin",
+"email": "bjangeer@mnrltd.com",
+"company": "mnrltd.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-04T01:50:27+00:00",
+"junior_dp": false
+},
+{
+"title": "Chief Mate vacancy onboard Pipelay Barge (non-DP)",
+"url": "https://t.me/OnlyOffshore/38773",
+"source": "Telegram: @OnlyOffshore",
+"found": [
+"chief officer",
+"chief mate"
+],
+"fp": "fp-34c5cbbed524f8c3",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "AHTS, Tug",
+"salary": "information available at our o…",
+"contract": "35/35 rotations startin",
+"email": "bjangeer@mnrltd.com",
+"company": "mnrltd.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-04T01:50:42+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-1984,
-1985,
-1986,
-1987,
-1988,
-1989
+1990,
+1991,
+1992,
+1993,
+1994,
+1995,
+1996
 ],
-"last_list": "2026-11-04T00:43:34.799433+00:00",
-"cleared_upto": 1983,
-"last_msg_id": 1989
+"last_list": "2026-11-04T02:06:45.129158+00:00",
+"cleared_upto": 1989,
+"last_msg_id": 1996
 }

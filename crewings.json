@@ -6854,7 +6854,7 @@
 "atlasnextwave.com": {
 "address": "",
 "city": "",
-"co": 1,
+"co": 4,
 "country": "",
 "emails": [
 "amcdonald@atlasnextwave.com",
@@ -6867,10 +6867,10 @@
 "hchen@atlasnextwave.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-03",
+"last": "2026-11-04",
 "links": {},
 "name": "Area Mauritania Offshore Marine",
-"off": 27,
+"off": 33,
 "offshore_hint": false,
 "phones": [
 "+380487774163",
@@ -6884,13 +6884,15 @@
 "@galaxymaritimeua",
 "@gm_seaman_cv",
 "@help_seafarers",
+"@marinejobs",
 "@offshoreatsea",
 "@offshorecv",
 "@roster_marine",
+"@seajobfinder",
 "@truemalina_offshore"
 ],
 "telegram": [],
-"total": 32,
+"total": 38,
 "vessels": [
 "Dredger",
 "Offshore",
@@ -10794,13 +10796,13 @@
 "crewingservices.co.uk": {
 "address": "",
 "city": "",
-"co": 6,
+"co": 8,
 "country": "",
 "emails": [
 "shelly.mountain@crewingservices.co.uk"
 ],
 "first": "2026-11-03",
-"last": "2026-11-03",
+"last": "2026-11-04",
 "links": {},
 "name": "STCW SA",
 "off": 7,
@@ -10820,7 +10822,7 @@
 "@shipscreweu"
 ],
 "telegram": [],
-"total": 17,
+"total": 22,
 "vessels": [
 "Offshore"
 ],
@@ -22605,7 +22607,7 @@
 "mnrltd.com": {
 "address": "The Port of Liverpool Building, Pier Head, Liverpool L3 1BY",
 "city": "Liverpool",
-"co": 0,
+"co": 1,
 "country": "United Kingdom",
 "emails": [
 "bjangeer@mnrltd.com",
@@ -22618,24 +22620,25 @@
 "max.os@worldwide-rs.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-03",
+"last": "2026-11-04",
 "links": {
 "crewell": "https://crewell.net/en/companies/179919/"
 },
 "name": "MNR Ltd",
-"off": 7,
+"off": 9,
 "offshore_hint": false,
 "phones": [],
-"so": 1,
+"so": 2,
 "sources": [
 "@Offshore_Vacancies",
+"@OnlyOffshore",
 "@gm_seaman_cv",
 "@help_seafarers",
 "@offshoreatsea",
 "crewell.net"
 ],
 "telegram": [],
-"total": 7,
+"total": 9,
 "vessels": [
 "Chemical",
 "Offshore",
@@ -53489,7 +53492,7 @@
 "Merchant_Fleet": 582,
 "OffshoreFleetJob": 11056,
 "Offshore_Vacancies": 870,
-"OnlyOffshore": 38769,
+"OnlyOffshore": 38777,
 "OnlyYacht": 2311,
 "SM_job_center": 2467,
 "Sea_format": 12334,
@@ -53510,7 +53513,7 @@
 "job_for_seaman": 16983,
 "jobfor_seamen": 12638,
 "marinecareerorg": 17752,
-"marinejobs": 43004,
+"marinejobs": 43007,
 "marinejobz": 194156,
 "marineman_ltd": 48297,
 "maritimeforum": 254606,
@@ -53525,7 +53528,7 @@
 "onboard_su": 20676,
 "rekamore_su": 164164,
 "roster_marine": 1729,
-"seajobfinder": 42150,
+"seajobfinder": 42156,
 "seamenjob": 106068,
 "seamenvacancy": 1371,
 "seavacancies": 25162,
