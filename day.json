@@ -571,6 +571,236 @@
 "repeat": false,
 "time": "2026-11-04T05:30:42+00:00",
 "junior_dp": false
+},
+{
+"title": "Second Mate for Offshore Vessel",
+"url": "https://oceancrew.org/vacancies/offshore/2nd-officer/second-mate-for-offshore-vessel_04-11-2026",
+"source": "oceancrew.org",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {},
+"new": true,
+"repeat": false,
+"time": "2026-11-04T06:43:06.789738+00:00"
+},
+{
+"title": "Chief Mate for Offshore Vessel",
+"url": "https://oceancrew.org/vacancies/offshore/chief-officer/chief-mate-for-offshore-vessel_04-11-2026",
+"source": "oceancrew.org",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "Chief Officer"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-04T06:43:06.791058+00:00"
+},
+{
+"title": "YCrewing maritime agency, rendering services for seafarers employment",
+"url": "https://t.me/jobfor_seamen/12640",
+"source": "Telegram: @jobfor_seamen",
+"found": [
+"chief officer",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-6e3d60c62a13890e",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer",
+"vessel": "Crude oil tanker",
+"salary": "10000$",
+"email": "crew@ycrewing.com",
+"company": "ycrewing.com"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-04T06:39:25+00:00"
+},
+{
+"title": "Компания ООО “Трансоптимал СПБ” приглашает на работу:",
+"url": "https://t.me/rekamore_su/164203",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-a30fa0f6d174db13",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "LNG, General cargo",
+"salary": "124 870 рублей (чистыми на рук…",
+"joining": "❗️",
+"email": "transoptimalng@mail.ru",
+"company": "️ Компания ООО “Трансоптимал СПБ”"
+},
+"new": true,
+"repeat": true,
+"time": "2026-11-04T06:20:03+00:00"
+},
+{
+"title": "Компания ГК \"ОТЭКО\" приглашает на  работу:",
+"url": "https://t.me/rekamore_su/164205",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-105216998cd5ccaa",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Tug",
+"email": "e.davydenko@oteko.ru",
+"company": "oteko.ru"
+},
+"new": true,
+"repeat": true,
+"time": "2026-11-04T06:22:04+00:00"
+},
+{
+"title": "Компания ООО “Трэвелер Шиппинг” приглашает на работу:",
+"url": "https://t.me/rekamore_su/164209",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-42888872d2f67410",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Chemical tanker",
+"joining": "❗️",
+"email": "gavrilova_o@astonfleet.com",
+"company": "astonfleet.com"
+},
+"new": true,
+"repeat": true,
+"time": "2026-11-04T06:24:06+00:00"
+},
+{
+"title": "Актуальные вакансии сухогрузы 5000-11000 двт:",
+"url": "https://t.me/rekamore_su/164215",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старпом"
+],
+"fp": "fp-59bfc71137256e91",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo",
+"joining": "15.11",
+"email": "info@polluks-star.com",
+"company": "polluks-star.com"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-04T06:32:28+00:00"
+},
+{
+"title": "Анонс вакансий ООО \"П. ТрансКо\" на РЕЧНУЮ навигацию 2027 года.",
+"url": "https://t.me/rekamore_su/164216",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-0765aee547a9577a",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Tug",
+"company": "Анонс вакансий ООО \"П. ТрансКо\" на…"
+},
+"new": true,
+"repeat": true,
+"time": "2026-11-04T06:34:04+00:00"
+},
+{
+"title": "Компания ООО НП «Балтийское Морское Пароходство» приглашает на работу:",
+"url": "https://t.me/rekamore_su/164217",
+"source": "Telegram: @rekamore_su",
+"found": [
+"2off"
+],
+"fp": "fp-12f2b92bbfaa1dd8",
+"offshore": true,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Crude oil tanker",
+"salary": "2000 USD",
+"joining": "ASAP",
+"company": "ООО НП «Балтийское Морское Пароходс…"
+},
+"new": true,
+"repeat": true,
+"time": "2026-11-04T06:39:05+00:00"
+},
+{
+"title": "Компания ООО НП «Балтийское Морское Пароходство» приглашает на работу:",
+"url": "https://t.me/rekamore_su/164219",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-53cb10282b74dc9f",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Reefer",
+"salary": "5 500 USD",
+"joining": "СРОЧНАЯ в Санкт-Петербурге",
+"contract": "4+1",
+"company": "ООО НП «Балтийское Морское Пароходс…"
+},
+"new": true,
+"repeat": true,
+"time": "2026-11-04T06:39:13+00:00"
+},
+{
+"title": "Судоходная компания \"Eco Shipping\" приглашает на работу:",
+"url": "https://t.me/rekamore_su/164222",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-ae4e819ce892b940",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo",
+"salary": "365 000 рублей",
+"contract": "5/5 ( +/-1)",
+"email": "e.kievskaya@ecoshp.ru",
+"company": "ecoshp.ru"
+},
+"new": true,
+"repeat": true,
+"time": "2026-11-04T06:40:08+00:00"
+},
+{
+"title": "CHIEF OFFICER",
+"url": "https://t.me/cvsenderseaman/15246",
+"source": "Telegram: @cvsenderseaman",
+"found": [
+"chief officer"
+],
+"fp": "fp-e35973d59c753514",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Chemical tanker",
+"salary": "$11500 / month",
+"joining": "ASAP",
+"contract": "4 months",
+"email": "info@desecrew.com",
+"company": "desecrew.com"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-04T06:42:19+00:00"
 }
 ],
 "msg_ids": [
