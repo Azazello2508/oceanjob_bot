@@ -40770,18 +40770,18 @@
 "ihuseynli@pg-global.com",
 "info@gretimybe.lt",
 "isabelle.j@worldwide-rs.com",
+"jake.sammut@pg-global.com",
 "jay.hamerston@pg-global.com",
 "jevery@pg-global.com",
-"joel.dihan@selectoffshore.com",
-"lbernardini@pg-global.com"
+"joel.dihan@selectoffshore.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-05",
+"last": "2026-11-06",
 "links": {
 "crewell": "https://crewell.net/en/companies/37890/"
 },
 "name": "PG Global Ltd",
-"off": 18,
+"off": 20,
 "offshore_hint": false,
 "phones": [],
 "so": 0,
@@ -40789,6 +40789,7 @@
 "@OnlyOffshore",
 "@galaxymaritimeua",
 "@gm_seaman_cv",
+"@marinejobs",
 "@offshoreatsea",
 "@offshorecv",
 "@oilrigs",
@@ -40797,7 +40798,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 24,
+"total": 26,
 "vessels": [
 "Offshore"
 ],
@@ -41472,28 +41473,31 @@
 "co": 0,
 "country": "",
 "emails": [
+"eric@primeoceangroup.com",
 "ian@primeoceangroup.com",
 "nathan@primeoceangroup.com",
 "priscila@primeoceangroup.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-05",
+"last": "2026-11-06",
 "links": {
 "crewell": "https://crewell.net/en/companies/382807/"
 },
 "name": "Prime Ocean Personnel Services",
-"off": 3,
+"off": 5,
 "offshore_hint": false,
 "phones": [],
 "so": 0,
 "sources": [
+"@OnlyOffshore",
 "@cvsenderseaman",
 "@galaxymaritimeua",
+"@marinejobs",
 "@offshoreatsea",
 "crewell.net"
 ],
 "telegram": [],
-"total": 5,
+"total": 7,
 "vessels": [
 "Offshore"
 ],
@@ -54819,7 +54823,7 @@
 "Merchant_Fleet": 594,
 "OffshoreFleetJob": 11059,
 "Offshore_Vacancies": 887,
-"OnlyOffshore": 38849,
+"OnlyOffshore": 38851,
 "OnlyYacht": 2313,
 "SM_job_center": 2475,
 "Sea_format": 12334,
@@ -54840,7 +54844,7 @@
 "job_for_seaman": 17009,
 "jobfor_seamen": 12667,
 "marinecareerorg": 17754,
-"marinejobs": 43091,
+"marinejobs": 43093,
 "marinejobz": 194156,
 "marineman_ltd": 48315,
 "maritimeforum": 255244,
