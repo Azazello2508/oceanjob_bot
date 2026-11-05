@@ -4051,30 +4051,230 @@
 "repeat": false,
 "time": "2026-11-05T13:19:33+00:00",
 "junior_dp": false
+},
+{
+"title": "2nd Officer on MPSV DP2",
+"url": "https://crewell.net/en/vacancies/464933/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "2nd Officer",
+"vessel": "PSV, MPSV"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-05T14:08:55.142200+00:00",
+"junior_dp": false
+},
+{
+"title": "2nd Officer on Bulk carrier",
+"url": "https://crewell.net/en/vacancies/464941/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Bulk carrier"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-05T14:08:55.143967+00:00",
+"junior_dp": false
+},
+{
+"title": "Chief Officer",
+"url": "https://t.me/maritimeforum/255120",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-b7a60a9d01142e46",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "VLCC",
+"contract": "4 months",
+"salary": "$10,000–12,000\n",
+"email": "crew@armada-holding.com",
+"company": "armada-holding.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-05T13:24:02+00:00",
+"junior_dp": false
+},
+{
+"title": "СРОЧНО НА НОЯБРЬ НУЖНЫ МОРЯКИ ЗАРПЛАТА СТАРПОМ -6100€ , 3- ШТУРМАН- 3200€ МОЖНО В СТАРТ ,ЗНАНИЕ АНГЛИЙСКОГО ЯЗЫКА. ЗВОНИТЕ  МЕНЕДЖЕР ИРИНА ВАЦАП АНКЕТУ НА ВАЦАП…",
+"url": "https://t.me/maritimeforum/255146",
+"source": "Telegram: @maritimeforum",
+"found": [
+"старпом"
+],
+"fp": "fp-6383c03b14ff4f78",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo",
+"salary": "СТАРПОМ -6100€ , 3- ШТУРМАН- 3…"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-05T13:44:01+00:00",
+"junior_dp": false
+},
+{
+"title": "JKT MIRACLE, Chemical/Oil Products Tanker - Данные судна и текущее положение - IMO 9278662 - VesselFinder",
+"url": "https://t.me/maritimeforum/255149",
+"source": "Telegram: @maritimeforum",
+"found": [
+"старпом"
+],
+"fp": "fp-520725b1516510e7",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Chemical tanker",
+"salary": "9300$"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-05T13:44:01+00:00",
+"junior_dp": false
+},
+{
+"title": "Chief Officer",
+"url": "https://t.me/maritimeforum/255158",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-7f04fa3c56cbc302",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Crude oil tanker",
+"contract": "4 months",
+"salary": "$11,700\n",
+"email": "ostrilets@marlowgroup.com",
+"company": "marlowgroup.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-05T13:48:06+00:00",
+"junior_dp": false
+},
+{
+"title": "Актуальные вакансия на Crude Oil &",
+"url": "https://t.me/onboard_su/20688",
+"source": "Telegram: @onboard_su",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-e4eaecc37c04ef2c",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Chemical tanker, Crude oil tanker",
+"salary": "4500 usd",
+"email": "novo@inok-tm.com",
+"company": "inok-tm.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-05T13:59:26+00:00",
+"junior_dp": false
+},
+{
+"title": "Position:",
+"url": "https://t.me/CREW_ARIA/13984",
+"source": "Telegram: @CREW_ARIA",
+"found": [
+"chief officer"
+],
+"fp": "fp-79ee025edf75f689",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "LPG, LNG",
+"salary": "s: segment leading pay in USD",
+"joining": "URGENT",
+"email": "CV@lscgroup.lv",
+"company": "lscgroup.lv"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-05T14:04:04+00:00",
+"junior_dp": false
+},
+{
+"title": "YCrewing needs officers for LPG vessel.",
+"url": "https://t.me/marinejobs/43081",
+"source": "Telegram: @marinejobs",
+"found": [
+"chief officer",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-8803f25c55c1e97f",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer",
+"vessel": "LPG",
+"salary": "12500$"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-05T13:38:48+00:00",
+"junior_dp": false
+},
+{
+"title": "OPEN POSITIONS",
+"url": "https://t.me/cvsenderseaman/15520",
+"source": "Telegram: @cvsenderseaman",
+"found": [
+"chief officer"
+],
+"fp": "fp-18cc9b33e2533780",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"joining": "ASAP",
+"salary": "11000 - 11200 USD",
+"email": "crew@armada-holding.com",
+"company": "armada-holding.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-05T13:27:33+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-2379,
-2380,
-2381,
-2382,
-2383,
-2384,
-2385,
-2386,
-2387,
-2388,
-2389,
-2390,
-2391,
-2392,
-2393,
-2394,
-2395,
-2396,
-2397
+2398,
+2399,
+2400,
+2401,
+2402,
+2403,
+2404,
+2405,
+2406,
+2407,
+2408,
+2409,
+2410,
+2411,
+2412,
+2413,
+2414,
+2415,
+2416
 ],
-"last_list": "2026-11-05T13:20:47.402914+00:00",
-"cleared_upto": 2378,
-"last_msg_id": 2397
+"last_list": "2026-11-05T14:10:07.856704+00:00",
+"cleared_upto": 2397,
+"last_msg_id": 2416
 }
