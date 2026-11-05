@@ -7553,7 +7553,7 @@
 "balticcareer.eu": {
 "address": "",
 "city": "",
-"co": 1,
+"co": 2,
 "country": "",
 "emails": [],
 "first": "2026-11-03",
@@ -7569,7 +7569,7 @@
 "@balticcareer"
 ],
 "telegram": [],
-"total": 10,
+"total": 11,
 "vessels": [
 "Bulk",
 "LPG/LNG",
@@ -40771,7 +40771,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 23,
+"total": 24,
 "vessels": [
 "Offshore"
 ],
@@ -52043,7 +52043,7 @@
 "crewell": "https://crewell.net/en/companies/54631/"
 },
 "name": "Worldwide Recruitment Solutions",
-"off": 80,
+"off": 82,
 "offshore_hint": false,
 "phones": [],
 "so": 13,
@@ -52062,7 +52062,7 @@
 "@offshorecv"
 ],
 "telegram": [],
-"total": 130,
+"total": 132,
 "vessels": [
 "Dredger",
 "General cargo",
@@ -54792,15 +54792,15 @@
 "Merchant_Fleet": 594,
 "OffshoreFleetJob": 11059,
 "Offshore_Vacancies": 887,
-"OnlyOffshore": 38845,
+"OnlyOffshore": 38848,
 "OnlyYacht": 2313,
 "SM_job_center": 2474,
 "Sea_format": 12334,
 "TSMexp": 857,
 "Yacht_Vacancies": 290,
 "allcrewing": 3806,
-"andreeyVstart": 1383,
-"balticcareer": 5403,
+"andreeyVstart": 1384,
+"balticcareer": 5404,
 "crewingua": 44783,
 "crs_vacancies": 3550,
 "cruiseshipjobs": 3,
@@ -54831,7 +54831,7 @@
 "seajobfinder": 42202,
 "seamenjob": 106102,
 "seamenvacancy": 1372,
-"seavacancies": 25173,
+"seavacancies": 25174,
 "shipjobsindia": 420,
 "shipscreweu": 16570,
 "sidantey": 399,

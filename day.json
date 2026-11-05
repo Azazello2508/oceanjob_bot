@@ -5308,30 +5308,91 @@
 "repeat": false,
 "time": "2026-11-05T18:00:06.988966+00:00",
 "junior_dp": false
+},
+{
+"title": "LNG & LPG CARRIER VACANCIES",
+"url": "https://t.me/balticcareer/5404",
+"source": "Telegram: @balticcareer",
+"found": [
+"chief officer"
+],
+"fp": "fp-9c32dcd378256499",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "LPG, LNG",
+"joining": "TBC | 4–6 months",
+"salary": "$14,900–17,300"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-05T18:05:26+00:00",
+"junior_dp": false
+},
+{
+"title": "MULTIPLE OFFSHORE OPPORTUNITIES",
+"url": "https://t.me/OnlyOffshore/38848",
+"source": "Telegram: @OnlyOffshore",
+"found": [
+"dpo"
+],
+"fp": "fp-5fd8f73d2ecb17c5",
+"offshore": true,
+"info": {
+"rank": "DPO",
+"email": "Tilly.M@worldwide-rs.com",
+"company": "worldwide-rs.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-05T18:07:16+00:00",
+"junior_dp": false
+},
+{
+"title": "New Watch Officers vacancies",
+"url": "https://t.me/seavacancies/25174",
+"source": "Telegram: @seavacancies",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-8e9ecc83918d4e94",
+"offshore": true,
+"info": {
+"rank": "2nd Officer",
+"vessel": "LPG, Crude oil tanker",
+"joining": "26 Nov",
+"salary": "$4,800"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-05T18:03:02+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-2465,
-2466,
-2467,
-2468,
-2469,
-2470,
-2471,
-2472,
-2473,
-2474,
-2475,
-2476,
-2477,
-2478,
-2479,
-2480,
-2481,
-2482,
-2483
+2484,
+2485,
+2486,
+2487,
+2488,
+2489,
+2490,
+2491,
+2492,
+2493,
+2494,
+2495,
+2496,
+2497,
+2498,
+2499,
+2500,
+2501,
+2502,
+2503
 ],
-"last_list": "2026-11-05T18:01:27.306733+00:00",
-"cleared_upto": 2464,
-"last_msg_id": 2483
+"last_list": "2026-11-05T18:50:55.610392+00:00",
+"cleared_upto": 2483,
+"last_msg_id": 2503
 }
