@@ -5138,7 +5138,7 @@
 "rank": "Chief Officer",
 "vessel": "Bulk carrier"
 },
-"new": true,
+"new": false,
 "repeat": false,
 "time": "2026-11-05T17:11:03.842125+00:00",
 "junior_dp": false
@@ -5154,7 +5154,7 @@
 "rank": "2nd Officer",
 "vessel": "Cruise"
 },
-"new": true,
+"new": false,
 "repeat": false,
 "time": "2026-11-05T17:11:03.843765+00:00",
 "junior_dp": false
@@ -5171,7 +5171,7 @@
 "vessel": "Ro-Ro",
 "company": "2nd Officer Job on RoRo Vessel Stöd…"
 },
-"new": true,
+"new": false,
 "repeat": false,
 "time": "2026-11-05T17:11:03.843914+00:00",
 "junior_dp": false
@@ -5187,7 +5187,7 @@
 "rank": "Chief Officer / 2nd Officer",
 "contract": "ING EST. 232054"
 },
-"new": true,
+"new": false,
 "repeat": false,
 "time": "2026-11-05T17:11:03.844247+00:00",
 "junior_dp": false
@@ -5203,7 +5203,7 @@
 "rank": "Chief Officer",
 "company": "Master, Chief Officer, Chief Engine…"
 },
-"new": true,
+"new": false,
 "repeat": false,
 "time": "2026-11-05T17:11:03.844325+00:00",
 "junior_dp": false
@@ -5218,7 +5218,7 @@
 "info": {
 "rank": "Chief Officer"
 },
-"new": true,
+"new": false,
 "repeat": false,
 "time": "2026-11-05T17:11:03.844489+00:00",
 "junior_dp": false
@@ -5241,7 +5241,7 @@
 "email": "cv@tsmexp.com",
 "company": "tsmexp.com"
 },
-"new": true,
+"new": false,
 "repeat": false,
 "time": "2026-11-05T17:10:18+00:00",
 "junior_dp": false
@@ -5264,7 +5264,7 @@
 "tg": "univisltd",
 "company": "univis.com.ua"
 },
-"new": true,
+"new": false,
 "repeat": true,
 "time": "2026-11-05T16:37:45+00:00",
 "junior_dp": false
@@ -5289,34 +5289,49 @@
 "tg": "univisltd",
 "company": "univis.com.ua"
 },
-"new": true,
+"new": false,
 "repeat": true,
 "time": "2026-11-05T16:38:06+00:00",
+"junior_dp": false
+},
+{
+"title": "Chief Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/368767",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-05T18:00:06.988966+00:00",
 "junior_dp": false
 }
 ],
 "msg_ids": [
-2436,
-2437,
-2438,
-2439,
-2440,
-2441,
-2442,
-2443,
-2444,
-2445,
-2446,
-2447,
-2448,
-2449,
-2450,
-2451,
-2452,
-2453,
-2454
+2465,
+2466,
+2467,
+2468,
+2469,
+2470,
+2471,
+2472,
+2473,
+2474,
+2475,
+2476,
+2477,
+2478,
+2479,
+2480,
+2481,
+2482,
+2483
 ],
-"last_list": "2026-11-05T16:22:28.908720+00:00",
-"cleared_upto": 2435,
-"last_msg_id": 2464
+"last_list": "2026-11-05T18:01:27.306733+00:00",
+"cleared_upto": 2464,
+"last_msg_id": 2483
 }

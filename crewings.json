@@ -18600,6 +18600,34 @@
 "vessels": [],
 "website": "kaascrewservices.com.ua"
 },
+"kadrybfg@mail.ru": {
+"address": "",
+"city": "",
+"co": 0,
+"country": "",
+"emails": [
+"kadrybfg@mail.ru"
+],
+"first": "2026-11-05",
+"last": "2026-11-05",
+"links": {},
+"name": "",
+"off": 0,
+"offshore_hint": false,
+"phones": [
+"+79281896106"
+],
+"so": 0,
+"sources": [
+"@rekamore_su"
+],
+"telegram": [],
+"total": 2,
+"vessels": [
+"General cargo"
+],
+"website": ""
+},
 "kamimtc.in": {
 "address": "",
 "city": "",
@@ -54788,7 +54816,7 @@
 "marinejobs": 43089,
 "marinejobz": 194156,
 "marineman_ltd": 48315,
-"maritimeforum": 255242,
+"maritimeforum": 255244,
 "merchantNavyrealjob": 262,
 "morehod_ru": 30778,
 "oceancrewjobs": 32697,
@@ -54798,7 +54826,7 @@
 "oilrigs": 778,
 "olive_crew": 2898,
 "onboard_su": 20690,
-"rekamore_su": 164389,
+"rekamore_su": 164391,
 "roster_marine": 1732,
 "seajobfinder": 42202,
 "seamenjob": 106102,

@@ -3314,7 +3314,7 @@
 "hw|tg:marinejobs|43089",
 "hw|tg:marinejobz|194156",
 "hw|tg:marineman_ltd|48315",
-"hw|tg:maritimeforum|255242",
+"hw|tg:maritimeforum|255244",
 "hw|tg:merchantNavyrealjob|262",
 "hw|tg:morehod_ru|30778",
 "hw|tg:oceancrewjobs|32697",
@@ -3324,7 +3324,7 @@
 "hw|tg:oilrigs|789",
 "hw|tg:olive_crew|2898",
 "hw|tg:onboard_su|20690",
-"hw|tg:rekamore_su|164389",
+"hw|tg:rekamore_su|164391",
 "hw|tg:roster_marine|1732",
 "hw|tg:seajobfinder|42202",
 "hw|tg:seamenjob|106102",
@@ -3339,7 +3339,7 @@
 "hw|tg:univis_crewing|5004",
 "hw|tg:vesselsea|3097",
 "hw|tg:vshipsoffshore|1070",
-"hw|ukrcrewing|368765",
+"hw|ukrcrewing|368767",
 "maritime-union.com-197132",
 "maritime-union.com-198756",
 "maritime-union.com-199159",
@@ -8393,5 +8393,6 @@
 "ukrcrewing-368736",
 "ukrcrewing-368737",
 "ukrcrewing-368738",
-"ukrcrewing-368765"
+"ukrcrewing-368765",
+"ukrcrewing-368767"
 ]
