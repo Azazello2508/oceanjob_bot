@@ -2773,25 +2773,404 @@
 "repeat": false,
 "time": "2026-11-05T10:08:13+00:00",
 "junior_dp": false
+},
+{
+"title": "Chief Officer on General Cargo Vessel",
+"url": "https://crewell.net/en/vacancies/464892/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-05T11:41:00.440066+00:00",
+"junior_dp": false
+},
+{
+"title": "Chief Officer on Bulk carrier",
+"url": "https://crewell.net/en/vacancies/464902/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Bulk carrier"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-05T11:41:00.442124+00:00",
+"junior_dp": false
+},
+{
+"title": "Chief Officer",
+"url": "https://seajobs.ru/ru/vacancy/17995/chief-officer-chemical-tanker",
+"source": "seajobs.ru",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Chemical tanker"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-05T11:41:10.345718+00:00",
+"junior_dp": false
+},
+{
+"title": "WE ARE HIRING – CHIEF OFFICER SDPO| PSV DP2",
+"url": "https://t.me/maritimeforum/255016",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer",
+"sdpo",
+"dpo"
+],
+"fp": "fp-79fe880d3601c443",
+"offshore": true,
+"info": {
+"rank": "Chief Officer / SDPO",
+"vessel": "PSV",
+"contract": "8 weeks on / 8 weeks off",
+"email": "n.kudaeiva@tospeople.com",
+"company": "tospeople.com"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-05T10:52:40+00:00",
+"junior_dp": false
+},
+{
+"title": "WE NEED",
+"url": "https://t.me/maritimeforum/255021",
+"source": "Telegram: @maritimeforum",
+"found": [
+"2nd off"
+],
+"fp": "fp-8d392d24451ecac1",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"joining": "ASAP",
+"salary": "4200-4500 USD",
+"email": "info@staff-service-expert.com",
+"company": "staff-service-expert.com"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-05T10:58:17+00:00",
+"junior_dp": false
+},
+{
+"title": "URGENTLY REQUIRED",
+"url": "https://t.me/maritimeforum/255022",
+"source": "Telegram: @maritimeforum",
+"found": [
+"sdpo",
+"dpo",
+"co/sdpo"
+],
+"fp": "fp-495935f56d92cbe1",
+"offshore": true,
+"info": {
+"rank": "Chief Officer / SDPO",
+"vessel": "PSV",
+"salary": "is",
+"joining": "15th of November",
+"contract": "is",
+"email": "cv@tsmexp.com",
+"company": "tsmexp.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-05T11:06:52+00:00",
+"junior_dp": false
+},
+{
+"title": "Vacancy Code 02.3",
+"url": "https://t.me/maritimeforum/255025",
+"source": "Telegram: @maritimeforum",
+"found": [
+"dpo",
+"2nd off"
+],
+"fp": "fp-213d1ef27b6724ee",
+"offshore": true,
+"info": {
+"rank": "2nd Officer / DPO",
+"vessel": "PSV, MPSV",
+"salary": "s – 240 EUR per day",
+"joining": "11th of November",
+"contract": "4 weeks",
+"email": "crew@navis.eu",
+"company": "navis.eu"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-05T11:35:49+00:00",
+"junior_dp": false
+},
+{
+"title": "Vessel : Bulk 75K DWT",
+"url": "https://t.me/maritimeforum/255032",
+"source": "Telegram: @maritimeforum",
+"found": [
+"second officer"
+],
+"fp": "fp-bd775cce810b38e9",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Bulk carrier",
+"joining": "15 November, Kalama USA",
+"email": "annatasya@desecrew.com",
+"company": "desecrew.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-05T11:38:38+00:00",
+"junior_dp": false
+},
+{
+"title": "Latest Maritime Job Opportunities",
+"url": "https://t.me/marinejobs/43067",
+"source": "Telegram: @marinejobs",
+"found": [
+"chief officer",
+"dpo"
+],
+"fp": "fp-39838f24ae9f8b31",
+"offshore": true,
+"info": {
+"rank": "Chief Officer / DPO",
+"vessel": "LPG, Chemical tanker",
+"joining": "ASAP, Russian/Georgian nationa",
+"contract": "📋",
+"salary": "$6,200\n",
+"email": "crew@hncrewing.com",
+"company": "hncrewing.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-05T11:11:28+00:00",
+"junior_dp": false
+},
+{
+"title": "Marine Job Openings on VLGC Vessel",
+"url": "https://t.me/marinejobs/43074",
+"source": "Telegram: @marinejobs",
+"found": [
+"second officer"
+],
+"fp": "fp-3d26d96e75c0f904",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"salary": "Ranges",
+"joining": "ASAP",
+"contract": "6+-1 months",
+"email": "crew@raymarinecrewing.com",
+"company": "raymarinecrewing.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-05T11:33:06+00:00",
+"junior_dp": false
+},
+{
+"title": "CHIEF OFFICER – GENERAL CARGO",
+"url": "https://t.me/balticcareer/5382",
+"source": "Telegram: @balticcareer",
+"found": [
+"chief officer"
+],
+"fp": "fp-6fb895f03fd59fa3",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo",
+"salary": "8500 USD / month",
+"contract": "3 months +/- 1 month"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-05T11:09:52+00:00",
+"junior_dp": false
+},
+{
+"title": "Судоходная компания приглашает на работу:",
+"url": "https://t.me/rekamore_su/164372",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-4c46b5c96c64e75b",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Chemical tanker, General cargo",
+"joining": "15 ноября в Астрахани",
+"email": "kuznetsova@midvolga.com",
+"company": "midvolga.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-05T11:11:02+00:00",
+"junior_dp": false
+},
+{
+"title": "Chief Officer",
+"url": "https://t.me/offshoreatsea/25023",
+"source": "Telegram: @offshoreatsea",
+"found": [
+"chief officer"
+],
+"fp": "fp-27eeae17040c4c8d",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"salary": "€5,000/month",
+"contract": "6 months",
+"email": "selection5@candinagroup.com",
+"company": "candinagroup.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-05T11:12:42+00:00",
+"junior_dp": false
+},
+{
+"title": "Vessel: Drillship/Cyber Semi-submersible",
+"url": "https://t.me/offshoreatsea/25024",
+"source": "Telegram: @offshoreatsea",
+"found": [
+"sdpo",
+"dpo"
+],
+"fp": "fp-60685c0601f6c399",
+"offshore": true,
+"info": {
+"rank": "SDPO",
+"email": "Drilling.CV@grndrilling.com",
+"company": "grndrilling.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-05T11:12:54+00:00",
+"junior_dp": false
+},
+{
+"title": "Requirements:",
+"url": "https://t.me/offshoreatsea/25042",
+"source": "Telegram: @offshoreatsea",
+"found": [
+"sdpo",
+"dpo"
+],
+"fp": "fp-8a5117eeb50b0a3e",
+"offshore": true,
+"info": {
+"rank": "SDPO",
+"contract": "opportunity; internationa",
+"email": "Tilly.M@worldwide-rs.com",
+"company": "worldwide-rs.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-05T11:25:23+00:00",
+"junior_dp": false
+},
+{
+"title": "CHIEF OFFICER",
+"url": "https://t.me/cvsenderseaman/15468",
+"source": "Telegram: @cvsenderseaman",
+"found": [
+"chief officer",
+"chief mate"
+],
+"fp": "fp-78cb9753d991f906",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Bulk carrier, General cargo",
+"salary": "7500 EUR",
+"joining": "ASAP",
+"contract": "3 months",
+"email": "office@tinecomar.ro",
+"company": "tinecomar.ro"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-05T11:11:33+00:00",
+"junior_dp": false
+},
+{
+"title": "CHIEF OFFICER",
+"url": "https://t.me/cvsenderseaman/15480",
+"source": "Telegram: @cvsenderseaman",
+"found": [
+"chief officer"
+],
+"fp": "fp-bc24d792644ac311",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"salary": "€5,000/month",
+"joining": "ASAP",
+"contract": "6 months",
+"email": "selection5@candinagroup.com",
+"company": "candinagroup.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-05T11:26:13+00:00",
+"junior_dp": false
+},
+{
+"title": "Company",
+"url": "https://t.me/cvsenderseaman/15491",
+"source": "Telegram: @cvsenderseaman",
+"found": [
+"dpo"
+],
+"fp": "fp-be56d85e8879966f",
+"offshore": true,
+"info": {
+"rank": "DPO",
+"salary": "Negotiable",
+"joining": "ASAP",
+"contract": "opportunity; internationa",
+"email": "tilly.m@worldwide-rs.com",
+"company": "worldwide-rs.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-05T11:38:15+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-2333,
-2334,
-2335,
-2336,
-2337,
-2338,
-2339,
-2340,
-2341,
-2342,
-2343,
-2344,
-2345,
-2346
+2347,
+2348,
+2349,
+2350,
+2351,
+2352,
+2353,
+2354,
+2355,
+2356,
+2357,
+2358,
+2359,
+2360
 ],
-"last_list": "2026-11-05T10:52:53.054067+00:00",
-"cleared_upto": 2332,
-"last_msg_id": 2346
+"last_list": "2026-11-05T11:42:12.217506+00:00",
+"cleared_upto": 2346,
+"last_msg_id": 2360
 }
