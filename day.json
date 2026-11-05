@@ -40,14 +40,192 @@
 "repeat": false,
 "time": "2026-11-04T21:20:35+00:00",
 "junior_dp": false
+},
+{
+"title": "Master, Chief Officer, Chief Engineer Jobs on Bulker Alpha Crew Group",
+"url": "https://maritime-union.com/job/231937",
+"source": "maritime-union.com",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Bulk carrier",
+"company": "Master, Chief Officer, Chief Engine…"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-05T04:36:00.302543+00:00",
+"junior_dp": false
+},
+{
+"title": "3rd Engineer & 2nd Officer Jobs on Bulk Carrier Panca Pasifik Mandiri",
+"url": "https://maritime-union.com/job/231944",
+"source": "maritime-union.com",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Bulk carrier"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-05T04:36:00.303949+00:00",
+"junior_dp": false
+},
+{
+"title": "Chief Officer Job on 50m Motor Yacht Colton Yacht Crew",
+"url": "https://maritime-union.com/job/231941",
+"source": "maritime-union.com",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"company": "Chief Officer Job on 50m Motor Yach…"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-05T04:36:00.304052+00:00",
+"junior_dp": false
+},
+{
+"title": "Captain / DPO & Deckhand Jobs on Workboats Adriatic Marine, LLC",
+"url": "https://maritime-union.com/job/231956",
+"source": "maritime-union.com",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "DPO",
+"company": "Captain / DPO & Deckhand Jobs on Wo…"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-05T04:36:00.304151+00:00",
+"junior_dp": false
+},
+{
+"title": "Компания ООО “Угольный морской порт Шахтерск” (Сахалин) приглашает на работу:",
+"url": "https://t.me/rekamore_su/164273",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-f4224da3e215ca7d",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo, Tug",
+"salary": "322 000 рублей (на руки)",
+"joining": "02 декабря",
+"email": "Sidorenkotv@eastmining.ru",
+"company": "eastmining.ru"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-05T04:17:05+00:00",
+"junior_dp": false
+},
+{
+"title": "Компания ООО \"СК \"АСТРОЛ\" приглашает на работу:",
+"url": "https://t.me/rekamore_su/164275",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-ffa44d609bd2a117",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo",
+"salary": "352 000 рублей (на руки) + доп…",
+"joining": "в Санкт-Петербурге",
+"email": "personal@sc-astrol.ru",
+"company": "sc-astrol.ru"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-05T04:30:03+00:00",
+"junior_dp": false
+},
+{
+"title": "Компания ООО \"БСК\" приглашает на работу:",
+"url": "https://t.me/rekamore_su/164276",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-1a2bbee137caddab",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo",
+"salary": "297 000 рублей (на руки) + доп…",
+"joining": "СРОЧНАЯ",
+"contract": "4 месяца",
+"email": "personal@sc-astrol.ru",
+"company": "sc-astrol.ru"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-05T04:30:07+00:00",
+"junior_dp": false
+},
+{
+"title": "Компания ООО \"Белозерское пароходство\" приглашает на работу:",
+"url": "https://t.me/rekamore_su/164278",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-2d9cf4dc561105b4",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Tug",
+"email": "k.vasileva@karelkamen.ru",
+"company": "karelkamen.ru"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-05T04:32:05+00:00",
+"junior_dp": false
+},
+{
+"title": "Компания “Северный Альянс” приглашает на работу:",
+"url": "https://t.me/rekamore_su/164288",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-51743fd97eff3ead",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Tug",
+"salary": "330 750 руб. (на руки)",
+"joining": "06.11.2026г. Работа в Марокко",
+"email": "vacancy@north-alliance.com",
+"company": "north-alliance.com"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-05T04:36:27+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-2247,
-2248,
-2249
+2250,
+2251,
+2252,
+2253,
+2254,
+2255,
+2256
 ],
-"last_list": "2026-11-04T21:52:38.352338+00:00",
-"cleared_upto": 2246,
-"last_msg_id": 2249
+"last_list": "2026-11-05T04:36:54.845949+00:00",
+"cleared_upto": 2249,
+"last_msg_id": 2256
 }

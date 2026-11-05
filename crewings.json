@@ -12664,14 +12664,14 @@
 "eastmining.ru": {
 "address": "",
 "city": "",
-"co": 3,
+"co": 4,
 "country": "",
 "emails": [
 "khusainovanv@eastmining.ru",
 "sidorenkotv@eastmining.ru"
 ],
 "first": "2026-11-03",
-"last": "2026-11-04",
+"last": "2026-11-05",
 "links": {},
 "name": "ООО “Угольный морской порт Шахтерск”",
 "off": 0,
@@ -12685,7 +12685,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 3,
+"total": 4,
 "vessels": [
 "General cargo",
 "Tug"
@@ -18400,14 +18400,14 @@
 "karelkamen.ru": {
 "address": "",
 "city": "",
-"co": 4,
+"co": 5,
 "country": "",
 "emails": [
 "a.hlyst@karelkamen.ru",
 "k.vasileva@karelkamen.ru"
 ],
 "first": "2026-11-03",
-"last": "2026-11-04",
+"last": "2026-11-05",
 "links": {},
 "name": "ООО \"Белозерское пароходство\"",
 "off": 0,
@@ -18419,7 +18419,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 12,
+"total": 15,
 "vessels": [
 "Tug"
 ],
@@ -22609,7 +22609,7 @@
 "kuznetsova@midvolga.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-04",
+"last": "2026-11-05",
 "links": {},
 "name": "",
 "off": 0,
@@ -22621,7 +22621,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 3,
+"total": 4,
 "vessels": [
 "General cargo",
 "Tanker"
@@ -36202,7 +36202,7 @@
 "ok_flot@mail.ru"
 ],
 "first": "2026-11-03",
-"last": "2026-11-04",
+"last": "2026-11-05",
 "links": {},
 "name": "ООО \"СК ТРАНСФЛОТ\"",
 "off": 0,
@@ -36214,7 +36214,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 4,
+"total": 5,
 "vessels": [],
 "website": ""
 },
@@ -38283,16 +38283,16 @@
 "north-alliance.com": {
 "address": "",
 "city": "",
-"co": 7,
+"co": 8,
 "country": "",
 "emails": [
 "vacancy@north-alliance.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-04",
+"last": "2026-11-05",
 "links": {},
 "name": "",
-"off": 10,
+"off": 12,
 "offshore_hint": false,
 "phones": [],
 "so": 0,
@@ -38303,7 +38303,7 @@
 "@seamenjob"
 ],
 "telegram": [],
-"total": 26,
+"total": 33,
 "vessels": [
 "Offshore",
 "Passenger",
@@ -41984,7 +41984,7 @@
 "n.gunchenko@fersol.pro"
 ],
 "first": "2026-11-03",
-"last": "2026-11-04",
+"last": "2026-11-05",
 "links": {},
 "name": "ООО \"Роктри ВГК Стивидор\"",
 "off": 0,
@@ -41996,7 +41996,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 8,
+"total": 10,
 "vessels": [
 "Bulk"
 ],
@@ -42966,13 +42966,13 @@
 "sc-astrol.ru": {
 "address": "",
 "city": "",
-"co": 10,
+"co": 12,
 "country": "",
 "emails": [
 "personal@sc-astrol.ru"
 ],
 "first": "2026-11-03",
-"last": "2026-11-04",
+"last": "2026-11-05",
 "links": {},
 "name": "ООО \"СК \"",
 "off": 0,
@@ -42984,7 +42984,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 13,
+"total": 16,
 "vessels": [
 "General cargo",
 "Tanker"
@@ -43026,7 +43026,7 @@
 "vacancy@scf-group.ru"
 ],
 "first": "2026-11-03",
-"last": "2026-11-03",
+"last": "2026-11-05",
 "links": {
 "crewell": "https://crewell.net/en/companies/264003/"
 },
@@ -43036,11 +43036,12 @@
 "phones": [],
 "so": 0,
 "sources": [
+"@marinejobs",
 "@seamenjob",
 "crewell.net"
 ],
 "telegram": [],
-"total": 6,
+"total": 8,
 "vessels": [
 "Tanker"
 ],
@@ -54126,7 +54127,7 @@
 "job_for_seaman": 16994,
 "jobfor_seamen": 12649,
 "marinecareerorg": 17753,
-"marinejobs": 43057,
+"marinejobs": 43058,
 "marinejobz": 194156,
 "marineman_ltd": 48305,
 "maritimeforum": 254901,
@@ -54139,16 +54140,16 @@
 "oilrigs": 778,
 "olive_crew": 2894,
 "onboard_su": 20679,
-"rekamore_su": 164269,
+"rekamore_su": 164288,
 "roster_marine": 1731,
 "seajobfinder": 42202,
-"seamenjob": 106087,
+"seamenjob": 106088,
 "seamenvacancy": 1372,
 "seavacancies": 25167,
 "shipjobsindia": 420,
 "shipscreweu": 16555,
 "sidantey": 399,
-"supermariner_ua": 3872,
+"supermariner_ua": 3873,
 "truemalina_offshore": 788,
 "ukrcrewing_official": 2374,
 "univis_crewing": 4998,
