@@ -4486,6 +4486,154 @@
 "repeat": true,
 "time": "2026-11-05T14:30:23+00:00",
 "junior_dp": false
+},
+{
+"title": "2nd Officer on Oil/chemical tanker",
+"url": "https://crewell.net/en/vacancies/464963/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Chemical tanker"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-05T15:31:47.876245+00:00"
+},
+{
+"title": "Chief Officer on General Cargo Vessel",
+"url": "https://crewell.net/en/vacancies/464956/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-05T15:31:47.877834+00:00"
+},
+{
+"title": "Chief Officer on Oil/chemical tanker",
+"url": "https://crewell.net/en/vacancies/464962/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Chemical tanker"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-05T15:31:47.877951+00:00"
+},
+{
+"title": "OPEN POSITIONS:",
+"url": "https://t.me/maritimeforum/255181",
+"source": "Telegram: @maritimeforum",
+"found": [
+"2/o"
+],
+"fp": "fp-9bc0f82ca784591a",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Chemical tanker, Tug",
+"joining": "15.11",
+"contract": "5 +/- 1 Month(s)",
+"salary": "6,000 USD",
+"email": "cv@ariesnav.com",
+"company": "ariesnav.com"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-05T15:29:36+00:00"
+},
+{
+"title": "Only for Ukrainian citizens!!!",
+"url": "https://t.me/marinejobs/43084",
+"source": "Telegram: @marinejobs",
+"found": [
+"chief officer"
+],
+"fp": "fp-c189a1768b1cf194",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Container, Tug",
+"salary": "8000EUR",
+"joining": "25.11.2026",
+"contract": "4mths",
+"email": "bss.kherson1@gmail.com"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-05T15:04:38+00:00"
+},
+{
+"title": "Bulkers. Job selection for 05/11/2026",
+"url": "https://t.me/SM_job_center/2474",
+"source": "Telegram: @SM_job_center",
+"found": [
+"chief officer",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-3a8cea3405f495a5",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer",
+"vessel": "Bulk carrier",
+"salary": "$3,100-$4,000/month",
+"email": "crew@armada-holding.com",
+"company": "armada-holding.com"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-05T15:01:21+00:00"
+},
+{
+"title": "https://jobatsea.online/job/625072/dpo-mechanic-medic-crane-operators-electricians-at-wrs/",
+"url": "https://t.me/offshorevacancies/47098",
+"source": "Telegram: @offshorevacancies",
+"found": [
+"dpo"
+],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "DPO"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-05T15:28:48+00:00"
+},
+{
+"title": "2nd Officer DPO — OSV / DSV",
+"url": "https://t.me/Crew_Radar/3157",
+"source": "Telegram: @Crew_Radar",
+"found": [
+"2nd officer",
+"dpo",
+"2nd off"
+],
+"fp": "fp-1f194ad61c1b7934",
+"offshore": true,
+"info": {
+"rank": "2nd Officer / DPO",
+"vessel": "OSV, DSV",
+"salary": "400 USD / day",
+"joining": "Not specified",
+"contract": "Not specified"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-05T15:27:28+00:00"
 }
 ],
 "msg_ids": [

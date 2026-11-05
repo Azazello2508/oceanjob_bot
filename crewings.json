@@ -5401,7 +5401,7 @@
 "cv@ariesnav.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-03",
+"last": "2026-11-05",
 "links": {
 "crewell": "https://crewell.net/en/companies/154456/",
 "ukrcrewing": "https://ukrcrewing.com.ua/en/agency/aries_navigation"
@@ -5416,19 +5416,21 @@
 "+380677378727",
 "+380957378727"
 ],
-"so": 0,
+"so": 1,
 "sources": [
 "@CREW_ARIA",
 "@SM_job_center",
+"@maritimeforum",
 "crewell.net",
 "ukrcrewing.com.ua"
 ],
 "telegram": [],
-"total": 9,
+"total": 10,
 "vessels": [
 "Chemical",
 "LPG/LNG",
-"Tanker"
+"Tanker",
+"Tug"
 ],
 "website": "ariesnav.com"
 },
@@ -5614,7 +5616,7 @@
 "ukrcrewing.com.ua"
 ],
 "telegram": [],
-"total": 38,
+"total": 39,
 "vessels": [
 "Bulk",
 "Container",
@@ -8947,7 +8949,7 @@
 "bss.kherson1@gmail.com": {
 "address": "",
 "city": "",
-"co": 0,
+"co": 1,
 "country": "",
 "emails": [
 "bss.kherson1@gmail.com"
@@ -8970,7 +8972,7 @@
 "@shipscreweu"
 ],
 "telegram": [],
-"total": 10,
+"total": 11,
 "vessels": [
 "Bulk",
 "Container",
@@ -11788,7 +11790,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 11,
+"total": 12,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -13254,7 +13256,7 @@
 "recruitment@epsilonhellas.com.ua"
 ],
 "first": "2026-11-03",
-"last": "2026-11-04",
+"last": "2026-11-05",
 "links": {},
 "name": "EPSILON MARITIME SERVICES LTD",
 "off": 6,
@@ -13274,7 +13276,7 @@
 "@supermariner_ua"
 ],
 "telegram": [],
-"total": 21,
+"total": 22,
 "vessels": [
 "Bulk",
 "Container",
@@ -14765,7 +14767,7 @@
 "globalseaways.com": {
 "address": "84, 1 Sonyachna",
 "city": "Odessa",
-"co": 1,
+"co": 2,
 "country": "Ukraine",
 "emails": [
 "odessa@globalseaways.com",
@@ -14788,7 +14790,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 4,
+"total": 5,
 "vessels": [
 "Bulk",
 "Reefer"
@@ -20908,7 +20910,7 @@
 "marineman.eu": {
 "address": "",
 "city": "",
-"co": 10,
+"co": 11,
 "country": "",
 "emails": [
 "b.kasirajan@marineman.eu",
@@ -20946,7 +20948,7 @@
 "@marinemanapply",
 "@rudomyotova"
 ],
-"total": 91,
+"total": 92,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -44246,7 +44248,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 10,
+"total": 11,
 "vessels": [
 "Bulk",
 "General cargo"
@@ -46312,7 +46314,7 @@
 "+380937800894",
 "+380979435590"
 ],
-"so": 30,
+"so": 31,
 "sources": [
 "@SM_job_center",
 "@cvsenderseaman",
@@ -46321,7 +46323,7 @@
 "@supermariner_ua"
 ],
 "telegram": [],
-"total": 187,
+"total": 188,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -48790,7 +48792,7 @@
 "crewell": "https://crewell.net/en/companies/59670/"
 },
 "name": "Total Ship Management",
-"off": 214,
+"off": 215,
 "offshore_hint": false,
 "phones": [
 "+380504924364",
@@ -48816,7 +48818,7 @@
 "@seajobfinder"
 ],
 "telegram": [],
-"total": 262,
+"total": 263,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -54664,24 +54666,24 @@
 "ALPHACREW": 3569,
 "BSMCSCUKRAINE": 4316,
 "CREW_ARIA": 13984,
-"Crew_Radar": 3154,
+"Crew_Radar": 3158,
 "JobForMariners": 1199,
 "Merchant_Fleet": 594,
 "OffshoreFleetJob": 11059,
 "Offshore_Vacancies": 885,
 "OnlyOffshore": 38816,
 "OnlyYacht": 2313,
-"SM_job_center": 2473,
+"SM_job_center": 2474,
 "Sea_format": 12334,
-"TSMexp": 855,
+"TSMexp": 856,
 "Yacht_Vacancies": 290,
 "allcrewing": 3806,
 "andreeyVstart": 1383,
 "balticcareer": 5402,
-"crewingua": 44776,
+"crewingua": 44777,
 "crs_vacancies": 3550,
 "cruiseshipjobs": 3,
-"cvsenderseaman": 15521,
+"cvsenderseaman": 15522,
 "findseajobs": 32567,
 "galaxymaritimeua": 1249,
 "gm_seaman_cv": 2674,
@@ -54690,23 +54692,23 @@
 "job_for_seaman": 17009,
 "jobfor_seamen": 12667,
 "marinecareerorg": 17753,
-"marinejobs": 43083,
+"marinejobs": 43085,
 "marinejobz": 194156,
 "marineman_ltd": 48307,
-"maritimeforum": 255180,
+"maritimeforum": 255181,
 "merchantNavyrealjob": 262,
 "morehod_ru": 30775,
 "oceancrewjobs": 32697,
 "offshoreatsea": 25049,
 "offshorecv": 1576,
-"offshorevacancies": 47096,
+"offshorevacancies": 47098,
 "oilrigs": 778,
 "olive_crew": 2897,
 "onboard_su": 20689,
 "rekamore_su": 164385,
 "roster_marine": 1732,
 "seajobfinder": 42202,
-"seamenjob": 106101,
+"seamenjob": 106102,
 "seamenvacancy": 1372,
 "seavacancies": 25172,
 "shipjobsindia": 420,
