@@ -479,10 +479,10 @@
 "country": "",
 "emails": [],
 "first": "2026-11-03",
-"last": "2026-11-03",
+"last": "2026-11-06",
 "links": {},
 "name": "",
-"off": 11,
+"off": 13,
 "offshore_hint": false,
 "phones": [],
 "so": 0,
@@ -493,7 +493,7 @@
 "telegram": [
 "@offscareer"
 ],
-"total": 11,
+"total": 13,
 "vessels": [
 "Offshore"
 ],
@@ -695,10 +695,10 @@
 "country": "",
 "emails": [],
 "first": "2026-11-03",
-"last": "2026-11-04",
+"last": "2026-11-06",
 "links": {},
 "name": "",
-"off": 4,
+"off": 5,
 "offshore_hint": false,
 "phones": [],
 "so": 0,
@@ -708,7 +708,7 @@
 "telegram": [
 "@Tanker_Vacancies"
 ],
-"total": 4,
+"total": 5,
 "vessels": [
 "Offshore",
 "Tanker"
@@ -52864,7 +52864,7 @@
 "website": ""
 }
 },
-"file_msg": 1767,
+"file_msg": 2525,
 "last_file": "2026-45",
 "names": {
 "-tech solutions": "as-tech.pl",
@@ -54808,12 +54808,12 @@
 "ярбункер offline russian federation member since: apr 2017 no active vacancies view profile": "name:ярбункер offline russian federation member since: apr 2017 no active vacancies view profile",
 "яхт- клуб черномор offline russian federation member since: may 2021 no active vacancies в коттеджный закрытый посёлок в пгт новомихайловский туапсинский район требуется яхтсмен матрос обязанности : организация работы пляжа обслуживание яхт-клуба управлени view profile": "name:яхт- клуб черномор offline russian federation member since: may 2021 no active vacancies в коттеджный закрытый посёлок в пгт новомихайловский туапсинский район требуется яхтсмен матрос обязанности : организация работы пляжа обслуживание яхт-клуба управлени view profile"
 },
-"pinned": 1767,
+"pinned": 2525,
 "queue": [],
 "tg_hw": {
 "ALPHACREW": 3569,
 "BSMCSCUKRAINE": 4316,
-"CREW_ARIA": 13986,
+"CREW_ARIA": 13987,
 "Crew_Radar": 3159,
 "JobForMariners": 1200,
 "Merchant_Fleet": 594,
@@ -54827,7 +54827,7 @@
 "Yacht_Vacancies": 290,
 "allcrewing": 3806,
 "andreeyVstart": 1384,
-"balticcareer": 5404,
+"balticcareer": 5405,
 "crewingua": 44783,
 "crs_vacancies": 3550,
 "cruiseshipjobs": 3,
@@ -54848,7 +54848,7 @@
 "morehod_ru": 30778,
 "oceancrewjobs": 32702,
 "offshoreatsea": 25065,
-"offshorecv": 1576,
+"offshorecv": 1577,
 "offshorevacancies": 47098,
 "oilrigs": 778,
 "olive_crew": 2898,
