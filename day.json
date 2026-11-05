@@ -214,18 +214,271 @@
 "repeat": true,
 "time": "2026-11-05T04:36:27+00:00",
 "junior_dp": false
+},
+{
+"title": "Offshore. Job selection for 05/11/2026",
+"url": "https://t.me/SM_job_center/2472",
+"source": "Telegram: @SM_job_center",
+"found": [
+"chief officer"
+],
+"fp": "fp-9399368b7db193e2",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "AHTS",
+"salary": "$380-$412/day",
+"email": "info@staff-service-expert.com",
+"company": "staff-service-expert.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-05T05:03:11+00:00",
+"junior_dp": false
+},
+{
+"title": "SECOND OFFICER",
+"url": "https://t.me/cvsenderseaman/15385",
+"source": "Telegram: @cvsenderseaman",
+"found": [
+"second officer",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-37a6d08ad9739817",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Product tanker",
+"salary": "6,000 EUR",
+"joining": "end Nov / beg Dec",
+"contract": "4+/-1",
+"email": "recruitment@seaway-international.com",
+"company": "seaway-international.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-05T04:37:51+00:00",
+"junior_dp": false
+},
+{
+"title": "CHIEF OFFICER",
+"url": "https://t.me/cvsenderseaman/15390",
+"source": "Telegram: @cvsenderseaman",
+"found": [
+"chief officer"
+],
+"fp": "fp-9e239af0fc025255",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Chemical tanker",
+"salary": "11000 USD / month",
+"joining": "05.12.2026",
+"contract": "4 months",
+"email": "j.rudomyotova@marineman.eu",
+"company": "marineman.eu"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-05T04:42:31+00:00",
+"junior_dp": false
+},
+{
+"title": "SECOND OFFICER",
+"url": "https://t.me/cvsenderseaman/15393",
+"source": "Telegram: @cvsenderseaman",
+"found": [
+"second officer"
+],
+"fp": "fp-51b1717141f78387",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Bulk carrier",
+"salary": "3500-3700 USD / month",
+"joining": "15.11.2026",
+"contract": "6+1 months",
+"email": "cv@tbc-shipmanagement.com",
+"company": "tbc-shipmanagement.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-05T04:44:31+00:00",
+"junior_dp": false
+},
+{
+"title": "CHIEF OFFICER",
+"url": "https://t.me/cvsenderseaman/15395",
+"source": "Telegram: @cvsenderseaman",
+"found": [
+"chief officer"
+],
+"fp": "fp-b240260bd1ae976c",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Bulk carrier",
+"salary": "7500-8200 USD / month",
+"joining": "15.11.2026",
+"contract": "6+1",
+"email": "cv@tbc-shipmanagement.com",
+"company": "tbc-shipmanagement.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-05T04:45:52+00:00",
+"junior_dp": false
+},
+{
+"title": "CHIEF OFFICER",
+"url": "https://t.me/cvsenderseaman/15399",
+"source": "Telegram: @cvsenderseaman",
+"found": [
+"chief officer",
+"sdpo",
+"dpo"
+],
+"fp": "fp-cfdb7c144694b861",
+"offshore": true,
+"info": {
+"rank": "Chief Officer / SDPO",
+"vessel": "PSV",
+"salary": "Negotiable",
+"joining": "13/11/2026",
+"contract": "8 weeks on / 8 weeks off",
+"email": "a.gulabyan@tospeople.com",
+"company": "tospeople.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-05T04:49:11+00:00",
+"junior_dp": false
+},
+{
+"title": "MASTER",
+"url": "https://t.me/cvsenderseaman/15403",
+"source": "Telegram: @cvsenderseaman",
+"found": [
+"chief mate"
+],
+"fp": "fp-0f4a1aa077542563",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo",
+"salary": "Negotiable",
+"joining": "22 Dec - 14 Jan",
+"email": "career@orca-crew.com",
+"company": "orca-crew.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-05T04:52:31+00:00",
+"junior_dp": false
+},
+{
+"title": "Hiring for PSV",
+"url": "https://t.me/oceancrewjobs/32681",
+"source": "Telegram: @oceancrewjobs",
+"found": [
+"chief officer",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-a7eb49dc6412bbf2",
+"offshore": true,
+"info": {
+"rank": "Chief Officer / 2nd Officer",
+"vessel": "PSV",
+"company": "https://oceancrew.org/vacancies/off…"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-05T04:45:28+00:00",
+"junior_dp": false
+},
+{
+"title": "Positions for Seismic Research Vessels",
+"url": "https://t.me/oceancrewjobs/32682",
+"source": "Telegram: @oceancrewjobs",
+"found": [
+"chief officer",
+"jdpo",
+"2nd officer",
+"sdpo",
+"dpo",
+"jdpo",
+"2nd off"
+],
+"fp": "fp-158308af1db57185",
+"offshore": true,
+"info": {
+"rank": "Chief Officer / 2nd Officer / JDPO",
+"company": "https://oceancrew.org/vacancies/off…"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-05T04:46:23+00:00",
+"junior_dp": true
+},
+{
+"title": "CREW FOR AHTS DP2 VESSEL",
+"url": "https://t.me/oceancrewjobs/32684",
+"source": "Telegram: @oceancrewjobs",
+"found": [
+"chief officer",
+"second officer",
+"dpo"
+],
+"fp": "fp-bfd4933c77382d67",
+"offshore": true,
+"info": {
+"rank": "Chief Officer / 2nd Officer / DPO",
+"vessel": "AHTS",
+"company": "CREW FOR AHTS DP2 VESSEL"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-05T04:46:55+00:00",
+"junior_dp": false
+},
+{
+"title": "Need Candidates for Offshore Vessels",
+"url": "https://t.me/oceancrewjobs/32690",
+"source": "Telegram: @oceancrewjobs",
+"found": [
+"chief officer",
+"2nd officer",
+"sdpo",
+"dpo",
+"2nd off"
+],
+"fp": "fp-9526d7dfda02199d",
+"offshore": true,
+"info": {
+"rank": "Chief Officer / 2nd Officer / SDPO",
+"company": "https://oceancrew.org/vacancies/off…"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-05T04:49:03+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-2250,
-2251,
-2252,
-2253,
-2254,
-2255,
-2256
+2257,
+2258,
+2259,
+2260,
+2261,
+2262,
+2263,
+2264,
+2265,
+2266
 ],
-"last_list": "2026-11-05T04:36:54.845949+00:00",
-"cleared_upto": 2249,
-"last_msg_id": 2256
+"last_list": "2026-11-05T05:26:30.221057+00:00",
+"cleared_upto": 2256,
+"last_msg_id": 2266
 }
