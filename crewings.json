@@ -17795,7 +17795,8 @@
 "phones": [
 "+78124494524",
 "+79218088806",
-"+79218487276"
+"+79218487276",
+"+79219193440"
 ],
 "so": 2,
 "sources": [
@@ -17811,7 +17812,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 28,
+"total": 32,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -17819,6 +17820,7 @@
 "General cargo",
 "LPG/LNG",
 "Offshore",
+"Ro-Ro/PCTC",
 "Tanker",
 "Tug"
 ],
@@ -44986,7 +44988,7 @@
 "crewell": "https://crewell.net/en/companies/64960/"
 },
 "name": "Advance Global Recruitment Ltd",
-"off": 252,
+"off": 253,
 "offshore_hint": false,
 "phones": [],
 "so": 19,
@@ -45005,7 +45007,7 @@
 "@offshoreatsea"
 ],
 "telegram": [],
-"total": 253,
+"total": 254,
 "vessels": [
 "Dredger",
 "General cargo",
@@ -48855,7 +48857,7 @@
 "crewell": "https://crewell.net/en/companies/59670/"
 },
 "name": "Total Ship Management",
-"off": 217,
+"off": 221,
 "offshore_hint": false,
 "phones": [
 "+380504924364",
@@ -48881,7 +48883,7 @@
 "@seajobfinder"
 ],
 "telegram": [],
-"total": 265,
+"total": 269,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -49797,7 +49799,7 @@
 "univis.com.ua": {
 "address": "",
 "city": "",
-"co": 43,
+"co": 45,
 "country": "",
 "emails": [
 "hr@univis.com.ua"
@@ -49813,7 +49815,7 @@
 "+380983194698",
 "+380983286698"
 ],
-"so": 38,
+"so": 39,
 "sources": [
 "@maritimeforum",
 "@seamenjob",
@@ -49822,7 +49824,7 @@
 "telegram": [
 "@univisltd"
 ],
-"total": 165,
+"total": 169,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -54756,13 +54758,13 @@
 "tg_hw": {
 "ALPHACREW": 3569,
 "BSMCSCUKRAINE": 4316,
-"CREW_ARIA": 13984,
+"CREW_ARIA": 13986,
 "Crew_Radar": 3158,
 "JobForMariners": 1200,
 "Merchant_Fleet": 594,
 "OffshoreFleetJob": 11059,
-"Offshore_Vacancies": 885,
-"OnlyOffshore": 38844,
+"Offshore_Vacancies": 887,
+"OnlyOffshore": 38845,
 "OnlyYacht": 2313,
 "SM_job_center": 2474,
 "Sea_format": 12334,
@@ -54774,7 +54776,7 @@
 "crewingua": 44783,
 "crs_vacancies": 3550,
 "cruiseshipjobs": 3,
-"cvsenderseaman": 15524,
+"cvsenderseaman": 15525,
 "findseajobs": 32567,
 "galaxymaritimeua": 1249,
 "gm_seaman_cv": 2674,
@@ -54786,7 +54788,7 @@
 "marinejobs": 43089,
 "marinejobz": 194156,
 "marineman_ltd": 48315,
-"maritimeforum": 255230,
+"maritimeforum": 255242,
 "merchantNavyrealjob": 262,
 "morehod_ru": 30778,
 "oceancrewjobs": 32697,
@@ -54795,8 +54797,8 @@
 "offshorevacancies": 47098,
 "oilrigs": 778,
 "olive_crew": 2898,
-"onboard_su": 20689,
-"rekamore_su": 164386,
+"onboard_su": 20690,
+"rekamore_su": 164389,
 "roster_marine": 1732,
 "seajobfinder": 42202,
 "seamenjob": 106102,
@@ -54808,7 +54810,7 @@
 "supermariner_ua": 3875,
 "truemalina_offshore": 790,
 "ukrcrewing_official": 2375,
-"univis_crewing": 5000,
+"univis_crewing": 5004,
 "vshipsoffshore": 1070
 },
 "tg_low": {

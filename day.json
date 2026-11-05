@@ -5126,6 +5126,173 @@
 "repeat": false,
 "time": "2026-11-05T16:03:02+00:00",
 "junior_dp": false
+},
+{
+"title": "Chief Officer Job on Bulk Carrier Columbia Shipmanagement Ukraine Dry Fleet",
+"url": "https://maritime-union.com/job/232046",
+"source": "maritime-union.com",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Bulk carrier"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-05T17:11:03.842125+00:00",
+"junior_dp": false
+},
+{
+"title": "2nd Officer Job on Cruise Ship Columbia Shipmanagement Ukraine Cruise Services",
+"url": "https://maritime-union.com/job/232052",
+"source": "maritime-union.com",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Cruise"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-05T17:11:03.843765+00:00",
+"junior_dp": false
+},
+{
+"title": "2nd Officer Job on RoRo Vessel Stödig Ship Management Poland sp. z o.o.",
+"url": "https://maritime-union.com/job/232053",
+"source": "maritime-union.com",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Ro-Ro",
+"company": "2nd Officer Job on RoRo Vessel Stöd…"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-05T17:11:03.843914+00:00",
+"junior_dp": false
+},
+{
+"title": "Offshore Job Vacancies: Chief Officer, 2nd Officer, Chief Engineer ACE CONTRACTING EST.",
+"url": "https://maritime-union.com/job/232054",
+"source": "maritime-union.com",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "Chief Officer / 2nd Officer",
+"contract": "ING EST. 232054"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-05T17:11:03.844247+00:00",
+"junior_dp": false
+},
+{
+"title": "Master, Chief Officer, Chief Engineer Jobs on Pollution Control Vessels Aavishka Shipping Private Limited",
+"url": "https://maritime-union.com/job/232055",
+"source": "maritime-union.com",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"company": "Master, Chief Officer, Chief Engine…"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-05T17:11:03.844325+00:00",
+"junior_dp": false
+},
+{
+"title": "Master, Chief Officer, Chief Engineer Jobs on Pollution Control Vessels aavishka.com",
+"url": "https://maritime-union.com/job/232081",
+"source": "maritime-union.com",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-05T17:11:03.844489+00:00",
+"junior_dp": false
+},
+{
+"title": "Position:",
+"url": "https://t.me/CREW_ARIA/13986",
+"source": "Telegram: @CREW_ARIA",
+"found": [
+"dpo"
+],
+"fp": "fp-1c404af9c7bab4a3",
+"offshore": true,
+"info": {
+"rank": "DPO",
+"vessel": "MPP, PSV",
+"salary": "250 USD pday",
+"joining": "mid of November",
+"contract": "2 months",
+"email": "cv@tsmexp.com",
+"company": "tsmexp.com"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-05T17:10:18+00:00",
+"junior_dp": false
+},
+{
+"title": "URGENT VACANCIES FOR DFDE LNG",
+"url": "https://t.me/univis_crewing/5001",
+"source": "Telegram: @univis_crewing",
+"found": [
+"ch/off"
+],
+"fp": "fp-823122699378084a",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "LNG",
+"salary": "s",
+"contract": "4M",
+"email": "hr@univis.com.ua",
+"tg": "univisltd",
+"company": "univis.com.ua"
+},
+"new": true,
+"repeat": true,
+"time": "2026-11-05T16:37:45+00:00",
+"junior_dp": false
+},
+{
+"title": "OPEN VACANCIES FOR CONTAINER FLEET",
+"url": "https://t.me/univis_crewing/5002",
+"source": "Telegram: @univis_crewing",
+"found": [
+"chief officer",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-0dbecf4252e59370",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer",
+"vessel": "Container",
+"salary": "11000-11700$",
+"contract": "4 +/-1",
+"email": "hr@univis.com.ua",
+"tg": "univisltd",
+"company": "univis.com.ua"
+},
+"new": true,
+"repeat": true,
+"time": "2026-11-05T16:38:06+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
@@ -5151,5 +5318,5 @@
 ],
 "last_list": "2026-11-05T16:22:28.908720+00:00",
 "cleared_upto": 2435,
-"last_msg_id": 2454
+"last_msg_id": 2464
 }
