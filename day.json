@@ -2249,6 +2249,152 @@
 "repeat": false,
 "time": "2026-11-05T09:28:40+00:00",
 "junior_dp": false
+},
+{
+"title": "Chief Officer on Oil/chemical tanker",
+"url": "https://crewell.net/en/vacancies/464860/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Chemical tanker"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-05T10:02:38.178398+00:00"
+},
+{
+"title": "Chief Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/368675",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-05T10:02:39.341338+00:00"
+},
+{
+"title": "Chief Officer",
+"url": "https://seajobs.ru/ru/vacancy/17986/chief-officer-chemicaloil-products-tanker",
+"source": "seajobs.ru",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Chemical tanker"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-05T10:02:48.001042+00:00"
+},
+{
+"title": "VACANCY: SECOND ENGINEER",
+"url": "https://t.me/crewingua/44764",
+"source": "Telegram: @crewingua",
+"found": [
+"chief officer"
+],
+"fp": "fp-fd0124fa877b6847",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Bulk carrier",
+"salary": "8500",
+"joining": "Asap",
+"contract": "4 +/- 1 months",
+"email": "crew@raymarinecrewing.com",
+"tg": "AnastasiaKRayMarine",
+"company": "raymarinecrewing.com"
+},
+"new": true,
+"repeat": true,
+"time": "2026-11-05T10:01:02+00:00"
+},
+{
+"title": "CHIEF OFFICER – LNG VESSEL",
+"url": "https://t.me/balticcareer/5364",
+"source": "Telegram: @balticcareer",
+"found": [
+"chief officer"
+],
+"fp": "fp-485c22df4a77b595",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "LNG",
+"salary": "17300 USD / month",
+"contract": "2.5 months +/-2 weeks"
+},
+"new": true,
+"repeat": true,
+"time": "2026-11-05T09:36:40+00:00"
+},
+{
+"title": "CHIEF OFFICER – BULK CARRIER",
+"url": "https://t.me/balticcareer/5372",
+"source": "Telegram: @balticcareer",
+"found": [
+"chief officer"
+],
+"fp": "fp-e2447d0533f73acd",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Bulk carrier",
+"salary": "8200 USD / month",
+"contract": "4 months"
+},
+"new": true,
+"repeat": true,
+"time": "2026-11-05T09:56:12+00:00"
+},
+{
+"title": "2nd Officer",
+"url": "https://t.me/offshoreatsea/25020",
+"source": "Telegram: @offshoreatsea",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-2fb7ee4f27b10ccf",
+"offshore": true,
+"info": {
+"rank": "2nd Officer",
+"contract": "6 weeks +/",
+"email": "alfie.smart@selectoffshore.com",
+"company": "selectoffshore.com"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-05T09:57:37+00:00"
+},
+{
+"title": "URGENT VACANCY - 2nd ENGINEER - ERRV Experience",
+"url": "https://t.me/gm_seaman_cv/2671",
+"source": "Telegram: @gm_seaman_cv",
+"found": [
+"chief officer"
+],
+"fp": "fp-d1cbc504a26eb818",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo",
+"salary": "£55,000/Year",
+"joining": "in Oban, Scotland on the 20th",
+"email": "shelly.mountain@crewingservices.co.uk",
+"company": "crewingservices.co.uk"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-05T09:57:20+00:00"
 }
 ],
 "msg_ids": [
