@@ -1,10 +1,32 @@
 {
 "date": "2026-11-06",
-"jobs": [],
-"msg_ids": [
-2524
+"jobs": [
+{
+"title": "Urgent Offshore Opportunities",
+"url": "https://t.me/marinejobs/43091",
+"source": "Telegram: @marinejobs",
+"found": [
+"dpo"
 ],
-"last_list": "2026-11-05T20:29:44.082717+00:00",
-"cleared_upto": 2523,
-"last_msg_id": 2524
+"fp": "fp-bafe388bd96494d7",
+"offshore": true,
+"info": {
+"rank": "DPO",
+"contract": "4‑on / 4‑off rotation",
+"email": "Tilly.M@worldwide-rs.com",
+"company": "worldwide-rs.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-05T22:34:46+00:00",
+"junior_dp": false
+}
+],
+"msg_ids": [
+2527,
+2528
+],
+"last_list": "2026-11-05T22:37:47.342936+00:00",
+"cleared_upto": 2526,
+"last_msg_id": 2528
 }
