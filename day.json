@@ -1200,24 +1200,329 @@
 "repeat": false,
 "time": "2026-11-05T06:51:42+00:00",
 "junior_dp": false
+},
+{
+"title": "Chief Officer on Crude oil tanker",
+"url": "https://crewell.net/en/vacancies/464791/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Crude oil tanker"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-05T07:53:47.793264+00:00",
+"junior_dp": false
+},
+{
+"title": "Chief Officer on General Cargo Vessel",
+"url": "https://crewell.net/en/vacancies/464795/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-05T07:53:47.794489+00:00",
+"junior_dp": false
+},
+{
+"title": "Chief Officer on Crude oil tanker",
+"url": "https://crewell.net/en/vacancies/464797/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Crude oil tanker"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-05T07:53:47.794578+00:00",
+"junior_dp": false
+},
+{
+"title": "Chief Officer",
+"url": "https://seajobs.ru/ru/vacancy/17980/chief-officer-crude-oil-tanker",
+"source": "seajobs.ru",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Crude oil tanker"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-05T07:54:00.576543+00:00",
+"junior_dp": false
+},
+{
+"title": "СРОЧНО / URGENT VACANCIES • VLGC FLEET • ASAP EMBARKATION",
+"url": "https://t.me/maritimeforum/254904",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-11f00018051dfa22",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer",
+"salary": "(Salary)",
+"joining": "в самое ближайшее время (",
+"contract": "(Contract)"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-05T07:18:56+00:00",
+"junior_dp": false
+},
+{
+"title": "ГОРЯЩАЯ ВАКАНСИЯ / URGENT VACANCY",
+"url": "https://t.me/maritimeforum/254907",
+"source": "Telegram: @maritimeforum",
+"found": [
+"2nd officer",
+"2off",
+"2nd off"
+],
+"fp": "fp-19f1e39ceb3b672d",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Container",
+"salary": "Должность",
+"joining": "срочная!",
+"contract": "а"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-05T07:41:32+00:00",
+"junior_dp": false
+},
+{
+"title": "Открытые вакансии на суда типа VLGC (Very Large Gas Carrier)",
+"url": "https://t.me/maritimeforum/254909",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer",
+"старший помощник"
+],
+"fp": "fp-1b0aea7dda1924a0",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"salary": "12 500 USD",
+"contract": "а"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-05T07:42:43+00:00",
+"junior_dp": false
+},
+{
+"title": "AQUAMARINE SHIPPING LLC",
+"url": "https://t.me/crewingua/44753",
+"source": "Telegram: @crewingua",
+"found": [
+"chief officer"
+],
+"fp": "fp-e84e6732b461fcc8",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "LNG",
+"joining": "ASAP",
+"email": "application@aquamarine-crew.com",
+"company": "aquamarine-crew.com"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-05T07:19:03+00:00",
+"junior_dp": false
+},
+{
+"title": "AQUAMARINE SHIPPING LLC",
+"url": "https://t.me/crewingua/44754",
+"source": "Telegram: @crewingua",
+"found": [
+"chief officer"
+],
+"fp": "fp-891c1351a04c05bf",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Bulk carrier",
+"joining": "URGENT",
+"email": "application@aquamarine-crew.com",
+"company": "aquamarine-crew.com"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-05T07:30:04+00:00",
+"junior_dp": false
+},
+{
+"title": "СРОЧНАЯ ВАКАНСИЯ",
+"url": "https://t.me/crewingua/44757",
+"source": "Telegram: @crewingua",
+"found": [
+"c/o"
+],
+"fp": "fp-4c44f3cd480a97f9",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"salary": "5100Eur",
+"email": "dept.crew@gmail.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-05T07:50:56+00:00",
+"junior_dp": false
+},
+{
+"title": "DANAOS SHIPPING LTD (UKRAINE)",
+"url": "https://t.me/job_for_seaman/16998",
+"source": "Telegram: @job_for_seaman",
+"found": [
+"2nd off"
+],
+"fp": "fp-2d0ae2cc7a6e43ec",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Bulk carrier, Container",
+"salary": "LIST OVERVIEW",
+"contract": "4±1 mo (Officers) / 7±1 m",
+"email": "danukr@danaos.od.ua",
+"tg": "DanaosUkraine",
+"company": "danaos.od.ua"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-05T07:37:01+00:00",
+"junior_dp": false
+},
+{
+"title": "Master",
+"url": "https://t.me/offshoreatsea/25000",
+"source": "Telegram: @offshoreatsea",
+"found": [
+"sdpo",
+"dpo"
+],
+"fp": "fp-ef357799a810b821",
+"offshore": true,
+"info": {
+"rank": "SDPO",
+"vessel": "PSV, MPSV",
+"joining": "ASAP",
+"contract": "12 weeks"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-05T07:53:27+00:00",
+"junior_dp": false
+},
+{
+"title": "Chief Officer",
+"url": "https://t.me/offshoreatsea/25001",
+"source": "Telegram: @offshoreatsea",
+"found": [
+"chief officer",
+"sdpo",
+"dpo"
+],
+"fp": "fp-f5a14cf85fe7d84f",
+"offshore": true,
+"info": {
+"rank": "Chief Officer / SDPO",
+"vessel": "PSV, MPSV",
+"joining": "ASAP",
+"contract": "12 weeks"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-05T07:53:28+00:00",
+"junior_dp": false
+},
+{
+"title": "2nd Officer",
+"url": "https://t.me/offshoreatsea/25002",
+"source": "Telegram: @offshoreatsea",
+"found": [
+"2nd officer",
+"dpo",
+"2nd off"
+],
+"fp": "fp-0c78b925c6b519e2",
+"offshore": true,
+"info": {
+"rank": "2nd Officer / DPO",
+"vessel": "PSV, MPSV",
+"joining": "ASAP",
+"contract": "12 weeks"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-05T07:53:30+00:00",
+"junior_dp": false
+},
+{
+"title": "SECOND OFFICER DPO",
+"url": "https://t.me/cvsenderseaman/15438",
+"source": "Telegram: @cvsenderseaman",
+"found": [
+"second officer",
+"2nd officer",
+"dpo",
+"2nd off"
+],
+"fp": "fp-90bf82eb4e77585a",
+"offshore": true,
+"info": {
+"rank": "2nd Officer / DPO",
+"vessel": "PSV",
+"salary": "Negotiable",
+"joining": "ASAP",
+"contract": "2 months on / 2",
+"email": "nvms-ro-crew@navmar.eu",
+"company": "navmar.eu"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-05T07:12:31+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-2278,
-2279,
-2280,
-2281,
-2282,
-2283,
-2284,
-2285,
-2286,
-2287,
-2288,
-2289,
-2290
+2291,
+2292,
+2293,
+2294,
+2295,
+2296,
+2297,
+2298,
+2299,
+2300,
+2301,
+2302,
+2303,
+2304
 ],
-"last_list": "2026-11-05T07:05:39.793901+00:00",
-"cleared_upto": 2277,
-"last_msg_id": 2290
+"last_list": "2026-11-05T07:55:11.488714+00:00",
+"cleared_upto": 2290,
+"last_msg_id": 2304
 }

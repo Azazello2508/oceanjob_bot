@@ -5020,14 +5020,14 @@
 "aquamarine-crew.com": {
 "address": "Polskyi descent 11",
 "city": "Odessa",
-"co": 23,
+"co": 25,
 "country": "Ukraine",
 "emails": [
 "application@aquamarine-crew.com",
 "application@aquamarine-shipping.ae"
 ],
 "first": "2026-11-03",
-"last": "2026-11-04",
+"last": "2026-11-05",
 "links": {
 "crewell": "https://crewell.net/en/companies/161628/",
 "ukrcrewing": "https://ukrcrewing.com.ua/en/agency/aquamarine_odessa"
@@ -5037,6 +5037,7 @@
 "offshore_hint": false,
 "phones": [
 "+380633459525",
+"+380688642795",
 "+380989455106",
 "+923398101994"
 ],
@@ -5047,7 +5048,7 @@
 "ukrcrewing.com.ua"
 ],
 "telegram": [],
-"total": 34,
+"total": 38,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -11542,7 +11543,7 @@
 "danukr@danaos.od.ua"
 ],
 "first": "2026-11-03",
-"last": "2026-11-03",
+"last": "2026-11-05",
 "links": {},
 "name": "DANAOS SHIPPING LTD",
 "off": 0,
@@ -11550,7 +11551,7 @@
 "phones": [
 "+380994853436"
 ],
-"so": 6,
+"so": 7,
 "sources": [
 "@job_for_seaman",
 "@marinejobs"
@@ -11558,7 +11559,7 @@
 "telegram": [
 "@DanaosUkraine"
 ],
-"total": 7,
+"total": 8,
 "vessels": [
 "Bulk",
 "Container"
@@ -11973,13 +11974,13 @@
 "dept.crew@gmail.com": {
 "address": "",
 "city": "",
-"co": 1,
+"co": 2,
 "country": "",
 "emails": [
 "dept.crew@gmail.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-04",
+"last": "2026-11-05",
 "links": {},
 "name": "",
 "off": 0,
@@ -11992,7 +11993,7 @@
 "@crewingua"
 ],
 "telegram": [],
-"total": 20,
+"total": 21,
 "vessels": [
 "Bulk",
 "General cargo"
@@ -15338,7 +15339,7 @@
 "team2@goodwinds.ro"
 ],
 "first": "2026-11-03",
-"last": "2026-11-04",
+"last": "2026-11-05",
 "links": {
 "crewell": "https://crewell.net/en/companies/246245/"
 },
@@ -15352,10 +15353,12 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 2,
+"total": 3,
 "vessels": [
 "Bulk",
-"Passenger"
+"Chemical",
+"Passenger",
+"Tanker"
 ],
 "website": "goodwinds.ro"
 },
@@ -17621,6 +17624,7 @@
 "offshore_hint": false,
 "phones": [
 "+78124494524",
+"+79218088806",
 "+79218487276"
 ],
 "so": 2,
@@ -17637,7 +17641,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 24,
+"total": 26,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -36242,6 +36246,32 @@
 "vessels": [],
 "website": ""
 },
+"name:смарт шиппинг": {
+"address": "",
+"city": "",
+"co": 0,
+"country": "",
+"emails": [
+"anastasya_afanaseva@mail.ru"
+],
+"first": "2026-11-05",
+"last": "2026-11-05",
+"links": {},
+"name": "ООО «Смарт Шиппинг»",
+"off": 0,
+"offshore_hint": false,
+"phones": [
+"+79381666514"
+],
+"so": 0,
+"sources": [
+"@rekamore_su"
+],
+"telegram": [],
+"total": 1,
+"vessels": [],
+"website": ""
+},
 "name:темп+ offline russian federation member since: nov 2016 no active vacancies судоходная компания &quot;темп+&quot; осуществляет свою деятельность с 2004г флот насчитывает в себе 15 судов из которых волгонефть 115; волгонефть 159; т/х &quot;леонид view profile": {
 "address": "",
 "city": "",
@@ -37392,15 +37422,15 @@
 "last": "2026-11-05",
 "links": {},
 "name": "",
-"off": 2,
+"off": 3,
 "offshore_hint": false,
 "phones": [],
-"so": 2,
+"so": 3,
 "sources": [
 "@cvsenderseaman"
 ],
 "telegram": [],
-"total": 2,
+"total": 3,
 "vessels": [
 "Offshore"
 ],
@@ -38504,7 +38534,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 13,
+"total": 15,
 "vessels": [
 "Chemical",
 "Tanker"
@@ -40232,7 +40262,7 @@
 "crewing@peleng-line.ru"
 ],
 "first": "2026-11-03",
-"last": "2026-11-03",
+"last": "2026-11-05",
 "links": {},
 "name": "",
 "off": 0,
@@ -40245,7 +40275,7 @@
 "@seamenjob"
 ],
 "telegram": [],
-"total": 3,
+"total": 4,
 "vessels": [
 "Container",
 "General cargo"
@@ -41552,7 +41582,7 @@
 "crew@raymarinecrewing.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-04",
+"last": "2026-11-05",
 "links": {
 "crewell": "https://crewell.net/en/companies/374687/"
 },
@@ -41578,7 +41608,7 @@
 "@DaniilPRayMarine",
 "@anastasiaChRayMarine"
 ],
-"total": 138,
+"total": 139,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -50232,7 +50262,7 @@
 "tturygina@vodohod.ru"
 ],
 "first": "2026-11-03",
-"last": "2026-11-04",
+"last": "2026-11-05",
 "links": {},
 "name": "ООО «ВодоходЪ»",
 "off": 0,
@@ -50244,7 +50274,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 22,
+"total": 28,
 "vessels": [],
 "website": ""
 },
@@ -52886,6 +52916,7 @@
 "good crewing": "goodcrew.pro",
 "good luck maritime": "goodluckmaritime.com",
 "good winds marine services": "goodwinds.ro",
+"good winds marine services s r l": "goodwinds.ro",
 "gota offline estonia member since: may 2022 no active vacancies gota shipping oü in tallinn is managing crewing on vessels under different flags and was founded already in 1992 gota is working with sailors from baltic countries russ view profile": "name:gota offline estonia member since: may 2022 no active vacancies gota shipping oü in tallinn is managing crewing on vessels under different flags and was founded already in 1992 gota is working with sailors from baltic countries russ view profile",
 "gota shipping oü": "gotaship.com",
 "gourdomichalis maritime s a": "gmsa.gr",
@@ -54115,6 +54146,7 @@
 "ск морвенна": "mwship.ru",
 "ск трансфлот": "name:ск трансфлот",
 "сканшип нева": "skanship.ru",
+"смарт шиппинг": "name:смарт шиппинг",
 "совфрахт": "sovfracht.ru",
 "стаксель": "sam-office.org",
 "строительная дноуглубительная компания": "cdc.business",
@@ -54176,36 +54208,36 @@
 "Yacht_Vacancies": 290,
 "allcrewing": 3805,
 "andreeyVstart": 1380,
-"balticcareer": 5346,
-"crewingua": 44752,
+"balticcareer": 5348,
+"crewingua": 44757,
 "crs_vacancies": 3547,
 "cruiseshipjobs": 3,
-"cvsenderseaman": 15436,
+"cvsenderseaman": 15439,
 "findseajobs": 32567,
 "galaxymaritimeua": 1249,
 "gm_seaman_cv": 2669,
 "help_seafarers": 4884,
 "ismira_agency": 439,
-"job_for_seaman": 16997,
+"job_for_seaman": 16998,
 "jobfor_seamen": 12651,
 "marinecareerorg": 17753,
 "marinejobs": 43062,
 "marinejobz": 194156,
 "marineman_ltd": 48305,
-"maritimeforum": 254901,
+"maritimeforum": 254911,
 "merchantNavyrealjob": 262,
-"morehod_ru": 30755,
+"morehod_ru": 30757,
 "oceancrewjobs": 32697,
-"offshoreatsea": 24999,
+"offshoreatsea": 25002,
 "offshorecv": 1573,
 "offshorevacancies": 47079,
 "oilrigs": 778,
 "olive_crew": 2894,
 "onboard_su": 20679,
-"rekamore_su": 164343,
+"rekamore_su": 164353,
 "roster_marine": 1731,
 "seajobfinder": 42202,
-"seamenjob": 106091,
+"seamenjob": 106092,
 "seamenvacancy": 1372,
 "seavacancies": 25168,
 "shipjobsindia": 420,
@@ -54213,7 +54245,7 @@
 "sidantey": 399,
 "supermariner_ua": 3873,
 "truemalina_offshore": 790,
-"ukrcrewing_official": 2374,
+"ukrcrewing_official": 2375,
 "univis_crewing": 4998,
 "vshipsoffshore": 1070
 },
