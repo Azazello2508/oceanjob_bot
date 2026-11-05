@@ -628,22 +628,596 @@
 "repeat": false,
 "time": "2026-11-05T06:01:57+00:00",
 "junior_dp": false
+},
+{
+"title": "2nd Officer  for Floating Crane Vessel",
+"url": "https://oceancrew.org/vacancies/offshore/2nd-officer/2nd-officer-for-floating-crane-vessel-2_05-11-2026",
+"source": "oceancrew.org",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "2nd Officer"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-05T07:04:32.779177+00:00",
+"junior_dp": false
+},
+{
+"title": "Chief Officer for Floating Crane Vessel",
+"url": "https://oceancrew.org/vacancies/offshore/chief-officer/chief-officer-for-floating-crane-vessel_05-11-2026",
+"source": "oceancrew.org",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "Chief Officer"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-05T07:04:32.780273+00:00",
+"junior_dp": false
+},
+{
+"title": "YCrewing”, maritime agency, rendering mediatory services for seafarers employment",
+"url": "https://t.me/jobfor_seamen/12650",
+"source": "Telegram: @jobfor_seamen",
+"found": [
+"chief officer",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-1e6b4be515aae3ba",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer",
+"vessel": "LPG, Chemical tanker",
+"salary": "13000$",
+"email": "crew@ycrewing.com",
+"tg": "ycrewing",
+"company": "ycrewing.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-05T06:59:04+00:00",
+"junior_dp": false
+},
+{
+"title": "«YCrewing», maritime agency, rendering services for seafarers employment",
+"url": "https://t.me/jobfor_seamen/12651",
+"source": "Telegram: @jobfor_seamen",
+"found": [
+"chief officer"
+],
+"fp": "fp-4e671b163dd64e3b",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "VLCC",
+"salary": "13500$",
+"email": "crew@ycrewing.com",
+"tg": "ycrewing",
+"company": "ycrewing.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-05T06:59:18+00:00",
+"junior_dp": false
+},
+{
+"title": "Компания ООО “Трансоптимал СПБ” приглашает на работу:",
+"url": "https://t.me/rekamore_su/164315",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-a30fa0f6d174db13",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "LNG, General cargo",
+"salary": "124 870 рублей (чистыми на рук…",
+"joining": "❗️",
+"email": "transoptimalng@mail.ru",
+"company": "️ Компания ООО “Трансоптимал СПБ”"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-05T06:20:04+00:00",
+"junior_dp": false
+},
+{
+"title": "Компания ООО “Трэвелер Шиппинг” приглашает на работу:",
+"url": "https://t.me/rekamore_su/164321",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-42888872d2f67410",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Chemical tanker",
+"joining": "❗️",
+"email": "gavrilova_o@astonfleet.com",
+"company": "astonfleet.com"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-05T06:24:06+00:00",
+"junior_dp": false
+},
+{
+"title": "Компания ООО НП «Балтийское Морское Пароходство» приглашает на работу:",
+"url": "https://t.me/rekamore_su/164326",
+"source": "Telegram: @rekamore_su",
+"found": [
+"2off"
+],
+"fp": "fp-12f2b92bbfaa1dd8",
+"offshore": true,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Crude oil tanker",
+"salary": "2000 USD",
+"joining": "ASAP",
+"company": "ООО НП «Балтийское Морское Пароходс…"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-05T06:39:03+00:00",
+"junior_dp": false
+},
+{
+"title": "Компания ООО НП «Балтийское Морское Пароходство» приглашает на работу:",
+"url": "https://t.me/rekamore_su/164328",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-53cb10282b74dc9f",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Reefer",
+"salary": "5 500 USD",
+"joining": "СРОЧНАЯ в Санкт-Петербурге",
+"contract": "4+1",
+"company": "ООО НП «Балтийское Морское Пароходс…"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-05T06:39:10+00:00",
+"junior_dp": false
+},
+{
+"title": "Судоходная компания \"Eco Shipping\" приглашает на работу:",
+"url": "https://t.me/rekamore_su/164331",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-3e2be08a86d4c374",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo",
+"salary": "365 000 рублей",
+"joining": "ноябрь- декабрь",
+"contract": "5/5 ( +/-1)",
+"email": "e.kievskaya@ecoshp.ru",
+"company": "ecoshp.ru"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-05T06:40:09+00:00",
+"junior_dp": false
+},
+{
+"title": "Компания \"Polluks Star\" приглашает на работу:",
+"url": "https://t.me/rekamore_su/164332",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-91320816d8878000",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo",
+"salary": "7300 евро",
+"joining": "15 ноября",
+"contract": "4 месяца",
+"email": "info@polluks-star.com",
+"company": "polluks-star.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-05T06:43:05+00:00",
+"junior_dp": false
+},
+{
+"title": "В судоходную компанию \"Дельта\" требуется:",
+"url": "https://t.me/rekamore_su/164342",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-659260022db932d7",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo",
+"salary": "300 000 руб",
+"email": "staff@delta152.ru",
+"company": "delta152.ru"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-05T06:58:05+00:00",
+"junior_dp": false
+},
+{
+"title": "Chief Officer",
+"url": "https://t.me/offshoreatsea/24969",
+"source": "Telegram: @offshoreatsea",
+"found": [
+"chief officer"
+],
+"fp": "fp-537e8903edc76e79",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "AHTS",
+"email": "crew@nimbusmarinegroup.com",
+"company": "nimbusmarinegroup.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-05T06:32:47+00:00",
+"junior_dp": false
+},
+{
+"title": "Chief Mate",
+"url": "https://t.me/offshoreatsea/24976",
+"source": "Telegram: @offshoreatsea",
+"found": [
+"chief mate"
+],
+"fp": "fp-73ee344a4626bcd9",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"email": "admin@fortisengineering.net",
+"company": "fortisengineering.net"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-05T06:32:56+00:00",
+"junior_dp": false
+},
+{
+"title": "Chief Officer",
+"url": "https://t.me/offshoreatsea/24982",
+"source": "Telegram: @offshoreatsea",
+"found": [
+"chief officer"
+],
+"fp": "fp-7efd9a44d921919e",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"email": "admin@fortisengineering.net",
+"company": "fortisengineering.net"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-05T06:33:08+00:00",
+"junior_dp": false
+},
+{
+"title": "Master",
+"url": "https://t.me/offshoreatsea/24985",
+"source": "Telegram: @offshoreatsea",
+"found": [
+"sdpo",
+"dpo"
+],
+"fp": "fp-7516d3c41f637865",
+"offshore": true,
+"info": {
+"rank": "SDPO",
+"vessel": "PSV, MPSV",
+"joining": "ASAP; full DP certification ma",
+"contract": "12 weeks"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-05T06:33:13+00:00",
+"junior_dp": false
+},
+{
+"title": "Chief Officer",
+"url": "https://t.me/offshoreatsea/24987",
+"source": "Telegram: @offshoreatsea",
+"found": [
+"chief officer",
+"sdpo",
+"dpo"
+],
+"fp": "fp-1a9003978a6e089a",
+"offshore": true,
+"info": {
+"rank": "Chief Officer / SDPO",
+"vessel": "PSV, MPSV",
+"joining": "ASAP; full DP certification ma",
+"contract": "12 weeks"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-05T06:33:14+00:00",
+"junior_dp": false
+},
+{
+"title": "2nd Officer",
+"url": "https://t.me/offshoreatsea/24988",
+"source": "Telegram: @offshoreatsea",
+"found": [
+"2nd officer",
+"dpo",
+"2nd off"
+],
+"fp": "fp-60b6970d6b026032",
+"offshore": true,
+"info": {
+"rank": "2nd Officer / DPO",
+"vessel": "PSV, MPSV",
+"joining": "ASAP; full DP certification ma",
+"contract": "12 weeks"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-05T06:33:14+00:00",
+"junior_dp": false
+},
+{
+"title": "Chief Officer",
+"url": "https://t.me/offshoreatsea/24999",
+"source": "Telegram: @offshoreatsea",
+"found": [
+"chief officer"
+],
+"fp": "fp-d446b82668244201",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "PSV, AHTS",
+"salary": "To be discussed during the int…",
+"joining": "subject to issuance of ARAMCO",
+"contract": "90 days on / 60 days off",
+"email": "jobs@aavishka.com",
+"company": "aavishka.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-05T06:33:44+00:00",
+"junior_dp": false
+},
+{
+"title": "CHIEF OFFICER",
+"url": "https://t.me/cvsenderseaman/15406",
+"source": "Telegram: @cvsenderseaman",
+"found": [
+"chief officer"
+],
+"fp": "fp-54dfa8eb931506f2",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "PSV, AHTS",
+"salary": "Negotiable",
+"joining": "ASAP",
+"contract": "90/60 rotation",
+"email": "jobs@aavishka.com",
+"company": "aavishka.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-05T06:23:12+00:00",
+"junior_dp": false
+},
+{
+"title": "SECOND OFFICER",
+"url": "https://t.me/cvsenderseaman/15407",
+"source": "Telegram: @cvsenderseaman",
+"found": [
+"second officer",
+"2nd officer",
+"dpo",
+"2nd off"
+],
+"fp": "fp-d4257e7dd84503f2",
+"offshore": true,
+"info": {
+"rank": "2nd Officer / DPO",
+"vessel": "PSV",
+"salary": "Negotiable",
+"joining": "Beginning of December",
+"contract": "2 months on / 2 months of",
+"email": "nvms-ro-crew@navmar.eu",
+"company": "navmar.eu"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-05T06:23:52+00:00",
+"junior_dp": false
+},
+{
+"title": "CHIEF ENGINEER, CHIEF OFFICER, SECOND ENGINEER",
+"url": "https://t.me/cvsenderseaman/15410",
+"source": "Telegram: @cvsenderseaman",
+"found": [
+"chief officer"
+],
+"fp": "fp-fcb313e5a0d1d21f",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"salary": "Negotiable",
+"joining": "12-20",
+"contract": "Approximately 26 days",
+"email": "p.us@tospeople.com",
+"company": "tospeople.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-05T06:25:51+00:00",
+"junior_dp": false
+},
+{
+"title": "CHIEF OFFICER",
+"url": "https://t.me/cvsenderseaman/15412",
+"source": "Telegram: @cvsenderseaman",
+"found": [
+"chief officer"
+],
+"fp": "fp-f304b651744c44d6",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Bulk carrier",
+"salary": "9,000 USD",
+"joining": "ASAP",
+"contract": "4 months +/- 1 month",
+"email": "office@conshipping.ro",
+"company": "conshipping.ro"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-05T06:27:11+00:00",
+"junior_dp": false
+},
+{
+"title": "CHIEF OFFICER",
+"url": "https://t.me/cvsenderseaman/15419",
+"source": "Telegram: @cvsenderseaman",
+"found": [
+"chief officer"
+],
+"fp": "fp-f4310724760c53ac",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "AHTS",
+"salary": "Negotiable",
+"joining": "ASAP",
+"email": "crew@nimbusmarinegroup.com",
+"company": "nimbusmarinegroup.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-05T06:46:32+00:00",
+"junior_dp": false
+},
+{
+"title": "CHIEF OFFICER",
+"url": "https://t.me/cvsenderseaman/15424",
+"source": "Telegram: @cvsenderseaman",
+"found": [
+"chief officer"
+],
+"fp": "fp-1c4f1320ee09937e",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"salary": "Negotiable",
+"joining": "ASAP",
+"email": "admin@fortisengineering.net",
+"company": "fortisengineering.net"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-05T06:49:52+00:00",
+"junior_dp": false
+},
+{
+"title": "SECOND OFFICER",
+"url": "https://t.me/cvsenderseaman/15425",
+"source": "Telegram: @cvsenderseaman",
+"found": [
+"second officer"
+],
+"fp": "fp-5a93386b4f5025b4",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"salary": "Negotiable",
+"joining": "ASAP",
+"email": "admin@fortisengineering.net",
+"company": "fortisengineering.net"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-05T06:50:32+00:00",
+"junior_dp": false
+},
+{
+"title": "Open Positions for Floating Crane Vessel",
+"url": "https://t.me/oceancrewjobs/32696",
+"source": "Telegram: @oceancrewjobs",
+"found": [
+"chief officer",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-32eeeceee0f28109",
+"offshore": true,
+"info": {
+"rank": "Chief Officer / 2nd Officer",
+"company": "https://oceancrew.org/vacancies/off…"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-05T06:51:19+00:00",
+"junior_dp": false
+},
+{
+"title": "Need Candidates for Motor Yachts (WW)",
+"url": "https://t.me/oceancrewjobs/32697",
+"source": "Telegram: @oceancrewjobs",
+"found": [
+"second officer"
+],
+"fp": "fp-570d6b6b60e47bfe",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "AHTS, Cruise",
+"company": "https://oceancrew.org/vacancies/cru…"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-05T06:51:42+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-2267,
-2268,
-2269,
-2270,
-2271,
-2272,
-2273,
-2274,
-2275,
-2276,
-2277
+2278,
+2279,
+2280,
+2281,
+2282,
+2283,
+2284,
+2285,
+2286,
+2287,
+2288,
+2289,
+2290
 ],
-"last_list": "2026-11-05T06:16:04.369482+00:00",
-"cleared_upto": 2266,
-"last_msg_id": 2277
+"last_list": "2026-11-05T07:05:39.793901+00:00",
+"cleared_upto": 2277,
+"last_msg_id": 2290
 }
