@@ -464,21 +464,186 @@
 "repeat": false,
 "time": "2026-11-05T04:49:03+00:00",
 "junior_dp": false
+},
+{
+"title": "Chief Officer on Crude oil tanker",
+"url": "https://crewell.net/en/vacancies/464780/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Crude oil tanker"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-05T06:14:37.839453+00:00",
+"junior_dp": false
+},
+{
+"title": "Chief Officer",
+"url": "https://seajobs.ru/ru/vacancy/17976/chief-officer-crude-oil-tanker",
+"source": "seajobs.ru",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Crude oil tanker"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-05T06:14:52.802663+00:00",
+"junior_dp": false
+},
+{
+"title": "Компания ООО “ТК Северный проект” приглашает на работу:",
+"url": "https://t.me/rekamore_su/164301",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-ebeb13f3c616dd74",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo",
+"salary": "360 000 рублей ежемесячно + от…",
+"joining": "срочная",
+"contract": "4 месяца",
+"email": "rabota@ashipping.ru",
+"company": "ashipping.ru"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-05T05:32:07+00:00",
+"junior_dp": false
+},
+{
+"title": "Компания \"Columbia Shipmanagement\" (Новороссийск) приглашает на работу:",
+"url": "https://t.me/rekamore_su/164303",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-e8ccdff4f504552a",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Tanker",
+"salary": "11 000 $ (discussable up to 11…",
+"contract": "4 мес",
+"email": "columbia@novocsmru.com",
+"company": "novocsmru.com"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-05T05:34:09+00:00",
+"junior_dp": false
+},
+{
+"title": "ООО «Балтийская Морская Компания» ведет набор специалистов в компанию \"RIX SHIPMANAGEMENT LTD\" (CYPRUS):",
+"url": "https://t.me/rekamore_su/164307",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-13c81967d96df0a7",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"salary": "7 600 евро",
+"contract": "4 месяца (+/- 1 месяц)",
+"email": "CREW@BALTICSS.COM",
+"company": "balticss.com"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-05T05:42:03+00:00",
+"junior_dp": false
+},
+{
+"title": "Компания ООО \"Легаси Марин\" приглашает на работу:",
+"url": "https://t.me/rekamore_su/164310",
+"source": "Telegram: @rekamore_su",
+"found": [
+"chief officer",
+"старший помощник"
+],
+"fp": "fp-48616b2d13993a9e",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Aframax",
+"salary": "13 925 USD",
+"joining": "в ближайшее время",
+"contract": "4 + 1 месяц",
+"email": "crew.cv@legacymarine.ru",
+"company": "legacymarine.ru"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-05T05:50:06+00:00",
+"junior_dp": false
+},
+{
+"title": "НА Т/Х «ОМСКИЙ» ТРЕБУЕТСЯ:",
+"url": "https://t.me/rekamore_su/164314",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-387d1304bb652a96",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"salary": "260 000 РУБ",
+"joining": "АСТРАХАНЬ, 25 НОЯБРЯ 2026Г",
+"email": "CREW@RUSSHIP.COM",
+"company": "rusship.com"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-05T06:00:12+00:00",
+"junior_dp": false
+},
+{
+"title": "Crew for Oil / Chemical / Crude Tanker Vessels",
+"url": "https://t.me/oceancrewjobs/32691",
+"source": "Telegram: @oceancrewjobs",
+"found": [
+"chief officer",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-0f16581587a77e32",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer",
+"vessel": "Chemical tanker, Crude oil tanker",
+"company": "Crew for Oil / Chemical / Crude Tan…"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-05T06:01:57+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-2257,
-2258,
-2259,
-2260,
-2261,
-2262,
-2263,
-2264,
-2265,
-2266
+2267,
+2268,
+2269,
+2270,
+2271,
+2272,
+2273,
+2274,
+2275,
+2276,
+2277
 ],
-"last_list": "2026-11-05T05:26:30.221057+00:00",
-"cleared_upto": 2256,
-"last_msg_id": 2266
+"last_list": "2026-11-05T06:16:04.369482+00:00",
+"cleared_upto": 2266,
+"last_msg_id": 2277
 }
