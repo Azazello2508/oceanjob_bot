@@ -5474,10 +5474,10 @@
 "crewdep@ark-shipping.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-05",
+"last": "2026-11-06",
 "links": {},
 "name": "",
-"off": 4,
+"off": 5,
 "offshore_hint": false,
 "phones": [],
 "so": 0,
@@ -5486,7 +5486,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 17,
+"total": 20,
 "vessels": [
 "Offshore",
 "Tug"
@@ -6356,7 +6356,7 @@
 "hr@aspol-line.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-05",
+"last": "2026-11-06",
 "links": {},
 "name": "Balt Shipping",
 "off": 0,
@@ -6371,7 +6371,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 5,
+"total": 6,
 "vessels": [
 "General cargo"
 ],
@@ -12763,14 +12763,14 @@
 "eastmining.ru": {
 "address": "",
 "city": "",
-"co": 4,
+"co": 5,
 "country": "",
 "emails": [
 "khusainovanv@eastmining.ru",
 "sidorenkotv@eastmining.ru"
 ],
 "first": "2026-11-03",
-"last": "2026-11-05",
+"last": "2026-11-06",
 "links": {},
 "name": "ООО “Угольный морской порт Шахтерск”",
 "off": 0,
@@ -12784,7 +12784,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 4,
+"total": 5,
 "vessels": [
 "General cargo",
 "Tug"
@@ -18478,6 +18478,34 @@
 "vessels": [],
 "website": "joinhandsmarine.com"
 },
+"jsbunker.ru": {
+"address": "",
+"city": "",
+"co": 0,
+"country": "",
+"emails": [
+"kormacheva@jsbunker.ru"
+],
+"first": "2026-11-06",
+"last": "2026-11-06",
+"links": {},
+"name": "АО «Бункерная компания»",
+"off": 0,
+"offshore_hint": false,
+"phones": [
+"+79210734175"
+],
+"so": 0,
+"sources": [
+"@rekamore_su"
+],
+"telegram": [],
+"total": 1,
+"vessels": [
+"Tanker"
+],
+"website": ""
+},
 "jstarmaritime.com": {
 "address": "office 35, 27 Yaroslava Mudroho Str.",
 "city": "Kherson",
@@ -18655,14 +18683,14 @@
 "karelkamen.ru": {
 "address": "",
 "city": "",
-"co": 8,
+"co": 9,
 "country": "",
 "emails": [
 "a.hlyst@karelkamen.ru",
 "k.vasileva@karelkamen.ru"
 ],
 "first": "2026-11-03",
-"last": "2026-11-05",
+"last": "2026-11-06",
 "links": {},
 "name": "ООО \"Белозерское пароходство\"",
 "off": 0,
@@ -18674,7 +18702,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 18,
+"total": 21,
 "vessels": [
 "Tug"
 ],
@@ -19718,14 +19746,14 @@
 "legacymarine.ru": {
 "address": "",
 "city": "",
-"co": 12,
+"co": 13,
 "country": "",
 "emails": [
 "crew.cv@legacymarine.ru",
 "crew2@legacymarine.ru"
 ],
 "first": "2026-11-03",
-"last": "2026-11-05",
+"last": "2026-11-06",
 "links": {},
 "name": "ООО \"Легаси Марин\"",
 "off": 0,
@@ -19734,14 +19762,14 @@
 "+79112688991",
 "+79811194180"
 ],
-"so": 0,
+"so": 1,
 "sources": [
 "@morehod_ru",
 "@rekamore_su",
 "@sidantey"
 ],
 "telegram": [],
-"total": 13,
+"total": 14,
 "vessels": [
 "Tanker"
 ],
@@ -22897,13 +22925,13 @@
 "midvolga.com": {
 "address": "",
 "city": "",
-"co": 2,
+"co": 3,
 "country": "",
 "emails": [
 "kuznetsova@midvolga.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-05",
+"last": "2026-11-06",
 "links": {},
 "name": "",
 "off": 0,
@@ -22915,7 +22943,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 6,
+"total": 7,
 "vessels": [
 "General cargo",
 "Tanker"
@@ -36525,7 +36553,7 @@
 "ok_flot@mail.ru"
 ],
 "first": "2026-11-03",
-"last": "2026-11-05",
+"last": "2026-11-06",
 "links": {},
 "name": "ООО \"СК ТРАНСФЛОТ\"",
 "off": 0,
@@ -36537,7 +36565,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 7,
+"total": 8,
 "vessels": [],
 "website": ""
 },
@@ -36550,7 +36578,7 @@
 "anastasya_afanaseva@mail.ru"
 ],
 "first": "2026-11-05",
-"last": "2026-11-05",
+"last": "2026-11-06",
 "links": {},
 "name": "ООО «Смарт Шиппинг»",
 "off": 0,
@@ -36564,7 +36592,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 3,
+"total": 4,
 "vessels": [],
 "website": ""
 },
@@ -38669,10 +38697,10 @@
 "vacancy@north-alliance.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-05",
+"last": "2026-11-06",
 "links": {},
 "name": "",
-"off": 12,
+"off": 14,
 "offshore_hint": false,
 "phones": [],
 "so": 0,
@@ -38683,7 +38711,7 @@
 "@seamenjob"
 ],
 "telegram": [],
-"total": 35,
+"total": 43,
 "vessels": [
 "Offshore",
 "Passenger",
@@ -42431,7 +42459,7 @@
 "n.gunchenko@fersol.pro"
 ],
 "first": "2026-11-03",
-"last": "2026-11-05",
+"last": "2026-11-06",
 "links": {},
 "name": "ООО \"Роктри ВГК Стивидор\"",
 "off": 0,
@@ -42443,7 +42471,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 12,
+"total": 14,
 "vessels": [
 "Bulk"
 ],
@@ -43417,13 +43445,13 @@
 "sc-astrol.ru": {
 "address": "",
 "city": "",
-"co": 14,
+"co": 16,
 "country": "",
 "emails": [
 "personal@sc-astrol.ru"
 ],
 "first": "2026-11-03",
-"last": "2026-11-05",
+"last": "2026-11-06",
 "links": {},
 "name": "ООО \"СК \"",
 "off": 0,
@@ -43435,7 +43463,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 19,
+"total": 22,
 "vessels": [
 "General cargo",
 "Tanker"
@@ -43477,7 +43505,7 @@
 "vacancy@scf-group.ru"
 ],
 "first": "2026-11-03",
-"last": "2026-11-05",
+"last": "2026-11-06",
 "links": {
 "crewell": "https://crewell.net/en/companies/264003/"
 },
@@ -43492,7 +43520,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 8,
+"total": 9,
 "vessels": [
 "Tanker"
 ],
@@ -54630,6 +54658,7 @@
 "блаф offline russian federation member since: nov 2016 no active vacancies прямой работодатель вид деятельности - добыча и переработка рыбы суда типа ртмс сям тр view profile": "name:блаф offline russian federation member since: nov 2016 no active vacancies прямой работодатель вид деятельности - добыча и переработка рыбы суда типа ртмс сям тр view profile",
 "борская судоходная компания": "bsklogistic.ru",
 "бск": "sc-astrol.ru",
+"бункерная компания": "jsbunker.ru",
 "бф танкер": "bftanker.ru",
 "в ф танкер offline russian federation member since: nov 2016 no active vacancies &quot;в ф танкер&quot; приглашает на работу старший командный состав капитанов старших помощников капитана старших механиков вторых механиков и электромехаников для раб view profile": "name:в ф танкер offline russian federation member since: nov 2016 no active vacancies &quot;в ф танкер&quot; приглашает на работу старший командный состав капитанов старших помощников капитана старших механиков вторых механиков и электромехаников для раб view profile",
 "вморе 20 hours ago russian federation member since: jul 2026 5 active vacancies view profile": "name:вморе 20 hours ago russian federation member since: jul 2026 5 active vacancies view profile",
@@ -54857,16 +54886,16 @@
 "oilrigs": 778,
 "olive_crew": 2898,
 "onboard_su": 20690,
-"rekamore_su": 164391,
+"rekamore_su": 164418,
 "roster_marine": 1732,
 "seajobfinder": 42202,
-"seamenjob": 106103,
+"seamenjob": 106104,
 "seamenvacancy": 1372,
 "seavacancies": 25174,
 "shipjobsindia": 420,
 "shipscreweu": 16570,
 "sidantey": 399,
-"supermariner_ua": 3876,
+"supermariner_ua": 3877,
 "truemalina_offshore": 790,
 "ukrcrewing_official": 2375,
 "univis_crewing": 5004,

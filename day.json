@@ -36,14 +36,185 @@
 "repeat": false,
 "time": "2026-11-06T01:04:44.051877+00:00",
 "junior_dp": false
+},
+{
+"title": "2nd Officer / Engineers Job - Bulk Carrier PT ASIA MARITIME SERVIS",
+"url": "https://maritime-union.com/job/232096",
+"source": "maritime-union.com",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Bulk carrier",
+"company": "2nd Officer / Engineers Job - Bulk…"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-06T04:52:46.992146+00:00",
+"junior_dp": false
+},
+{
+"title": "3rd Mate / DPO Job on Multipurpose Offshore Vessel Orca Crew Services",
+"url": "https://maritime-union.com/job/232107",
+"source": "maritime-union.com",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "DPO",
+"vessel": "MPP",
+"company": "3rd Mate / DPO Job on Multipurpose…"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-06T04:52:46.994413+00:00",
+"junior_dp": false
+},
+{
+"title": "Компания ООО “Угольный морской порт Шахтерск” (Сахалин) приглашает на работу:",
+"url": "https://t.me/rekamore_su/164395",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-f4224da3e215ca7d",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo, Tug",
+"salary": "322 000 рублей (на руки)",
+"joining": "02 декабря",
+"email": "Sidorenkotv@eastmining.ru",
+"company": "eastmining.ru"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-06T04:17:04+00:00",
+"junior_dp": false
+},
+{
+"title": "Компания ООО \"СК \"АСТРОЛ\" приглашает на работу:",
+"url": "https://t.me/rekamore_su/164398",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-ffa44d609bd2a117",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo",
+"salary": "352 000 рублей (на руки) + доп…",
+"joining": "в Санкт-Петербурге",
+"email": "personal@sc-astrol.ru",
+"company": "sc-astrol.ru"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-06T04:30:05+00:00",
+"junior_dp": false
+},
+{
+"title": "Компания ООО \"БСК\" приглашает на работу:",
+"url": "https://t.me/rekamore_su/164399",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-7d2f848ca559e816",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo",
+"salary": "297 000 рублей (на руки) + доп…",
+"joining": "на следующей неделе",
+"contract": "4 месяца",
+"email": "personal@sc-astrol.ru",
+"company": "sc-astrol.ru"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-06T04:30:09+00:00",
+"junior_dp": false
+},
+{
+"title": "Компания ООО \"Белозерское пароходство\" приглашает на работу:",
+"url": "https://t.me/rekamore_su/164401",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-dcbfe930100f274b",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Tug",
+"email": "k.vasileva@karelkamen.ru",
+"company": "karelkamen.ru"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-06T04:32:04+00:00",
+"junior_dp": false
+},
+{
+"title": "Судоходная компания приглашает на работу:",
+"url": "https://t.me/rekamore_su/164404",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-4c46b5c96c64e75b",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Chemical tanker, General cargo",
+"joining": "15 ноября в Астрахани",
+"email": "kuznetsova@midvolga.com",
+"company": "midvolga.com"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-06T04:34:03+00:00",
+"junior_dp": false
+},
+{
+"title": "Компания ООО \"Легаси Марин\" приглашает на работу:",
+"url": "https://t.me/rekamore_su/164407",
+"source": "Telegram: @rekamore_su",
+"found": [
+"chief officer",
+"2nd officer",
+"2nd off",
+"старший помощник"
+],
+"fp": "fp-c92fb4e5e3e91294",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer",
+"salary": "800 000 руб. на руки",
+"joining": "24 ноября",
+"contract": "6-8 недель",
+"email": "crew.cv@legacymarine.ru",
+"company": "legacymarine.ru"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-06T04:35:38+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-2529,
-2530,
-2531
+2532,
+2533,
+2534,
+2535,
+2536,
+2537,
+2538
 ],
-"last_list": "2026-11-06T01:05:50.377821+00:00",
-"cleared_upto": 2528,
-"last_msg_id": 2531
+"last_list": "2026-11-06T04:53:41.195152+00:00",
+"cleared_upto": 2531,
+"last_msg_id": 2538
 }
