@@ -5002,29 +5002,137 @@
 "repeat": false,
 "time": "2026-11-06T16:03:02+00:00",
 "junior_dp": false
+},
+{
+"title": "Chief Officer Job on Private Sailing Yacht Crew & Concierge Ltd.",
+"url": "https://maritime-union.com/job/232156",
+"source": "maritime-union.com",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"company": "Chief Officer Job on Private Sailin…"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-06T17:25:08.497611+00:00",
+"junior_dp": false
+},
+{
+"title": "Chief Officer Job on Bulker Vessel CSM Manning Agency",
+"url": "https://maritime-union.com/job/232165",
+"source": "maritime-union.com",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Bulk carrier"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-06T17:25:08.499987+00:00",
+"junior_dp": false
+},
+{
+"title": "2nd Officer Job on AHTS Vessel offshorecareer",
+"url": "https://maritime-union.com/job/232163",
+"source": "maritime-union.com",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "2nd Officer",
+"vessel": "AHTS"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-06T17:25:08.500172+00:00",
+"junior_dp": false
+},
+{
+"title": "2nd Officer Job - Crude Oil Tanker CSM Manning Agency",
+"url": "https://maritime-union.com/job/232162",
+"source": "maritime-union.com",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Crude oil tanker"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-06T17:25:08.500252+00:00",
+"junior_dp": false
+},
+{
+"title": "Chief Officer",
+"url": "https://t.me/maritimeforum/255510",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-08f5f45355d26727",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Container",
+"contract": "5 months",
+"salary": "$6,500–7,000\n",
+"email": "crew@armada-holding.com",
+"company": "armada-holding.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-06T17:11:03+00:00",
+"junior_dp": false
+},
+{
+"title": "2nd Officer",
+"url": "https://t.me/maritimeforum/255533",
+"source": "Telegram: @maritimeforum",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-c1ea2a860e6ae00f",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"contract": "3 months",
+"salary": "$3,800–4,000\n",
+"email": "cv@baltnautic.lt",
+"company": "baltnautic.lt"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-06T17:14:27+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-2705,
-2706,
-2707,
-2708,
-2709,
-2710,
-2711,
-2712,
-2713,
-2714,
-2715,
-2716,
-2717,
-2718,
-2719,
-2720,
-2721,
-2722
+2723,
+2724,
+2725,
+2726,
+2727,
+2728,
+2729,
+2730,
+2731,
+2732,
+2733,
+2734,
+2735,
+2736,
+2737,
+2738,
+2739,
+2740
 ],
-"last_list": "2026-11-06T16:36:31.659501+00:00",
-"cleared_upto": 2704,
-"last_msg_id": 2722
+"last_list": "2026-11-06T17:26:04.811469+00:00",
+"cleared_upto": 2722,
+"last_msg_id": 2740
 }
