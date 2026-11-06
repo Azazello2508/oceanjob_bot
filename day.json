@@ -4728,29 +4728,303 @@
 "repeat": false,
 "time": "2026-11-06T15:12:49+00:00",
 "junior_dp": false
+},
+{
+"title": "Chief Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/368864",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-06T16:35:09.152010+00:00",
+"junior_dp": false
+},
+{
+"title": "Chief Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/368865",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-06T16:35:09.154076+00:00",
+"junior_dp": false
+},
+{
+"title": "Chief Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/368866",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-06T16:35:09.154215+00:00",
+"junior_dp": false
+},
+{
+"title": "Chief Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/368883",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-06T16:35:09.154331+00:00",
+"junior_dp": false
+},
+{
+"title": "WE ARE HIRING – CHIEF OFFICER SDPO| PSV DP2",
+"url": "https://t.me/seajobfinder/42205",
+"source": "Telegram: @seajobfinder",
+"found": [
+"chief officer",
+"sdpo",
+"dpo"
+],
+"fp": "fp-79fe880d3601c443",
+"offshore": true,
+"info": {
+"rank": "Chief Officer / SDPO",
+"vessel": "PSV",
+"contract": "8 weeks on / 8 weeks off",
+"email": "n.kudaeiva@tospeople.com",
+"company": "tospeople.com"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-06T15:55:50+00:00",
+"junior_dp": false
+},
+{
+"title": "We are looking for 2/O on RoRo",
+"url": "https://t.me/seajobfinder/42206",
+"source": "Telegram: @seajobfinder",
+"found": [
+"2/o"
+],
+"fp": "fp-5c7305d6959ee524",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Ro-Ro",
+"joining": "abt 07.12.2026",
+"contract": "6 weeks",
+"email": "recruitment.poland@stodig.no",
+"company": "stodig.no"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-06T15:55:51+00:00",
+"junior_dp": false
+},
+{
+"title": "BAHAMIAN NATIONALS",
+"url": "https://t.me/seajobfinder/42208",
+"source": "Telegram: @seajobfinder",
+"found": [
+"chief officer",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-d6913d5935357bc4",
+"offshore": true,
+"info": {
+"rank": "Chief Officer / 2nd Officer",
+"vessel": "Tug",
+"joining": "s available",
+"contract": "s: Long-term rotations",
+"email": "aaliyah.thurkettle@selectoffshore.com",
+"company": "selectoffshore.com"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-06T15:55:55+00:00",
+"junior_dp": false
+},
+{
+"title": "Chief Officer - MPV",
+"url": "https://t.me/seajobfinder/42209",
+"source": "Telegram: @seajobfinder",
+"found": [
+"chief officer"
+],
+"fp": "fp-fcb2b0e6a6ed19d5",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"email": "shelly.mountain@crewingservices.co.uk",
+"company": "crewingservices.co.uk"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-06T15:55:55+00:00",
+"junior_dp": false
+},
+{
+"title": "Vacancy Code 02.3",
+"url": "https://t.me/seajobfinder/42211",
+"source": "Telegram: @seajobfinder",
+"found": [
+"dpo",
+"2nd off"
+],
+"fp": "fp-213d1ef27b6724ee",
+"offshore": true,
+"info": {
+"rank": "2nd Officer / DPO",
+"vessel": "PSV, MPSV",
+"salary": "s – 240 EUR per day",
+"joining": "11th of November",
+"contract": "4 weeks",
+"email": "crew@navis.eu",
+"company": "navis.eu"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-06T15:55:57+00:00",
+"junior_dp": false
+},
+{
+"title": "05-11-2026",
+"url": "https://t.me/seajobfinder/42221",
+"source": "Telegram: @seajobfinder",
+"found": [
+"dpo",
+"2o/dpo"
+],
+"fp": "fp-58bc96480bf27716",
+"offshore": true,
+"info": {
+"rank": "2nd Officer / DPO",
+"vessel": "PSV, MPSV",
+"salary": "250 USD p/day",
+"joining": "mid of November",
+"contract": "2 months",
+"email": "cv@tsmexp.com",
+"company": "tsmexp.com"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-06T15:56:16+00:00",
+"junior_dp": false
+},
+{
+"title": "Vessel",
+"url": "https://t.me/marinejobs/43142",
+"source": "Telegram: @marinejobs",
+"found": [
+"chief officer"
+],
+"fp": "fp-62c288ed21a2de79",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "LPG",
+"joining": "11 Nov in Ravenna",
+"contract": "4 months",
+"email": "ua-csc-ode-man@bs-shipmanagement.com",
+"company": "bs-shipmanagement.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-06T16:08:19+00:00",
+"junior_dp": false
+},
+{
+"title": "DECK OFFICERS (41)",
+"url": "https://t.me/marineman_ltd/48317",
+"source": "Telegram: @marineman_ltd",
+"found": [
+"chief officer",
+"second officer"
+],
+"fp": "fp-ab64b5c93ef21f21",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer",
+"vessel": "LPG, LNG"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-06T16:00:02+00:00",
+"junior_dp": false
+},
+{
+"title": "Список закрытых каналов в",
+"url": "https://t.me/rekamore_su/164514",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-de84ab9948b9e3a9",
+"offshore": false,
+"info": {
+"rank": "Chief Officer"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-06T16:03:01+00:00",
+"junior_dp": false
+},
+{
+"title": "New Senior Officers vacancies",
+"url": "https://t.me/seavacancies/25180",
+"source": "Telegram: @seavacancies",
+"found": [
+"chief officer"
+],
+"fp": "fp-7d18ecdbf2a7915d",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "LPG, Crude oil tanker",
+"joining": "ASAP",
+"salary": "$11,000-12,500"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-06T16:03:02+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-2687,
-2688,
-2689,
-2690,
-2691,
-2692,
-2693,
-2694,
-2695,
-2696,
-2697,
-2698,
-2699,
-2700,
-2701,
-2702,
-2703,
-2704
+2705,
+2706,
+2707,
+2708,
+2709,
+2710,
+2711,
+2712,
+2713,
+2714,
+2715,
+2716,
+2717,
+2718,
+2719,
+2720,
+2721,
+2722
 ],
-"last_list": "2026-11-06T15:46:58.555112+00:00",
-"cleared_upto": 2686,
-"last_msg_id": 2704
+"last_list": "2026-11-06T16:36:31.659501+00:00",
+"cleared_upto": 2704,
+"last_msg_id": 2722
 }
