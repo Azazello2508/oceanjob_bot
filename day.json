@@ -4386,28 +4386,371 @@
 "repeat": false,
 "time": "2026-11-06T14:49:39+00:00",
 "junior_dp": false
+},
+{
+"title": "2nd Officer on Container Ship",
+"url": "https://crewell.net/en/vacancies/465254/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Container"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-06T15:45:39.070061+00:00",
+"junior_dp": false
+},
+{
+"title": "Chief Officer on LPG",
+"url": "https://crewell.net/en/vacancies/465222/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "LPG"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-06T15:45:39.072120+00:00",
+"junior_dp": false
+},
+{
+"title": "Chief Officer on LPG",
+"url": "https://crewell.net/en/vacancies/465226/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "LPG"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-06T15:45:39.072264+00:00",
+"junior_dp": false
+},
+{
+"title": "Chief Officer on Bulk carrier",
+"url": "https://crewell.net/en/vacancies/465232/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Bulk carrier"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-06T15:45:39.072384+00:00",
+"junior_dp": false
+},
+{
+"title": "Chief Officer on VLCC",
+"url": "https://crewell.net/en/vacancies/465234/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "VLCC"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-06T15:45:39.072506+00:00",
+"junior_dp": false
+},
+{
+"title": "Chief Officer on Oil/chemical tanker",
+"url": "https://crewell.net/en/vacancies/465237/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Chemical tanker"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-06T15:45:39.072619+00:00",
+"junior_dp": false
+},
+{
+"title": "Chief Officer on Oil tanker",
+"url": "https://crewell.net/en/vacancies/465238/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Tanker"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-06T15:45:39.072745+00:00",
+"junior_dp": false
+},
+{
+"title": "Chief Officer on Chemical tanker",
+"url": "https://crewell.net/en/vacancies/465240/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Chemical tanker"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-06T15:45:39.072861+00:00",
+"junior_dp": false
+},
+{
+"title": "Chief Officer on Oil tanker",
+"url": "https://crewell.net/en/vacancies/465243/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Tanker"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-06T15:45:39.072994+00:00",
+"junior_dp": false
+},
+{
+"title": "Chief Officer on LPG - Semi-refrigerated",
+"url": "https://crewell.net/en/vacancies/465244/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "LPG"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-06T15:45:39.073107+00:00",
+"junior_dp": false
+},
+{
+"title": "Chief Officer on VLGC",
+"url": "https://crewell.net/en/vacancies/465246/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-06T15:45:39.073239+00:00",
+"junior_dp": false
+},
+{
+"title": "2nd Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/368860",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-06T15:45:40.694227+00:00",
+"junior_dp": false
+},
+{
+"title": "NEW PCTC VESSEL | DUAL FUEL | SENIOR OFFICERS",
+"url": "https://t.me/maritimeforum/255486",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-75b0041729fc4400",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Ro-Ro, PCTC",
+"joining": "end of November 2026 -beg of D",
+"email": "forcv@csm-ua.com",
+"company": "csm-ua.com"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-06T15:27:34+00:00",
+"junior_dp": false
+},
+{
+"title": "OPEN VACANCIES FOR CONTAINER FLEET",
+"url": "https://t.me/maritimeforum/255488",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-0dbecf4252e59370",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer",
+"vessel": "Container",
+"salary": "11000-11700$",
+"contract": "4 +/-1",
+"email": "hr@univis.com.ua",
+"tg": "univisltd",
+"company": "univis.com.ua"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-06T15:29:54+00:00",
+"junior_dp": false
+},
+{
+"title": "2nd Officer",
+"url": "https://t.me/maritimeforum/255489",
+"source": "Telegram: @maritimeforum",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-b549ffc41a8f11a6",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"contract": "4 months",
+"salary": "$4,191\n",
+"email": "crewing@balticshipping.pl",
+"company": "balticshipping.pl"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-06T15:34:14+00:00",
+"junior_dp": false
+},
+{
+"title": "Chief Officer",
+"url": "https://t.me/maritimeforum/255496",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-c5bb2375c4639923",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"contract": "6 months",
+"salary": "$4,000–4,500\n",
+"email": "info@evernautic.com",
+"company": "evernautic.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-06T15:34:59+00:00",
+"junior_dp": false
+},
+{
+"title": "Exciting opportunity for senior maritime professionals!",
+"url": "https://t.me/marinejobs/43136",
+"source": "Telegram: @marinejobs",
+"found": [
+"chief officer"
+],
+"fp": "fp-1e59075f412cd9e8",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Ro-Ro, PCTC",
+"joining": "Late November - Early December",
+"email": "forcv@csm-ua.com",
+"company": "csm-ua.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-06T15:30:56+00:00",
+"junior_dp": false
+},
+{
+"title": "Container Fleet Hiring – Multiple Ranks Open",
+"url": "https://t.me/marinejobs/43138",
+"source": "Telegram: @marinejobs",
+"found": [
+"chief officer",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-4dc2735bc65f022f",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer",
+"vessel": "Container",
+"salary": "$11,000–$11,700\n",
+"email": "hr@univis.com.ua",
+"company": "univis.com.ua"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-06T15:35:57+00:00",
+"junior_dp": false
+},
+{
+"title": "CREWRADAR AFTERNOON DIGEST — 6 NOV 2026",
+"url": "https://t.me/Crew_Radar/3184",
+"source": "Telegram: @Crew_Radar",
+"found": [
+"chief officer"
+],
+"fp": "fp-f30c0ff5476dba3a",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "LPG, LNG",
+"salary": "$22"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-06T15:12:49+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-2670,
-2671,
-2672,
-2673,
-2674,
-2675,
-2676,
-2677,
-2678,
-2679,
-2680,
-2681,
-2682,
-2683,
-2684,
-2685,
-2686
+2687,
+2688,
+2689,
+2690,
+2691,
+2692,
+2693,
+2694,
+2695,
+2696,
+2697,
+2698,
+2699,
+2700,
+2701,
+2702,
+2703,
+2704
 ],
-"last_list": "2026-11-06T14:57:29.983225+00:00",
-"cleared_upto": 2669,
-"last_msg_id": 2686
+"last_list": "2026-11-06T15:46:58.555112+00:00",
+"cleared_upto": 2686,
+"last_msg_id": 2704
 }
