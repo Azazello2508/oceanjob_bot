@@ -5142,9 +5142,10 @@
 "info": {
 "rank": "Chief Officer"
 },
-"new": true,
+"new": false,
 "repeat": false,
-"time": "2026-11-06T18:43:59.710085+00:00"
+"time": "2026-11-06T18:43:59.710085+00:00",
+"junior_dp": false
 },
 {
 "title": "2nd Officer",
@@ -5156,32 +5157,138 @@
 "info": {
 "rank": "2nd Officer"
 },
-"new": true,
+"new": false,
 "repeat": false,
-"time": "2026-11-06T18:43:59.712078+00:00"
+"time": "2026-11-06T18:43:59.712078+00:00",
+"junior_dp": false
+},
+{
+"title": "Chief Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/368939",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-06T19:33:31.911224+00:00",
+"junior_dp": false
+},
+{
+"title": "Chief Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/368941",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-06T19:33:31.913182+00:00",
+"junior_dp": false
+},
+{
+"title": "Chief Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/368943",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-06T19:33:31.913310+00:00",
+"junior_dp": false
+},
+{
+"title": "Position publishing service was stopped for the night.",
+"url": "https://t.me/marinecareerorg/17755",
+"source": "Telegram: @marinecareerorg",
+"found": [
+"chief officer"
+],
+"fp": "fp-987a453836bf9247",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "LPG, Crude oil tanker"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-06T19:00:05+00:00",
+"junior_dp": false
+},
+{
+"title": "NEED SET CREW TO JOIN LPG TANKER VESSEL",
+"url": "https://t.me/oceancrewjobs/32719",
+"source": "Telegram: @oceancrewjobs",
+"found": [
+"chief officer",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-7861d23d5c9d5c51",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer",
+"vessel": "LPG, Bulk carrier",
+"company": "NEED SET CREW TO JOIN LPG TANKER VE…"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-06T19:08:55+00:00",
+"junior_dp": false
+},
+{
+"title": "JOBS POSITIONS ON OFFSHORE SUPPORT VESSEL",
+"url": "https://t.me/oceancrewjobs/32720",
+"source": "Telegram: @oceancrewjobs",
+"found": [
+"chief officer",
+"chief mate"
+],
+"fp": "fp-c2f49b27e46d9815",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "PSV, AHTS",
+"company": "https://oceancrew.org/vacancies/off…"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-06T19:09:00+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-2741,
-2742,
-2743,
-2744,
-2745,
-2746,
-2747,
-2748,
-2749,
-2750,
-2751,
-2752,
-2753,
-2754,
-2755,
-2756,
-2757,
-2758
+2759,
+2760,
+2761,
+2762,
+2763,
+2764,
+2765,
+2766,
+2767,
+2768,
+2769,
+2770,
+2771,
+2772,
+2773,
+2774,
+2775,
+2776,
+2777
 ],
-"last_list": "2026-11-06T18:15:37.881616+00:00",
-"cleared_upto": 2740,
-"last_msg_id": 2758
+"last_list": "2026-11-06T19:35:06.679230+00:00",
+"cleared_upto": 2758,
+"last_msg_id": 2777
 }
