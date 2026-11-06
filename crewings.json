@@ -38781,11 +38781,12 @@
 "@cvsenderseaman",
 "@job_for_seaman",
 "@marinecareerorg",
+"@marinejobs",
 "@maritimeforum",
 "crewell.net"
 ],
 "telegram": [],
-"total": 21,
+"total": 23,
 "vessels": [
 "Bulk",
 "Container"
@@ -55358,10 +55359,10 @@
 "gm_seaman_cv": 2682,
 "help_seafarers": 4884,
 "ismira_agency": 440,
-"job_for_seaman": 17015,
+"job_for_seaman": 17016,
 "jobfor_seamen": 12674,
 "marinecareerorg": 17754,
-"marinejobs": 43146,
+"marinejobs": 43147,
 "marinejobz": 194156,
 "marineman_ltd": 48323,
 "maritimeforum": 255548,
