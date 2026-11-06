@@ -20,13 +20,30 @@
 "repeat": false,
 "time": "2026-11-05T22:34:46+00:00",
 "junior_dp": false
+},
+{
+"title": "Chief Officer on Oil/chemical tanker",
+"url": "https://crewell.net/en/vacancies/464991/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Chemical tanker"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-06T01:04:44.051877+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-2527,
-2528
+2529,
+2530,
+2531
 ],
-"last_list": "2026-11-05T22:37:47.342936+00:00",
-"cleared_upto": 2526,
-"last_msg_id": 2528
+"last_list": "2026-11-06T01:05:50.377821+00:00",
+"cleared_upto": 2528,
+"last_msg_id": 2531
 }
