@@ -583,23 +583,311 @@
 "repeat": false,
 "time": "2026-11-06T06:19:41+00:00",
 "junior_dp": false
+},
+{
+"title": "Chief Officer for Non DP Self-Propelled Jack-Up Barge",
+"url": "https://www.seacareer.com/i36821/chief-officer-for-non-dp-self-propelled-jack-up-barge/",
+"source": "seacareer.com",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Jack-up, Barge"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-06T07:20:54.423050+00:00",
+"junior_dp": false
+},
+{
+"title": "Chief Officer for ASD Tug Boat (KSA)",
+"url": "https://oceancrew.org/vacancies/offshore/chief-officer/chief-officer-for-asd-tug-boat-ksa_06-11-2026",
+"source": "oceancrew.org",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Tug"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-06T07:21:07.733115+00:00",
+"junior_dp": false
+},
+{
+"title": "Need Chief officer for AHTS / PSV Minimum 24 months Ires Ship Management LLP",
+"url": "https://maritime-union.com/job/232117",
+"source": "maritime-union.com",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "PSV, AHTS",
+"company": "Need Chief officer for AHTS / PSV M…"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-06T07:21:13.203165+00:00",
+"junior_dp": false
+},
+{
+"title": "Chief Officer for NON DP Self-Propelled Jack-Up Barge Ryan Ship Management Pvt Ltd",
+"url": "https://maritime-union.com/job/232118",
+"source": "maritime-union.com",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Jack-up, Barge",
+"company": "Chief Officer for NON DP Self-Prope…"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-06T07:21:13.203709+00:00",
+"junior_dp": false
+},
+{
+"title": "YCrewing maritime agency is hiring for",
+"url": "https://t.me/marinejobs/43097",
+"source": "Telegram: @marinejobs",
+"found": [
+"chief officer",
+"second officer"
+],
+"fp": "fp-4b6f67384ae43f67",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer",
+"vessel": "VLCC",
+"salary": "$10,000\n",
+"company": "YCrewing maritime agency is hiring…"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-06T07:01:24+00:00",
+"junior_dp": false
+},
+{
+"title": "AQUAMARINE SHIPPING LLC",
+"url": "https://t.me/crewingua/44786",
+"source": "Telegram: @crewingua",
+"found": [
+"chief officer",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-fc4b976a35470d24",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer",
+"vessel": "Suezmax",
+"joining": "URGENT",
+"email": "application@aquamarine-crew.com",
+"company": "aquamarine-crew.com"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-06T07:12:03+00:00",
+"junior_dp": false
+},
+{
+"title": "AQUAMARINE SHIPPING LLC",
+"url": "https://t.me/crewingua/44788",
+"source": "Telegram: @crewingua",
+"found": [
+"chief officer"
+],
+"fp": "fp-e84e6732b461fcc8",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "LNG",
+"joining": "ASAP",
+"email": "application@aquamarine-crew.com",
+"company": "aquamarine-crew.com"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-06T07:18:06+00:00",
+"junior_dp": false
+},
+{
+"title": "YCrewing”, maritime agency, rendering mediatory services for seafarers employment",
+"url": "https://t.me/job_for_seaman/17010",
+"source": "Telegram: @job_for_seaman",
+"found": [
+"chief officer",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-a86afc7e2582105f",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer",
+"vessel": "VLCC",
+"salary": "10000$",
+"company": "YCrewing”, maritime agency, renderi…"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-06T06:44:54+00:00",
+"junior_dp": false
+},
+{
+"title": "YCrewing”, maritime agency, rendering mediatory services for seafarers employment",
+"url": "https://t.me/job_for_seaman/17011",
+"source": "Telegram: @job_for_seaman",
+"found": [
+"chief officer",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-995f80dea945c978",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer",
+"vessel": "LPG",
+"salary": "12500$",
+"company": "YCrewing”, maritime agency, renderi…"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-06T06:45:21+00:00",
+"junior_dp": false
+},
+{
+"title": "Chief Officer",
+"url": "https://t.me/OffshoreFleetJob/11061",
+"source": "Telegram: @OffshoreFleetJob",
+"found": [
+"chief officer"
+],
+"fp": "fp-70a9d99398ef11a9",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "PSV, MPSV",
+"contract": "6 months",
+"salary": "$250–300",
+"email": "cv@agw.od.ua",
+"company": "agw.od.ua"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-06T07:20:35+00:00",
+"junior_dp": false
+},
+{
+"title": "Chief Officer",
+"url": "https://t.me/OffshoreFleetJob/11063",
+"source": "Telegram: @OffshoreFleetJob",
+"found": [
+"chief officer"
+],
+"fp": "fp-9990374139b0403c",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "AHTS, Tug",
+"contract": "3 months",
+"salary": "$9,000\n",
+"email": "cv@seagengroup.com",
+"company": "seagengroup.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-06T07:20:43+00:00",
+"junior_dp": false
+},
+{
+"title": "Компания ООО НП «Балтийское Морское Пароходство» приглашает на работу:",
+"url": "https://t.me/rekamore_su/164455",
+"source": "Telegram: @rekamore_su",
+"found": [
+"2off"
+],
+"fp": "fp-12f2b92bbfaa1dd8",
+"offshore": true,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Crude oil tanker",
+"salary": "2000 USD",
+"joining": "ASAP",
+"company": "ООО НП «Балтийское Морское Пароходс…"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-06T06:39:04+00:00",
+"junior_dp": false
+},
+{
+"title": "Компания ООО НП «Балтийское Морское Пароходство» приглашает на работу:",
+"url": "https://t.me/rekamore_su/164457",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-53cb10282b74dc9f",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Reefer",
+"salary": "5 500 USD",
+"joining": "СРОЧНАЯ в Санкт-Петербурге",
+"contract": "4+1",
+"company": "ООО НП «Балтийское Морское Пароходс…"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-06T06:39:12+00:00",
+"junior_dp": false
+},
+{
+"title": "Судоходная компания \"Eco Shipping\" приглашает на работу:",
+"url": "https://t.me/rekamore_su/164460",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-3e2be08a86d4c374",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo",
+"salary": "365 000 рублей",
+"joining": "ноябрь- декабрь",
+"contract": "5/5 ( +/-1)",
+"email": "e.kievskaya@ecoshp.ru",
+"company": "ecoshp.ru"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-06T06:40:08+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-2546,
-2547,
-2548,
-2549,
-2550,
-2551,
-2552,
-2553,
-2554,
-2555,
-2556,
-2557
+2558,
+2559,
+2560,
+2561,
+2562,
+2563,
+2564,
+2565,
+2566,
+2567,
+2568,
+2569,
+2570,
+2571,
+2572
 ],
-"last_list": "2026-11-06T06:32:37.728631+00:00",
-"cleared_upto": 2545,
-"last_msg_id": 2557
+"last_list": "2026-11-06T07:22:09.898098+00:00",
+"cleared_upto": 2557,
+"last_msg_id": 2572
 }
