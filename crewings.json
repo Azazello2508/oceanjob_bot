@@ -725,10 +725,10 @@
 "country": "",
 "emails": [],
 "first": "2026-11-03",
-"last": "2026-11-06",
+"last": "2026-11-07",
 "links": {},
 "name": "",
-"off": 5,
+"off": 6,
 "offshore_hint": false,
 "phones": [],
 "so": 0,
@@ -738,7 +738,7 @@
 "telegram": [
 "@Tanker_Vacancies"
 ],
-"total": 5,
+"total": 6,
 "vessels": [
 "Offshore",
 "Tanker"
@@ -31769,6 +31769,31 @@
 "vessels": [],
 "website": ""
 },
+"name:precious shipping": {
+"address": "",
+"city": "",
+"co": 0,
+"country": "",
+"emails": [],
+"first": "2026-11-07",
+"last": "2026-11-07",
+"links": {},
+"name": "Precious Shipping",
+"off": 1,
+"offshore_hint": false,
+"phones": [],
+"so": 0,
+"sources": [
+"@seamenjob"
+],
+"telegram": [],
+"total": 1,
+"vessels": [
+"Offshore",
+"Tanker"
+],
+"website": ""
+},
 "name:prisco offline russian federation member since: nov 2016 no active vacancies www prisco ru корпорация prisco – это группа компаний осуществляющих различные виды деятельности и предоставляющих высококачественные услуги под маркой prisco направления дея view profile": {
 "address": "",
 "city": "",
@@ -54594,6 +54619,7 @@
 "poseidon maritime e e 30 06 2026 greece member since: jun 2026 no active vacancies view profile": "name:poseidon maritime e e 30 06 2026 greece member since: jun 2026 no active vacancies view profile",
 "poseidonagency": "poseidonagency.com",
 "ppm shipping private": "ppmshipping.in.net",
+"precious shipping": "name:precious shipping",
 "precise marine": "preciseconsultants.co.uk",
 "prerna ship management": "prernashipping.com",
 "prestige shipping services": "prestigeship.com",
@@ -55335,8 +55361,8 @@
 "tg_hw": {
 "ALPHACREW": 3570,
 "BSMCSCUKRAINE": 4332,
-"CREW_ARIA": 14008,
-"Crew_Radar": 3185,
+"CREW_ARIA": 14009,
+"Crew_Radar": 3186,
 "JobForMariners": 1200,
 "Merchant_Fleet": 597,
 "OffshoreFleetJob": 11063,
@@ -55368,7 +55394,7 @@
 "maritimeforum": 255548,
 "merchantNavyrealjob": 262,
 "morehod_ru": 30806,
-"oceancrewjobs": 32720,
+"oceancrewjobs": 32721,
 "offshoreatsea": 25106,
 "offshorecv": 1582,
 "offshorevacancies": 47120,
@@ -55378,7 +55404,7 @@
 "rekamore_su": 164517,
 "roster_marine": 1736,
 "seajobfinder": 42268,
-"seamenjob": 106125,
+"seamenjob": 106126,
 "seamenvacancy": 1374,
 "seavacancies": 25181,
 "shipjobsindia": 420,
