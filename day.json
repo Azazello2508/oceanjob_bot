@@ -203,18 +203,63 @@
 "repeat": false,
 "time": "2026-11-06T04:35:38+00:00",
 "junior_dp": false
+},
+{
+"title": "Компания ООО “ТК Северный проект” приглашает на работу:",
+"url": "https://t.me/rekamore_su/164421",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-ebeb13f3c616dd74",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo",
+"salary": "360 000 рублей ежемесячно + от…",
+"joining": "срочная",
+"contract": "4 месяца",
+"email": "rabota@ashipping.ru",
+"company": "ashipping.ru"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-06T05:32:08+00:00",
+"junior_dp": false
+},
+{
+"title": "Компания \"Columbia Shipmanagement\" (Новороссийск) приглашает на работу:",
+"url": "https://t.me/rekamore_su/164423",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-e8ccdff4f504552a",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Tanker",
+"salary": "11 000 $ (discussable up to 11…",
+"contract": "4 мес",
+"email": "columbia@novocsmru.com",
+"company": "novocsmru.com"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-06T05:34:06+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-2532,
-2533,
-2534,
-2535,
-2536,
-2537,
-2538
+2539,
+2540,
+2541,
+2542,
+2543,
+2544,
+2545
 ],
-"last_list": "2026-11-06T04:53:41.195152+00:00",
-"cleared_upto": 2531,
-"last_msg_id": 2538
+"last_list": "2026-11-06T05:43:07.030676+00:00",
+"cleared_upto": 2538,
+"last_msg_id": 2545
 }
