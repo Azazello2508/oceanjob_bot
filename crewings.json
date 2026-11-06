@@ -135,7 +135,7 @@
 "7seasnov@mail.ru"
 ],
 "first": "2026-11-03",
-"last": "2026-11-05",
+"last": "2026-11-06",
 "links": {},
 "name": "",
 "off": 0,
@@ -148,7 +148,7 @@
 "@onboard_su"
 ],
 "telegram": [],
-"total": 31,
+"total": 34,
 "vessels": [
 "Bulk",
 "Container",
@@ -985,8 +985,10 @@
 "@seamenjob"
 ],
 "telegram": [],
-"total": 7,
-"vessels": [],
+"total": 8,
+"vessels": [
+"Reefer"
+],
 "website": ""
 },
 "aarkshipping.com": {
@@ -5688,7 +5690,7 @@
 "cv@armatorcrew.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-03",
+"last": "2026-11-06",
 "links": {
 "crewell": "https://crewell.net/en/companies/59253/"
 },
@@ -5699,12 +5701,14 @@
 "so": 1,
 "sources": [
 "@Sea_format",
+"@cvsenderseaman",
 "@maritimeforum",
 "crewell.net"
 ],
 "telegram": [],
-"total": 4,
+"total": 5,
 "vessels": [
+"Chemical",
 "Tanker"
 ],
 "website": "armatorcrew.com"
@@ -7502,13 +7506,13 @@
 "baltic-crew.com": {
 "address": "",
 "city": "",
-"co": 2,
+"co": 3,
 "country": "",
 "emails": [
 "cv.riga@baltic-crew.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-05",
+"last": "2026-11-06",
 "links": {},
 "name": "",
 "off": 0,
@@ -7520,7 +7524,7 @@
 "@maritimeforum"
 ],
 "telegram": [],
-"total": 8,
+"total": 9,
 "vessels": [
 "Chemical",
 "Tanker"
@@ -8689,7 +8693,7 @@
 "bs-shipmanagement.com": {
 "address": "Brīvības iela 97- 3",
 "city": "Rīga",
-"co": 15,
+"co": 16,
 "country": "Latvia",
 "emails": [
 "de-smc-man@bs-shipmanagement.com",
@@ -8700,7 +8704,7 @@
 "ua-csc-ode-man@bs-shipmanagement.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-05",
+"last": "2026-11-06",
 "links": {
 "crewell": "https://crewell.net/en/companies/283223/"
 },
@@ -8723,7 +8727,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 252,
+"total": 253,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -9609,7 +9613,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 6,
+"total": 8,
 "vessels": [],
 "website": ""
 },
@@ -11218,7 +11222,7 @@
 "info@crs-marine.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-05",
+"last": "2026-11-06",
 "links": {
 "crewell": "https://crewell.net/en/companies/45806/"
 },
@@ -11229,12 +11233,13 @@
 "so": 0,
 "sources": [
 "@SM_job_center",
+"@cvsenderseaman",
 "@job_for_seaman",
 "@maritimeforum",
 "crewell.net"
 ],
 "telegram": [],
-"total": 6,
+"total": 7,
 "vessels": [
 "Bulk",
 "Tanker"
@@ -12928,7 +12933,7 @@
 "ad@elvictor.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-04",
+"last": "2026-11-06",
 "links": {
 "crewell": "https://crewell.net/en/companies/168396/"
 },
@@ -12942,7 +12947,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 1,
+"total": 2,
 "vessels": [
 "Chemical",
 "Tanker"
@@ -15759,10 +15764,11 @@
 "co": 5,
 "country": "Lithuania",
 "emails": [
-"info@gretimybe.lt"
+"info@gretimybe.lt",
+"vskodin@gretimybe.lt"
 ],
 "first": "2026-11-03",
-"last": "2026-11-05",
+"last": "2026-11-06",
 "links": {
 "crewell": "https://crewell.net/en/companies/59377/"
 },
@@ -15784,8 +15790,9 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 15,
+"total": 16,
 "vessels": [
+"Chemical",
 "General cargo",
 "LPG/LNG",
 "Offshore",
@@ -19943,10 +19950,10 @@
 "lyudmila@lerus-online.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-04",
+"last": "2026-11-06",
 "links": {},
 "name": "Lerus Limited",
-"off": 17,
+"off": 18,
 "offshore_hint": false,
 "phones": [],
 "so": 0,
@@ -19961,7 +19968,7 @@
 "@shipscreweu"
 ],
 "telegram": [],
-"total": 17,
+"total": 18,
 "vessels": [
 "Offshore"
 ],
@@ -20999,7 +21006,7 @@
 "o.kotoban@marineman.eu"
 ],
 "first": "2026-11-03",
-"last": "2026-11-05",
+"last": "2026-11-06",
 "links": {},
 "name": "Why Marine",
 "off": 0,
@@ -21025,7 +21032,7 @@
 "@marinemanapply",
 "@rudomyotova"
 ],
-"total": 94,
+"total": 95,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -29247,6 +29254,31 @@
 "telegram": [],
 "total": 0,
 "vessels": [],
+"website": ""
+},
+"name:ksa nimbus marine": {
+"address": "",
+"city": "",
+"co": 1,
+"country": "",
+"emails": [],
+"first": "2026-11-06",
+"last": "2026-11-06",
+"links": {},
+"name": "KSA Nimbus Marine",
+"off": 1,
+"offshore_hint": false,
+"phones": [],
+"so": 0,
+"sources": [
+"@Sea_format"
+],
+"telegram": [],
+"total": 1,
+"vessels": [
+"Offshore",
+"Tug"
+],
 "website": ""
 },
 "name:kss-trans": {
@@ -38265,10 +38297,11 @@
 "@Offshore_Vacancies",
 "@cvsenderseaman",
 "@offshoreatsea",
+"@seamenjob",
 "crewell.net"
 ],
 "telegram": [],
-"total": 26,
+"total": 27,
 "vessels": [
 "Bulk",
 "Dredger",
@@ -38720,7 +38753,7 @@
 "@seamenjob"
 ],
 "telegram": [],
-"total": 43,
+"total": 45,
 "vessels": [
 "Offshore",
 "Passenger",
@@ -42059,7 +42092,7 @@
 "@DaniilPRayMarine",
 "@anastasiaChRayMarine"
 ],
-"total": 158,
+"total": 159,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -42728,7 +42761,7 @@
 "rp-shipping@yandex.ru"
 ],
 "first": "2026-11-03",
-"last": "2026-11-05",
+"last": "2026-11-06",
 "links": {},
 "name": "",
 "off": 0,
@@ -42739,7 +42772,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 10,
+"total": 13,
 "vessels": [
 "Tanker"
 ],
@@ -42857,7 +42890,7 @@
 "ryanship.com": {
 "address": "Office No. 1204 / 1205 / 1206, 12th Floor, Quantum tower, C.T.S. No.1, Rambaugh,",
 "city": "Mumbai",
-"co": 29,
+"co": 31,
 "country": "India",
 "emails": [
 "applications@ryanship.com",
@@ -42870,12 +42903,12 @@
 "crewing@sailinga.lt"
 ],
 "first": "2026-11-03",
-"last": "2026-11-05",
+"last": "2026-11-06",
 "links": {
 "crewell": "https://crewell.net/en/companies/265326/"
 },
 "name": "Ryan Ship Management Pvt. Ltd",
-"off": 97,
+"off": 99,
 "offshore_hint": true,
 "phones": [
 "+40750898682",
@@ -42899,7 +42932,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 103,
+"total": 105,
 "vessels": [
 "Bulk",
 "Container",
@@ -45113,10 +45146,10 @@
 "crewell": "https://crewell.net/en/companies/64960/"
 },
 "name": "Advance Global Recruitment Ltd",
-"off": 256,
+"off": 257,
 "offshore_hint": false,
 "phones": [],
-"so": 19,
+"so": 20,
 "sources": [
 "@CREW_ARIA",
 "@Offshore_Vacancies",
@@ -45132,7 +45165,7 @@
 "@offshoreatsea"
 ],
 "telegram": [],
-"total": 257,
+"total": 258,
 "vessels": [
 "Dredger",
 "General cargo",
@@ -48252,7 +48285,7 @@
 "office@tinecomar.ro"
 ],
 "first": "2026-11-03",
-"last": "2026-11-05",
+"last": "2026-11-06",
 "links": {
 "crewell": "https://crewell.net/en/companies/310197/"
 },
@@ -48266,7 +48299,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 7,
+"total": 8,
 "vessels": [
 "Bulk",
 "General cargo",
@@ -50535,10 +50568,10 @@
 "rehana.abdul@vggindia.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-05",
+"last": "2026-11-06",
 "links": {},
 "name": "",
-"off": 8,
+"off": 10,
 "offshore_hint": false,
 "phones": [
 "+918657878987"
@@ -50555,7 +50588,7 @@
 "@seajobfinder"
 ],
 "telegram": [],
-"total": 9,
+"total": 11,
 "vessels": [
 "Offshore",
 "Tug"
@@ -50911,7 +50944,7 @@
 "tturygina@vodohod.ru"
 ],
 "first": "2026-11-03",
-"last": "2026-11-05",
+"last": "2026-11-06",
 "links": {},
 "name": "ООО «ВодоходЪ»",
 "off": 0,
@@ -50923,7 +50956,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 28,
+"total": 34,
 "vessels": [],
 "website": ""
 },
@@ -51160,10 +51193,10 @@
 "kateryna.ivanko@vships.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-04",
+"last": "2026-11-06",
 "links": {},
 "name": "",
-"off": 188,
+"off": 190,
 "offshore_hint": false,
 "phones": [
 "+306972280603",
@@ -51189,7 +51222,7 @@
 "@maritimeforum"
 ],
 "telegram": [],
-"total": 253,
+"total": 255,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -53491,6 +53524,7 @@
 "dream marine georgia offline georgia member since: mar 2023 no active vacancies view profile": "name:dream marine georgia offline georgia member since: mar 2023 no active vacancies view profile",
 "duna marine shipmanagement sia": "dunamarine.com",
 "duncan-azov maritime agency": "duncan-azov.com.ua",
+"dwt marine": "marineman.eu",
 "dwt maris crewing": "mariscrewing.com",
 "dynamic intl marine services": "dynamicmarine.net",
 "dynamic marine services": "dynamicmarine.net",
@@ -53669,6 +53703,7 @@
 "high waves marine services": "highwavesmarine.com",
 "homeport yacht management": "homeport.co.il",
 "hopper suction dredger at sia gold orion": "jobatsea.online",
+"horizon leda bernhard schulte shipmanagement": "bs-shipmanagement.com",
 "horizon maritime": "name:horizon maritime",
 "hot vacancies in vita maritime": "vitamaritime.com.ua",
 "hsm ship management pvt": "hsmship.com",
@@ -53790,6 +53825,7 @@
 "konfillmarine lcc 03 08 2026 georgia member since: jul 2026 no active vacancies about konfillmarine konfillmarine is a certified crewing agency under mlc 2006 located in batumi georgia we specialize in providing marine personnel who meet internation view profile": "name:konfillmarine lcc 03 08 2026 georgia member since: jul 2026 no active vacancies about konfillmarine konfillmarine is a certified crewing agency under mlc 2006 located in batumi georgia we specialize in providing marine personnel who meet internation view profile",
 "kongsberg maritime": "ipspowerfulpeople.com",
 "kru maritime s r l": "krumaritime.ro",
+"ksa nimbus marine": "name:ksa nimbus marine",
 "ksf shipping services": "ksfshipping.com",
 "ksm kaliningrad": "ksm-world.net",
 "kss-trans": "name:kss-trans",
@@ -54036,6 +54072,7 @@
 "nika maritime & k": "crew.nikamaritime",
 "niko offline russian federation member since: aug 2020 no active vacancies view profile": "name:niko offline russian federation member since: aug 2020 no active vacancies view profile",
 "nikolaev maritime agency": "nikolaevmaritimeagency.com",
+"nimbus marine group": "nimbusmarinegroup.com",
 "nimbus marine services": "nimbusmarinegroup.com",
 "nmdc energy": "nmdc-energy.com",
 "nmdc group": "nmdc-group.com",
@@ -54922,50 +54959,50 @@
 "tg_hw": {
 "ALPHACREW": 3570,
 "BSMCSCUKRAINE": 4316,
-"CREW_ARIA": 13990,
+"CREW_ARIA": 13992,
 "Crew_Radar": 3159,
 "JobForMariners": 1200,
 "Merchant_Fleet": 594,
 "OffshoreFleetJob": 11063,
-"Offshore_Vacancies": 889,
+"Offshore_Vacancies": 891,
 "OnlyOffshore": 38851,
 "OnlyYacht": 2313,
 "SM_job_center": 2476,
-"Sea_format": 12334,
+"Sea_format": 12335,
 "TSMexp": 857,
 "Yacht_Vacancies": 290,
 "allcrewing": 3806,
 "andreeyVstart": 1384,
-"balticcareer": 5405,
+"balticcareer": 5408,
 "crewingua": 44789,
 "crs_vacancies": 3550,
 "cruiseshipjobs": 3,
-"cvsenderseaman": 15557,
+"cvsenderseaman": 15566,
 "findseajobs": 32567,
 "galaxymaritimeua": 1249,
-"gm_seaman_cv": 2674,
+"gm_seaman_cv": 2675,
 "help_seafarers": 4884,
 "ismira_agency": 439,
-"job_for_seaman": 17011,
+"job_for_seaman": 17012,
 "jobfor_seamen": 12668,
 "marinecareerorg": 17754,
-"marinejobs": 43097,
+"marinejobs": 43098,
 "marinejobz": 194156,
 "marineman_ltd": 48315,
 "maritimeforum": 255244,
 "merchantNavyrealjob": 262,
-"morehod_ru": 30782,
-"oceancrewjobs": 32702,
-"offshoreatsea": 25067,
+"morehod_ru": 30784,
+"oceancrewjobs": 32707,
+"offshoreatsea": 25070,
 "offshorecv": 1577,
 "offshorevacancies": 47098,
 "oilrigs": 778,
 "olive_crew": 2898,
-"onboard_su": 20691,
-"rekamore_su": 164464,
+"onboard_su": 20694,
+"rekamore_su": 164477,
 "roster_marine": 1732,
 "seajobfinder": 42202,
-"seamenjob": 106107,
+"seamenjob": 106109,
 "seamenvacancy": 1372,
 "seavacancies": 25175,
 "shipjobsindia": 420,
