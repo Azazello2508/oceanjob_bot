@@ -3440,9 +3440,10 @@
 "rank": "2nd Officer",
 "vessel": "Crude oil tanker"
 },
-"new": true,
+"new": false,
 "repeat": false,
-"time": "2026-11-06T13:17:16.337994+00:00"
+"time": "2026-11-06T13:17:16.337994+00:00",
+"junior_dp": false
 },
 {
 "title": "2nd Officer on Bulk carrier",
@@ -3455,9 +3456,10 @@
 "rank": "2nd Officer",
 "vessel": "Bulk carrier"
 },
-"new": true,
+"new": false,
 "repeat": false,
-"time": "2026-11-06T13:17:16.340042+00:00"
+"time": "2026-11-06T13:17:16.340042+00:00",
+"junior_dp": false
 },
 {
 "title": "Chief Officer on Crude oil tanker",
@@ -3470,9 +3472,10 @@
 "rank": "Chief Officer",
 "vessel": "Crude oil tanker"
 },
-"new": true,
+"new": false,
 "repeat": false,
-"time": "2026-11-06T13:17:16.340192+00:00"
+"time": "2026-11-06T13:17:16.340192+00:00",
+"junior_dp": false
 },
 {
 "title": "Chief Officer",
@@ -3484,9 +3487,10 @@
 "info": {
 "rank": "Chief Officer"
 },
-"new": true,
+"new": false,
 "repeat": false,
-"time": "2026-11-06T13:17:17.876691+00:00"
+"time": "2026-11-06T13:17:17.876691+00:00",
+"junior_dp": false
 },
 {
 "title": ",,Золотой Штурвал ,,:",
@@ -3504,9 +3508,10 @@
 "joining": "ASAP",
 "contract": "6+-1"
 },
-"new": true,
+"new": false,
 "repeat": false,
-"time": "2026-11-06T12:54:47+00:00"
+"time": "2026-11-06T12:54:47+00:00",
+"junior_dp": false
 },
 {
 "title": "LNG VACANCY – UKRAINIAN SEAFARERS ONLY",
@@ -3525,9 +3530,10 @@
 "email": "ua-csc-ode-man@bs-shipmanagement.com",
 "company": "bs-shipmanagement.com"
 },
-"new": true,
+"new": false,
 "repeat": false,
-"time": "2026-11-06T13:03:24+00:00"
+"time": "2026-11-06T13:03:24+00:00",
+"junior_dp": false
 },
 {
 "title": "Exciting Chief Officer opportunity on LNG vessel!",
@@ -3545,9 +3551,10 @@
 "email": "ua-csc-ode-man@bs-shipmanagement.com",
 "company": "bs-shipmanagement.com"
 },
-"new": true,
+"new": false,
 "repeat": false,
-"time": "2026-11-06T13:05:09+00:00"
+"time": "2026-11-06T13:05:09+00:00",
+"junior_dp": false
 },
 {
 "title": "Chief Officer",
@@ -3566,9 +3573,10 @@
 "email": "crewcv@interorient.com",
 "company": "interorient.com"
 },
-"new": true,
+"new": false,
 "repeat": false,
-"time": "2026-11-06T13:07:21+00:00"
+"time": "2026-11-06T13:07:21+00:00",
+"junior_dp": false
 },
 {
 "title": "CHIEF OFFICER – OSV",
@@ -3585,9 +3593,10 @@
 "salary": "17000 USD / month",
 "contract": "6 weeks (+/-1)"
 },
-"new": true,
+"new": false,
 "repeat": false,
-"time": "2026-11-06T12:56:28+00:00"
+"time": "2026-11-06T12:56:28+00:00",
+"junior_dp": false
 },
 {
 "title": "2ND OFFICER – AHTS",
@@ -3605,9 +3614,10 @@
 "salary": "Info at office",
 "contract": "4 weeks"
 },
-"new": true,
+"new": false,
 "repeat": false,
-"time": "2026-11-06T13:04:10+00:00"
+"time": "2026-11-06T13:04:10+00:00",
+"junior_dp": false
 },
 {
 "title": "OFFSHORE OPPORTUNITY | 3RD OFFICER / DPO | NORTH SEA",
@@ -3626,9 +3636,10 @@
 "email": "mo@offshore-operations.com",
 "company": "offshore-operations.com"
 },
-"new": true,
+"new": false,
 "repeat": false,
-"time": "2026-11-06T13:10:17+00:00"
+"time": "2026-11-06T13:10:17+00:00",
+"junior_dp": false
 },
 {
 "title": "SECOND OFFICER",
@@ -3648,9 +3659,10 @@
 "email": "info@balticss.com",
 "company": "balticss.com"
 },
-"new": true,
+"new": false,
 "repeat": false,
-"time": "2026-11-06T13:11:36+00:00"
+"time": "2026-11-06T13:11:36+00:00",
+"junior_dp": false
 },
 {
 "title": "SECOND OFFICER",
@@ -3670,9 +3682,10 @@
 "email": "crew@armada-holding.com",
 "company": "armada-holding.com"
 },
-"new": true,
+"new": false,
 "repeat": false,
-"time": "2026-11-06T13:14:56+00:00"
+"time": "2026-11-06T13:14:56+00:00",
+"junior_dp": false
 },
 {
 "title": "Positions for Research Vessel",
@@ -3688,9 +3701,10 @@
 "rank": "2nd Officer",
 "company": "https://oceancrew.org/vacancies/off…"
 },
-"new": true,
+"new": false,
 "repeat": false,
-"time": "2026-11-06T13:15:40+00:00"
+"time": "2026-11-06T13:15:40+00:00",
+"junior_dp": false
 },
 {
 "title": "Crew for General Cargo Vessel (Asia)",
@@ -3707,9 +3721,10 @@
 "vessel": "General cargo",
 "company": "Crew for General Cargo Vessel (Asia…"
 },
-"new": true,
+"new": false,
 "repeat": false,
-"time": "2026-11-06T13:15:47+00:00"
+"time": "2026-11-06T13:15:47+00:00",
+"junior_dp": false
 },
 {
 "title": "Crew for Container Carrier Vessel",
@@ -3725,31 +3740,330 @@
 "vessel": "Container",
 "company": "Crew for Container Carrier Vessel"
 },
-"new": true,
+"new": false,
 "repeat": false,
-"time": "2026-11-06T13:15:57+00:00"
+"time": "2026-11-06T13:15:57+00:00",
+"junior_dp": false
+},
+{
+"title": "2nd Officer on Bulk carrier",
+"url": "https://crewell.net/en/vacancies/465126/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Bulk carrier"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-06T14:06:36.537125+00:00",
+"junior_dp": false
+},
+{
+"title": "2nd Officer on Bulk carrier",
+"url": "https://crewell.net/en/vacancies/465140/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Bulk carrier"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-06T14:06:36.539139+00:00",
+"junior_dp": false
+},
+{
+"title": "Chief Officer on Bulk carrier",
+"url": "https://crewell.net/en/vacancies/465136/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Bulk carrier"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-06T14:06:36.539294+00:00",
+"junior_dp": false
+},
+{
+"title": "Chief Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/368847",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-06T14:06:38.386816+00:00",
+"junior_dp": false
+},
+{
+"title": "Chief Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/368848",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-06T14:06:38.386995+00:00",
+"junior_dp": false
+},
+{
+"title": "2nd Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/368851",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-06T14:06:38.387114+00:00",
+"junior_dp": false
+},
+{
+"title": "Chief Officer Job on Bulk Carrier CSM Manning Agency",
+"url": "https://maritime-union.com/job/232127",
+"source": "maritime-union.com",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Bulk carrier"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-06T14:07:01.388157+00:00",
+"junior_dp": false
+},
+{
+"title": "Master SDPO Job on FSIV DP2 Vessel High Tiide Ship Management Private Limited",
+"url": "https://maritime-union.com/job/232151",
+"source": "maritime-union.com",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "SDPO",
+"company": "Master SDPO Job on FSIV DP2 Vessel…"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-06T14:07:01.388393+00:00",
+"junior_dp": false
+},
+{
+"title": "Master SDPO Job on FSIV DP2 Vessel High Tiide Ship Management Private Limited",
+"url": "https://maritime-union.com/job/232150",
+"source": "maritime-union.com",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "SDPO",
+"company": "Master SDPO Job on FSIV DP2 Vessel…"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-06T14:07:01.388911+00:00",
+"junior_dp": false
+},
+{
+"title": "Chief Officer Job on ERRV Vessel etpm Ltd",
+"url": "https://maritime-union.com/job/232148",
+"source": "maritime-union.com",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"company": "Chief Officer Job on ERRV Vessel et…"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-06T14:07:01.389078+00:00",
+"junior_dp": false
+},
+{
+"title": "Chief Officer Job - MPSV Vessel (Aramco Approved) Aavishka",
+"url": "https://maritime-union.com/job/232144",
+"source": "maritime-union.com",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "PSV, MPSV"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-06T14:07:01.389230+00:00",
+"junior_dp": false
+},
+{
+"title": "NEW URGENT MARINE ROLE ALERT – Chief Officer – ERRV Experienced",
+"url": "https://t.me/maritimeforum/255433",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-a6390653d7e45149",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"joining": "11/11",
+"contract": "Candidates must hold a",
+"email": "marine@etpm.co.uk",
+"company": "etpm.co.uk"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-06T13:42:59+00:00",
+"junior_dp": false
+},
+{
+"title": "CHIEF OFFICER – ERRV",
+"url": "https://t.me/balticcareer/5460",
+"source": "Telegram: @balticcareer",
+"found": [
+"chief officer",
+"c/o"
+],
+"fp": "fp-63a72c8dfadaa1fc",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"salary": "41039.99 GBP / year gross",
+"contract": "4 weeks on / off permanen"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-06T13:39:01+00:00",
+"junior_dp": false
+},
+{
+"title": "https://jobatsea.online/job/625154/2nd-officer-dpo-unlimited-%e2%80%93-psv-uk-sector-at-select-offshore/",
+"url": "https://t.me/offshorevacancies/47113",
+"source": "Telegram: @offshorevacancies",
+"found": [
+"2nd officer",
+"dpo",
+"2nd off"
+],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "2nd Officer / DPO",
+"vessel": "PSV"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-06T13:26:35+00:00",
+"junior_dp": false
+},
+{
+"title": "Marine Crewing Agency Everest",
+"url": "https://t.me/rekamore_su/164509",
+"source": "Telegram: @rekamore_su",
+"found": [
+"chief officer"
+],
+"fp": "fp-26003ccd2552e07e",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "VLCC, LPG",
+"salary": "+ BONUS за HRA",
+"contract": "6 месяцев.(можно меньше",
+"company": "Marine Crewing Agency Everest"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-06T13:20:16+00:00",
+"junior_dp": false
+},
+{
+"title": "Chief Officer",
+"url": "https://t.me/offshoreatsea/25096",
+"source": "Telegram: @offshoreatsea",
+"found": [
+"chief officer"
+],
+"fp": "fp-dbde6bbcd622a93d",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"contract": "4 weeks",
+"email": "marine@etpm.co.uk",
+"company": "etpm.co.uk"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-06T13:39:57+00:00",
+"junior_dp": false
+},
+{
+"title": "CHIEF OFFICER",
+"url": "https://t.me/cvsenderseaman/15633",
+"source": "Telegram: @cvsenderseaman",
+"found": [
+"chief officer"
+],
+"fp": "fp-d71bf183881dfc37",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Bulk carrier",
+"salary": "6,500–8,000 USD",
+"joining": "End of December 2026",
+"contract": "5 ± 1 months",
+"email": "crew@armada-holding.com",
+"company": "armada-holding.com"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-06T13:51:36+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-2636,
-2637,
-2638,
-2639,
-2640,
-2641,
-2642,
-2643,
-2644,
-2645,
-2646,
-2647,
-2648,
-2649,
-2650,
-2651,
-2652
+2653,
+2654,
+2655,
+2656,
+2657,
+2658,
+2659,
+2660,
+2661,
+2662,
+2663,
+2664,
+2665,
+2666,
+2667,
+2668,
+2669
 ],
-"last_list": "2026-11-06T12:48:55.995845+00:00",
-"cleared_upto": 2635,
-"last_msg_id": 2652
+"last_list": "2026-11-06T14:08:00.124854+00:00",
+"cleared_upto": 2652,
+"last_msg_id": 2669
 }
