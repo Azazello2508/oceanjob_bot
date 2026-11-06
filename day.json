@@ -5110,29 +5110,50 @@
 "repeat": false,
 "time": "2026-11-06T17:14:27+00:00",
 "junior_dp": false
+},
+{
+"title": "New Watch Officers vacancies",
+"url": "https://t.me/seavacancies/25181",
+"source": "Telegram: @seavacancies",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-de471507ef29d984",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Chemical tanker, Crude oil tanker",
+"joining": "10 Nov",
+"salary": "$4,000-4,500"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-06T18:03:02+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-2723,
-2724,
-2725,
-2726,
-2727,
-2728,
-2729,
-2730,
-2731,
-2732,
-2733,
-2734,
-2735,
-2736,
-2737,
-2738,
-2739,
-2740
+2741,
+2742,
+2743,
+2744,
+2745,
+2746,
+2747,
+2748,
+2749,
+2750,
+2751,
+2752,
+2753,
+2754,
+2755,
+2756,
+2757,
+2758
 ],
-"last_list": "2026-11-06T17:26:04.811469+00:00",
-"cleared_upto": 2722,
-"last_msg_id": 2740
+"last_list": "2026-11-06T18:15:37.881616+00:00",
+"cleared_upto": 2740,
+"last_msg_id": 2758
 }

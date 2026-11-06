@@ -7002,7 +7002,7 @@
 "@seajobfinder"
 ],
 "telegram": [],
-"total": 74,
+"total": 76,
 "vessels": [
 "Dredger",
 "Offshore",
@@ -11445,7 +11445,7 @@
 "telegram": [
 "@sitelia_world"
 ],
-"total": 105,
+"total": 106,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -17939,7 +17939,7 @@
 "crewell": "https://crewell.net/en/companies/216389/"
 },
 "name": "IQrew Management LLC",
-"off": 9,
+"off": 11,
 "offshore_hint": false,
 "phones": [
 "+78124494524",
@@ -17961,7 +17961,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 39,
+"total": 41,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -40749,7 +40749,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 86,
+"total": 87,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -43123,7 +43123,7 @@
 "rusship.com": {
 "address": "",
 "city": "",
-"co": 4,
+"co": 5,
 "country": "",
 "emails": [
 "crew@rusship.com"
@@ -43143,7 +43143,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 20,
+"total": 23,
 "vessels": [],
 "website": ""
 },
@@ -48832,7 +48832,7 @@
 "crewell": "https://crewell.net/en/companies/194804/"
 },
 "name": "Transport & Offshore Services Ukraine",
-"off": 127,
+"off": 129,
 "offshore_hint": false,
 "phones": [
 "+380672802995"
@@ -48853,7 +48853,7 @@
 "@offshorecv"
 ],
 "telegram": [],
-"total": 147,
+"total": 149,
 "vessels": [
 "Bulk",
 "Container",
@@ -55361,10 +55361,10 @@
 "job_for_seaman": 17015,
 "jobfor_seamen": 12674,
 "marinecareerorg": 17754,
-"marinejobs": 43145,
+"marinejobs": 43146,
 "marinejobz": 194156,
 "marineman_ltd": 48323,
-"maritimeforum": 255536,
+"maritimeforum": 255548,
 "merchantNavyrealjob": 262,
 "morehod_ru": 30806,
 "oceancrewjobs": 32717,
@@ -55373,15 +55373,15 @@
 "offshorevacancies": 47120,
 "oilrigs": 778,
 "olive_crew": 2902,
-"onboard_su": 20704,
-"rekamore_su": 164514,
+"onboard_su": 20706,
+"rekamore_su": 164517,
 "roster_marine": 1736,
-"seajobfinder": 42265,
+"seajobfinder": 42268,
 "seamenjob": 106125,
 "seamenvacancy": 1374,
-"seavacancies": 25180,
+"seavacancies": 25181,
 "shipjobsindia": 420,
-"shipscreweu": 16585,
+"shipscreweu": 16588,
 "sidantey": 399,
 "supermariner_ua": 3879,
 "truemalina_offshore": 796,
