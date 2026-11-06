@@ -1,10 +1,28 @@
 {
 "date": "2026-11-07",
-"jobs": [],
-"msg_ids": [
-2778
+"jobs": [
+{
+"title": "Chief Officer",
+"url": "https://seajobs.ru/ru/vacancy/18046/chief-officer-crude-oil-tanker",
+"source": "seajobs.ru",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Crude oil tanker"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-06T22:02:22.606841+00:00",
+"junior_dp": false
+}
 ],
-"last_list": "2026-11-06T20:24:35.726277+00:00",
-"cleared_upto": 2777,
-"last_msg_id": 2778
+"msg_ids": [
+2779,
+2780
+],
+"last_list": "2026-11-06T22:03:32.109732+00:00",
+"cleared_upto": 2778,
+"last_msg_id": 2780
 }
