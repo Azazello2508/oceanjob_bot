@@ -3162,27 +3162,294 @@
 "repeat": false,
 "time": "2026-11-06T11:24:39+00:00",
 "junior_dp": false
+},
+{
+"title": "2nd Officer on Bulk carrier",
+"url": "https://crewell.net/en/vacancies/465110/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Bulk carrier"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-06T12:47:32.504096+00:00",
+"junior_dp": false
+},
+{
+"title": "2nd Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/368838",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-06T12:47:34.120262+00:00",
+"junior_dp": false
+},
+{
+"title": "2nd Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/368841",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-06T12:47:34.120396+00:00",
+"junior_dp": false
+},
+{
+"title": "VACANCIES – CEMENT CARRIER",
+"url": "https://t.me/maritimeforum/255386",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-0eadd321556804c7",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"joining": "END OF NOVEMBER",
+"salary": "6,500 EUR",
+"email": "ops@start-manning.com",
+"company": "start-manning.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-06T12:04:11+00:00",
+"junior_dp": false
+},
+{
+"title": "Position:",
+"url": "https://t.me/CREW_ARIA/14005",
+"source": "Telegram: @CREW_ARIA",
+"found": [
+"chief officer"
+],
+"fp": "fp-55608afec9bab867",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo",
+"salary": "7000-  7200 USD",
+"joining": "ASAP",
+"contract": "4 ±1 months",
+"email": "ops@start-manning.com",
+"company": "start-manning.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-06T12:13:43+00:00",
+"junior_dp": false
+},
+{
+"title": "VACANCIES – CHIEF OFFICER",
+"url": "https://t.me/andreeyVstart/1385",
+"source": "Telegram: @andreeyVstart",
+"found": [
+"chief officer"
+],
+"fp": "fp-f063b79232588658",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo",
+"salary": "7000-  7200 USD",
+"joining": "ASAP",
+"contract": "4 ±1 months",
+"email": "ops@start-manning.com",
+"company": "start-manning.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-06T12:06:26+00:00",
+"junior_dp": false
+},
+{
+"title": "LOOKING FOR CHIEF OFFICER",
+"url": "https://t.me/seamenvacancy/1374",
+"source": "Telegram: @seamenvacancy",
+"found": [
+"chief officer"
+],
+"fp": "fp-a823a2400bd08f54",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Bulk carrier",
+"salary": "7800 USD+rank bonus, depends o…",
+"joining": "DAY: END NOVEMBER",
+"contract": "4 MONTHS",
+"email": "crewcv@interorient.com",
+"company": "interorient.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-06T12:47:21+00:00",
+"junior_dp": false
+},
+{
+"title": "Chief Officer — LPG/Ethylene Carrier",
+"url": "https://t.me/Crew_Radar/3178",
+"source": "Telegram: @Crew_Radar",
+"found": [
+"chief officer"
+],
+"fp": "fp-d0239d31c9693071",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "LPG",
+"salary": "$13,800/month",
+"joining": "ASAP",
+"contract": "4 months"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-06T12:04:55+00:00",
+"junior_dp": false
+},
+{
+"title": "Chief Officer — LPG Carrier",
+"url": "https://t.me/Crew_Radar/3180",
+"source": "Telegram: @Crew_Radar",
+"found": [
+"chief officer"
+],
+"fp": "fp-4a6b178a8debd482",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "LPG",
+"salary": "$12,300/month",
+"joining": "ASAP",
+"contract": "4±1 months"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-06T12:05:04+00:00",
+"junior_dp": false
+},
+{
+"title": "Chief Officer — LPG / Ethylene Gas Carrier",
+"url": "https://t.me/Crew_Radar/3182",
+"source": "Telegram: @Crew_Radar",
+"found": [
+"chief officer"
+],
+"fp": "fp-e1a3ef6c9d0876dd",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "LPG",
+"salary": "$13,000/month",
+"joining": "8 Nov 2026",
+"contract": "4 months"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-06T12:05:12+00:00",
+"junior_dp": false
+},
+{
+"title": "3rd Officer / DPO",
+"url": "https://t.me/offshoreatsea/25094",
+"source": "Telegram: @offshoreatsea",
+"found": [
+"jdpo",
+"dpo",
+"jdpo"
+],
+"fp": "fp-d9ce30a3078dda6d",
+"offshore": true,
+"info": {
+"rank": "JDPO",
+"vessel": "MPP, PSV",
+"contract": "4 weeks",
+"email": "mo@offshore-operations.com",
+"company": "offshore-operations.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-06T12:14:34+00:00",
+"junior_dp": true
+},
+{
+"title": "SECOND OFFICER (2/O)",
+"url": "https://t.me/gm_seaman_cv/2679",
+"source": "Telegram: @gm_seaman_cv",
+"found": [
+"second officer",
+"2/o"
+],
+"fp": "fp-3b70fabf949909aa",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Cruise, Passenger",
+"joining": "8 December 2026",
+"contract": "3 months on / 3 months of",
+"company": "This is an exciting opportunity for…"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-06T12:38:40+00:00",
+"junior_dp": false
+},
+{
+"title": "CHIEF OFFICER",
+"url": "https://t.me/cvsenderseaman/15614",
+"source": "Telegram: @cvsenderseaman",
+"found": [
+"chief officer"
+],
+"fp": "fp-95db536a562430c3",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"salary": "Negotiable",
+"joining": "11/11",
+"contract": "4 weeks (4/4 rotation ava",
+"email": "marine@etpm.co.uk",
+"company": "etpm.co.uk"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-06T12:13:27+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-2620,
-2621,
-2622,
-2623,
-2624,
-2625,
-2626,
-2627,
-2628,
-2629,
-2630,
-2631,
-2632,
-2633,
-2634,
-2635
+2636,
+2637,
+2638,
+2639,
+2640,
+2641,
+2642,
+2643,
+2644,
+2645,
+2646,
+2647,
+2648,
+2649,
+2650,
+2651,
+2652
 ],
-"last_list": "2026-11-06T11:59:23.138146+00:00",
-"cleared_upto": 2619,
-"last_msg_id": 2635
+"last_list": "2026-11-06T12:48:55.995845+00:00",
+"cleared_upto": 2635,
+"last_msg_id": 2652
 }
