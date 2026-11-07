@@ -1123,24 +1123,65 @@
 "repeat": true,
 "time": "2026-11-07T13:01:38+00:00",
 "junior_dp": false
+},
+{
+"title": ",,Золотой Штурвал ,,:",
+"url": "https://t.me/maritimeforum/255728",
+"source": "Telegram: @maritimeforum",
+"found": [
+"старпом"
+],
+"fp": "fp-94db6941ac7fa880",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Chemical tanker, Bulk carrier",
+"salary": "6100€ ,3- ОФИЦЕР 2900-3200€ ,С…",
+"joining": "ASAP",
+"contract": "6+-1"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-07T13:44:12+00:00",
+"junior_dp": false
+},
+{
+"title": "New Senior Officers vacancies",
+"url": "https://t.me/seavacancies/25186",
+"source": "Telegram: @seavacancies",
+"found": [
+"chief officer"
+],
+"fp": "fp-b709a05c73994bf9",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Chemical tanker, Crude oil tanker",
+"joining": "07 Nov",
+"salary": "$11,200-12,000"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-07T14:03:02+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-2854,
-2855,
-2856,
-2857,
-2858,
-2859,
-2860,
-2861,
-2862,
-2863,
-2864,
-2865,
-2866
+2867,
+2868,
+2869,
+2870,
+2871,
+2872,
+2873,
+2874,
+2875,
+2876,
+2877,
+2878,
+2879
 ],
-"last_list": "2026-11-07T13:34:37.329867+00:00",
-"cleared_upto": 2853,
-"last_msg_id": 2866
+"last_list": "2026-11-07T14:24:34.412816+00:00",
+"cleared_upto": 2866,
+"last_msg_id": 2879
 }
