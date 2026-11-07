@@ -678,6 +678,132 @@
 "repeat": false,
 "time": "2026-11-07T09:46:11+00:00",
 "junior_dp": false
+},
+{
+"title": "Chief Officer",
+"url": "https://t.me/maritimeforum/255672",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-aec8e5f6c7741fe3",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Container",
+"contract": "4 months",
+"salary": "$8,199\n",
+"email": "crewing@balticshipping.pl",
+"company": "balticshipping.pl"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-07T10:53:10+00:00"
+},
+{
+"title": "Chief Officer",
+"url": "https://t.me/maritimeforum/255680",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-b75276da04982381",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Crude oil tanker",
+"contract": "4 months",
+"email": "ua-csc-ode-man@bs-shipmanagement.com",
+"company": "bs-shipmanagement.com"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-07T10:54:24+00:00"
+},
+{
+"title": "2nd Officer",
+"url": "https://t.me/maritimeforum/255682",
+"source": "Telegram: @maritimeforum",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-e18895968cd58903",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "LPG",
+"contract": "4 months",
+"salary": "$4,200–5,400\n",
+"email": "info@orions-group.com",
+"company": "orions-group.com"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-07T10:54:38+00:00"
+},
+{
+"title": "Chief Officer",
+"url": "https://t.me/maritimeforum/255685",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-8eb310e062392445",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Chemical tanker",
+"contract": "4 months",
+"salary": "$11,000–12,000\n",
+"email": "cv@armatorcrew.com",
+"company": "armatorcrew.com"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-07T10:54:57+00:00"
+},
+{
+"title": "2nd Officer",
+"url": "https://t.me/maritimeforum/255692",
+"source": "Telegram: @maritimeforum",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-14cc1ccffe5d704e",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Passenger",
+"contract": "3 months",
+"email": "forcv@csm-ua.com",
+"company": "csm-ua.com"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-07T10:56:09+00:00"
+},
+{
+"title": "Chief Officer",
+"url": "https://t.me/maritimeforum/255702",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-b9dbab03063b7702",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "AHTS, Tug",
+"contract": "3 months",
+"salary": "$9,000\n",
+"email": "cv@seagengroup.com",
+"company": "seagengroup.com"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-07T10:58:07+00:00"
 }
 ],
 "msg_ids": [
