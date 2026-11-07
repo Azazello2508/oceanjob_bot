@@ -1255,9 +1255,10 @@
 "email": "cv@ocean-force.com",
 "company": "ocean-force.com"
 },
-"new": true,
+"new": false,
 "repeat": false,
-"time": "2026-11-07T16:17:25+00:00"
+"time": "2026-11-07T16:17:25+00:00",
+"junior_dp": false
 },
 {
 "title": "Chief Officer",
@@ -1276,9 +1277,10 @@
 "email": "inna.fidek@wilhelmsen.com",
 "company": "wilhelmsen.com"
 },
-"new": true,
+"new": false,
 "repeat": false,
-"time": "2026-11-07T16:17:57+00:00"
+"time": "2026-11-07T16:17:57+00:00",
+"junior_dp": false
 },
 {
 "title": "2nd Officer",
@@ -1298,9 +1300,10 @@
 "email": "recruitment@nordic-hamburg.com",
 "company": "nordic-hamburg.com"
 },
-"new": true,
+"new": false,
 "repeat": false,
-"time": "2026-11-07T16:24:30+00:00"
+"time": "2026-11-07T16:24:30+00:00",
+"junior_dp": false
 },
 {
 "title": "Chief Officer",
@@ -1319,27 +1322,28 @@
 "email": "ktship@ktship.ee",
 "company": "ktship.ee"
 },
-"new": true,
+"new": false,
 "repeat": false,
-"time": "2026-11-07T16:24:42+00:00"
+"time": "2026-11-07T16:24:42+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-2880,
-2881,
-2882,
-2883,
-2884,
-2885,
-2886,
-2887,
-2888,
-2889,
-2890,
-2891,
-2892
+2893,
+2894,
+2895,
+2896,
+2897,
+2898,
+2899,
+2900,
+2901,
+2902,
+2903,
+2904,
+2905
 ],
-"last_list": "2026-11-07T16:03:40.778692+00:00",
-"cleared_upto": 2879,
-"last_msg_id": 2892
+"last_list": "2026-11-07T17:22:26.739569+00:00",
+"cleared_upto": 2892,
+"last_msg_id": 2905
 }
