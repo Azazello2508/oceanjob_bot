@@ -11321,7 +11321,7 @@
 "last": "2026-11-07",
 "links": {},
 "name": "Marie Shipping Ltd",
-"off": 8,
+"off": 9,
 "offshore_hint": false,
 "phones": [],
 "so": 0,
@@ -11329,7 +11329,7 @@
 "@Crew_Radar"
 ],
 "telegram": [],
-"total": 23,
+"total": 24,
 "vessels": [
 "LPG/LNG",
 "Offshore"
@@ -20555,24 +20555,27 @@
 "lnkd.in": {
 "address": "",
 "city": "",
-"co": 0,
+"co": 1,
 "country": "",
 "emails": [],
 "first": "2026-11-06",
-"last": "2026-11-06",
+"last": "2026-11-07",
 "links": {},
 "name": "Clyde Marine",
-"off": 1,
+"off": 2,
 "offshore_hint": false,
 "phones": [],
 "so": 0,
 "sources": [
+"@Crew_Radar",
 "@seajobfinder"
 ],
 "telegram": [],
-"total": 1,
+"total": 2,
 "vessels": [
-"Offshore"
+"LPG/LNG",
+"Offshore",
+"Tug"
 ],
 "website": "lnkd.in"
 },
@@ -55688,7 +55691,7 @@
 "ALPHACREW": 3570,
 "BSMCSCUKRAINE": 4332,
 "CREW_ARIA": 14011,
-"Crew_Radar": 3215,
+"Crew_Radar": 3227,
 "JobForMariners": 1201,
 "Merchant_Fleet": 598,
 "OffshoreFleetJob": 11063,
@@ -55713,7 +55716,7 @@
 "ismira_agency": 440,
 "job_for_seaman": 17018,
 "jobfor_seamen": 12674,
-"marinecareerorg": 17755,
+"marinecareerorg": 17756,
 "marinejobs": 43149,
 "marinejobz": 194156,
 "marineman_ltd": 48331,
@@ -55732,7 +55735,7 @@
 "seajobfinder": 42271,
 "seamenjob": 106126,
 "seamenvacancy": 1374,
-"seavacancies": 25188,
+"seavacancies": 25189,
 "shipjobsindia": 420,
 "shipscreweu": 16593,
 "sidantey": 399,

@@ -1441,24 +1441,123 @@
 "repeat": false,
 "time": "2026-11-07T18:29:54+00:00",
 "junior_dp": false
+},
+{
+"title": "3rd Officer / DPO — MPSV DP2",
+"url": "https://t.me/Crew_Radar/3219",
+"source": "Telegram: @Crew_Radar",
+"found": [
+"dpo"
+],
+"fp": "fp-98c4ec7f92bcdc87",
+"offshore": true,
+"info": {
+"rank": "DPO",
+"vessel": "PSV, MPSV",
+"salary": "Not stated",
+"joining": "2026-11-11",
+"contract": "4 weeks"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-07T19:03:47+00:00",
+"junior_dp": false
+},
+{
+"title": "Chief Officer — ERRV",
+"url": "https://t.me/Crew_Radar/3221",
+"source": "Telegram: @Crew_Radar",
+"found": [
+"chief officer"
+],
+"fp": "fp-0a6b85d464d919a8",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"salary": "Not stated",
+"joining": "2026-11-10",
+"contract": "4 weeks, then 4/4 rotatio"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-07T19:03:54+00:00",
+"junior_dp": false
+},
+{
+"title": "Chief Officer — LPG Carrier",
+"url": "https://t.me/Crew_Radar/3226",
+"source": "Telegram: @Crew_Radar",
+"found": [
+"chief officer"
+],
+"fp": "fp-fc0ac4b7e8cb1e70",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "LPG",
+"salary": "USD 11,000-12,500/month",
+"joining": "ASAP",
+"contract": "3 +/-1 months"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-07T19:04:10+00:00",
+"junior_dp": false
+},
+{
+"title": "E2E Test Vacancy Digest — 7 Nov 2026",
+"url": "https://t.me/Crew_Radar/3227",
+"source": "Telegram: @Crew_Radar",
+"found": [
+"chief officer",
+"dpo"
+],
+"fp": "fp-0984c5dc109f97cc",
+"offshore": true,
+"info": {
+"rank": "Chief Officer / DPO",
+"vessel": "LPG, PSV"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-07T19:04:20+00:00",
+"junior_dp": false
+},
+{
+"title": "Position publishing service was stopped for the night.",
+"url": "https://t.me/marinecareerorg/17756",
+"source": "Telegram: @marinecareerorg",
+"found": [
+"chief officer"
+],
+"fp": "fp-3f3edb68d0715dcc",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "LNG, Chemical tanker"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-07T19:01:00+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-2919,
-2920,
-2921,
-2922,
-2923,
-2924,
-2925,
-2926,
-2927,
-2928,
-2929,
-2930,
-2931
+2932,
+2933,
+2934,
+2935,
+2936,
+2937,
+2938,
+2939,
+2940,
+2941,
+2942,
+2943,
+2944
 ],
-"last_list": "2026-11-07T19:00:57.771419+00:00",
-"cleared_upto": 2918,
-"last_msg_id": 2931
+"last_list": "2026-11-07T19:50:15.055865+00:00",
+"cleared_upto": 2931,
+"last_msg_id": 2944
 }
