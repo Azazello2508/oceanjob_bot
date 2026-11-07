@@ -359,19 +359,76 @@
 "repeat": false,
 "time": "2026-11-07T06:23:14+00:00",
 "junior_dp": false
+},
+{
+"title": "2nd Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/369149",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-07T07:16:55.345335+00:00",
+"junior_dp": false
+},
+{
+"title": "OPEN POSITIONS:",
+"url": "https://t.me/maritimeforum/255629",
+"source": "Telegram: @maritimeforum",
+"found": [
+"2/o"
+],
+"fp": "fp-9bc0f82ca784591a",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Chemical tanker, Tug",
+"joining": "15.11",
+"contract": "5 +/- 1 Month(s)",
+"salary": "6,000 USD",
+"email": "cv@ariesnav.com",
+"company": "ariesnav.com"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-07T07:04:24+00:00",
+"junior_dp": false
+},
+{
+"title": "Ребятки, смотрите, что сейчас происходит с офшором. Последний месяц я наблюдаю определённую стагнацию - заявок стало заметно меньше. Бывают периоды, которые мно…",
+"url": "https://t.me/truemalina_offshore/797",
+"source": "Telegram: @truemalina_offshore",
+"found": [
+"second officer",
+"dp basic"
+],
+"fp": "fp-2151434cdce472af",
+"offshore": true,
+"info": {
+"rank": "2nd Officer / DP Basic/Induction"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-07T06:40:50+00:00",
+"junior_dp": true
 }
 ],
 "msg_ids": [
-2783,
-2784,
-2785,
-2786,
-2787,
-2788,
-2789,
-2790
+2791,
+2792,
+2793,
+2794,
+2795,
+2796,
+2797,
+2798,
+2799
 ],
-"last_list": "2026-11-07T06:28:45.861065+00:00",
-"cleared_upto": 2782,
-"last_msg_id": 2790
+"last_list": "2026-11-07T07:18:07.923403+00:00",
+"cleared_upto": 2790,
+"last_msg_id": 2799
 }
