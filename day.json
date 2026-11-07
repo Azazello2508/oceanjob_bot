@@ -1164,24 +1164,97 @@
 "repeat": false,
 "time": "2026-11-07T14:03:02+00:00",
 "junior_dp": false
+},
+{
+"title": "2nd Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/369160",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-07T16:02:14.131371+00:00",
+"junior_dp": false
+},
+{
+"title": "BULK CARRIER",
+"url": "https://t.me/maritimeforum/255738",
+"source": "Telegram: @maritimeforum",
+"found": [
+"2nd off"
+],
+"fp": "fp-f73d9b00a96f30e8",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Bulk carrier",
+"joining": "mid November",
+"salary": "3500 $",
+"email": "office@seamanwork.com",
+"company": "seamanwork.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-07T15:54:01+00:00",
+"junior_dp": false
+},
+{
+"title": "DECK OFFICERS (39)",
+"url": "https://t.me/marineman_ltd/48325",
+"source": "Telegram: @marineman_ltd",
+"found": [
+"chief officer",
+"second officer"
+],
+"fp": "fp-91beb7075143fd97",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer",
+"vessel": "LPG, LNG"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-07T16:00:02+00:00",
+"junior_dp": false
+},
+{
+"title": "Список закрытых каналов в",
+"url": "https://t.me/morehod_ru/30820",
+"source": "Telegram: @morehod_ru",
+"found": [
+"старший помощник"
+],
+"fp": "fp-de84ab9948b9e3a9",
+"offshore": false,
+"info": {
+"rank": "Chief Officer"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-07T16:03:01+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-2867,
-2868,
-2869,
-2870,
-2871,
-2872,
-2873,
-2874,
-2875,
-2876,
-2877,
-2878,
-2879
+2880,
+2881,
+2882,
+2883,
+2884,
+2885,
+2886,
+2887,
+2888,
+2889,
+2890,
+2891,
+2892
 ],
-"last_list": "2026-11-07T14:24:34.412816+00:00",
-"cleared_upto": 2866,
-"last_msg_id": 2879
+"last_list": "2026-11-07T16:03:40.778692+00:00",
+"cleared_upto": 2879,
+"last_msg_id": 2892
 }

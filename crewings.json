@@ -8817,7 +8817,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 307,
+"total": 308,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -8911,7 +8911,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 27,
+"total": 28,
 "vessels": [
 "Bulk",
 "LPG/LNG",
@@ -11402,7 +11402,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 11,
+"total": 12,
 "vessels": [
 "Bulk",
 "Tanker"
@@ -11993,7 +11993,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 15,
+"total": 16,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -17598,7 +17598,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 34,
+"total": 35,
 "vessels": [
 "Bulk",
 "General cargo",
@@ -19524,7 +19524,7 @@
 "crewell": "https://crewell.net/en/companies/8851/"
 },
 "name": "KT Ship Ltd",
-"off": 1,
+"off": 2,
 "offshore_hint": false,
 "phones": [
 "+37256289419",
@@ -19537,7 +19537,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 12,
+"total": 13,
 "vessels": [
 "Container",
 "Dredger",
@@ -21332,7 +21332,7 @@
 "@marinemanapply",
 "@rudomyotova"
 ],
-"total": 105,
+"total": 107,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -40271,7 +40271,7 @@
 "@Sofia_OliveCrew",
 "@Svetlana_OliveCrew"
 ],
-"total": 243,
+"total": 245,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -45023,13 +45023,13 @@
 "+380982840100",
 "+40799627444"
 ],
-"so": 12,
+"so": 13,
 "sources": [
 "@SM_job_center",
 "@maritimeforum"
 ],
 "telegram": [],
-"total": 35,
+"total": 39,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -48658,9 +48658,11 @@
 "city": "Pireas 185 35",
 "co": 0,
 "country": "Greece",
-"emails": [],
+"emails": [
+"cv@tenetmarine.com.ua"
+],
 "first": "2026-11-03",
-"last": "",
+"last": "2026-11-07",
 "links": {
 "crewell": "https://crewell.net/en/companies/242875/"
 },
@@ -48670,10 +48672,11 @@
 "phones": [],
 "so": 0,
 "sources": [
+"@maritimeforum",
 "crewell.net"
 ],
 "telegram": [],
-"total": 0,
+"total": 1,
 "vessels": [],
 "website": "tenetmarine.com.ua"
 },
@@ -50597,7 +50600,7 @@
 "telegram": [
 "@univisltd"
 ],
-"total": 194,
+"total": 195,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -55171,6 +55174,7 @@
 "techmarine": "techmarine.com.ua",
 "techmarine crewing agency": "techmarine.com.ua",
 "tecshipping offline russian federation member since: feb 2017 no active vacancies view profile": "name:tecshipping offline russian federation member since: feb 2017 no active vacancies view profile",
+"tenet marine": "tenetmarine.com.ua",
 "tenet marine 07 05 2026 russian federation member since: jul 2022 no active vacancies tenet marine is one of leaders on crewing market in ukraine was founded in 1993 and since then has been providing a full range of crewing services ou view profile": "name:tenet marine 07 05 2026 russian federation member since: jul 2022 no active vacancies tenet marine is one of leaders on crewing market in ukraine was founded in 1993 and since then has been providing a full range of crewing services ou view profile",
 "tenet marine hellas 12 days ago greece member since: nov 2023 no active vacancies our tenet marine hellas has been operating in crew market for more than 25 years and provides qualified crews of various nationalities to international shipping comp view profile": "name:tenet marine hellas 12 days ago greece member since: nov 2023 no active vacancies our tenet marine hellas has been operating in crew market for more than 25 years and provides qualified crews of various nationalities to international shipping comp view profile",
 "tenetmarine": "tenetmarine.com.ua",
@@ -55633,7 +55637,7 @@
 "crewingua": 44814,
 "crs_vacancies": 3551,
 "cruiseshipjobs": 3,
-"cvsenderseaman": 15668,
+"cvsenderseaman": 15672,
 "findseajobs": 32567,
 "galaxymaritimeua": 1249,
 "gm_seaman_cv": 2682,
@@ -55644,23 +55648,23 @@
 "marinecareerorg": 17755,
 "marinejobs": 43149,
 "marinejobz": 194156,
-"marineman_ltd": 48323,
-"maritimeforum": 255728,
+"marineman_ltd": 48331,
+"maritimeforum": 255741,
 "merchantNavyrealjob": 262,
-"morehod_ru": 30817,
+"morehod_ru": 30820,
 "oceancrewjobs": 32724,
 "offshoreatsea": 25108,
 "offshorecv": 1584,
 "offshorevacancies": 47120,
 "oilrigs": 778,
-"olive_crew": 2903,
+"olive_crew": 2904,
 "onboard_su": 20706,
 "rekamore_su": 164548,
 "roster_marine": 1736,
 "seajobfinder": 42268,
 "seamenjob": 106126,
 "seamenvacancy": 1374,
-"seavacancies": 25186,
+"seavacancies": 25187,
 "shipjobsindia": 420,
 "shipscreweu": 16588,
 "sidantey": 399,
