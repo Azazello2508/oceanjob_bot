@@ -8778,7 +8778,7 @@
 "bs-shipmanagement.com": {
 "address": "Brīvības iela 97- 3",
 "city": "Rīga",
-"co": 21,
+"co": 22,
 "country": "Latvia",
 "emails": [
 "de-smc-man@bs-shipmanagement.com",
@@ -8789,7 +8789,7 @@
 "ua-csc-ode-man@bs-shipmanagement.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-06",
+"last": "2026-11-07",
 "links": {
 "crewell": "https://crewell.net/en/companies/283223/"
 },
@@ -8809,10 +8809,11 @@
 "@marinejobs",
 "@maritimeforum",
 "@onboard_su",
+"@vesselsea",
 "crewell.net"
 ],
 "telegram": [],
-"total": 300,
+"total": 301,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -11905,7 +11906,7 @@
 "zapyshnyy@danica-crewing.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-06",
+"last": "2026-11-07",
 "links": {
 "crewell": "https://crewell.net/en/companies/229425/"
 },
@@ -11924,10 +11925,11 @@
 "@cvsenderseaman",
 "@jobfor_seamen",
 "@maritimeforum",
+"@vesselsea",
 "crewell.net"
 ],
 "telegram": [],
-"total": 13,
+"total": 14,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -17934,12 +17936,12 @@
 "yulia.voronina@iqrewing.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-06",
+"last": "2026-11-07",
 "links": {
 "crewell": "https://crewell.net/en/companies/216389/"
 },
 "name": "IQrew Management LLC",
-"off": 11,
+"off": 12,
 "offshore_hint": false,
 "phones": [
 "+78124494524",
@@ -17958,10 +17960,11 @@
 "@rekamore_su",
 "@seajobfinder",
 "@shipscreweu",
+"@vesselsea",
 "crewell.net"
 ],
 "telegram": [],
-"total": 41,
+"total": 42,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -20897,18 +20900,19 @@
 "resume.udya@manningindia.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-03",
+"last": "2026-11-07",
 "links": {},
 "name": "",
-"off": 7,
+"off": 8,
 "offshore_hint": false,
 "phones": [],
 "so": 1,
 "sources": [
-"@offshoreatsea"
+"@offshoreatsea",
+"@vesselsea"
 ],
 "telegram": [],
-"total": 7,
+"total": 8,
 "vessels": [
 "Offshore"
 ],
@@ -21025,9 +21029,11 @@
 "city": "Kaliningrad",
 "co": 0,
 "country": "Russia",
-"emails": [],
+"emails": [
+"cv@marin-ts.com"
+],
 "first": "2026-11-03",
-"last": "",
+"last": "2026-11-07",
 "links": {
 "crewell": "https://crewell.net/en/companies/283423/"
 },
@@ -21037,11 +21043,14 @@
 "phones": [],
 "so": 0,
 "sources": [
+"@vesselsea",
 "crewell.net"
 ],
 "telegram": [],
-"total": 0,
-"vessels": [],
+"total": 1,
+"vessels": [
+"Tanker"
+],
 "website": "marin-ts.com"
 },
 "marine-selection.com.ua": {
@@ -23585,10 +23594,10 @@
 "more.crimea.2022@gmail.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-03",
+"last": "2026-11-07",
 "links": {},
 "name": "",
-"off": 2,
+"off": 3,
 "offshore_hint": false,
 "phones": [
 "+79782126689"
@@ -23596,10 +23605,11 @@
 "so": 0,
 "sources": [
 "@morehod_ru",
-"@rekamore_su"
+"@rekamore_su",
+"@vesselsea"
 ],
 "telegram": [],
-"total": 2,
+"total": 3,
 "vessels": [
 "Offshore"
 ],
@@ -38842,6 +38852,34 @@
 "vessels": [],
 "website": "nordostmarine.com"
 },
+"nordvegr.ru": {
+"address": "",
+"city": "",
+"co": 0,
+"country": "",
+"emails": [
+"anketa@nordvegr.ru"
+],
+"first": "2026-11-07",
+"last": "2026-11-07",
+"links": {},
+"name": "",
+"off": 0,
+"offshore_hint": false,
+"phones": [
+"+79112859229"
+],
+"so": 0,
+"sources": [
+"@vesselsea"
+],
+"telegram": [],
+"total": 1,
+"vessels": [
+"General cargo"
+],
+"website": ""
+},
 "norfinoffshore.com": {
 "address": "",
 "city": "Singapore",
@@ -38980,10 +39018,10 @@
 "vacancy@north-alliance.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-06",
+"last": "2026-11-07",
 "links": {},
 "name": "",
-"off": 14,
+"off": 15,
 "offshore_hint": false,
 "phones": [],
 "so": 0,
@@ -38991,10 +39029,11 @@
 "@marinejobs",
 "@morehod_ru",
 "@rekamore_su",
-"@seamenjob"
+"@seamenjob",
+"@vesselsea"
 ],
 "telegram": [],
-"total": 45,
+"total": 46,
 "vessels": [
 "Offshore",
 "Passenger",
@@ -39155,7 +39194,7 @@
 "columbia@novocsmru.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-06",
+"last": "2026-11-07",
 "links": {},
 "name": "Columbia Shipmanagement",
 "off": 0,
@@ -39166,10 +39205,11 @@
 "so": 0,
 "sources": [
 "@morehod_ru",
-"@rekamore_su"
+"@rekamore_su",
+"@vesselsea"
 ],
 "telegram": [],
-"total": 17,
+"total": 18,
 "vessels": [
 "Chemical",
 "Tanker"
@@ -43860,7 +43900,7 @@
 "vacancy@scf-group.ru"
 ],
 "first": "2026-11-03",
-"last": "2026-11-06",
+"last": "2026-11-07",
 "links": {
 "crewell": "https://crewell.net/en/companies/264003/"
 },
@@ -43874,10 +43914,11 @@
 "sources": [
 "@marinejobs",
 "@seamenjob",
+"@vesselsea",
 "crewell.net"
 ],
 "telegram": [],
-"total": 10,
+"total": 11,
 "vessels": [
 "LPG/LNG",
 "Tanker"
@@ -44545,27 +44586,30 @@
 "seagengroup.com": {
 "address": "156 «A», OFFICE NN 303, DZERZHINSKOGO AVENUE., NOVOROSSIYSK, KRASNODARSKIY REG.,",
 "city": "Novorossiysk",
-"co": 1,
+"co": 2,
 "country": "Russia",
 "emails": [
 "cv@seagengroup.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-06",
+"last": "2026-11-07",
 "links": {
 "crewell": "https://crewell.net/en/companies/217535/"
 },
 "name": "SEAGEN GROUP NOVO LLC",
-"off": 2,
+"off": 3,
 "offshore_hint": false,
-"phones": [],
+"phones": [
+"+79785678665"
+],
 "so": 0,
 "sources": [
 "@OffshoreFleetJob",
+"@vesselsea",
 "crewell.net"
 ],
 "telegram": [],
-"total": 2,
+"total": 3,
 "vessels": [
 "Offshore",
 "Tug"
@@ -55414,6 +55458,7 @@
 "truemalina_offshore": 796,
 "ukrcrewing_official": 2379,
 "univis_crewing": 5007,
+"vesselsea": 3114,
 "vshipsoffshore": 1070
 },
 "tg_low": {
@@ -55472,6 +55517,7 @@
 "truemalina_offshore": 762,
 "ukrcrewing_official": 2344,
 "univis_crewing": 4978,
+"vesselsea": 3098,
 "vshipsoffshore": 1051
 },
 "version": 2
