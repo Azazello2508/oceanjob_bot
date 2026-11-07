@@ -696,9 +696,10 @@
 "email": "crewing@balticshipping.pl",
 "company": "balticshipping.pl"
 },
-"new": true,
+"new": false,
 "repeat": false,
-"time": "2026-11-07T10:53:10+00:00"
+"time": "2026-11-07T10:53:10+00:00",
+"junior_dp": false
 },
 {
 "title": "Chief Officer",
@@ -716,9 +717,10 @@
 "email": "ua-csc-ode-man@bs-shipmanagement.com",
 "company": "bs-shipmanagement.com"
 },
-"new": true,
+"new": false,
 "repeat": false,
-"time": "2026-11-07T10:54:24+00:00"
+"time": "2026-11-07T10:54:24+00:00",
+"junior_dp": false
 },
 {
 "title": "2nd Officer",
@@ -738,9 +740,10 @@
 "email": "info@orions-group.com",
 "company": "orions-group.com"
 },
-"new": true,
+"new": false,
 "repeat": false,
-"time": "2026-11-07T10:54:38+00:00"
+"time": "2026-11-07T10:54:38+00:00",
+"junior_dp": false
 },
 {
 "title": "Chief Officer",
@@ -759,9 +762,10 @@
 "email": "cv@armatorcrew.com",
 "company": "armatorcrew.com"
 },
-"new": true,
+"new": false,
 "repeat": false,
-"time": "2026-11-07T10:54:57+00:00"
+"time": "2026-11-07T10:54:57+00:00",
+"junior_dp": false
 },
 {
 "title": "2nd Officer",
@@ -780,9 +784,10 @@
 "email": "forcv@csm-ua.com",
 "company": "csm-ua.com"
 },
-"new": true,
+"new": false,
 "repeat": false,
-"time": "2026-11-07T10:56:09+00:00"
+"time": "2026-11-07T10:56:09+00:00",
+"junior_dp": false
 },
 {
 "title": "Chief Officer",
@@ -801,25 +806,77 @@
 "email": "cv@seagengroup.com",
 "company": "seagengroup.com"
 },
-"new": true,
+"new": false,
 "repeat": false,
-"time": "2026-11-07T10:58:07+00:00"
+"time": "2026-11-07T10:58:07+00:00",
+"junior_dp": false
+},
+{
+"title": "Marine Recruitment – Open Positions",
+"url": "https://t.me/marinejobs/43149",
+"source": "Telegram: @marinejobs",
+"found": [
+"chief officer",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-9e4f6e2e8aa9fd81",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer",
+"vessel": "LPG, LNG",
+"joining": "11 Nov 2026",
+"contract": "4 months",
+"salary": "$13,000",
+"email": "application@elvictor.com.ua",
+"company": "elvictor.com.ua"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-07T11:32:29+00:00",
+"junior_dp": false
+},
+{
+"title": "Chief Officer",
+"url": "https://t.me/job_for_seaman/17017",
+"source": "Telegram: @job_for_seaman",
+"found": [
+"chief officer",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-e3925d2a0f90b4c5",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer",
+"vessel": "LPG, LNG",
+"salary": "13,000 $ per month",
+"joining": "11.11.2026 | Contract: 4 month",
+"contract": "4 months | Region: Worldw",
+"email": "application@elvictor.com.ua",
+"company": "elvictor.com.ua"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-07T11:15:15+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-2819,
-2820,
-2821,
-2822,
-2823,
-2824,
-2825,
-2826,
-2827,
-2828,
-2829
+2830,
+2831,
+2832,
+2833,
+2834,
+2835,
+2836,
+2837,
+2838,
+2839,
+2840,
+2841
 ],
-"last_list": "2026-11-07T10:35:40.787482+00:00",
-"cleared_upto": 2818,
-"last_msg_id": 2829
+"last_list": "2026-11-07T11:54:55.083800+00:00",
+"cleared_upto": 2829,
+"last_msg_id": 2841
 }

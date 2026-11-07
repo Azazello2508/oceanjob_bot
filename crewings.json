@@ -7190,7 +7190,7 @@
 "office@avendocreving.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-03",
+"last": "2026-11-07",
 "links": {},
 "name": "",
 "off": 0,
@@ -7200,10 +7200,11 @@
 ],
 "so": 0,
 "sources": [
-"@Merchant_Fleet"
+"@Merchant_Fleet",
+"@cvsenderseaman"
 ],
 "telegram": [],
-"total": 1,
+"total": 2,
 "vessels": [
 "General cargo"
 ],
@@ -13177,43 +13178,44 @@
 "elvictor.com.ua": {
 "address": "",
 "city": "",
-"co": 3,
+"co": 5,
 "country": "",
 "emails": [
 "application@elvictor.com.ua",
 "cv.osm.odessa@osmthome.com",
+"cv@marineman.eu",
 "denys.budchenko@vships.com",
 "diana.razumova@scglobal.group",
-"info@uniship-crewing.com",
-"j.rudomyotova@marineman.eu",
-"l.phkhakadze@marineman.eu",
-"recruitment@epsilonhellas.com.ua"
+"forcv@eurocrew-ua.com",
+"info@staff-service-expert.com",
+"info@uniship-crewing.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-05",
+"last": "2026-11-07",
 "links": {},
 "name": "",
 "off": 0,
 "offshore_hint": false,
 "phones": [
 "+306972280603",
+"+380482359059",
 "+380500169777",
 "+380503860263",
 "+380504928820",
 "+380751600049",
-"+380957352676",
-"+380995517593",
-"+905055443892"
+"+380937800894",
+"+380957352676"
 ],
-"so": 2,
+"so": 4,
 "sources": [
 "@SM_job_center",
 "@cvsenderseaman",
 "@job_for_seaman",
+"@marinejobs",
 "@maritimeforum"
 ],
 "telegram": [],
-"total": 11,
+"total": 13,
 "vessels": [
 "Bulk",
 "General cargo",
@@ -19027,7 +19029,7 @@
 "crewell": "https://crewell.net/en/companies/289900/"
 },
 "name": "Ketrin Ltd",
-"off": 1,
+"off": 2,
 "offshore_hint": false,
 "phones": [],
 "so": 0,
@@ -19038,7 +19040,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 4,
+"total": 5,
 "vessels": [
 "LPG/LNG",
 "Offshore",
@@ -26683,7 +26685,7 @@
 "country": "",
 "emails": [],
 "first": "2026-11-04",
-"last": "2026-11-06",
+"last": "2026-11-07",
 "links": {},
 "name": "Bermuda Maritime",
 "off": 0,
@@ -26698,7 +26700,7 @@
 "telegram": [
 "@AndreyVStart"
 ],
-"total": 3,
+"total": 4,
 "vessels": [],
 "website": ""
 },
@@ -40223,7 +40225,7 @@
 "ua-csc-ode-man@bs-shipmanagement.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-06",
+"last": "2026-11-07",
 "links": {
 "crewell": "https://crewell.net/en/companies/260664/"
 },
@@ -40261,7 +40263,7 @@
 "@Sofia_OliveCrew",
 "@Svetlana_OliveCrew"
 ],
-"total": 242,
+"total": 243,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -42509,7 +42511,7 @@
 "ukraine@uniteammarine.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-06",
+"last": "2026-11-07",
 "links": {
 "crewell": "https://crewell.net/en/companies/374687/"
 },
@@ -42544,7 +42546,7 @@
 "@DaniilPRayMarine",
 "@anastasiaChRayMarine"
 ],
-"total": 182,
+"total": 183,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -47049,7 +47051,7 @@
 "@supermariner_ua"
 ],
 "telegram": [],
-"total": 212,
+"total": 214,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -55582,7 +55584,7 @@
 "ALPHACREW": 3570,
 "BSMCSCUKRAINE": 4332,
 "CREW_ARIA": 14011,
-"Crew_Radar": 3200,
+"Crew_Radar": 3201,
 "JobForMariners": 1200,
 "Merchant_Fleet": 598,
 "OffshoreFleetJob": 11063,
@@ -55595,31 +55597,31 @@
 "Yacht_Vacancies": 290,
 "allcrewing": 3806,
 "andreeyVstart": 1386,
-"balticcareer": 5467,
-"crewingua": 44810,
+"balticcareer": 5469,
+"crewingua": 44811,
 "crs_vacancies": 3551,
 "cruiseshipjobs": 3,
-"cvsenderseaman": 15663,
+"cvsenderseaman": 15666,
 "findseajobs": 32567,
 "galaxymaritimeua": 1249,
 "gm_seaman_cv": 2682,
 "help_seafarers": 4884,
 "ismira_agency": 440,
-"job_for_seaman": 17016,
+"job_for_seaman": 17017,
 "jobfor_seamen": 12674,
 "marinecareerorg": 17755,
-"marinejobs": 43148,
+"marinejobs": 43149,
 "marinejobz": 194156,
 "marineman_ltd": 48323,
-"maritimeforum": 255702,
+"maritimeforum": 255704,
 "merchantNavyrealjob": 262,
 "morehod_ru": 30813,
 "oceancrewjobs": 32724,
 "offshoreatsea": 25108,
-"offshorecv": 1583,
+"offshorecv": 1584,
 "offshorevacancies": 47120,
 "oilrigs": 778,
-"olive_crew": 2902,
+"olive_crew": 2903,
 "onboard_su": 20706,
 "rekamore_su": 164546,
 "roster_marine": 1736,
