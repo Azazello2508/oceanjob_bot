@@ -860,23 +860,176 @@
 "repeat": false,
 "time": "2026-11-07T11:15:15+00:00",
 "junior_dp": false
+},
+{
+"title": "Chief Officer on Crude oil tanker",
+"url": "https://crewell.net/en/vacancies/465314/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Crude oil tanker"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-07T12:43:03.610172+00:00",
+"junior_dp": false
+},
+{
+"title": "2nd Officer",
+"url": "https://t.me/maritimeforum/255707",
+"source": "Telegram: @maritimeforum",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-9c529d4e1f1aedc4",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Crude oil tanker",
+"contract": "3–5 months",
+"salary": "$4,400–5,400\n",
+"email": "ed@bsc-spb.com",
+"company": "bsc-spb.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-07T12:21:17+00:00",
+"junior_dp": false
+},
+{
+"title": "2nd Officer",
+"url": "https://t.me/maritimeforum/255711",
+"source": "Telegram: @maritimeforum",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-22c63feeac8e801e",
+"offshore": true,
+"info": {
+"rank": "2nd Officer",
+"vessel": "AHTS, Tug",
+"contract": "3 months",
+"salary": "$6,000\n",
+"email": "cv@seagengroup.com",
+"company": "seagengroup.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-07T12:21:53+00:00",
+"junior_dp": false
+},
+{
+"title": "2nd Officer",
+"url": "https://t.me/maritimeforum/255713",
+"source": "Telegram: @maritimeforum",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-c2bc25a4b88befd6",
+"offshore": true,
+"info": {
+"rank": "2nd Officer",
+"vessel": "PSV, MPSV",
+"contract": "2 months",
+"salary": "$250",
+"email": "cv@tsmexp.com",
+"company": "tsmexp.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-07T12:22:05+00:00",
+"junior_dp": false
+},
+{
+"title": "DRY CARGO FLEET - Container",
+"url": "https://t.me/crewingua/44812",
+"source": "Telegram: @crewingua",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-9e81802d26f3cae4",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Container",
+"joining": "End of November",
+"salary": "3.800 - 4.000$",
+"email": "crew@oceanodyssey.com.ua",
+"company": "oceanodyssey.com.ua"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-07T12:26:02+00:00",
+"junior_dp": false
+},
+{
+"title": "DRY CARGO FLEET - Bulk Carrier",
+"url": "https://t.me/crewingua/44813",
+"source": "Telegram: @crewingua",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-21b498a7dbc54272",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Bulk carrier",
+"joining": "End of November",
+"salary": "3.500$",
+"email": "crew@oceanodyssey.com.ua",
+"company": "oceanodyssey.com.ua"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-07T12:27:03+00:00",
+"junior_dp": false
+},
+{
+"title": "DRY CARGO FLEET - Bulk Carrier",
+"url": "https://t.me/crewingua/44814",
+"source": "Telegram: @crewingua",
+"found": [
+"chief officer"
+],
+"fp": "fp-73546fe8d3e27a7f",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Bulk carrier",
+"joining": "ASAP",
+"salary": "7.000 - 7.200$",
+"email": "crew@oceanodyssey.com.ua",
+"company": "oceanodyssey.com.ua"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-07T12:28:12+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-2830,
-2831,
-2832,
-2833,
-2834,
-2835,
-2836,
-2837,
-2838,
-2839,
-2840,
-2841
+2842,
+2843,
+2844,
+2845,
+2846,
+2847,
+2848,
+2849,
+2850,
+2851,
+2852,
+2853
 ],
-"last_list": "2026-11-07T11:54:55.083800+00:00",
-"cleared_upto": 2829,
-"last_msg_id": 2841
+"last_list": "2026-11-07T12:44:58.379904+00:00",
+"cleared_upto": 2841,
+"last_msg_id": 2853
 }
