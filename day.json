@@ -655,21 +655,45 @@
 "repeat": false,
 "time": "2026-11-07T09:46:04+00:00",
 "junior_dp": false
+},
+{
+"title": "NEED ALL RANKS ONBOARD C-CSOV",
+"url": "https://t.me/oceancrewjobs/32724",
+"source": "Telegram: @oceancrewjobs",
+"found": [
+"chief officer",
+"2nd officer",
+"sdpo",
+"dpo",
+"2nd off"
+],
+"fp": "fp-629bde9bee86f308",
+"offshore": true,
+"info": {
+"rank": "Chief Officer / 2nd Officer / SDPO",
+"vessel": "PSV, AHTS",
+"company": "https://oceancrew.org/vacancies/off…"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-07T09:46:11+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-2809,
-2810,
-2811,
-2812,
-2813,
-2814,
-2815,
-2816,
-2817,
-2818
+2819,
+2820,
+2821,
+2822,
+2823,
+2824,
+2825,
+2826,
+2827,
+2828,
+2829
 ],
-"last_list": "2026-11-07T09:46:16.510078+00:00",
-"cleared_upto": 2808,
-"last_msg_id": 2818
+"last_list": "2026-11-07T10:35:40.787482+00:00",
+"cleared_upto": 2818,
+"last_msg_id": 2829
 }
