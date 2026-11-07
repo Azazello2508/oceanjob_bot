@@ -5748,7 +5748,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 8,
+"total": 9,
 "vessels": [
 "Chemical",
 "Tanker"
@@ -8911,7 +8911,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 26,
+"total": 27,
 "vessels": [
 "Bulk",
 "LPG/LNG",
@@ -11402,7 +11402,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 10,
+"total": 11,
 "vessels": [
 "Bulk",
 "Tanker"
@@ -12294,7 +12294,7 @@
 "k.bondareva@ipspowerfulpeople.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-06",
+"last": "2026-11-07",
 "links": {
 "crewell": "https://crewell.net/en/companies/204752/"
 },
@@ -12327,7 +12327,7 @@
 "@shipscreweu"
 ],
 "telegram": [],
-"total": 48,
+"total": 49,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -19519,12 +19519,12 @@
 "ktship@ktship.ee"
 ],
 "first": "2026-11-03",
-"last": "2026-11-06",
+"last": "2026-11-07",
 "links": {
 "crewell": "https://crewell.net/en/companies/8851/"
 },
 "name": "KT Ship Ltd",
-"off": 0,
+"off": 1,
 "offshore_hint": false,
 "phones": [
 "+37256289419",
@@ -19537,10 +19537,12 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 11,
+"total": 12,
 "vessels": [
 "Container",
+"Dredger",
 "General cargo",
+"Offshore",
 "Tug"
 ],
 "website": "ktship.ee"
@@ -40924,7 +40926,7 @@
 "partner-dv.com": {
 "address": "г. Владивосток, ул. Кирова, д. 23, офис 208.",
 "city": "Владивосток",
-"co": 14,
+"co": 16,
 "country": "Russia",
 "emails": [
 "everest_sea_nhk@mail.ru",
@@ -40949,7 +40951,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 95,
+"total": 97,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -42750,18 +42752,18 @@
 "crew@ria-marine.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-05",
+"last": "2026-11-07",
 "links": {},
 "name": "RIA Marine",
 "off": 0,
 "offshore_hint": false,
 "phones": [],
-"so": 1,
+"so": 2,
 "sources": [
 "@maritimeforum"
 ],
 "telegram": [],
-"total": 6,
+"total": 7,
 "vessels": [
 "Chemical",
 "Tanker"
@@ -44762,7 +44764,7 @@
 "crewell": "https://crewell.net/en/companies/217535/"
 },
 "name": "SEAGEN GROUP NOVO LLC",
-"off": 6,
+"off": 7,
 "offshore_hint": false,
 "phones": [
 "+79785678665"
@@ -44775,7 +44777,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 6,
+"total": 7,
 "vessels": [
 "Offshore",
 "Tug"
@@ -51396,12 +51398,12 @@
 "pegasuscrewing@gmail.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-06",
+"last": "2026-11-07",
 "links": {
 "crewell": "https://crewell.net/en/companies/6576/"
 },
 "name": "VITA Maritime",
-"off": 0,
+"off": 1,
 "offshore_hint": false,
 "phones": [
 "+380504990229",
@@ -51419,13 +51421,14 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 20,
+"total": 21,
 "vessels": [
 "Bulk",
 "Chemical",
 "Container",
 "Dredger",
 "General cargo",
+"Offshore",
 "Passenger",
 "Ro-Ro/PCTC",
 "Tanker"
@@ -52717,7 +52720,7 @@
 "info@workshipping.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-06",
+"last": "2026-11-07",
 "links": {
 "crewell": "https://crewell.net/en/companies/183984/"
 },
@@ -52732,7 +52735,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 15,
+"total": 16,
 "vessels": [
 "Container",
 "General cargo"
@@ -55614,7 +55617,7 @@
 "BSMCSCUKRAINE": 4332,
 "CREW_ARIA": 14011,
 "Crew_Radar": 3203,
-"JobForMariners": 1200,
+"JobForMariners": 1201,
 "Merchant_Fleet": 598,
 "OffshoreFleetJob": 11063,
 "Offshore_Vacancies": 897,
@@ -55630,7 +55633,7 @@
 "crewingua": 44814,
 "crs_vacancies": 3551,
 "cruiseshipjobs": 3,
-"cvsenderseaman": 15666,
+"cvsenderseaman": 15667,
 "findseajobs": 32567,
 "galaxymaritimeua": 1249,
 "gm_seaman_cv": 2682,
@@ -55642,9 +55645,9 @@
 "marinejobs": 43149,
 "marinejobz": 194156,
 "marineman_ltd": 48323,
-"maritimeforum": 255719,
+"maritimeforum": 255727,
 "merchantNavyrealjob": 262,
-"morehod_ru": 30814,
+"morehod_ru": 30817,
 "oceancrewjobs": 32724,
 "offshoreatsea": 25108,
 "offshorecv": 1584,
@@ -55652,7 +55655,7 @@
 "oilrigs": 778,
 "olive_crew": 2903,
 "onboard_su": 20706,
-"rekamore_su": 164547,
+"rekamore_su": 164548,
 "roster_marine": 1736,
 "seajobfinder": 42268,
 "seamenjob": 106126,
