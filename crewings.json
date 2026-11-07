@@ -6402,7 +6402,7 @@
 "hr@aspol-line.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-06",
+"last": "2026-11-07",
 "links": {},
 "name": "Balt Shipping",
 "off": 0,
@@ -6417,7 +6417,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 6,
+"total": 7,
 "vessels": [
 "General cargo"
 ],
@@ -36862,7 +36862,7 @@
 "anastasya_afanaseva@mail.ru"
 ],
 "first": "2026-11-05",
-"last": "2026-11-06",
+"last": "2026-11-07",
 "links": {},
 "name": "ООО «Смарт Шиппинг»",
 "off": 0,
@@ -36876,7 +36876,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 4,
+"total": 5,
 "vessels": [],
 "website": ""
 },
@@ -40798,7 +40798,7 @@
 "wazup@partner-dv.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-06",
+"last": "2026-11-07",
 "links": {
 "crewell": "https://crewell.net/en/companies/284191/"
 },
@@ -40815,7 +40815,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 87,
+"total": 89,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -55437,7 +55437,7 @@
 "marineman_ltd": 48323,
 "maritimeforum": 255548,
 "merchantNavyrealjob": 262,
-"morehod_ru": 30806,
+"morehod_ru": 30808,
 "oceancrewjobs": 32721,
 "offshoreatsea": 25106,
 "offshorecv": 1582,
@@ -55445,7 +55445,7 @@
 "oilrigs": 778,
 "olive_crew": 2902,
 "onboard_su": 20706,
-"rekamore_su": 164517,
+"rekamore_su": 164521,
 "roster_marine": 1736,
 "seajobfinder": 42268,
 "seamenjob": 106126,
