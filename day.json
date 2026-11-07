@@ -415,20 +415,107 @@
 "repeat": false,
 "time": "2026-11-07T06:40:50+00:00",
 "junior_dp": true
+},
+{
+"title": "ГОРЯЩАЯ ВАКАНСИЯ / URGENT VACANCY",
+"url": "https://t.me/maritimeforum/255631",
+"source": "Telegram: @maritimeforum",
+"found": [
+"2nd officer",
+"2off",
+"2nd off"
+],
+"fp": "fp-19f1e39ceb3b672d",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Container",
+"salary": "Должность",
+"joining": "срочная!",
+"contract": "а"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-07T08:07:49+00:00",
+"junior_dp": false
+},
+{
+"title": "СРОЧНО / URGENT VACANCIES • VLGC FLEET • ASAP EMBARKATION",
+"url": "https://t.me/maritimeforum/255632",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-11f00018051dfa22",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer",
+"salary": "(Salary)",
+"joining": "в самое ближайшее время (",
+"contract": "(Contract)"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-07T08:08:44+00:00",
+"junior_dp": false
+},
+{
+"title": "URGENT: CO & CE (General Cargo)",
+"url": "https://t.me/maritimeforum/255636",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-0b4881985bd77dfe",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo",
+"joining": "ASAP (Срочно)",
+"salary": "6000 USD"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-07T08:10:44+00:00",
+"junior_dp": false
+},
+{
+"title": "WE NEED",
+"url": "https://t.me/maritimeforum/255642",
+"source": "Telegram: @maritimeforum",
+"found": [
+"2nd off"
+],
+"fp": "fp-879e8db9b883bc53",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Bulk carrier",
+"joining": "ASAP",
+"salary": "7400 USD",
+"email": "info@staff-service-expert.com",
+"company": "staff-service-expert.com"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-07T08:24:44+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-2791,
-2792,
-2793,
-2794,
-2795,
-2796,
-2797,
-2798,
-2799
+2800,
+2801,
+2802,
+2803,
+2804,
+2805,
+2806,
+2807,
+2808
 ],
-"last_list": "2026-11-07T07:18:07.923403+00:00",
-"cleared_upto": 2790,
-"last_msg_id": 2799
+"last_list": "2026-11-07T08:56:52.246802+00:00",
+"cleared_upto": 2799,
+"last_msg_id": 2808
 }
