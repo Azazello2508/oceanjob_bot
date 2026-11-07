@@ -4598,7 +4598,7 @@
 "ben.shaw@selectoffshore.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-06",
+"last": "2026-11-07",
 "links": {
 "crewell": "https://crewell.net/en/companies/254338/",
 "ukrcrewing": "https://ukrcrewing.com.ua/en/agency/angloeastern"
@@ -4626,7 +4626,7 @@
 "@maritimeforum"
 ],
 "telegram": [],
-"total": 81,
+"total": 82,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -5508,6 +5508,36 @@
 "total": 0,
 "vessels": [],
 "website": "aristocratbd.com"
+},
+"arjunamaritime.id": {
+"address": "",
+"city": "",
+"co": 0,
+"country": "",
+"emails": [
+"crew@arjunamaritime.id"
+],
+"first": "2026-11-07",
+"last": "2026-11-07",
+"links": {},
+"name": "",
+"off": 0,
+"offshore_hint": false,
+"phones": [
+"+6283192104135"
+],
+"so": 0,
+"sources": [
+"@seajobfinder",
+"@shipscreweu"
+],
+"telegram": [],
+"total": 2,
+"vessels": [
+"Chemical",
+"Tanker"
+],
+"website": ""
 },
 "ark-shipping.com": {
 "address": "",
@@ -11284,7 +11314,7 @@
 "crewradar.net": {
 "address": "",
 "city": "",
-"co": 4,
+"co": 5,
 "country": "",
 "emails": [],
 "first": "2026-11-03",
@@ -11299,7 +11329,7 @@
 "@Crew_Radar"
 ],
 "telegram": [],
-"total": 19,
+"total": 23,
 "vessels": [
 "LPG/LNG",
 "Offshore"
@@ -45684,7 +45714,7 @@
 "crewell": "https://crewell.net/en/companies/64960/"
 },
 "name": "Advance Global Recruitment Ltd",
-"off": 282,
+"off": 285,
 "offshore_hint": false,
 "phones": [],
 "so": 24,
@@ -45703,7 +45733,7 @@
 "@offshoreatsea"
 ],
 "telegram": [],
-"total": 283,
+"total": 286,
 "vessels": [
 "Dredger",
 "General cargo",
@@ -49138,7 +49168,7 @@
 "crewell": "https://crewell.net/en/companies/194804/"
 },
 "name": "Transport & Offshore Services Ukraine",
-"off": 131,
+"off": 132,
 "offshore_hint": false,
 "phones": [
 "+380672802995"
@@ -49159,7 +49189,7 @@
 "@offshorecv"
 ],
 "telegram": [],
-"total": 152,
+"total": 153,
 "vessels": [
 "Bulk",
 "Container",
@@ -55658,7 +55688,7 @@
 "ALPHACREW": 3570,
 "BSMCSCUKRAINE": 4332,
 "CREW_ARIA": 14011,
-"Crew_Radar": 3203,
+"Crew_Radar": 3215,
 "JobForMariners": 1201,
 "Merchant_Fleet": 598,
 "OffshoreFleetJob": 11063,
@@ -55692,19 +55722,19 @@
 "morehod_ru": 30820,
 "oceancrewjobs": 32724,
 "offshoreatsea": 25108,
-"offshorecv": 1584,
+"offshorecv": 1586,
 "offshorevacancies": 47120,
 "oilrigs": 778,
 "olive_crew": 2904,
 "onboard_su": 20706,
 "rekamore_su": 164550,
 "roster_marine": 1736,
-"seajobfinder": 42268,
+"seajobfinder": 42271,
 "seamenjob": 106126,
 "seamenvacancy": 1374,
 "seavacancies": 25188,
 "shipjobsindia": 420,
-"shipscreweu": 16588,
+"shipscreweu": 16593,
 "sidantey": 399,
 "supermariner_ua": 3884,
 "truemalina_offshore": 797,

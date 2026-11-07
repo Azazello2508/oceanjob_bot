@@ -1347,24 +1347,118 @@
 "repeat": false,
 "time": "2026-11-07T18:03:02+00:00",
 "junior_dp": false
+},
+{
+"title": "2nd Officer/DP Operator Job - Offshore UAE Jobs info",
+"url": "https://maritime-union.com/job/232232",
+"source": "maritime-union.com",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "2nd Officer / DPO"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-07T19:00:11.248293+00:00",
+"junior_dp": false
+},
+{
+"title": "2nd Officer/DP Operator Job on Offshore Projects Hiring Gulf",
+"url": "https://maritime-union.com/job/232233",
+"source": "maritime-union.com",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "2nd Officer / DPO"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-07T19:00:11.249356+00:00",
+"junior_dp": false
+},
+{
+"title": "Chief Officer — LPG Carrier (Semi Pressurized)",
+"url": "https://t.me/Crew_Radar/3210",
+"source": "Telegram: @Crew_Radar",
+"found": [
+"chief officer"
+],
+"fp": "fp-158352e1a1f86231",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "LPG",
+"salary": "$13,000/month",
+"joining": "Not specified",
+"contract": "3 months"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-07T18:29:43+00:00",
+"junior_dp": false
+},
+{
+"title": "Chief Officer — LNG Carrier",
+"url": "https://t.me/Crew_Radar/3211",
+"source": "Telegram: @Crew_Radar",
+"found": [
+"chief officer"
+],
+"fp": "fp-d6645ee14ce515ac",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "LNG",
+"salary": "Negotiable",
+"joining": "1 Dec 2026",
+"contract": "4 months"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-07T18:29:46+00:00",
+"junior_dp": false
+},
+{
+"title": "2nd Officer — LPG Carrier",
+"url": "https://t.me/Crew_Radar/3214",
+"source": "Telegram: @Crew_Radar",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-68689e5f3979872b",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "LPG",
+"salary": "Negotiable",
+"joining": "1 Nov 2026 / ASAP",
+"contract": "5 months"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-07T18:29:54+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-2906,
-2907,
-2908,
-2909,
-2910,
-2911,
-2912,
-2913,
-2914,
-2915,
-2916,
-2917,
-2918
+2919,
+2920,
+2921,
+2922,
+2923,
+2924,
+2925,
+2926,
+2927,
+2928,
+2929,
+2930,
+2931
 ],
-"last_list": "2026-11-07T18:11:41.549561+00:00",
-"cleared_upto": 2905,
-"last_msg_id": 2918
+"last_list": "2026-11-07T19:00:57.771419+00:00",
+"cleared_upto": 2918,
+"last_msg_id": 2931
 }
