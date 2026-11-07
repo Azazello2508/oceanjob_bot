@@ -1237,6 +1237,91 @@
 "repeat": true,
 "time": "2026-11-07T16:03:01+00:00",
 "junior_dp": false
+},
+{
+"title": "Chief Officer",
+"url": "https://t.me/maritimeforum/255760",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-394a708bf728cdeb",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Bulk carrier",
+"contract": "4 months",
+"salary": "$7,500\n",
+"email": "cv@ocean-force.com",
+"company": "ocean-force.com"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-07T16:17:25+00:00"
+},
+{
+"title": "Chief Officer",
+"url": "https://t.me/maritimeforum/255765",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-97f954711903102f",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Chemical tanker",
+"contract": "3–5 months",
+"salary": "$11,400–11,800\n",
+"email": "inna.fidek@wilhelmsen.com",
+"company": "wilhelmsen.com"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-07T16:17:57+00:00"
+},
+{
+"title": "2nd Officer",
+"url": "https://t.me/maritimeforum/255798",
+"source": "Telegram: @maritimeforum",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-fabb188e9fbc5a7d",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Container",
+"contract": "6 months",
+"salary": "$3,600–3,800\n",
+"email": "recruitment@nordic-hamburg.com",
+"company": "nordic-hamburg.com"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-07T16:24:30+00:00"
+},
+{
+"title": "Chief Officer",
+"url": "https://t.me/maritimeforum/255800",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-44fb751eaba83485",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Bulk carrier",
+"contract": "4 months",
+"salary": "$7,300\n",
+"email": "ktship@ktship.ee",
+"company": "ktship.ee"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-07T16:24:42+00:00"
 }
 ],
 "msg_ids": [
