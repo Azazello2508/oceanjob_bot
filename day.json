@@ -15,14 +15,31 @@
 "repeat": false,
 "time": "2026-11-07T20:38:23.225571+00:00",
 "junior_dp": false
+},
+{
+"title": "Chief Officer on LPG",
+"url": "https://crewell.net/en/vacancies/465318/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "LPG"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-07T21:27:37.475367+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-2945,
-2946
+2947,
+2948,
+2949
 ],
-"last_list": "2026-11-07T20:39:30.199046+00:00",
-"cleared_upto": 2944,
+"last_list": "2026-11-07T21:28:43.424351+00:00",
+"cleared_upto": 2946,
 "force": true,
-"last_msg_id": 2946
+"last_msg_id": 2949
 }
