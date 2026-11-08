@@ -942,21 +942,268 @@
 "repeat": true,
 "time": "2026-11-08T14:22:32+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "DECK OFFICERS (39)",
+"url": "https://t.me/marineman_ltd/48333",
+"source": "Telegram: @marineman_ltd",
+"found": [
+"chief officer",
+"second officer"
+],
+"fp": "fp-91beb7075143fd97",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer / 3rd Officer",
+"vessel": "LPG, LNG"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-08T16:00:01+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Список закрытых каналов в",
+"url": "https://t.me/rekamore_su/164556",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-de84ab9948b9e3a9",
+"offshore": false,
+"info": {
+"rank": "Chief Officer"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-08T16:03:01+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "New Senior Officers vacancies",
+"url": "https://t.me/seavacancies/25195",
+"source": "Telegram: @seavacancies",
+"found": [
+"chief officer"
+],
+"fp": "fp-8583e9f7cc0e5218",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "LPG, Chemical tanker",
+"joining": "ASAP",
+"salary": "$12,500"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-08T16:03:02+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Need Candidates for Offshore Vessels (Saudi Arabia)",
+"url": "https://t.me/oceancrewjobs/32725",
+"source": "Telegram: @oceancrewjobs",
+"found": [
+"chief officer",
+"chief mate"
+],
+"fp": "fp-4231867ff9d8690a",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"company": "https://oceancrew.org/vacancies/off…"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-08T15:25:19+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Hiring for Cyber Semi-Submersible /Drillship",
+"url": "https://t.me/oceancrewjobs/32727",
+"source": "Telegram: @oceancrewjobs",
+"found": [
+"dpo"
+],
+"fp": "fp-a3477e611a369ccf",
+"offshore": true,
+"info": {
+"rank": "DPO",
+"company": "https://oceancrew.org/vacancies/dri…"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-08T15:26:02+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Hiring for Motor Yacht",
+"url": "https://t.me/oceancrewjobs/32728",
+"source": "Telegram: @oceancrewjobs",
+"found": [
+"chief officer",
+"1st mate"
+],
+"fp": "fp-15fc4460f2339d39",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "AHTS, Cruise",
+"company": "https://oceancrew.org/vacancies/cru…"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-08T15:26:22+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Hiring for Pipelaying Vessel",
+"url": "https://t.me/oceancrewjobs/32730",
+"source": "Telegram: @oceancrewjobs",
+"found": [
+"chief officer",
+"dpo"
+],
+"fp": "fp-ba5177052111a874",
+"offshore": true,
+"info": {
+"rank": "Chief Officer / 3rd Officer / DPO",
+"company": "https://oceancrew.org/vacancies/off…"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-08T15:27:01+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Need Candidates for OSV",
+"url": "https://t.me/oceancrewjobs/32731",
+"source": "Telegram: @oceancrewjobs",
+"found": [
+"chief officer",
+"chief mate",
+"second mate"
+],
+"fp": "fp-f979d4ed287bc8fc",
+"offshore": true,
+"info": {
+"rank": "Chief Officer / AB",
+"vessel": "OSV",
+"company": "https://oceancrew.org/vacancies/off…"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-08T15:27:16+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Hiring for Research Vessel",
+"url": "https://t.me/oceancrewjobs/32732",
+"source": "Telegram: @oceancrewjobs",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-c0671c6a4acf68cc",
+"offshore": true,
+"info": {
+"rank": "2nd Officer / AB",
+"company": "https://oceancrew.org/vacancies/off…"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-08T15:27:34+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Need Candidates for LPG / LNG Tanker Vessels",
+"url": "https://t.me/oceancrewjobs/32733",
+"source": "Telegram: @oceancrewjobs",
+"found": [
+"chief officer",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-89e699b6c1955eb1",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer / 3rd Officer",
+"vessel": "LPG, LNG",
+"company": "https://oceancrew.org/vacancies/mer…"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-08T15:29:02+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Hiring Positions for Container Carrier Vessel",
+"url": "https://t.me/oceancrewjobs/32734",
+"source": "Telegram: @oceancrewjobs",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-073cc9a4bd2f8fab",
+"offshore": false,
+"info": {
+"rank": "2nd Officer / 3rd Officer / AB",
+"vessel": "Container",
+"company": "https://oceancrew.org/vacancies/mer…"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-08T15:29:23+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Need Candidates for Private/Charter Motor Yacht (WW)",
+"url": "https://t.me/oceancrewjobs/32735",
+"source": "Telegram: @oceancrewjobs",
+"found": [
+"chief officer",
+"second officer"
+],
+"fp": "fp-70c7fbed3789d154",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer",
+"vessel": "AHTS, Cruise",
+"company": "https://oceancrew.org/vacancies/cru…"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-08T16:02:44+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-3020,
-3021,
-3022,
-3023,
-3024,
-3025,
-3026,
-3027,
-3028,
-3029
+3030,
+3031,
+3032,
+3033,
+3034,
+3035,
+3036,
+3037,
+3038,
+3039,
+3040,
+3041
 ],
-"last_list": "2026-11-08T15:17:06.770030+00:00",
-"cleared_upto": 3019,
-"last_msg_id": 3029
+"last_list": "2026-11-08T16:07:39.979757+00:00",
+"cleared_upto": 3029,
+"last_msg_id": 3041
 }
