@@ -1187,23 +1187,69 @@
 "repeat": false,
 "time": "2026-11-08T16:02:44+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "2nd Mate for Heavy-Lift Crane Vessel",
+"url": "https://oceancrew.org/vacancies/offshore/2nd-officer/2nd-mate-for-heavy-lift-crane-vessel_08-11-2026",
+"source": "oceancrew.org",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {},
+"new": false,
+"repeat": false,
+"time": "2026-11-08T16:56:14.029177+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Mate for Heavy-Lift Crane Vessel",
+"url": "https://oceancrew.org/vacancies/offshore/chief-officer/chief-mate-for-heavy-lift-crane-vessel_08-11-2026",
+"source": "oceancrew.org",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "Chief Officer"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-08T16:56:16.031510+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "1st Mate for Heavy-Lift Crane Vessel",
+"url": "https://oceancrew.org/vacancies/offshore/chief-officer/1st-mate-for-heavy-lift-crane-vessel_08-11-2026",
+"source": "oceancrew.org",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "Chief Officer"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-08T16:56:17.580757+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-3030,
-3031,
-3032,
-3033,
-3034,
-3035,
-3036,
-3037,
-3038,
-3039,
-3040,
-3041
+3042,
+3043,
+3044,
+3045,
+3046,
+3047,
+3048,
+3049,
+3050,
+3051,
+3052,
+3053
 ],
-"last_list": "2026-11-08T16:07:39.979757+00:00",
-"cleared_upto": 3029,
-"last_msg_id": 3041
+"last_list": "2026-11-08T16:57:53.483741+00:00",
+"cleared_upto": 3041,
+"last_msg_id": 3053
 }
