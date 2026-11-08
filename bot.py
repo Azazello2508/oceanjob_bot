@@ -21,6 +21,8 @@ CHAT_ID = os.environ["TELEGRAM_CHAT_ID"]
 KEYWORDS = [
     "chief officer", "c/o", "chief mate", "jdpo",
     "1st officer", "first officer", "first mate", "1st mate",   # так Chief Officer часто называют в UK
+    "ch.mate", "ch mate", "ch/mate", "ch.off", "ch/off", "c/off",   # сокращения Chief Officer
+    "2nd mate", "second mate", "2/off",                           # 2-й помощник
     "second officer", "2nd officer", "2/o", "sdpo", "dpo",
     # младшие DP-должности и DP-стажировки — особенно важны
     "jdpo", "junior dpo", "jr dpo", "jr. dpo", "trainee dpo", "dpo trainee", "dp trainee",
@@ -32,7 +34,7 @@ KEYWORDS = [
     # русские названия
     "старпом", "старший помощник", "ст. помощник", "ст.помощник",
 ]
-KEYWORDS_VERSION = 7
+KEYWORDS_VERSION = 8
 
 # Должности, которые нужны ТОЛЬКО в вакансиях с UK Work Permit: 3-й помощник и матрос AB.
 # Без UK-разрешения они в список не попадают, иначе список зальют матросские вакансии.
@@ -40,8 +42,17 @@ KEYWORDS_VERSION = 7
 UK_RANK_RE = re.compile(
     r"(?i:\b(?:third|3rd)[\s-]+(?:officer|mate)\b|\b3/o\b|\b3off\b|\b3rd[\s-]+off\b|\b3/off\b"
     r"|\bable[\s-]*bodied\b|\bable[\s-]+seaman\b|\bable[\s-]+seamen\b|\bAB[\s-]+seaman\b|\bA/B\b"
-    r"|\boow\b|\bmates?\b|\bdeckhands?\b)"
+    r"|\boow\b|\bmates?\b|\bdeckhands?\b|\b3o\b|\b3[\s-]+off\b)"
     r"|\bABs?\b(?!\s*[&.])")
+
+# «CO for C-CSOV», «MST, CO, 3O»: Chief Officer сокращением CO (только заглавными, чтобы не путать с CO2 и «Co.»)
+CO_RE = re.compile(r"(?<![\w/&.-])CO(?![\w/&.-])")
+# Слабый признак UK: просто слово UK / British в названии («AB UK», «Crew Vacancies (UK)»)
+UK_WORD_RE = re.compile(r"\b(?:uk|u\.k\.|british)\b", re.I)
+UK_AB_CI_RE = re.compile(r"\bABs?\b", re.I)
+# Не палубные должности: в общих правилах («crew», «UK») такие вакансии не берём
+NON_DECK_RE = re.compile(r"engineer|\beto\b|\bcook\b|steward|catering|chef|motorman|oiler|wiper|electrician|"
+                         r"fitter|welder|plumber|mechanic|technician|superintendent|surveyor|manager|\bhr\b", re.I)
 
 # «Crew for an offshore project (UK work permit required)»: общий набор экипажа с UK permit
 UK_CREW_RE = re.compile(r"\b(?:crew|deck|all ranks)\b", re.I)
@@ -52,8 +63,14 @@ def wanted(text, uk_site=False):
     uk_site=True — площадка, где UK-разрешение подразумевается (см. uk_note в SITES)."""
     if any(k in text.lower() for k in KEYWORDS):
         return True
+    if CO_RE.search(text):
+        return True
+    if NON_DECK_RE.search(text):
+        return bool(UK_RANK_RE.search(text)) and (uk_site or bool(uk_permit(text)))
     if uk_permit(text) and UK_CREW_RE.search(text):
         return True   # общий набор экипажа с UK permit, должность в названии не указана
+    if UK_WORD_RE.search(text) and (UK_RANK_RE.search(text) or UK_AB_CI_RE.search(text) or UK_CREW_RE.search(text)):
+        return True   # «AB UK», «Crew Vacancies for ... (UK)»
     return bool(UK_RANK_RE.search(text)) and (uk_site or bool(uk_permit(text)))
 
 
@@ -152,7 +169,8 @@ SITES = {
         "pages": ["https://www.seacareer.com/chief-officer-sdpo-jobs/",
                   "https://www.seacareer.com/deck-officer-jobs/",
                   "https://www.seacareer.com/junior-deck-officer-jobs/",
-                  "https://www.seacareer.com/offshore-jobs/"],
+                  "https://www.seacareer.com/offshore-jobs/",
+                  "https://www.seacareer.com/master-mate-jobs/", "https://www.seacareer.com/master-sdpo-jobs/"],
         "pattern": r"/i(\d+)/[\w-]+/?$",
         "base": "https://www.seacareer.com",
     },
@@ -224,6 +242,44 @@ SITES = {
         "base": "https://cmb.tech",
         "uk_note": "Windcat (UK): проверь условия по праву работать в UK",
     },
+    "clyderecruit.com": {         # Clyde Marine Recruitment (UK): AB, Chief Officer, «with UK work permit»
+        "pages": ["https://www.clyderecruit.com/jobs/", "https://www.clyderecruit.com/jobs/page/2/",
+                  "https://www.clyderecruit.com/jobs/page/3/"],
+        "pattern": r"/job/([\w-]+)/?$",
+        "base": "https://www.clyderecruit.com",
+        "uk_note": "Clyde Marine (UK): нужно право работать в UK, проверь условия",
+    },
+    "seajobs.pro": {              # 400+ офшорных вакансий: Chief Officer / 2nd Officer / AB на PSV, AHTS, OSV
+        "pages": ["https://seajobs.pro/jobs/vessel/offshore", "https://seajobs.pro/jobs?q=chief+officer",
+                  "https://seajobs.pro/jobs?q=second+officer"],
+        "pattern": r"/jobs/([\w-]+-[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12})",
+        "base": "https://seajobs.pro",
+    },
+    "portalmorski.pl": {          # польский крюинг-портал: C-CSOV, AHTS, «UK/EU residents only»
+        "pages": ["https://crewing.portalmorski.pl/en/sea-jobs/", "https://crewing.portalmorski.pl/en/sea-jobs/page/2/",
+                  "https://crewing.portalmorski.pl/en/sea-jobs/page/3/"],
+        "pattern": r"/en/sea-jobs/([\w-]+)/?$",
+        "base": "https://crewing.portalmorski.pl",
+    },
+    "ainostri.ro": {              # румынский портал: разделы «Maritim» и «Offshore»
+        "pages": ["https://www.ainostri.ro/oferte/maritim", "https://www.ainostri.ro/oferte/maritim/pagina-2",
+                  "https://www.ainostri.ro/oferte/offshore"],
+        "pattern": r"/oferte/(?:maritim|offshore)/([\w-]+-\d+)/?$",
+        "base": "https://www.ainostri.ro",
+    },
+    "seaemploy.com": {            # еженедельные подборки офшорных вакансий (в них много «UK right to work»)
+        "pages": ["https://seaemploy.com/category/vacancies/"],
+        "pattern": r"/(offshore-[\w-]*week-[\w-]+)/?$",
+        "base": "https://seaemploy.com",
+        "digest": True,           # ссылка на подборку берётся целиком, UK-фразы ищем внутри
+    },
+    "faststream.com": {           # Faststream Recruitment (UK, Глазго/Абердин)
+        "pages": ["https://www.faststream.com/jobs", "https://www.faststream.com/disciplines/cruise-jobs/cruise-deck-jobs",
+                  "https://www.faststream.com/jobs/oil-and-gas-jobs"],
+        "pattern": r"/job/([\w-]+)/?$",
+        "base": "https://www.faststream.com",
+        "uk_note": "Faststream (UK): проверь условия по праву работать в UK",
+    },
     "huntukvisasponsors.com": {   # вакансии от компаний с лицензией спонсора виз UK
         "pages": ["https://huntukvisasponsors.com/uk-visa-occupation-eligibility/3512-ship-and-hovercraft-officers"],
         "pattern": r"/job/([\w-]+)/?$",   # страница профессии «офицеры судов» — вакансии там уже морские
@@ -243,7 +299,7 @@ JUNK_TITLES = {"details & apply", "details", "apply", "view", "view & apply »",
 # На этих сайтах у вакансий номера идут по порядку: новая вакансия = номер больше прежних
 SEQUENTIAL = {"crewell", "ukrcrewing", "seajobs.ru", "seacareer.com", "maritime-union.com",
               "crewlinker.com", "rigzone.com", "seafarerjobs.com", "findajob.dwp.gov.uk",
-              "northstarshipping.co.uk", "osmthome.com"}
+              "northstarshipping.co.uk", "osmthome.com", "ainostri.ro"}
 
 
 def get_site(name):
@@ -260,8 +316,8 @@ def get_site(name):
             job_id = f"{name}-{m.group(1)}"
             # Ищем слова и в тексте ссылки, и в самом адресе (там часто есть должность)
             where = (title + " " + a["href"].replace("-", " ")).lower()
-            if job_id in ids or not wanted(title + " " + a["href"].replace("-", " "),
-                                           uk_site=bool(site.get("uk_note"))):
+            if job_id in ids or not (site.get("digest") or wanted(title + " " + a["href"].replace("-", " "),
+                                                                  uk_site=bool(site.get("uk_note")))):
                 continue
             if site.get("marine_only") and not any(w in where for w in MARINE_WORDS):
                 continue
@@ -542,6 +598,8 @@ def summarize(text, found=None, contact=None):
     low = " " + text.lower() + " "
     info = {}
     ranks = [name for name, ws in RANKS if any(w in low for w in ws)]
+    if CO_RE.search(text) and "Chief Officer" not in ranks:
+        ranks.insert(0, "Chief Officer")
     if "DPO" in ranks and ({"SDPO", "JDPO", "DP Trainee"} & set(ranks)):
         ranks.remove("DPO")
     if re.search(r"(?i:\bable[\s-]*bodied\b|\bable[\s-]+seam[ae]n\b|\bA/B\b|\bAB[\s-]+seaman\b)|\bABs?\b(?!\s*[&.])",
@@ -878,7 +936,8 @@ def main():
             # UK Work Permit: в постах каналов весь текст уже есть, на сайтах догружаем страницу
             uk = (uk_permit(job["title"])
                   or (deep_uk_check(job["url"]) if not is_channel and not known else "")
-                  or ("" if is_channel else SITES.get(key, {}).get("uk_note", "")))
+                  or ("" if is_channel else SITES.get(key, {}).get("uk_note", ""))
+                  or ("UK в названии вакансии" if not is_channel and UK_WORD_RE.search(job["title"]) else ""))
             day["jobs"].append({
                 "uk": uk,
                 "title": short(job["title"]), "url": job["url"], "source": label,
