@@ -20,6 +20,7 @@ CHAT_ID = os.environ["TELEGRAM_CHAT_ID"]
 # Какие должности искать (без учёта регистра)
 KEYWORDS = [
     "chief officer", "c/o", "chief mate", "jdpo",
+    "1st officer", "first officer", "first mate", "1st mate",   # так Chief Officer часто называют в UK
     "second officer", "2nd officer", "2/o", "sdpo", "dpo",
     # младшие DP-должности и DP-стажировки — особенно важны
     "jdpo", "junior dpo", "jr dpo", "jr. dpo", "trainee dpo", "dpo trainee", "dp trainee",
@@ -31,7 +32,7 @@ KEYWORDS = [
     # русские названия
     "старпом", "старший помощник", "ст. помощник", "ст.помощник",
 ]
-KEYWORDS_VERSION = 5
+KEYWORDS_VERSION = 6
 
 
 # Публичные Telegram-каналы с вакансиями: имя канала из ссылки t.me/ИМЯ
@@ -167,7 +168,38 @@ SITES = {
         "pattern": r"/oil/jobs/postings/(\d+)_",
         "base": "https://www.rigzone.com",
     },
+    # --- площадки с UK Work Permit ---
+    "findajob.dwp.gov.uk": {      # государственный сайт вакансий Великобритании
+        "pages": [f"https://findajob.dwp.gov.uk/search?q={q}&w=United+Kingdom" for q in
+                  ["chief+officer+vessel", "chief+officer+offshore", "chief+mate+vessel", "first+officer+vessel",
+                   "second+officer+vessel", "dpo+vessel", "sdpo", "deck+officer+offshore"]],
+        "pattern": r"/details/(\d+)",
+        "base": "https://findajob.dwp.gov.uk",
+        "marine_only": True,      # там много не морских «Chief Officer» и «DPO» (Data Protection Officer)
+        "uk_note": "UK-площадка (Find a Job): нужно право работать в UK, проверь условия",
+    },
+    "northstarshipping.co.uk": {  # North Star (Абердин): SOV, CSV, PSV
+        "pages": ["https://careers.northstarshipping.co.uk/jobs"],
+        "pattern": r"/jobs/(\d+)-",
+        "base": "https://careers.northstarshipping.co.uk",
+        "uk_note": "North Star Shipping (UK): проверь условия по праву работать в UK",
+    },
+    "osmthome.com": {             # OSM Thome: оффшорный флот, в т.ч. UK
+        "pages": ["https://jobs.osmthome.com/jobs"],
+        "pattern": r"/jobs/(\d+)/",
+        "base": "https://jobs.osmthome.com",
+    },
+    "huntukvisasponsors.com": {   # вакансии от компаний с лицензией спонсора виз UK
+        "pages": ["https://huntukvisasponsors.com/uk-visa-occupation-eligibility/3512-ship-and-hovercraft-officers"],
+        "pattern": r"/job/([\w-]+)/?$",   # страница профессии «офицеры судов» — вакансии там уже морские
+        "base": "https://huntukvisasponsors.com",
+        "uk_note": "работодатель — лицензированный спонсор виз UK",
+    },
 }
+
+# Для площадок с marine_only: вакансия берётся, только если в ней есть морское слово
+MARINE_WORDS = ["vessel", "ship", "marine", "maritime", "offshore", "seafarer", "deck officer", "psv", "sov",
+                "ctv", "tug", "sdpo", "jdpo", "ahts", "fpso", "dp2", "dp1", "dp3", "mpsv", "osv", "wind farm"]
 
 
 # Тексты ссылок, которые не являются названием вакансии
@@ -175,7 +207,8 @@ JUNK_TITLES = {"details & apply", "details", "apply", "view", "view & apply »",
                "read more", "more", "подробнее"}
 # На этих сайтах у вакансий номера идут по порядку: новая вакансия = номер больше прежних
 SEQUENTIAL = {"crewell", "ukrcrewing", "seajobs.ru", "seacareer.com", "maritime-union.com",
-              "crewlinker.com", "rigzone.com", "seafarerjobs.com"}
+              "crewlinker.com", "rigzone.com", "seafarerjobs.com", "findajob.dwp.gov.uk",
+              "northstarshipping.co.uk", "osmthome.com"}
 
 
 def get_site(name):
@@ -193,6 +226,8 @@ def get_site(name):
             # Ищем слова и в тексте ссылки, и в самом адресе (там часто есть должность)
             where = (title + " " + a["href"].replace("-", " ")).lower()
             if job_id in ids or not any(k in where for k in KEYWORDS):
+                continue
+            if site.get("marine_only") and not any(w in where for w in MARINE_WORDS):
                 continue
             ids.add(job_id)
             url = a["href"] if a["href"].startswith("http") else site["base"] + a["href"]
@@ -395,7 +430,8 @@ UK_PERMIT_RE = re.compile(
     rf"resident\w*|national\w*|citizen\w*|settled|разрешени\w*|виз\w*|паспорт\w*)"
     rf"|right[\s-]*to[\s-]*work\s*(?:in|for)?\s*(?:the\s*)?{_UK}"
     rf"|(?:permit|visa|виза|разрешение)\s*(?:for|in|to|в|на)?\s*(?:the\s*)?{_UK}\b"
-    r"|skilled worker visa|indefinite leave to remain|settled status|\bilr\b",
+    r"|skilled worker visa|indefinite leave to remain|settled status|\bilr\b"
+    r"|certificate of sponsorship|licen[cs]ed sponsor|sponsor licen[cs]e",
     re.I)
 
 
@@ -410,7 +446,7 @@ def uk_permit(text):
     return ("…" if a else "") + snippet + ("…" if b < len(text) else "")
 
 
-DEEP_BUDGET = 20   # сколько страниц вакансий с сайтов открываем за один запуск
+DEEP_BUDGET = 30   # сколько страниц вакансий с сайтов открываем за один запуск
 
 
 def deep_uk_check(url):
@@ -429,7 +465,8 @@ def deep_uk_check(url):
 
 
 # ---------- Краткая карточка вакансии ----------
-RANKS = [("Chief Officer", ["chief officer", "c/o", "chief mate", "choff", "ch/off", "co/dpo", "co/sdpo",
+RANKS = [("Chief Officer", ["chief officer", "c/o", "chief mate", "1st officer", "first officer",
+                             "first mate", "1st mate", "choff", "ch/off", "co/dpo", "co/sdpo",
                             "старпом", "старший помощник", "ст. помощник", "ст.помощник"]),
          ("2nd Officer", ["second officer", "2nd officer", "2/o", "2off", "2nd off", "2/off", "2o/dpo"]),
          ("JDPO", ["jdpo", "junior dpo", "jr dpo", "jr. dpo"]),
@@ -799,7 +836,9 @@ def main():
             repeat = bool(fp and fp in seen and not any(fp == x.get("fp") for x in day["jobs"])
                           and is_channel and not known)
             # UK Work Permit: в постах каналов весь текст уже есть, на сайтах догружаем страницу
-            uk = uk_permit(job["title"]) or (deep_uk_check(job["url"]) if not is_channel and not known else "")
+            uk = (uk_permit(job["title"])
+                  or (deep_uk_check(job["url"]) if not is_channel and not known else "")
+                  or ("" if is_channel else SITES.get(key, {}).get("uk_note", "")))
             day["jobs"].append({
                 "uk": uk,
                 "title": short(job["title"]), "url": job["url"], "source": label,
