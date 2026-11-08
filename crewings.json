@@ -7662,10 +7662,10 @@
 "country": "",
 "emails": [],
 "first": "2026-11-03",
-"last": "2026-11-06",
+"last": "2026-11-08",
 "links": {},
 "name": "MAN Diesel AS",
-"off": 1,
+"off": 3,
 "offshore_hint": false,
 "phones": [],
 "so": 0,
@@ -7674,10 +7674,11 @@
 "@balticcareer"
 ],
 "telegram": [],
-"total": 13,
+"total": 16,
 "vessels": [
 "Bulk",
 "LPG/LNG",
+"Tanker",
 "Tug"
 ],
 "website": "balticcareer.eu"
@@ -10913,13 +10914,13 @@
 "recruitment@intermarine.bg"
 ],
 "first": "2026-11-03",
-"last": "2026-11-07",
+"last": "2026-11-08",
 "links": {
 "crewell": "https://crewell.net/en/companies/41271/",
 "ukrcrewing": "https://ukrcrewing.com.ua/en/agency/all_crew_llc"
 },
 "name": "Wilhelmsen Marine",
-"off": 43,
+"off": 46,
 "offshore_hint": false,
 "phones": [
 "+74012799806+79637376536"
@@ -10932,7 +10933,7 @@
 "ukrcrewing.com.ua"
 ],
 "telegram": [],
-"total": 49,
+"total": 52,
 "vessels": [
 "Bulk",
 "LPG/LNG",
@@ -15645,18 +15646,18 @@
 "goldorion.eu": {
 "address": "Piedrujas iela 11",
 "city": "Riga",
-"co": 4,
+"co": 6,
 "country": "Latvia",
 "emails": [
 "crew@goldorion.eu"
 ],
 "first": "2026-11-03",
-"last": "2026-11-05",
+"last": "2026-11-08",
 "links": {
 "crewell": "https://crewell.net/en/companies/365375/"
 },
 "name": "SIA Gold Orion LTD",
-"off": 40,
+"off": 42,
 "offshore_hint": false,
 "phones": [],
 "so": 12,
@@ -15674,7 +15675,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 42,
+"total": 44,
 "vessels": [
 "Dredger",
 "Offshore",
@@ -55102,6 +55103,7 @@
 "safwat bg": "safwat.bg",
 "saga": "sagaagency.com",
 "saga agency offline lithuania member since: jun 2019 no active vacancies view profile": "name:saga agency offline lithuania member since: jun 2019 no active vacancies view profile",
+"saga crewing agency": "balticcareer.eu",
 "sailinga": "sailinga.lt",
 "sailinga crewing": "jobatsea.online",
 "sailorsmarina solutions indus private": "sailorsmarina.in",
@@ -55752,12 +55754,12 @@
 "tg_hw": {
 "ALPHACREW": 3570,
 "BSMCSCUKRAINE": 4332,
-"CREW_ARIA": 14014,
-"Crew_Radar": 3227,
+"CREW_ARIA": 14015,
+"Crew_Radar": 3239,
 "JobForMariners": 1201,
 "Merchant_Fleet": 598,
 "OffshoreFleetJob": 11063,
-"Offshore_Vacancies": 898,
+"Offshore_Vacancies": 899,
 "OnlyOffshore": 38878,
 "OnlyYacht": 2313,
 "SM_job_center": 2479,
@@ -55770,7 +55772,7 @@
 "crewingua": 44814,
 "crs_vacancies": 3551,
 "cruiseshipjobs": 3,
-"cvsenderseaman": 15683,
+"cvsenderseaman": 15684,
 "findseajobs": 32567,
 "galaxymaritimeua": 1249,
 "gm_seaman_cv": 2682,
@@ -55788,7 +55790,7 @@
 "oceancrewjobs": 32724,
 "offshoreatsea": 25108,
 "offshorecv": 1587,
-"offshorevacancies": 47125,
+"offshorevacancies": 47126,
 "oilrigs": 778,
 "olive_crew": 2904,
 "onboard_su": 20708,
@@ -55797,7 +55799,7 @@
 "seajobfinder": 42271,
 "seamenjob": 106126,
 "seamenvacancy": 1374,
-"seavacancies": 25191,
+"seavacancies": 25192,
 "shipjobsindia": 420,
 "shipscreweu": 16593,
 "sidantey": 399,

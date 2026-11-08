@@ -226,18 +226,42 @@
 "repeat": false,
 "time": "2026-11-08T09:00:26+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "Position:",
+"url": "https://t.me/CREW_ARIA/14015",
+"source": "Telegram: @CREW_ARIA",
+"found": [
+"chief officer"
+],
+"fp": "fp-a2a386a79d132a69",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Dredger",
+"salary": "To be discussed during intervi…",
+"joining": "To be confirmed during intervi",
+"contract": "6 weeks ON  6 weeks OFF",
+"email": "crew@goldorion.eu",
+"company": "goldorion.eu"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-08T10:07:51+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-2963,
-2964,
-2965,
-2966,
-2967,
-2968,
-2969
+2970,
+2971,
+2972,
+2973,
+2974,
+2975,
+2976
 ],
-"last_list": "2026-11-08T09:50:56.014635+00:00",
-"cleared_upto": 2962,
-"last_msg_id": 2969
+"last_list": "2026-11-08T10:40:24.805162+00:00",
+"cleared_upto": 2969,
+"last_msg_id": 2976
 }
