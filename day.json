@@ -46,15 +46,82 @@
 "repeat": false,
 "time": "2026-11-08T04:19:46.481603+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "СРОЧНО / URGENT VACANCIES • VLGC FLEET • ASAP EMBARKATION",
+"url": "https://t.me/maritimeforum/255808",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-11f00018051dfa22",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer / 3rd Officer",
+"salary": "(Salary)",
+"joining": "в самое ближайшее время (",
+"contract": "(Contract)"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-08T08:26:31+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "ГОРЯЩАЯ ВАКАНСИЯ / URGENT VACANCY",
+"url": "https://t.me/maritimeforum/255809",
+"source": "Telegram: @maritimeforum",
+"found": [
+"2nd officer",
+"2off",
+"2nd off"
+],
+"fp": "fp-19f1e39ceb3b672d",
+"offshore": false,
+"info": {
+"rank": "2nd Officer / 3rd Officer",
+"vessel": "Container",
+"salary": "Должность",
+"joining": "срочная!",
+"contract": "а"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-08T08:26:51+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "https://jobatsea.online/job/625118/chief-officer-to-join-our-client%e2%80%99s-errv-in-the-netherlands-at-etpm/",
+"url": "https://t.me/offshorevacancies/47121",
+"source": "Telegram: @offshorevacancies",
+"found": [
+"chief officer"
+],
+"fp": "fp-8cc1aac66b04445e",
+"offshore": true,
+"info": {
+"rank": "Chief Officer"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-08T08:08:34+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-2953,
-2954,
-2955,
-2956
+2957,
+2958,
+2959,
+2960,
+2961,
+2962
 ],
-"last_list": "2026-11-08T04:20:31.014142+00:00",
-"cleared_upto": 2952,
-"last_msg_id": 2956
+"last_list": "2026-11-08T08:30:44.255371+00:00",
+"cleared_upto": 2956,
+"last_msg_id": 2962
 }
