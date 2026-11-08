@@ -39,8 +39,12 @@ KEYWORDS_VERSION = 7
 # «AB» ищем только заглавными буквами, чтобы не путать с обычными словами.
 UK_RANK_RE = re.compile(
     r"(?i:\b(?:third|3rd)[\s-]+(?:officer|mate)\b|\b3/o\b|\b3off\b|\b3rd[\s-]+off\b|\b3/off\b"
-    r"|\bable[\s-]*bodied\b|\bable[\s-]+seaman\b|\bable[\s-]+seamen\b|\bAB[\s-]+seaman\b|\bA/B\b)"
+    r"|\bable[\s-]*bodied\b|\bable[\s-]+seaman\b|\bable[\s-]+seamen\b|\bAB[\s-]+seaman\b|\bA/B\b"
+    r"|\boow\b|\bmates?\b|\bdeckhands?\b)"
     r"|\bABs?\b(?!\s*[&.])")
+
+# «Crew for an offshore project (UK work permit required)»: общий набор экипажа с UK permit
+UK_CREW_RE = re.compile(r"\b(?:crew|deck|all ranks)\b", re.I)
 
 
 def wanted(text, uk_site=False):
@@ -48,6 +52,8 @@ def wanted(text, uk_site=False):
     uk_site=True — площадка, где UK-разрешение подразумевается (см. uk_note в SITES)."""
     if any(k in text.lower() for k in KEYWORDS):
         return True
+    if uk_permit(text) and UK_CREW_RE.search(text):
+        return True   # общий набор экипажа с UK permit, должность в названии не указана
     return bool(UK_RANK_RE.search(text)) and (uk_site or bool(uk_permit(text)))
 
 
@@ -62,7 +68,8 @@ CHANNELS = [
     "galaxymaritimeua", "oilrigs", "vshipsoffshore",
     "OnlyYacht", "Yacht_Vacancies", "truemalina_offshore", "Crew_Radar", "Offshore_Vacancies", "Sea_format", "univis_crewing", "Merchant_Fleet", "sidantey", "passengerFleetJob", "ismira_agency", "cruiseshipjobs", "marinejobz", "rekamore_su", "shipjobsindia", "ukrcrewing_official", "TSMexp", "marinecareerorg", "findseajobs", "morehod_ru", "offshoreatsea", "gm_seaman_cv", "cvcrewcom", "vesselsea", "cvsenderseaman",
     "Official_SSA", "seavacancies", "oceancrewjobs", "stellamarine_public", "crs_vacancies", "sea111work", "MarineOdessa",
-    # @cwyjh и @teamspirit — группы, у них нет открытой веб-страницы, читать нельзя
+    # @cwyjh и @teamspirit — группы, у них нет открытой веб-страницы, читать нельзя,
+    "pervoemorskoe", "ecrewing", "SeaSeaWorks",  # добавлены: проверены, публичные, с вакансиями
 ]
 
 # Страницы crewell: старшие офицеры (Chief Officer) и вахтенные (2nd Officer)
@@ -205,6 +212,17 @@ SITES = {
         "pages": ["https://jobs.osmthome.com/jobs"],
         "pattern": r"/jobs/(\d+)/",
         "base": "https://jobs.osmthome.com",
+    },
+    "tschudishipmanagement.com": {  # Tschudi: есть вакансии «UK Work Permit Required» (оффшорный ветер)
+        "pages": ["https://www.tschudishipmanagement.com/vacancies-at-sea"],
+        "pattern": r"/vacancies/([\w-]+)",
+        "base": "https://www.tschudishipmanagement.com",
+    },
+    "cmb.tech": {                 # Windcat (UK): CTV для оффшорного ветра
+        "pages": ["https://cmb.tech/divisions/windcat/careers"],
+        "pattern": r"/vacancies/([\w-]+)",
+        "base": "https://cmb.tech",
+        "uk_note": "Windcat (UK): проверь условия по праву работать в UK",
     },
     "huntukvisasponsors.com": {   # вакансии от компаний с лицензией спонсора виз UK
         "pages": ["https://huntukvisasponsors.com/uk-visa-occupation-eligibility/3512-ship-and-hovercraft-officers"],
