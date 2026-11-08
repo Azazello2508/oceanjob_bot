@@ -47114,7 +47114,7 @@
 "crewing@southpointmy.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-03",
+"last": "2026-11-09",
 "links": {
 "crewell": "https://crewell.net/en/companies/73856/"
 },
@@ -47124,11 +47124,13 @@
 "phones": [],
 "so": 0,
 "sources": [
+"@seajobfinder",
 "@seamenjob",
+"@shipscreweu",
 "crewell.net"
 ],
 "telegram": [],
-"total": 4,
+"total": 6,
 "vessels": [
 "LPG/LNG",
 "Tanker"
@@ -56084,12 +56086,12 @@
 "pervoemorskoe": 4513,
 "rekamore_su": 164556,
 "roster_marine": 1736,
-"seajobfinder": 42272,
+"seajobfinder": 42273,
 "seamenjob": 106128,
 "seamenvacancy": 1374,
 "seavacancies": 25196,
 "shipjobsindia": 420,
-"shipscreweu": 16594,
+"shipscreweu": 16595,
 "sidantey": 399,
 "supermariner_ua": 3887,
 "truemalina_offshore": 800,
