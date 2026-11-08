@@ -153,24 +153,26 @@ def company_name_from(text):
     return None
 
 
-def from_post(bot, crew, text, source):
+def from_post(bot, crew, text, source, count=True):
     """Разбирает пост. Если в нём контакты нескольких компаний (подборка вакансий) —
     делит его на части, и каждая компания получает только свою вакансию."""
     doms = {d.lower().rstrip(".") for d in re.findall(r"[\w.+-]+@([\w-]+\.[\w.-]+)", text)
             if d.lower().rstrip(".") not in bot.FREE_MAIL}
     if len(doms) <= 1:
-        return _from_post(bot, crew, text, source)
+        return _from_post(bot, crew, text, source, count)
     buf = ""
     for seg in re.split(r"\n\s*\n|\n?[-—_=•~*]{5,}\n?", text):
         buf += "\n" + seg
         if re.search(r"[\w.+-]+@[\w-]+\.[\w.-]+|(?<![\w.@])@\w{4,}", seg):
-            _from_post(bot, crew, buf, source)
+            _from_post(bot, crew, buf, source, count)
             buf = ""
 
 
-def _from_post(bot, crew, text, source):
+def _from_post(bot, crew, text, source, count=True):
+    """count=False: пост уже учтён раньше, нужно только отметить UK Work Permit."""
     low = text.lower()
-    if not any(w in low for w in VACANCY_WORDS):
+    uk = bool(bot.uk_permit(text))
+    if not any(w in low for w in VACANCY_WORDS) or (not count and not uk):
         return
     emails = sorted({e.lower().rstrip(".") for e in re.findall(r"[\w.+-]+@[\w-]+\.[\w.-]+", text)})
     channels = {c.lower() for c in bot.CHANNELS}
@@ -194,6 +196,10 @@ def _from_post(bot, crew, text, source):
     add_list(rec, "sources", [source], 12)
     if domain and not rec["website"] and domain in sites:
         rec["website"] = domain
+    if uk:
+        rec["uk"] = rec.get("uk", 0) + 1
+    if not count:
+        return
     rec["total"] += 1
     rec["co"] += any(w in low for w in bot.CO_WORDS)
     rec["so"] += any(w in low for w in bot.SO_WORDS)
@@ -223,11 +229,13 @@ def from_channels(bot, crew, posts_by_channel):
 
 # ---------------- 2. старые посты (один раз) ----------------
 
-def backfill(bot, crew, deadline):
-    if crew.get("backfill_left") is None:
-        crew["backfill_left"] = list(bot.CHANNELS)
-    while crew["backfill_left"] and time.time() < deadline:
-        ch = crew["backfill_left"].pop(0)
+def backfill(bot, crew, deadline, field="backfill_left", uk_only=False):
+    """uk_only=True — разовый второй проход по истории каналов: ищет только UK Work Permit."""
+    if crew.get(field) is None:
+        crew[field] = list(bot.CHANNELS)
+    cut = crew.get("uk_cut", {})
+    while crew[field] and time.time() < deadline:
+        ch = crew[field].pop(0)
         url = f"https://t.me/s/{ch}"
         try:
             for _ in range(BACKFILL_PAGES):
@@ -237,16 +245,23 @@ def backfill(bot, crew, deadline):
                     break
                 for m in msgs:
                     box = m.select_one("div.tgme_widget_message_text")
-                    if ch in crew.get("tg_low", {}) and bot.num(m["data-post"]) >= crew["tg_low"][ch]:
+                    n = bot.num(m["data-post"])
+                    if uk_only:
+                        if n > cut.get(ch, 0):
+                            continue        # свежие посты и так разбирает обычная проверка
+                    elif ch in crew.get("tg_low", {}) and n >= crew["tg_low"][ch]:
                         continue            # этот пост уже учтён при обычной проверке
                     if box:
-                        from_post(bot, crew, box.get_text("\n", strip=True), "@" + ch)
+                        text = box.get_text("\n", strip=True)
+                        if uk_only and not bot.uk_permit(text):
+                            continue
+                        from_post(bot, crew, text, "@" + ch, count=not uk_only)
                 url = f"https://t.me/s/{ch}?before={min(bot.num(m['data-post']) for m in msgs)}"
                 time.sleep(FETCH_PAUSE)
         except Exception as e:
             print(f"Справочник: старые посты @{ch} не прочитал: {e}")
-    if not crew["backfill_left"]:
-        crew["backfill_left"] = []        # готово, больше не повторяем
+    if not crew[field]:
+        crew[field] = []                  # готово, больше не повторяем
 
 
 # ---------------- 3. каталоги сайтов ----------------
@@ -281,6 +296,8 @@ def crewell_list(bot, crew, url, soup):
         add_list(rec, "sources", ["crewell.net"], 12)
         if "Recent vacancies" in text and bot.is_offshore(text.split("Recent vacancies", 1)[1]):
             rec["offshore_hint"] = True
+        if "Recent vacancies" in text and bot.uk_permit(text.split("Recent vacancies", 1)[1]):
+            rec["uk_hint"] = True
     if "page=" not in url:                  # первая страница: ставим в очередь остальные
         pages = [int(x) for x in re.findall(r"/en/companies/\?page=(\d+)", str(soup))]
         crew["queue"] += [f"https://crewell.net/en/companies/?page={p}" for p in range(2, max(pages or [1]) + 1)]
@@ -340,6 +357,8 @@ def ukr_company(bot, crew, url, soup):
     vac = text.split("Company vacancies", 1)[1][:3000] if "Company vacancies" in text else ""
     if vac and bot.is_offshore(vac):
         rec["offshore_hint"] = True
+    if vac and bot.uk_permit(vac):
+        rec["uk_hint"] = True
 
 
 def seajobs_list(bot, crew, url, soup):
@@ -411,8 +430,11 @@ def catalogs(bot, crew, deadline):
 def update(bot, crew, posts_by_channel, seconds=240):
     """Всё обновление справочника за одну проверку (ограничено по времени)."""
     deadline = time.time() + seconds
+    if "uk_cut" not in crew:      # граница для разового UK-прохода по истории: что новее — разберёт обычная проверка
+        crew["uk_cut"] = dict(crew["tg_hw"])
     for step in (lambda: from_channels(bot, crew, posts_by_channel),
                  lambda: backfill(bot, crew, deadline),
+                 lambda: backfill(bot, crew, deadline, "uk_backfill_left", uk_only=True),
                  lambda: catalogs(bot, crew, deadline)):
         try:
             step()
@@ -426,6 +448,10 @@ def is_offshore_company(c):
     return c["off"] > 0 or c.get("offshore_hint")
 
 
+def is_uk_company(c):
+    return c.get("uk", 0) > 0 or c.get("uk_hint")
+
+
 def to_xlsx(crew):
     try:
         import openpyxl  # noqa: F401
@@ -437,15 +463,16 @@ def to_xlsx(crew):
     from openpyxl.styles import Alignment, Font, PatternFill
     from openpyxl.utils import get_column_letter
 
-    cols = ["Компания", "Оффшор-вакансий", "Вакансий Chief Officer", "Вакансий 2nd Officer", "Всего вакансий (TG)",
+    cols = ["Компания", "Оффшор-вакансий", "Вакансий с UK Work Permit", "Вакансий Chief Officer", "Вакансий 2nd Officer", "Всего вакансий (TG)",
             "Последняя вакансия", "Страна", "Город", "Сайт", "E-mail", "Telegram", "Телефон", "Типы судов",
             "Где публикует", "Профиль на сайте", "В справочнике с"]
-    widths = [32, 10, 10, 10, 10, 12, 14, 14, 24, 34, 22, 18, 26, 30, 40, 12]
+    widths = [32, 10, 12, 10, 10, 10, 12, 14, 14, 24, 34, 22, 18, 26, 30, 40, 12]
 
     def row(key, c):
         name = c["name"] or (key if not key.startswith("name:") else key[5:].title())
         site = c["website"] or (key if "." in key and "@" not in key and not key.startswith("name:") else "")
-        return [name, c["off"] or ("да" if c.get("offshore_hint") else 0), c["co"], c["so"], c["total"], c["last"],
+        return [name, c["off"] or ("да" if c.get("offshore_hint") else 0),
+                c.get("uk") or ("да" if c.get("uk_hint") else 0), c["co"], c["so"], c["total"], c["last"],
                 c["country"], c["city"], site, ", ".join(c["emails"]), ", ".join(c["telegram"]),
                 ", ".join(c["phones"]), ", ".join(c["vessels"]), ", ".join(c["sources"]),
                 " ".join(c["links"].values()), c["first"]]
@@ -455,11 +482,17 @@ def to_xlsx(crew):
         return (-(c["off"] + (1 if c.get("offshore_hint") else 0)), -c["co"], -c["total"], -(len(c["emails"]) > 0),
                 kv[0])
 
+    def uk_order(kv):
+        c = kv[1]
+        return (-(c.get("uk", 0) + (1 if c.get("uk_hint") else 0)),) + order(kv)
+
     items = sorted(crew["companies"].items(), key=order)
     wb = Workbook()
     head_fill = PatternFill("solid", fgColor="1F4E78")
     off_fill = PatternFill("solid", fgColor="DDEBF7")
+    uk_fill = PatternFill("solid", fgColor="FFF2CC")
     sheets = [("Оффшор", [kv for kv in items if is_offshore_company(kv[1])]),
+              ("UK Work Permit", sorted([kv for kv in items if is_uk_company(kv[1])], key=uk_order)),
               ("Все компании", items)]
     for idx, (title, rows) in enumerate(sheets):
         ws = wb.active if idx == 0 else wb.create_sheet()
@@ -471,9 +504,9 @@ def to_xlsx(crew):
             cell.alignment = Alignment(wrap_text=True, vertical="center")
         for key, c in rows:
             ws.append(row(key, c))
-            if title == "Все компании" and is_offshore_company(c):
+            if title == "Все компании" and (is_uk_company(c) or is_offshore_company(c)):
                 for cell in ws[ws.max_row]:
-                    cell.fill = off_fill
+                    cell.fill = uk_fill if is_uk_company(c) else off_fill
         for i, w in enumerate(widths, 1):
             ws.column_dimensions[get_column_letter(i)].width = w
         ws.freeze_panes = "B2"
@@ -481,14 +514,16 @@ def to_xlsx(crew):
         ws.row_dimensions[1].height = 32
     buf = io.BytesIO()
     wb.save(buf)
-    return buf.getvalue(), len(sheets[0][1]), len(items)
+    return buf.getvalue(), len(sheets[0][1]), len(items), len(sheets[1][1])
 
 
 def send_file(bot, crew):
-    data, n_off, n_all = to_xlsx(crew)
+    data, n_off, n_all, n_uk = to_xlsx(crew)
     name = f"crewings_{datetime.now(bot.LOCAL_TZ):%Y-%m-%d}.xlsx"
-    caption = (f"📇 Справочник крюингов: {n_all} компаний, из них набирают в оффшор: {n_off}.\n"
-               "Лист «Оффшор» — компании с оффшорными вакансиями. На листе «Все компании» они выделены голубым.")
+    caption = (f"📇 Справочник крюингов: {n_all} компаний, из них набирают в оффшор: {n_off}, "
+               f"упоминают UK Work Permit: {n_uk}.\n"
+               "Листы «Оффшор» и «UK Work Permit» — отдельные подборки. На листе «Все компании» "
+               "оффшор выделен голубым, UK Work Permit — жёлтым.")
     r = bot.requests.post(f"https://api.telegram.org/bot{bot.TOKEN}/sendDocument",
                           data={"chat_id": bot.CHAT_ID, "caption": caption},
                           files={"document": (name, data,
