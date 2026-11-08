@@ -431,21 +431,227 @@
 "repeat": false,
 "time": "2026-11-08T11:03:40+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "2nd Officer",
+"url": "https://t.me/maritimeforum/255875",
+"source": "Telegram: @maritimeforum",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-d590ade3040e3fb0",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"contract": "4 months",
+"salary": "$3,800\n",
+"email": "recruitment@nordic-hamburg.com",
+"company": "nordic-hamburg.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-08T11:33:30+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://t.me/maritimeforum/255881",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-8daf5b4a741609b2",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "VLCC",
+"contract": "4 months",
+"salary": "$11,000–11,500\n",
+"email": "cv@skcrewing.od.ua",
+"company": "skcrewing.od.ua"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-08T11:34:06+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "ARGENT OPENING – LNG VESSEL",
+"url": "https://t.me/maritimeforum/255893",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer",
+"second officer"
+],
+"fp": "fp-4c73093df071dfee",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer / 3rd Officer",
+"vessel": "VLCC, LNG",
+"salary": "DETAILS – LNG",
+"email": "RossMarine.info@ukr.net"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-08T11:35:19+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "2nd Officer - Oil Product Tanker | Salary: 5,200-5,400 $ | Joining: 12.11.2026 | Contract: 6 months | English: good |",
+"url": "https://t.me/marinejobs/43153",
+"source": "Telegram: @marinejobs",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-12103059261a71a3",
+"offshore": true,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Product tanker, Bulk carrier",
+"salary": "5,200-5,400 $ | Joining: 12.11…",
+"joining": "12.11.2026 | Contract: 6 month",
+"contract": "6 months | English: good",
+"email": "o.kotoban@marineman.eu",
+"company": "marineman.eu"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-08T12:01:40+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer — LNG Carrier",
+"url": "https://t.me/Crew_Radar/3241",
+"source": "Telegram: @Crew_Radar",
+"found": [
+"chief officer"
+],
+"fp": "fp-94ad3090ae3994c3",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "LNG",
+"salary": "USD 17,500-18,700/month",
+"joining": "08.11.2026-14.11.2026",
+"contract": "3 (+/-1) months"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-08T12:03:05+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer — LNG Carrier",
+"url": "https://t.me/Crew_Radar/3243",
+"source": "Telegram: @Crew_Radar",
+"found": [
+"chief officer"
+],
+"fp": "fp-76016ba5e1d1af04",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "LNG",
+"salary": "$18,250/month",
+"joining": "6 Nov 2026",
+"contract": "3 months"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-08T12:03:40+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer — LPG Carrier",
+"url": "https://t.me/Crew_Radar/3244",
+"source": "Telegram: @Crew_Radar",
+"found": [
+"chief officer"
+],
+"fp": "fp-da80a4ace0d26317",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "LPG",
+"salary": "USD 13,000/month",
+"joining": "2026-11-13",
+"contract": "4 months"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-08T12:03:44+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "2nd Officer / DPO — MPSV DP2",
+"url": "https://t.me/Crew_Radar/3248",
+"source": "Telegram: @Crew_Radar",
+"found": [
+"2nd officer",
+"dpo",
+"2nd off"
+],
+"fp": "fp-c054254d0e35145d",
+"offshore": true,
+"info": {
+"rank": "2nd Officer / DPO",
+"vessel": "PSV, MPSV",
+"salary": "EUR 240/day",
+"joining": "2026-11-11",
+"contract": "4 weeks"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-08T12:04:25+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Afternoon Digest — 8 November 2026",
+"url": "https://t.me/Crew_Radar/3251",
+"source": "Telegram: @Crew_Radar",
+"found": [
+"chief officer",
+"2nd officer",
+"dpo",
+"2nd off"
+],
+"fp": "fp-69f40d7b9cda3138",
+"offshore": true,
+"info": {
+"rank": "Chief Officer / 2nd Officer / DPO",
+"vessel": "LPG, LNG",
+"salary": "€240"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-08T12:04:59+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-2977,
-2978,
-2979,
-2980,
-2981,
-2982,
-2983,
-2984,
-2985,
-2986
+2989,
+2990,
+2991,
+2992,
+2993,
+2994,
+2995,
+2996,
+2997,
+2998
 ],
-"last_list": "2026-11-08T11:30:24.748598+00:00",
-"cleared_upto": 2976,
-"last_msg_id": 2986
+"last_list": "2026-11-08T12:20:25.575125+00:00",
+"cleared_upto": 2988,
+"last_msg_id": 2998
 }
