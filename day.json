@@ -1335,23 +1335,62 @@
 "repeat": false,
 "time": "2026-11-08T17:11:03+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer for C-CSOV",
+"url": "https://oceancrew.org/vacancies/offshore/chief-officer/chief-officer-for-c-csov_08-11-2026",
+"source": "oceancrew.org",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "Chief Officer"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-08T18:36:38.698151+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "New Watch Officers vacancies",
+"url": "https://t.me/seavacancies/25196",
+"source": "Telegram: @seavacancies",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-53ff34462a57994f",
+"offshore": false,
+"info": {
+"rank": "2nd Officer / 3rd Officer",
+"vessel": "Chemical tanker, Crude oil tanker",
+"joining": "29 Jan",
+"salary": "$3,300"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-08T18:03:02+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-3054,
-3055,
-3056,
-3057,
-3058,
-3059,
-3060,
-3061,
-3062,
-3063,
-3064,
-3065
+3066,
+3067,
+3068,
+3069,
+3070,
+3071,
+3072,
+3073,
+3074,
+3075,
+3076,
+3077,
+3078
 ],
-"last_list": "2026-11-08T17:48:03.965242+00:00",
-"cleared_upto": 3053,
-"last_msg_id": 3065
+"last_list": "2026-11-08T18:38:16.870243+00:00",
+"cleared_upto": 3065,
+"last_msg_id": 3078
 }
