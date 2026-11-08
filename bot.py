@@ -55,7 +55,7 @@ NON_DECK_RE = re.compile(r"engineer|\beto\b|\bcook\b|steward|catering|chef|motor
                          r"fitter|welder|plumber|mechanic|technician|superintendent|surveyor|manager|\bhr\b", re.I)
 
 # «Crew for an offshore project (UK work permit required)»: общий набор экипажа с UK permit
-UK_CREW_RE = re.compile(r"\b(?:crew|deck|all ranks)\b", re.I)
+UK_CREW_RE = re.compile(r"\b(?:crew|deck|all ranks|candidates)\b", re.I)
 
 
 def wanted(text, uk_site=False):
@@ -87,6 +87,7 @@ CHANNELS = [
     "Official_SSA", "seavacancies", "oceancrewjobs", "stellamarine_public", "crs_vacancies", "sea111work", "MarineOdessa",
     # @cwyjh и @teamspirit — группы, у них нет открытой веб-страницы, читать нельзя,
     "pervoemorskoe", "ecrewing", "SeaSeaWorks",  # добавлены: проверены, публичные, с вакансиями
+    "RBGroupVacancies", "Seamanwork",  # RB Group (Батуми) и канал, на который ссылается maritimeforum
 ]
 
 # Страницы crewell: старшие офицеры (Chief Officer) и вахтенные (2nd Officer)
@@ -187,8 +188,9 @@ SITES = {
     },
     "oceancrew.org": {
         "pages": [f"https://oceancrew.org/vacancies/offshore/{r}"
-                  for r in ["chief-officer", "sdpo", "2nd-officer", "dpo", "3rd-officer", "cadets"]],
-        "pattern": r"/vacancies/offshore/(?:chief-officer|sdpo|2nd-officer|dpo|3rd-officer|cadets)/([\w-]+_\d{2}-\d{2}-\d{4})",
+                  for r in ["chief-officer", "sdpo", "2nd-officer", "dpo", "3rd-officer", "cadets",
+                            "full-crew", "ab", "deck-hands"]],   # full-crew: наборы экипажа, там пометки (UK)
+        "pattern": r"/vacancies/offshore/(?:chief-officer|sdpo|2nd-officer|dpo|3rd-officer|cadets|full-crew|ab|deck-hands)/([\w-]+_\d{2}-\d{2}-\d{4})",
         "base": "https://oceancrew.org",
     },
     "maritime-union.com": {
@@ -244,7 +246,9 @@ SITES = {
     },
     "clyderecruit.com": {         # Clyde Marine Recruitment (UK): AB, Chief Officer, «with UK work permit»
         "pages": ["https://www.clyderecruit.com/jobs/", "https://www.clyderecruit.com/jobs/page/2/",
-                  "https://www.clyderecruit.com/jobs/page/3/"],
+                  "https://www.clyderecruit.com/jobs/page/3/",
+                  "https://www.clyderecruit.com/jobs/rank/deck-officer/",
+                  "https://www.clyderecruit.com/jobs/rank/deck-rating/"],
         "pattern": r"/job/([\w-]+)/?$",
         "base": "https://www.clyderecruit.com",
         "uk_note": "Clyde Marine (UK): нужно право работать в UK, проверь условия",
@@ -272,6 +276,11 @@ SITES = {
         "pattern": r"/(offshore-[\w-]*week-[\w-]+)/?$",
         "base": "https://seaemploy.com",
         "digest": True,           # ссылка на подборку берётся целиком, UK-фразы ищем внутри
+    },
+    "scm-crew.com": {             # SCM: крюинг, «Горячие вакансии» (Chief Officer на PCTC и др.)
+        "pages": ["https://scm-crew.com/"],
+        "pattern": r"/vacancies/vessel-vacancies/[\w/-]+?/(\d+/\d+)\.html",
+        "base": "https://scm-crew.com",
     },
     "faststream.com": {           # Faststream Recruitment (UK, Глазго/Абердин)
         "pages": ["https://www.faststream.com/jobs", "https://www.faststream.com/disciplines/cruise-jobs/cruise-deck-jobs",
