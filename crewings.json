@@ -6007,7 +6007,7 @@
 "ukrcrewing": "https://ukrcrewing.com.ua/en/agency/asap"
 },
 "name": "A.S.A.P.",
-"off": 8,
+"off": 10,
 "offshore_hint": true,
 "phones": [
 "+13056100913",
@@ -6019,8 +6019,10 @@
 "+380675102414",
 "+380960428989"
 ],
-"so": 7,
+"so": 9,
 "sources": [
+"@CREW_ARIA",
+"@Offshore_Vacancies",
 "@SM_job_center",
 "@job_for_seaman",
 "@supermariner_ua",
@@ -6030,7 +6032,7 @@
 "telegram": [
 "@asapcrewing"
 ],
-"total": 21,
+"total": 23,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -11756,7 +11758,7 @@
 "cvseajobs@gmail.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-03",
+"last": "2026-11-08",
 "links": {},
 "name": "",
 "off": 0,
@@ -11772,10 +11774,11 @@
 "telegram": [
 "@MaritimeVacansiess"
 ],
-"total": 2,
+"total": 3,
 "vessels": [
 "Bulk",
 "Chemical",
+"LPG/LNG",
 "Tanker"
 ],
 "website": ""
@@ -55749,12 +55752,12 @@
 "tg_hw": {
 "ALPHACREW": 3570,
 "BSMCSCUKRAINE": 4332,
-"CREW_ARIA": 14011,
+"CREW_ARIA": 14014,
 "Crew_Radar": 3227,
 "JobForMariners": 1201,
 "Merchant_Fleet": 598,
 "OffshoreFleetJob": 11063,
-"Offshore_Vacancies": 897,
+"Offshore_Vacancies": 898,
 "OnlyOffshore": 38878,
 "OnlyYacht": 2313,
 "SM_job_center": 2479,
@@ -55763,7 +55766,7 @@
 "Yacht_Vacancies": 290,
 "allcrewing": 3806,
 "andreeyVstart": 1386,
-"balticcareer": 5469,
+"balticcareer": 5470,
 "crewingua": 44814,
 "crs_vacancies": 3551,
 "cruiseshipjobs": 3,
@@ -55784,8 +55787,8 @@
 "morehod_ru": 30822,
 "oceancrewjobs": 32724,
 "offshoreatsea": 25108,
-"offshorecv": 1586,
-"offshorevacancies": 47123,
+"offshorecv": 1587,
+"offshorevacancies": 47125,
 "oilrigs": 778,
 "olive_crew": 2904,
 "onboard_su": 20708,
@@ -55798,11 +55801,11 @@
 "shipjobsindia": 420,
 "shipscreweu": 16593,
 "sidantey": 399,
-"supermariner_ua": 3885,
+"supermariner_ua": 3886,
 "truemalina_offshore": 799,
 "ukrcrewing_official": 2379,
 "univis_crewing": 5007,
-"vesselsea": 3121,
+"vesselsea": 3122,
 "vshipsoffshore": 1070
 },
 "tg_low": {

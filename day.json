@@ -128,9 +128,10 @@
 "joining": "ASAP (Срочно)",
 "salary": "6000 USD"
 },
-"new": true,
+"new": false,
 "repeat": true,
-"time": "2026-11-08T08:31:47+00:00"
+"time": "2026-11-08T08:31:47+00:00",
+"junior_dp": false
 },
 {
 "uk": "",
@@ -152,9 +153,10 @@
 "email": "crew@navis.eu",
 "company": "navis.eu"
 },
-"new": true,
+"new": false,
 "repeat": true,
-"time": "2026-11-08T08:33:54+00:00"
+"time": "2026-11-08T08:33:54+00:00",
+"junior_dp": false
 },
 {
 "uk": "",
@@ -176,20 +178,66 @@
 "email": "o.kotoban@marineman.eu",
 "company": "marineman.eu"
 },
-"new": true,
+"new": false,
 "repeat": false,
-"time": "2026-11-08T08:45:18+00:00"
+"time": "2026-11-08T08:45:18+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Position:",
+"url": "https://t.me/CREW_ARIA/14013",
+"source": "Telegram: @CREW_ARIA",
+"found": [
+"2nd officer",
+"dpo",
+"2nd off"
+],
+"fp": "fp-db2661181e6dd932",
+"offshore": true,
+"info": {
+"rank": "2nd Officer / DPO",
+"vessel": "OSV",
+"salary": "10,645 per month",
+"joining": "20 November 2026",
+"contract": "2 months",
+"email": "asap@asap-crew.com",
+"company": "asap-crew.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-08T09:49:11+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "https://jobatsea.online/job/625176/master-chief-officer-shoalbuster-at-select-offshore/",
+"url": "https://t.me/offshorevacancies/47124",
+"source": "Telegram: @offshorevacancies",
+"found": [
+"chief officer"
+],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "Chief Officer"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-08T09:00:26+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-2957,
-2958,
-2959,
-2960,
-2961,
-2962
+2963,
+2964,
+2965,
+2966,
+2967,
+2968,
+2969
 ],
-"last_list": "2026-11-08T08:30:44.255371+00:00",
-"cleared_upto": 2956,
-"last_msg_id": 2962
+"last_list": "2026-11-08T09:50:56.014635+00:00",
+"cleared_upto": 2962,
+"last_msg_id": 2969
 }
