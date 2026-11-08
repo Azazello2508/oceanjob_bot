@@ -1373,24 +1373,176 @@
 "repeat": false,
 "time": "2026-11-08T18:03:02+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "Senior DPO for C-CSOV",
+"url": "https://oceancrew.org/vacancies/offshore/dpo/senior-dpo-for-c-csov_08-11-2026",
+"source": "oceancrew.org",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "DPO"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-08T19:26:55.046797+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "DPO for C-CSOV",
+"url": "https://oceancrew.org/vacancies/offshore/dpo/dpo-for-c-csov_08-11-2026",
+"source": "oceancrew.org",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "DPO"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-08T19:26:56.880410+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "2nd Officer for C-CSOV",
+"url": "https://oceancrew.org/vacancies/offshore/2nd-officer/2nd-officer-for-c-csov_08-11-2026",
+"source": "oceancrew.org",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "2nd Officer"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-08T19:26:58.639922+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "SDPO for C-CSOV",
+"url": "https://oceancrew.org/vacancies/offshore/sdpo/sdpo-for-c-csov_08-11-2026",
+"source": "oceancrew.org",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "SDPO"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-08T19:27:00.185645+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://t.me/maritimeforum/255920",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-0dfa51605a852bbd",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Bulk carrier",
+"salary": "in EUR",
+"contract": "5 months",
+"email": "apply@olivecrew.com",
+"tg": "katerynaolivecrew",
+"company": "olivecrew.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-08T18:39:18+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://t.me/maritimeforum/255931",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-fb8fa6dc3f31574b",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Chemical tanker",
+"contract": "4 months",
+"salary": "$12,500–13,000\n",
+"email": "cv@well.lv",
+"company": "well.lv"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-08T18:45:22+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://t.me/maritimeforum/255942",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-37eac08b01782d6e",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"contract": "3 months",
+"salary": "$8,805\n",
+"email": "crewing@balticshipping.pl",
+"company": "balticshipping.pl"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-08T18:46:29+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Position publishing service was stopped for the night.",
+"url": "https://t.me/marinecareerorg/17757",
+"source": "Telegram: @marinecareerorg",
+"found": [
+"chief officer"
+],
+"fp": "fp-f6dd3199e483b543",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "LPG"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-08T19:00:23+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-3066,
-3067,
-3068,
-3069,
-3070,
-3071,
-3072,
-3073,
-3074,
-3075,
-3076,
-3077,
-3078
+3079,
+3080,
+3081,
+3082,
+3083,
+3084,
+3085,
+3086,
+3087,
+3088,
+3089,
+3090,
+3091
 ],
-"last_list": "2026-11-08T18:38:16.870243+00:00",
-"cleared_upto": 3065,
-"last_msg_id": 3078
+"last_list": "2026-11-08T19:28:42.236536+00:00",
+"cleared_upto": 3078,
+"last_msg_id": 3091
 }
