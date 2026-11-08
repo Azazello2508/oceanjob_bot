@@ -1233,23 +1233,125 @@
 "repeat": false,
 "time": "2026-11-08T16:56:17.580757+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "НА  LPG   17000  DWT",
+"url": "https://t.me/crewingua/44817",
+"source": "Telegram: @crewingua",
+"found": [
+"choff"
+],
+"fp": "fp-d67a6ee12e54feeb",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "LPG",
+"joining": "В   НАЧАЛЕ  НОЯБРЯ",
+"salary": "$15000\n"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-08T17:08:10+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "НА  GEN  CARGO  5000 DWT",
+"url": "https://t.me/crewingua/44818",
+"source": "Telegram: @crewingua",
+"found": [
+"2off",
+"choff"
+],
+"fp": "fp-8c466971de854785",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer",
+"joining": "В  НОЯБРЕ / ДЕКАБРЕ",
+"salary": "€ 7500\n"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-08T17:09:04+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "НА  БАЛКЕР   3500  DWT",
+"url": "https://t.me/crewingua/44819",
+"source": "Telegram: @crewingua",
+"found": [
+"choff"
+],
+"fp": "fp-2a4e1957b27a7e53",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Bulk carrier",
+"salary": "$ 7500"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-08T17:09:19+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "НА  GEN  CARGO  8000 DWT",
+"url": "https://t.me/crewingua/44820",
+"source": "Telegram: @crewingua",
+"found": [
+"2off",
+"choff"
+],
+"fp": "fp-8005271d7fa63444",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer / 3rd Officer",
+"salary": "€ 9400\n"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-08T17:09:46+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "НА  GEN  CARGO  7000 DWT",
+"url": "https://t.me/crewingua/44821",
+"source": "Telegram: @crewingua",
+"found": [
+"2off",
+"choff"
+],
+"fp": "fp-1d8b6bbb8c78264f",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer",
+"salary": "$ 9000\n"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-08T17:11:03+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-3042,
-3043,
-3044,
-3045,
-3046,
-3047,
-3048,
-3049,
-3050,
-3051,
-3052,
-3053
+3054,
+3055,
+3056,
+3057,
+3058,
+3059,
+3060,
+3061,
+3062,
+3063,
+3064,
+3065
 ],
-"last_list": "2026-11-08T16:57:53.483741+00:00",
-"cleared_upto": 3041,
-"last_msg_id": 3053
+"last_list": "2026-11-08T17:48:03.965242+00:00",
+"cleared_upto": 3053,
+"last_msg_id": 3065
 }
