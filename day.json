@@ -784,9 +784,10 @@
 "salary": "S (USD)",
 "contract": "4 ±1 months"
 },
-"new": true,
+"new": false,
 "repeat": false,
-"time": "2026-11-08T14:00:34+00:00"
+"time": "2026-11-08T14:00:34+00:00",
+"junior_dp": false
 },
 {
 "uk": "",
@@ -805,9 +806,10 @@
 "vessel": "General cargo",
 "salary": "S"
 },
-"new": true,
+"new": false,
 "repeat": false,
-"time": "2026-11-08T14:01:31+00:00"
+"time": "2026-11-08T14:01:31+00:00",
+"junior_dp": false
 },
 {
 "uk": "",
@@ -826,9 +828,10 @@
 "vessel": "Chemical tanker",
 "salary": "S (USD per month)"
 },
-"new": true,
+"new": false,
 "repeat": false,
-"time": "2026-11-08T14:03:05+00:00"
+"time": "2026-11-08T14:03:05+00:00",
+"junior_dp": false
 },
 {
 "uk": "",
@@ -845,9 +848,10 @@
 "vessel": "LPG",
 "salary": "S (USD per month)"
 },
-"new": true,
+"new": false,
 "repeat": false,
-"time": "2026-11-08T14:03:21+00:00"
+"time": "2026-11-08T14:03:21+00:00",
+"junior_dp": false
 },
 {
 "uk": "",
@@ -867,9 +871,10 @@
 "email": "office@seamanwork.com",
 "company": "seamanwork.com"
 },
-"new": true,
+"new": false,
 "repeat": true,
-"time": "2026-11-08T14:20:46+00:00"
+"time": "2026-11-08T14:20:46+00:00",
+"junior_dp": false
 },
 {
 "uk": "",
@@ -888,9 +893,10 @@
 "email": "office@seamanwork.com",
 "company": "seamanwork.com"
 },
-"new": true,
+"new": false,
 "repeat": true,
-"time": "2026-11-08T14:21:25+00:00"
+"time": "2026-11-08T14:21:25+00:00",
+"junior_dp": false
 },
 {
 "uk": "",
@@ -909,9 +915,10 @@
 "email": "office@seamanwork.com",
 "company": "seamanwork.com"
 },
-"new": true,
+"new": false,
 "repeat": true,
-"time": "2026-11-08T14:21:34+00:00"
+"time": "2026-11-08T14:21:34+00:00",
+"junior_dp": false
 },
 {
 "uk": "",
@@ -931,24 +938,25 @@
 "email": "office@seamanwork.com",
 "company": "seamanwork.com"
 },
-"new": true,
+"new": false,
 "repeat": true,
-"time": "2026-11-08T14:22:32+00:00"
+"time": "2026-11-08T14:22:32+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-3010,
-3011,
-3012,
-3013,
-3014,
-3015,
-3016,
-3017,
-3018,
-3019
+3020,
+3021,
+3022,
+3023,
+3024,
+3025,
+3026,
+3027,
+3028,
+3029
 ],
-"last_list": "2026-11-08T14:00:42.281871+00:00",
-"cleared_upto": 3009,
-"last_msg_id": 3019
+"last_list": "2026-11-08T15:17:06.770030+00:00",
+"cleared_upto": 3019,
+"last_msg_id": 3029
 }
