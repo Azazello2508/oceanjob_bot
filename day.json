@@ -744,22 +744,42 @@
 "repeat": true,
 "time": "2026-11-08T12:31:43+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "URGENT VACANCIES | NOVEMBER – DECEMBER 2026",
+"url": "https://t.me/maritimeforum/255904",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-e123602cb5c5a3c0",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Container",
+"salary": "calculated pro rata for time s…",
+"company": "CONTAINER SHIPS | CREW MIX"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-08T13:58:23+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-2999,
-3000,
-3001,
-3002,
-3003,
-3004,
-3005,
-3006,
-3007,
-3008,
-3009
+3010,
+3011,
+3012,
+3013,
+3014,
+3015,
+3016,
+3017,
+3018,
+3019
 ],
-"last_list": "2026-11-08T13:10:36.241581+00:00",
-"cleared_upto": 2998,
-"last_msg_id": 3009
+"last_list": "2026-11-08T14:00:42.281871+00:00",
+"cleared_upto": 3009,
+"last_msg_id": 3019
 }

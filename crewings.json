@@ -31448,6 +31448,36 @@
 "vessels": [],
 "website": ""
 },
+"name:oceantrust crewing": {
+"address": "",
+"city": "",
+"co": 1,
+"country": "",
+"emails": [],
+"first": "2026-11-08",
+"last": "2026-11-08",
+"links": {},
+"name": "OceanTrust Crewing",
+"off": 0,
+"offshore_hint": false,
+"phones": [
+"+13056100913",
+"+38097213369",
+"+380972133695"
+],
+"so": 0,
+"sources": [
+"@maritimeforum"
+],
+"telegram": [],
+"total": 3,
+"vessels": [
+"Container",
+"General cargo",
+"Tanker"
+],
+"website": ""
+},
 "name:offshore oil engineering": {
 "address": "",
 "city": "",
@@ -55109,6 +55139,7 @@
 "oceangold batumi": "oceangold.gr",
 "oceanic star shipping pvt": "oceanicstarshipping.com",
 "oceanstaff crew management 21 hours ago georgia member since: jul 2026 no active vacancies view profile": "name:oceanstaff crew management 21 hours ago georgia member since: jul 2026 no active vacancies view profile",
+"oceantrust crewing": "name:oceantrust crewing",
 "oceanwide": "oceanwidecrew.com",
 "oceanwide netherlands": "oceanwidecrew.com",
 "oceanwide netherlands b v": "oceanwidecrew.com",
@@ -55986,13 +56017,13 @@
 "marinejobs": 43153,
 "marinejobz": 194156,
 "marineman_ltd": 48331,
-"maritimeforum": 255901,
+"maritimeforum": 255904,
 "merchantNavyrealjob": 262,
-"morehod_ru": 30824,
+"morehod_ru": 30825,
 "oceancrewjobs": 32724,
 "offshoreatsea": 25108,
 "offshorecv": 1587,
-"offshorevacancies": 47131,
+"offshorevacancies": 47132,
 "oilrigs": 778,
 "olive_crew": 2905,
 "onboard_su": 20708,
