@@ -765,6 +765,175 @@
 "repeat": false,
 "time": "2026-11-08T13:58:23+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "URGENT VACANCIES | LNG CARRIER",
+"url": "https://t.me/maritimeforum/255905",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-e9cdbf22a7017e95",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer / 3rd Officer",
+"vessel": "LNG",
+"salary": "S (USD)",
+"contract": "4 ±1 months"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-08T14:00:34+00:00"
+},
+{
+"uk": "",
+"title": "URGENT VACANCIES",
+"url": "https://t.me/maritimeforum/255906",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-9eaabb4e6bf03cc1",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer",
+"vessel": "General cargo",
+"salary": "S"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-08T14:01:31+00:00"
+},
+{
+"uk": "",
+"title": "URGENT VACANCIES",
+"url": "https://t.me/maritimeforum/255907",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-deb113f617f2feed",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer / 3rd Officer",
+"vessel": "Chemical tanker",
+"salary": "S (USD per month)"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-08T14:03:05+00:00"
+},
+{
+"uk": "",
+"title": "URGENT VACANCIES",
+"url": "https://t.me/maritimeforum/255908",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-a5046f956392d359",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "LPG",
+"salary": "S (USD per month)"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-08T14:03:21+00:00"
+},
+{
+"uk": "",
+"title": "Container Ship",
+"url": "https://t.me/maritimeforum/255909",
+"source": "Telegram: @maritimeforum",
+"found": [
+"2nd off"
+],
+"fp": "fp-ff5362df63ebe184",
+"offshore": false,
+"info": {
+"rank": "2nd Officer / 3rd Officer",
+"vessel": "Container",
+"joining": "Port: Port Everglades, USA",
+"salary": "7 500 – 8 000 $",
+"email": "office@seamanwork.com",
+"company": "seamanwork.com"
+},
+"new": true,
+"repeat": true,
+"time": "2026-11-08T14:20:46+00:00"
+},
+{
+"uk": "",
+"title": "CRUDE OIL TANKER",
+"url": "https://t.me/maritimeforum/255911",
+"source": "Telegram: @maritimeforum",
+"found": [
+"2nd off"
+],
+"fp": "fp-44bc38dd75378b37",
+"offshore": false,
+"info": {
+"rank": "2nd Officer / 3rd Officer / AB",
+"vessel": "Crude oil tanker",
+"salary": "+ Bonus + HRA !!!",
+"email": "office@seamanwork.com",
+"company": "seamanwork.com"
+},
+"new": true,
+"repeat": true,
+"time": "2026-11-08T14:21:25+00:00"
+},
+{
+"uk": "",
+"title": "VLGC FLEET",
+"url": "https://t.me/maritimeforum/255912",
+"source": "Telegram: @maritimeforum",
+"found": [
+"2nd off"
+],
+"fp": "fp-07c8fe8fe28f9ab0",
+"offshore": false,
+"info": {
+"rank": "2nd Officer / 3rd Officer / AB",
+"salary": "+ Bonus + HRA !!!",
+"joining": "Port: Singapore / South Korea",
+"email": "office@seamanwork.com",
+"company": "seamanwork.com"
+},
+"new": true,
+"repeat": true,
+"time": "2026-11-08T14:21:34+00:00"
+},
+{
+"uk": "",
+"title": "BULK CARRIER",
+"url": "https://t.me/maritimeforum/255916",
+"source": "Telegram: @maritimeforum",
+"found": [
+"2nd off"
+],
+"fp": "fp-f73d9b00a96f30e8",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Bulk carrier",
+"joining": "mid November",
+"salary": "3500 $",
+"email": "office@seamanwork.com",
+"company": "seamanwork.com"
+},
+"new": true,
+"repeat": true,
+"time": "2026-11-08T14:22:32+00:00"
 }
 ],
 "msg_ids": [

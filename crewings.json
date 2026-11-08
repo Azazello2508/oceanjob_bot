@@ -478,10 +478,10 @@
 "country": "",
 "emails": [],
 "first": "2026-11-03",
-"last": "2026-11-03",
+"last": "2026-11-08",
 "links": {},
 "name": "",
-"off": 6,
+"off": 7,
 "offshore_hint": false,
 "phones": [],
 "so": 0,
@@ -494,7 +494,7 @@
 "@Sea_Helper",
 "@starlinkForSeamen"
 ],
-"total": 6,
+"total": 7,
 "uk": 1,
 "vessels": [
 "Offshore",
@@ -31451,7 +31451,7 @@
 "name:oceantrust crewing": {
 "address": "",
 "city": "",
-"co": 1,
+"co": 5,
 "country": "",
 "emails": [],
 "first": "2026-11-08",
@@ -31465,15 +31465,17 @@
 "+38097213369",
 "+380972133695"
 ],
-"so": 0,
+"so": 3,
 "sources": [
 "@maritimeforum"
 ],
 "telegram": [],
-"total": 3,
+"total": 7,
 "vessels": [
+"Chemical",
 "Container",
 "General cargo",
+"LPG/LNG",
 "Tanker"
 ],
 "website": ""
@@ -45317,7 +45319,7 @@
 "office@seamanwork.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-07",
+"last": "2026-11-08",
 "links": {},
 "name": "",
 "off": 0,
@@ -45326,13 +45328,13 @@
 "+380982840100",
 "+40799627444"
 ],
-"so": 13,
+"so": 17,
 "sources": [
 "@SM_job_center",
 "@maritimeforum"
 ],
 "telegram": [],
-"total": 39,
+"total": 49,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -56017,13 +56019,13 @@
 "marinejobs": 43153,
 "marinejobz": 194156,
 "marineman_ltd": 48331,
-"maritimeforum": 255904,
+"maritimeforum": 255918,
 "merchantNavyrealjob": 262,
 "morehod_ru": 30825,
 "oceancrewjobs": 32724,
 "offshoreatsea": 25108,
 "offshorecv": 1587,
-"offshorevacancies": 47132,
+"offshorevacancies": 47134,
 "oilrigs": 778,
 "olive_crew": 2905,
 "onboard_su": 20708,
@@ -56033,12 +56035,12 @@
 "seajobfinder": 42271,
 "seamenjob": 106126,
 "seamenvacancy": 1374,
-"seavacancies": 25193,
+"seavacancies": 25194,
 "shipjobsindia": 420,
 "shipscreweu": 16593,
 "sidantey": 399,
-"supermariner_ua": 3886,
-"truemalina_offshore": 799,
+"supermariner_ua": 3887,
+"truemalina_offshore": 800,
 "ukrcrewing_official": 2379,
 "univis_crewing": 5007,
 "vesselsea": 3122,
