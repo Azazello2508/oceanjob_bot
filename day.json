@@ -637,21 +637,129 @@
 "repeat": false,
 "time": "2026-11-08T12:04:59+00:00",
 "junior_dp": false
+},
+{
+"uk": "…/ offshore deck experience preferred. Valid UK Work Permit , such as a Frontier Worker Permit; UK resid…",
+"title": "Deckhands for Jack-Up Barge (UK Sector / North Sea)",
+"url": "https://oceancrew.org/vacancies/offshore/deck-hands/deckhands-for-jack-up-barge-uk-sector-north-sea_07-10-2026",
+"source": "oceancrew.org",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"vessel": "Jack-up, Barge"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-08T13:08:59.747758+00:00",
+"junior_dp": false
+},
+{
+"uk": "UK в названии вакансии",
+"title": "Deckhand for TSHD Vessel (UK)",
+"url": "https://oceancrew.org/vacancies/offshore/deck-hands/deckhand-for-tshd-vessel-uk-2_22-10-2026",
+"source": "oceancrew.org",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {},
+"new": false,
+"repeat": false,
+"time": "2026-11-08T13:09:00.971778+00:00",
+"junior_dp": false
+},
+{
+"uk": "UK в названии вакансии",
+"title": "x3 Deckhand for TSHD Vessel (UK)",
+"url": "https://oceancrew.org/vacancies/offshore/deck-hands/x3-deckhand-for-tshd-vessel-uk_25-10-2026",
+"source": "oceancrew.org",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {},
+"new": false,
+"repeat": false,
+"time": "2026-11-08T13:09:02.415005+00:00",
+"junior_dp": false
+},
+{
+"uk": "…rtificate. Valid passport and seaman's book. UK work permit required for non-British candidates. Good co…",
+"title": "Able Seaman for SOV (Great Yarmouth, UK)",
+"url": "https://oceancrew.org/vacancies/offshore/ab/able-seaman-for-sov-great-yarmouth-uk_03-11-2026",
+"source": "oceancrew.org",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "AB"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-08T13:09:03.866152+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://t.me/maritimeforum/255899",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-3baa50efc9c4a4cb",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Tanker",
+"contract": "4 months",
+"salary": "$10,000\n",
+"email": "info@crs-marine.com",
+"company": "crs-marine.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-08T12:30:26+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://t.me/olive_crew/2905",
+"source": "Telegram: @olive_crew",
+"found": [
+"chief officer"
+],
+"fp": "fp-962ed021cd38cff7",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Bulk carrier",
+"salary": "in EUR",
+"contract": "5 months",
+"email": "apply@olivecrew.com",
+"tg": "katerynaolivecrew",
+"company": "olivecrew.com"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-08T12:31:43+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-2989,
-2990,
-2991,
-2992,
-2993,
-2994,
-2995,
-2996,
-2997,
-2998
+2999,
+3000,
+3001,
+3002,
+3003,
+3004,
+3005,
+3006,
+3007,
+3008,
+3009
 ],
-"last_list": "2026-11-08T12:20:25.575125+00:00",
-"cleared_upto": 2988,
-"last_msg_id": 2998
+"last_list": "2026-11-08T13:10:36.241581+00:00",
+"cleared_upto": 2998,
+"last_msg_id": 3009
 }

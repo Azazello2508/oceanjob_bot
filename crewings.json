@@ -6716,7 +6716,7 @@
 "crewapplication@astorship.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-07",
+"last": "2026-11-08",
 "links": {
 "crewell": "https://crewell.net/en/companies/153449/",
 "ukrcrewing": "https://ukrcrewing.com.ua/en/agency/astorship"
@@ -6737,7 +6737,7 @@
 "ukrcrewing.com.ua"
 ],
 "telegram": [],
-"total": 9,
+"total": 10,
 "vessels": [
 "Chemical",
 "Tanker"
@@ -7772,7 +7772,7 @@
 "crewing@balticshipping.pl"
 ],
 "first": "2026-11-03",
-"last": "2026-11-07",
+"last": "2026-11-08",
 "links": {},
 "name": "Baltic Shipping Services",
 "off": 0,
@@ -7783,7 +7783,7 @@
 "@maritimeforum"
 ],
 "telegram": [],
-"total": 70,
+"total": 71,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -8985,7 +8985,7 @@
 "crewell": "https://crewell.net/en/companies/6567/"
 },
 "name": "BSC",
-"off": 55,
+"off": 56,
 "offshore_hint": false,
 "phones": [
 "+380487373381",
@@ -9009,7 +9009,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 90,
+"total": 91,
 "uk": 9,
 "vessels": [
 "Container",
@@ -11518,7 +11518,7 @@
 "crs-marine.com": {
 "address": "72 Preobrazhenskaya str., 2nd Floor, 65045",
 "city": "Odessa",
-"co": 0,
+"co": 1,
 "country": "Ukraine",
 "emails": [
 "info@crs-marine.com"
@@ -11543,7 +11543,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 19,
+"total": 20,
 "vessels": [
 "Bulk",
 "Tanker"
@@ -13611,7 +13611,7 @@
 "recruitment@epsilonhellas.com.ua"
 ],
 "first": "2026-11-03",
-"last": "2026-11-06",
+"last": "2026-11-08",
 "links": {},
 "name": "EPSILON MARITIME SERVICES LTD",
 "off": 6,
@@ -13631,7 +13631,7 @@
 "@supermariner_ua"
 ],
 "telegram": [],
-"total": 23,
+"total": 24,
 "vessels": [
 "Bulk",
 "Container",
@@ -40448,7 +40448,7 @@
 "@offshorecv"
 ],
 "telegram": [],
-"total": 108,
+"total": 109,
 "uk": 5,
 "vessels": [
 "Bulk",
@@ -40491,7 +40491,7 @@
 "olivecrew.com": {
 "address": "13a, Voyenniy spusk, Office 11",
 "city": "Odessa",
-"co": 39,
+"co": 40,
 "country": "Ukraine",
 "emails": [
 "apply@olivecrew.com",
@@ -40540,7 +40540,7 @@
 "@Sofia_OliveCrew",
 "@Svetlana_OliveCrew"
 ],
-"total": 246,
+"total": 247,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -46312,9 +46312,11 @@
 "city": "Odessa",
 "co": 0,
 "country": "Ukraine",
-"emails": [],
+"emails": [
+"crew@shipstarline.com.ua"
+],
 "first": "2026-11-03",
-"last": "",
+"last": "2026-11-08",
 "links": {
 "crewell": "https://crewell.net/en/companies/115509/"
 },
@@ -46324,11 +46326,15 @@
 "phones": [],
 "so": 0,
 "sources": [
+"@maritimeforum",
 "crewell.net"
 ],
 "telegram": [],
-"total": 0,
-"vessels": [],
+"total": 1,
+"vessels": [
+"LPG/LNG",
+"Tanker"
+],
 "website": "shipstarline.com.ua"
 },
 "shipworkz.com": {
@@ -55980,15 +55986,15 @@
 "marinejobs": 43153,
 "marinejobz": 194156,
 "marineman_ltd": 48331,
-"maritimeforum": 255894,
+"maritimeforum": 255901,
 "merchantNavyrealjob": 262,
 "morehod_ru": 30824,
 "oceancrewjobs": 32724,
 "offshoreatsea": 25108,
 "offshorecv": 1587,
-"offshorevacancies": 47130,
+"offshorevacancies": 47131,
 "oilrigs": 778,
-"olive_crew": 2904,
+"olive_crew": 2905,
 "onboard_su": 20708,
 "pervoemorskoe": 4513,
 "rekamore_su": 164554,
