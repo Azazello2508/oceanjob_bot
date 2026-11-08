@@ -387,6 +387,47 @@ def is_offshore(text):
     return False
 
 
+# ---------- UK Work Permit ----------
+_UK = r"(?:uk|u\.k\.|united kingdom|british|британск\w*|великобритани\w*)"
+_EU = r"(?:[\s/&,-]*(?:or|and|и|/)?[\s/&,-]*(?:eu|eea|ес)\b)?"
+UK_PERMIT_RE = re.compile(
+    rf"\b{_UK}{_EU}[\s\-/]*(?:work[\s-]*|рабоч\w+\s*)?(?:permit|visa|passport|sponsor\w*|right[\s-]*to[\s-]*work|"
+    rf"resident\w*|national\w*|citizen\w*|settled|разрешени\w*|виз\w*|паспорт\w*)"
+    rf"|right[\s-]*to[\s-]*work\s*(?:in|for)?\s*(?:the\s*)?{_UK}"
+    rf"|(?:permit|visa|виза|разрешение)\s*(?:for|in|to|в|на)?\s*(?:the\s*)?{_UK}\b"
+    r"|skilled worker visa|indefinite leave to remain|settled status|\bilr\b",
+    re.I)
+
+
+def uk_permit(text):
+    """Если в тексте есть упоминание UK Work Permit / визы / права на работу в UK —
+    возвращает короткую цитату вокруг него (чтобы видеть, требуют это или помогают оформить)."""
+    m = UK_PERMIT_RE.search(text or "")
+    if not m:
+        return ""
+    a, b = max(0, m.start() - 45), min(len(text), m.end() + 45)
+    snippet = re.sub(r"\s+", " ", text[a:b]).strip(" .,;:-–|•")
+    return ("…" if a else "") + snippet + ("…" if b < len(text) else "")
+
+
+DEEP_BUDGET = 20   # сколько страниц вакансий с сайтов открываем за один запуск
+
+
+def deep_uk_check(url):
+    """Открывает страницу вакансии на сайте и ищет в её полном тексте UK Work Permit.
+    На сайтах в списке виден только заголовок, а условия — внутри вакансии."""
+    global DEEP_BUDGET
+    if DEEP_BUDGET <= 0:
+        return ""
+    DEEP_BUDGET -= 1
+    try:
+        page = requests.get(url, headers=HEADERS, timeout=15).text
+        return uk_permit(BeautifulSoup(page, "html.parser").get_text(" ", strip=True))
+    except Exception as e:
+        print(f"Не открылась страница вакансии {url}: {e}")
+        return ""
+
+
 # ---------- Краткая карточка вакансии ----------
 RANKS = [("Chief Officer", ["chief officer", "c/o", "chief mate", "choff", "ch/off", "co/dpo", "co/sdpo",
                             "старпом", "старший помощник", "ст. помощник", "ст.помощник"]),
@@ -557,12 +598,15 @@ def render(day):
     for j in day["jobs"]:
         j["junior_dp"] = is_junior_dp(j["title"] + " " + " ".join(j.get("found") or []) + " "
                                       + (j.get("info") or {}).get("rank", ""))
-    jdp = sorted([j for j in day["jobs"] if j["junior_dp"]], key=order)
-    off = sorted([j for j in day["jobs"] if j["offshore"] and not j["junior_dp"]], key=order)
-    rest = sorted([j for j in day["jobs"] if not j["offshore"] and not j["junior_dp"]], key=order)
+    uk = sorted([j for j in day["jobs"] if j.get("uk")], key=order)
+    plain = [j for j in day["jobs"] if not j.get("uk")]   # UK-вакансии показываем отдельным разделом
+    jdp = sorted([j for j in plain if j["junior_dp"]], key=order)
+    off = sorted([j for j in plain if j["offshore"] and not j["junior_dp"]], key=order)
+    rest = sorted([j for j in plain if not j["offshore"] and not j["junior_dp"]], key=order)
     n_new = sum(j["new"] for j in day["jobs"])
     head = (f"📋 <b>Вакансии за {day['date'][8:10]}.{day['date'][5:7]}</b>\n"
             f"Всего: <b>{len(day['jobs'])}</b>" + (f" · 🆕 новых: <b>{n_new}</b>" if n_new else "") + "\n"
+            + (f"🇬🇧 UK Work Permit: {len(uk)} · " if uk else "")
             + (f"🎓 JDPO / DP: {len(jdp)} · " if jdp else "")
             + f"🛢 Оффшор: {len(off)} · 🚢 Торговый флот: {len(rest)}\n"
             f"(обновлено в {datetime.now(LOCAL_TZ):%H:%M})\n")
@@ -582,6 +626,8 @@ def render(day):
         if not i.get("vessel") and not extra:   # ничего не разобрали — покажем начало текста
             extra = f"<i>{e(j['title'][:70])}</i>"
         line1 = f"{mark}{when} {what}" + (f"\n{extra}" if extra else "")
+        if j.get("uk"):   # цитата из вакансии про UK permit
+            line1 += f"\n🇬🇧 <i>{e(j['uk'])}</i>"
         company = f"{e(i['company'][:30])} · " if i.get("company") else ""
         return (f"{line1}\n{company}{e(j['source'].replace('Telegram: ', ''))} · "
                 f"<a href=\"{e(j['url'])}\">открыть</a>{gmail_link(j, i)}")
@@ -595,6 +641,8 @@ def render(day):
         return "❔ Прочие / тип не указан"
 
     sections = []
+    if uk:
+        sections.append(("🇬🇧 UK WORK PERMIT / ВИЗА UK", uk))
     if jdp:
         sections.append(("🎓 JDPO / DP TRAINEE / DP BASIC", jdp))
     if off:
@@ -750,7 +798,10 @@ def main():
             # но с пометкой «🔁 повтор», чтобы было видно, что это не свежая вакансия
             repeat = bool(fp and fp in seen and not any(fp == x.get("fp") for x in day["jobs"])
                           and is_channel and not known)
+            # UK Work Permit: в постах каналов весь текст уже есть, на сайтах догружаем страницу
+            uk = uk_permit(job["title"]) or (deep_uk_check(job["url"]) if not is_channel and not known else "")
             day["jobs"].append({
+                "uk": uk,
                 "title": short(job["title"]), "url": job["url"], "source": label,
                 "found": job.get("found") or [], "fp": fp,
                 "offshore": is_offshore(job["title"] + " " + job["url"].replace("-", " ")),
