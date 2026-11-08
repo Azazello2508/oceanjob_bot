@@ -32,7 +32,23 @@ KEYWORDS = [
     # русские названия
     "старпом", "старший помощник", "ст. помощник", "ст.помощник",
 ]
-KEYWORDS_VERSION = 6
+KEYWORDS_VERSION = 7
+
+# Должности, которые нужны ТОЛЬКО в вакансиях с UK Work Permit: 3-й помощник и матрос AB.
+# Без UK-разрешения они в список не попадают, иначе список зальют матросские вакансии.
+# «AB» ищем только заглавными буквами, чтобы не путать с обычными словами.
+UK_RANK_RE = re.compile(
+    r"(?i:\b(?:third|3rd)[\s-]+(?:officer|mate)\b|\b3/o\b|\b3off\b|\b3rd[\s-]+off\b|\b3/off\b"
+    r"|\bable[\s-]*bodied\b|\bable[\s-]+seaman\b|\bable[\s-]+seamen\b|\bAB[\s-]+seaman\b|\bA/B\b)"
+    r"|\bABs?\b(?!\s*[&.])")
+
+
+def wanted(text, uk_site=False):
+    """Нужна ли вакансия: подходит должность из KEYWORDS, либо (3-й помощник / AB) в вакансии с UK permit.
+    uk_site=True — площадка, где UK-разрешение подразумевается (см. uk_note в SITES)."""
+    if any(k in text.lower() for k in KEYWORDS):
+        return True
+    return bool(UK_RANK_RE.search(text)) and (uk_site or bool(uk_permit(text)))
 
 
 # Публичные Telegram-каналы с вакансиями: имя канала из ссылки t.me/ИМЯ
@@ -86,7 +102,7 @@ def get_crewell():
         job_id = "crewell-" + m.group(1)
         if job_id in ids:
             continue
-        if any(k in title.lower() for k in KEYWORDS):
+        if wanted(title):
             ids.add(job_id)
             url = a["href"]
             if url.startswith("/"):
@@ -106,7 +122,7 @@ def get_ukrcrewing():
         if not m or not title:
             continue
         job_id = "ukrcrewing-" + m.group(1)
-        if job_id in ids or not any(k in title.lower() for k in KEYWORDS):
+        if job_id in ids or not wanted(title):
             continue
         ids.add(job_id)
         row = a.find_parent("tr")  # строка таблицы: судно, срок, дата, зарплата
@@ -172,7 +188,8 @@ SITES = {
     "findajob.dwp.gov.uk": {      # государственный сайт вакансий Великобритании
         "pages": [f"https://findajob.dwp.gov.uk/search?q={q}&w=United+Kingdom" for q in
                   ["chief+officer+vessel", "chief+officer+offshore", "chief+mate+vessel", "first+officer+vessel",
-                   "second+officer+vessel", "dpo+vessel", "sdpo", "deck+officer+offshore"]],
+                   "second+officer+vessel", "third+officer+vessel", "dpo+vessel", "sdpo", "deck+officer+offshore",
+                   "able+seaman", "able+bodied+seaman+offshore"]],
         "pattern": r"/details/(\d+)",
         "base": "https://findajob.dwp.gov.uk",
         "marine_only": True,      # там много не морских «Chief Officer» и «DPO» (Data Protection Officer)
@@ -199,7 +216,7 @@ SITES = {
 
 # Для площадок с marine_only: вакансия берётся, только если в ней есть морское слово
 MARINE_WORDS = ["vessel", "ship", "marine", "maritime", "offshore", "seafarer", "deck officer", "psv", "sov",
-                "ctv", "tug", "sdpo", "jdpo", "ahts", "fpso", "dp2", "dp1", "dp3", "mpsv", "osv", "wind farm"]
+                "ctv", "tug", "seaman", "sdpo", "jdpo", "ahts", "fpso", "dp2", "dp1", "dp3", "mpsv", "osv", "wind farm"]
 
 
 # Тексты ссылок, которые не являются названием вакансии
@@ -225,7 +242,8 @@ def get_site(name):
             job_id = f"{name}-{m.group(1)}"
             # Ищем слова и в тексте ссылки, и в самом адресе (там часто есть должность)
             where = (title + " " + a["href"].replace("-", " ")).lower()
-            if job_id in ids or not any(k in where for k in KEYWORDS):
+            if job_id in ids or not wanted(title + " " + a["href"].replace("-", " "),
+                                           uk_site=bool(site.get("uk_note"))):
                 continue
             if site.get("marine_only") and not any(w in where for w in MARINE_WORDS):
                 continue
@@ -295,7 +313,7 @@ def get_channel(name, max_pages=6):
         ids.add(post)
         text = box.get_text("\n", strip=True)
         ALL_POSTS.setdefault(name, []).append((num(post), text))
-        if any(k in text.lower() for k in KEYWORDS):
+        if wanted(text):
             t = msg.select_one("a.tgme_widget_message_date time[datetime]") or msg.select_one("time[datetime]")
             jobs.append({
                 "id": "tg-" + post,
@@ -472,6 +490,7 @@ RANKS = [("Chief Officer", ["chief officer", "c/o", "chief mate", "1st officer",
          ("JDPO", ["jdpo", "junior dpo", "jr dpo", "jr. dpo"]),
          ("DP Trainee", ["trainee dpo", "dpo trainee", "dp trainee", "trainee dp", "dp sea time",
                          "dp seatime", "dp sea-time", "sea time dp"]),
+         ("3rd Officer", ["third officer", "3rd officer", "third mate", "3rd mate", "3/o", "3off", "3rd off", "3/off"]),
          ("SDPO", ["sdpo"]), ("DPO", ["dpo", "dp operator"]),
          ("DP Basic/Induction", ["dp basic", "basic dp", "dp induction", "induction dp",
                                  "dp familiarization", "dp limited"])]
@@ -507,6 +526,9 @@ def summarize(text, found=None, contact=None):
     ranks = [name for name, ws in RANKS if any(w in low for w in ws)]
     if "DPO" in ranks and ({"SDPO", "JDPO", "DP Trainee"} & set(ranks)):
         ranks.remove("DPO")
+    if re.search(r"(?i:\bable[\s-]*bodied\b|\bable[\s-]+seam[ae]n\b|\bA/B\b|\bAB[\s-]+seaman\b)|\bABs?\b(?!\s*[&.])",
+                 text):
+        ranks.append("AB")
     info["rank"] = " / ".join(ranks[:3])
     vessels = [name for name, ws in VESSEL_TYPES if any(w in low for w in ws)]
     if "Tanker" in vessels and len(vessels) > 1:
@@ -554,7 +576,7 @@ VESSEL_FULL = {"LPG": "LPG Carrier", "LNG": "LNG Carrier", "VLCC": "VLCC Tanker"
 def apply_rank(i):
     """Одна должность для письма: если в вакансии их несколько — по важности для вас."""
     ranks = [r.strip() for r in (i.get("rank") or "").split("/") if r.strip()]
-    for want in ["Chief Officer", "SDPO", "2nd Officer", "JDPO", "DPO", "DP Trainee", "DP Basic"]:
+    for want in ["Chief Officer", "SDPO", "2nd Officer", "3rd Officer", "JDPO", "DPO", "DP Trainee", "DP Basic", "AB"]:
         for r in ranks:
             if r.startswith(want):
                 return r
