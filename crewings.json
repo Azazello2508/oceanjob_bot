@@ -3588,6 +3588,7 @@
 "@irina_alpha"
 ],
 "total": 477,
+"uk": 6,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -4627,6 +4628,7 @@
 ],
 "telegram": [],
 "total": 82,
+"uk": 1,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -7034,6 +7036,7 @@
 ],
 "telegram": [],
 "total": 77,
+"uk": 2,
 "vessels": [
 "Dredger",
 "Offshore",
@@ -8904,6 +8907,7 @@
 ],
 "telegram": [],
 "total": 86,
+"uk": 5,
 "vessels": [
 "Container",
 "Dredger",
@@ -13704,6 +13708,7 @@
 ],
 "telegram": [],
 "total": 42,
+"uk": 1,
 "vessels": [
 "Offshore"
 ],
@@ -14150,6 +14155,7 @@
 ],
 "telegram": [],
 "total": 14,
+"uk": 1,
 "vessels": [
 "Chemical",
 "Container",
@@ -16103,6 +16109,7 @@
 ],
 "telegram": [],
 "total": 25,
+"uk": 1,
 "vessels": [
 "Offshore"
 ],
@@ -18052,6 +18059,7 @@
 ],
 "telegram": [],
 "total": 63,
+"uk": 1,
 "vessels": [
 "Dredger",
 "Offshore",
@@ -20572,6 +20580,7 @@
 ],
 "telegram": [],
 "total": 2,
+"uk": 1,
 "vessels": [
 "LPG/LNG",
 "Offshore",
@@ -22269,6 +22278,7 @@
 ],
 "telegram": [],
 "total": 61,
+"uk": 1,
 "vessels": [
 "Dredger",
 "General cargo",
@@ -22735,6 +22745,7 @@
 ],
 "telegram": [],
 "total": 6,
+"uk": 3,
 "vessels": [
 "Offshore",
 "Passenger"
@@ -22936,6 +22947,7 @@
 ],
 "telegram": [],
 "total": 4,
+"uk": 1,
 "vessels": [
 "Offshore"
 ],
@@ -40072,6 +40084,7 @@
 ],
 "telegram": [],
 "total": 63,
+"uk": 5,
 "vessels": [
 "Dredger",
 "General cargo",
@@ -40245,6 +40258,7 @@
 ],
 "telegram": [],
 "total": 104,
+"uk": 1,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -40563,6 +40577,7 @@
 ],
 "telegram": [],
 "total": 124,
+"uk": 9,
 "vessels": [
 "Dredger",
 "General cargo",
@@ -45143,6 +45158,7 @@
 ],
 "telegram": [],
 "total": 27,
+"uk": 4,
 "vessels": [
 "Dredger",
 "Offshore",
@@ -45737,6 +45753,7 @@
 ],
 "telegram": [],
 "total": 286,
+"uk": 11,
 "vessels": [
 "Dredger",
 "General cargo",
@@ -45966,6 +45983,7 @@
 ],
 "telegram": [],
 "total": 7,
+"uk": 1,
 "vessels": [
 "Dredger",
 "Offshore"
@@ -49651,6 +49669,7 @@
 ],
 "telegram": [],
 "total": 7,
+"uk": 3,
 "vessels": [
 "Offshore",
 "Ro-Ro/PCTC"
@@ -50071,6 +50090,7 @@
 ],
 "telegram": [],
 "total": 41,
+"uk": 1,
 "vessels": [
 "Chemical",
 "General cargo",
@@ -51904,6 +51924,7 @@
 ],
 "telegram": [],
 "total": 273,
+"uk": 1,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -52937,6 +52958,7 @@
 ],
 "telegram": [],
 "total": 148,
+"uk": 3,
 "vessels": [
 "Dredger",
 "General cargo",
@@ -55804,6 +55826,105 @@
 "univis_crewing": 4978,
 "vesselsea": 3098,
 "vshipsoffshore": 1051
+},
+"uk_backfill_left": [
+"ALPHACREW",
+"OnlyOffshore",
+"roster_marine",
+"galaxymaritimeua",
+"oilrigs",
+"vshipsoffshore",
+"OnlyYacht",
+"Yacht_Vacancies",
+"truemalina_offshore",
+"Crew_Radar",
+"Offshore_Vacancies",
+"Sea_format",
+"univis_crewing",
+"Merchant_Fleet",
+"sidantey",
+"passengerFleetJob",
+"ismira_agency",
+"cruiseshipjobs",
+"marinejobz",
+"rekamore_su",
+"shipjobsindia",
+"ukrcrewing_official",
+"TSMexp",
+"marinecareerorg",
+"findseajobs",
+"morehod_ru",
+"offshoreatsea",
+"gm_seaman_cv",
+"cvcrewcom",
+"vesselsea",
+"cvsenderseaman",
+"Official_SSA",
+"seavacancies",
+"oceancrewjobs",
+"stellamarine_public",
+"crs_vacancies",
+"sea111work",
+"MarineOdessa"
+],
+"uk_cut": {
+"ALPHACREW": 3570,
+"BSMCSCUKRAINE": 4332,
+"CREW_ARIA": 14011,
+"Crew_Radar": 3227,
+"JobForMariners": 1201,
+"Merchant_Fleet": 598,
+"OffshoreFleetJob": 11063,
+"Offshore_Vacancies": 897,
+"OnlyOffshore": 38878,
+"OnlyYacht": 2313,
+"SM_job_center": 2479,
+"Sea_format": 12336,
+"TSMexp": 859,
+"Yacht_Vacancies": 290,
+"allcrewing": 3806,
+"andreeyVstart": 1386,
+"balticcareer": 5469,
+"crewingua": 44814,
+"crs_vacancies": 3551,
+"cruiseshipjobs": 3,
+"cvsenderseaman": 15678,
+"findseajobs": 32567,
+"galaxymaritimeua": 1249,
+"gm_seaman_cv": 2682,
+"help_seafarers": 4884,
+"ismira_agency": 440,
+"job_for_seaman": 17018,
+"jobfor_seamen": 12674,
+"marinecareerorg": 17756,
+"marinejobs": 43149,
+"marinejobz": 194156,
+"marineman_ltd": 48331,
+"maritimeforum": 255802,
+"merchantNavyrealjob": 262,
+"morehod_ru": 30822,
+"oceancrewjobs": 32724,
+"offshoreatsea": 25108,
+"offshorecv": 1586,
+"offshorevacancies": 47120,
+"oilrigs": 778,
+"olive_crew": 2904,
+"onboard_su": 20708,
+"rekamore_su": 164552,
+"roster_marine": 1736,
+"seajobfinder": 42271,
+"seamenjob": 106126,
+"seamenvacancy": 1374,
+"seavacancies": 25190,
+"shipjobsindia": 420,
+"shipscreweu": 16593,
+"sidantey": 399,
+"supermariner_ua": 3885,
+"truemalina_offshore": 797,
+"ukrcrewing_official": 2379,
+"univis_crewing": 5007,
+"vesselsea": 3121,
+"vshipsoffshore": 1070
 },
 "version": 2
 }
