@@ -111,6 +111,74 @@
 "repeat": false,
 "time": "2026-11-08T08:08:34+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "URGENT: CO & CE (General Cargo)",
+"url": "https://t.me/maritimeforum/255814",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-0b4881985bd77dfe",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo",
+"joining": "ASAP (Срочно)",
+"salary": "6000 USD"
+},
+"new": true,
+"repeat": true,
+"time": "2026-11-08T08:31:47+00:00"
+},
+{
+"uk": "",
+"title": "Vacancy Code 02.3",
+"url": "https://t.me/maritimeforum/255817",
+"source": "Telegram: @maritimeforum",
+"found": [
+"dpo",
+"2nd off"
+],
+"fp": "fp-213d1ef27b6724ee",
+"offshore": true,
+"info": {
+"rank": "2nd Officer / 3rd Officer / DPO",
+"vessel": "PSV, MPSV",
+"salary": "s – 240 EUR per day",
+"joining": "11th of November",
+"contract": "4 weeks",
+"email": "crew@navis.eu",
+"company": "navis.eu"
+},
+"new": true,
+"repeat": true,
+"time": "2026-11-08T08:33:54+00:00"
+},
+{
+"uk": "",
+"title": "2nd Officer",
+"url": "https://t.me/job_for_seaman/17019",
+"source": "Telegram: @job_for_seaman",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-2bc83fa18ccde24f",
+"offshore": true,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Product tanker, Bulk carrier",
+"salary": "5,200-5,400 $",
+"joining": "12.11.2026 | Contract: 6 month",
+"contract": "6 months",
+"email": "o.kotoban@marineman.eu",
+"company": "marineman.eu"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-08T08:45:18+00:00"
 }
 ],
 "msg_ids": [
