@@ -250,18 +250,202 @@
 "repeat": false,
 "time": "2026-11-08T10:07:51+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://t.me/maritimeforum/255847",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-e0c2d7bc75bc97d2",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"contract": "4 months",
+"salary": "$6,800\n",
+"email": "recruitment@nordic-hamburg.com",
+"company": "nordic-hamburg.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-08T10:53:24+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://t.me/maritimeforum/255849",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-b9b86ae95a027290",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Container",
+"contract": "7 weeks",
+"salary": "$6,900\n",
+"email": "aspships-vsnl@aspships.com",
+"company": "aspships.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-08T11:21:54+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://t.me/maritimeforum/255852",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-1155496f20a90040",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Crude oil tanker",
+"contract": "4 months",
+"salary": "$10,500–11,000\n",
+"email": "forcv@eurocrew-ua.com",
+"company": "eurocrew-ua.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-08T11:22:14+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://t.me/maritimeforum/255854",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-b187cf44878df98b",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "LPG",
+"contract": "4 months",
+"salary": "$11,000–11,200\n",
+"email": "crew@armada-holding.com",
+"company": "armada-holding.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-08T11:22:27+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "2nd Officer",
+"url": "https://t.me/maritimeforum/255859",
+"source": "Telegram: @maritimeforum",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-d000affca8d2f80d",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Tanker",
+"contract": "4 months",
+"salary": "$4,500\n",
+"email": "info@crs-marine.com",
+"company": "crs-marine.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-08T11:22:58+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "2nd Officer",
+"url": "https://t.me/maritimeforum/255867",
+"source": "Telegram: @maritimeforum",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-e9d8d42354069b77",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Bulk carrier",
+"contract": "4 months",
+"salary": "$3,700\n",
+"email": "cv@ocean-force.com",
+"company": "ocean-force.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-08T11:23:47+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://t.me/maritimeforum/255870",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-ad491312910715c7",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Suezmax, Crude oil tanker",
+"contract": "4 months",
+"salary": "$11,500–12,500\n",
+"email": "cv.riga@baltic-crew.com",
+"company": "baltic-crew.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-08T11:24:05+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "https://jobatsea.online/job/625032/chief-officer-for-one-of-our-multi-purpose-vessels-at-north-star/",
+"url": "https://t.me/offshorevacancies/47128",
+"source": "Telegram: @offshorevacancies",
+"found": [
+"chief officer"
+],
+"fp": "fp-45b8aa11eff1cb0e",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "MPP"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-08T11:03:40+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-2970,
-2971,
-2972,
-2973,
-2974,
-2975,
-2976
+2977,
+2978,
+2979,
+2980,
+2981,
+2982,
+2983,
+2984,
+2985,
+2986
 ],
-"last_list": "2026-11-08T10:40:24.805162+00:00",
-"cleared_upto": 2969,
-"last_msg_id": 2976
+"last_list": "2026-11-08T11:30:24.748598+00:00",
+"cleared_upto": 2976,
+"last_msg_id": 2986
 }
