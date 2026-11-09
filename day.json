@@ -297,19 +297,176 @@
 "repeat": true,
 "time": "2026-11-09T05:31:04+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "Компания ООО “Трансоптимал СПБ” приглашает на работу:",
+"url": "https://t.me/rekamore_su/164593",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-066718d61188db07",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "LNG, General cargo",
+"salary": "124 870 рублей (чистыми на рук…",
+"joining": "❗️",
+"email": "transoptimalng@mail.ru",
+"company": "️ Компания ООО “Трансоптимал СПБ”"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-09T05:33:04+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Компания ООО “Трэвелер Шиппинг” приглашает на работу:",
+"url": "https://t.me/rekamore_su/164596",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-42888872d2f67410",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Chemical tanker",
+"joining": "❗️",
+"email": "gavrilova_o@astonfleet.com",
+"company": "astonfleet.com"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-09T05:35:08+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Компания  “Инмортерминал” приглашает на работу:",
+"url": "https://t.me/rekamore_su/164603",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-f2075f0a0ec16e58",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Tanker",
+"salary": "418 252 рублей на руки, 480 99…"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-09T05:39:08+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Компания ООО “ТК Северный проект” приглашает на работу:",
+"url": "https://t.me/rekamore_su/164617",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-ebeb13f3c616dd74",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo",
+"salary": "360 000 рублей ежемесячно + от…",
+"joining": "срочная",
+"contract": "4 месяца",
+"email": "rabota@ashipping.ru",
+"company": "ashipping.ru"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-09T06:20:09+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Positions for Handysize/Capesize Bulk Carrier Vessels",
+"url": "https://t.me/oceancrewjobs/32737",
+"source": "Telegram: @oceancrewjobs",
+"found": [
+"chief officer",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-31138768a3d6e5cf",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer / 3rd Officer",
+"vessel": "Bulk carrier",
+"company": "https://oceancrew.org/vacancies/mer…"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-09T06:12:18+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Personnel  for Offshore Vessel",
+"url": "https://t.me/oceancrewjobs/32738",
+"source": "Telegram: @oceancrewjobs",
+"found": [
+"chief officer",
+"chief mate",
+"second mate"
+],
+"fp": "fp-c914103858add762",
+"offshore": true,
+"info": {
+"rank": "Chief Officer / AB",
+"company": "https://oceancrew.org/vacancies/off…"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-09T06:12:34+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Positions for Tug Boat (KSA)",
+"url": "https://t.me/oceancrewjobs/32739",
+"source": "Telegram: @oceancrewjobs",
+"found": [
+"chief officer",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-268f1584fa6a797a",
+"offshore": true,
+"info": {
+"rank": "Chief Officer / 2nd Officer / 3rd Officer",
+"vessel": "Tug",
+"company": "https://oceancrew.org/vacancies/off…"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-09T06:12:51+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-3096,
-3097,
-3098,
-3099,
-3100,
-3101,
-3102,
-3103
+3106,
+3107,
+3108,
+3109,
+3110,
+3111,
+3112,
+3113,
+3114,
+3115,
+3116
 ],
-"last_list": "2026-11-09T05:31:30.977848+00:00",
-"cleared_upto": 3095,
-"last_msg_id": 3103
+"last_list": "2026-11-09T06:21:57.377397+00:00",
+"cleared_upto": 3105,
+"last_msg_id": 3116
 }
