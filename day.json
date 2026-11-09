@@ -5831,6 +5831,102 @@
 "repeat": false,
 "time": "2026-11-09T16:03:02+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/369330",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-09T17:15:55.379168+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/369332",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-09T17:15:56.351257+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "2nd Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/369334",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-09T17:15:57.618990+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "We URGENTLY need a 2/OFF for a GCGO vessel. 2820 GRT. 1996 y. o. b. ATG flag. Cyprus management.",
+"url": "https://t.me/seajobfinder/42313",
+"source": "Telegram: @seajobfinder",
+"found": [
+"2/off",
+"2/o",
+"2/off"
+],
+"fp": "fp-db93ed43dfe3bb13",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"salary": "3600 Euro",
+"joining": "ASAP",
+"contract": "3+/-1 months",
+"email": "info@gretimybe.lt",
+"company": "gretimybe.lt"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-09T16:49:23+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "OOL are looking for a Chief Officer to start work in Europe around the 15th of December. See following details:",
+"url": "https://t.me/seajobfinder/42314",
+"source": "Telegram: @seajobfinder",
+"found": [
+"chief officer"
+],
+"fp": "fp-8522f4c9b2ec29a4",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "AHT",
+"contract": "6 weeks on/off long term",
+"salary": "€350",
+"email": "dr@offshore-operations.com",
+"company": "offshore-operations.com"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-09T16:50:34+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
@@ -5859,5 +5955,5 @@
 ],
 "last_list": "2026-11-09T16:27:43.571965+00:00",
 "cleared_upto": 3284,
-"last_msg_id": 3306
+"last_msg_id": 3312
 }
