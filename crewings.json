@@ -11898,11 +11898,11 @@
 "+380503241376",
 "+380503241377",
 "+380503953062",
+"+380504152699",
 "+380504153949",
 "+380504365847",
 "+380504955422",
-"+380504993360",
-"+380506900115"
+"+380504993360"
 ],
 "so": 7,
 "sources": [
@@ -11917,12 +11917,12 @@
 "@maritimeforum",
 "@offshoreatsea",
 "@onboard_su",
-"@seamenjob"
+"@seajobfinder"
 ],
 "telegram": [
 "@sitelia_world"
 ],
-"total": 123,
+"total": 125,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -19178,10 +19178,11 @@
 "ukrcrewing.com.ua"
 ],
 "telegram": [],
-"total": 50,
+"total": 51,
 "vessels": [
 "Dredger",
-"Offshore"
+"Offshore",
+"Tug"
 ],
 "website": "jobatsea.online"
 },
@@ -56689,7 +56690,7 @@
 "Yacht_Vacancies": 290,
 "allcrewing": 3807,
 "andreeyVstart": 1391,
-"balticcareer": 5518,
+"balticcareer": 5519,
 "crewingua": 44848,
 "crs_vacancies": 3553,
 "cruiseshipjobs": 3,
@@ -56708,23 +56709,23 @@
 "marineman_ltd": 48347,
 "maritimeforum": 256313,
 "merchantNavyrealjob": 262,
-"morehod_ru": 30855,
+"morehod_ru": 30857,
 "oceancrewjobs": 32751,
 "offshoreatsea": 25164,
 "offshorecv": 1589,
-"offshorevacancies": 47156,
+"offshorevacancies": 47157,
 "oilrigs": 778,
 "olive_crew": 2919,
 "onboard_su": 20721,
 "pervoemorskoe": 4521,
 "rekamore_su": 164678,
 "roster_marine": 1737,
-"seajobfinder": 42314,
+"seajobfinder": 42315,
 "seamenjob": 106164,
 "seamenvacancy": 1374,
-"seavacancies": 25203,
+"seavacancies": 25204,
 "shipjobsindia": 420,
-"shipscreweu": 16617,
+"shipscreweu": 16618,
 "sidantey": 399,
 "supermariner_ua": 3890,
 "truemalina_offshore": 805,
