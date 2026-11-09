@@ -6013,34 +6013,173 @@
 "repeat": false,
 "time": "2026-11-09T18:33:37.518563+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "2nd Officer — HLV Vessel",
+"url": "https://seajobs.pro/jobs/2nd-officer-hlv-vessel-6a379d47-cae7-46de-8cac-6d0e80c1a86e",
+"source": "seajobs.pro",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-09T19:24:10.967709+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Position publishing service was stopped for the night.",
+"url": "https://t.me/marinecareerorg/17758",
+"source": "Telegram: @marinecareerorg",
+"found": [
+"chief officer",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-ccff03078a9404a6",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer",
+"vessel": "LPG, Crude oil tanker"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-09T19:00:05+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Positions for Cruise Liner (Worldwide)",
+"url": "https://t.me/oceancrewjobs/32752",
+"source": "Telegram: @oceancrewjobs",
+"found": [
+"chief officer"
+],
+"fp": "fp-392dc456cd07d40c",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 3rd Officer / AB",
+"vessel": "AHTS, Cruise",
+"company": "https://oceancrew.org/vacancies/cru…"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-09T18:43:33+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Hiring for CSOV",
+"url": "https://t.me/oceancrewjobs/32755",
+"source": "Telegram: @oceancrewjobs",
+"found": [
+"chief officer",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-726a5e4a965e28b0",
+"offshore": true,
+"info": {
+"rank": "Chief Officer / 2nd Officer / 3rd Officer",
+"company": "https://oceancrew.org/vacancies/off…"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-09T18:46:02+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Need Candidates for Tug Boat (Saudi Arabia)",
+"url": "https://t.me/oceancrewjobs/32756",
+"source": "Telegram: @oceancrewjobs",
+"found": [
+"chief officer"
+],
+"fp": "fp-2f2ccfdd27ce04b4",
+"offshore": true,
+"info": {
+"rank": "Chief Officer / AB",
+"vessel": "Tug",
+"company": "https://oceancrew.org/vacancies/off…"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-09T18:46:21+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "OPEN POSITION ONBOARD MOTOR/SAILING YACHT",
+"url": "https://t.me/oceancrewjobs/32758",
+"source": "Telegram: @oceancrewjobs",
+"found": [
+"chief officer"
+],
+"fp": "fp-b6c71bcbd1e63a6a",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Bulk carrier, AHTS",
+"company": "https://oceancrew.org/vacancies/cru…"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-09T19:08:17+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "NEED SET CREW FOR PCC & CONTAINER CARRIER VESSELS",
+"url": "https://t.me/oceancrewjobs/32759",
+"source": "Telegram: @oceancrewjobs",
+"found": [
+"chief officer"
+],
+"fp": "fp-67ec4820401f22cc",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 3rd Officer / AB",
+"vessel": "Bulk carrier, Container",
+"company": "NEED SET CREW FOR PCC & CONTAINER C…"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-09T19:08:23+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-3336,
-3337,
-3338,
-3339,
-3340,
-3341,
-3342,
-3343,
-3344,
-3345,
-3346,
-3347,
-3348,
-3349,
-3350,
-3351,
-3352,
-3353,
-3354,
-3355,
-3356,
-3357,
-3358
+3359,
+3360,
+3361,
+3362,
+3363,
+3364,
+3365,
+3366,
+3367,
+3368,
+3369,
+3370,
+3371,
+3372,
+3373,
+3374,
+3375,
+3376,
+3377,
+3378,
+3379,
+3380,
+3381,
+3382
 ],
-"last_list": "2026-11-09T18:35:03.307759+00:00",
-"cleared_upto": 3335,
-"last_msg_id": 3358
+"last_list": "2026-11-09T19:25:38.133795+00:00",
+"cleared_upto": 3358,
+"last_msg_id": 3382
 }
