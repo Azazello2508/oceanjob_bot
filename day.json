@@ -5323,31 +5323,324 @@
 "repeat": false,
 "time": "2026-11-09T14:40:25+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "OPEN POSITIONS:",
+"url": "https://t.me/maritimeforum/256244",
+"source": "Telegram: @maritimeforum",
+"found": [
+"ch.off",
+"2/o"
+],
+"fp": "fp-bcda91a418bde7e4",
+"offshore": false,
+"info": {
+"rank": "2nd Officer / 3rd Officer / AB",
+"vessel": "Chemical tanker, Tug",
+"joining": "ASAP",
+"salary": "6,000 USD",
+"email": "cv@ariesnav.com",
+"company": "ariesnav.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-09T14:48:03+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "2nd Officer",
+"url": "https://t.me/maritimeforum/256245",
+"source": "Telegram: @maritimeforum",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-d590ade3040e3fb0",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"contract": "4 months",
+"salary": "$3,800\n",
+"email": "recruitment@nordic-hamburg.com",
+"company": "nordic-hamburg.com"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-09T14:54:50+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": ",,Золотой Штурвал ,,:",
+"url": "https://t.me/maritimeforum/256253",
+"source": "Telegram: @maritimeforum",
+"found": [
+"старпом"
+],
+"fp": "fp-027e46a058d150d6",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Bulk carrier, General cargo",
+"salary": "3400€ Экипаж Украинцы.  Дженер…",
+"joining": "ASAP",
+"contract": "6+-1"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-09T15:17:37+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "OPEN VACANCIES FOR CONTAINER FLEET",
+"url": "https://t.me/maritimeforum/256257",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-0dbecf4252e59370",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer / 3rd Officer",
+"vessel": "Container",
+"salary": "11000-11700$",
+"contract": "4 +/-1",
+"email": "hr@univis.com.ua",
+"tg": "univisltd",
+"company": "univis.com.ua"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-09T15:33:32+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "WRS - Worldwide Recruitment Solutions are looking for a deckhand to join a CTV in the UK on the 11th of November, for 1 week.",
+"url": "https://t.me/maritimeforum/256259",
+"source": "Telegram: @maritimeforum",
+"found": [],
+"fp": "fp-469e35297bf4e240",
+"offshore": true,
+"info": {
+"email": "isabelle.j@worldwide-rs.com",
+"company": "worldwide-rs.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-09T15:33:47+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Position:",
+"url": "https://t.me/CREW_ARIA/14042",
+"source": "Telegram: @CREW_ARIA",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-90afd619246b7383",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"contract": "4 months",
+"salary": "3800 $",
+"email": "recruitment@nordic-hamburg.com",
+"company": "nordic-hamburg.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-09T14:56:03+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Bulkers. Job selection for 09/11/2026",
+"url": "https://t.me/SM_job_center/2482",
+"source": "Telegram: @SM_job_center",
+"found": [
+"chief officer",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-f770c5b317498bef",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer / 3rd Officer",
+"vessel": "Bulk carrier",
+"salary": "$3,500/month",
+"email": "cv@noveltysm.com",
+"company": "noveltysm.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-09T15:05:04+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "https://jobatsea.online/job/625275/co-tugaht-eu-at-offshore-operations-ltd/",
+"url": "https://t.me/offshorevacancies/47151",
+"source": "Telegram: @offshorevacancies",
+"found": [
+"c/o"
+],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "AHT, Tug",
+"company": "https://jobatsea.online/job/625275/…"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-09T15:06:19+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Deckhand",
+"url": "https://t.me/offshoreatsea/25158",
+"source": "Telegram: @offshoreatsea",
+"found": [],
+"fp": "fp-c584b4d0addb943b",
+"offshore": true,
+"info": {
+"rank": "AB",
+"vessel": "Crew boat",
+"contract": "1 week",
+"email": "isabelle.j@worldwide-rs.com",
+"company": "worldwide-rs.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-09T14:50:19+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Second Officer",
+"url": "https://t.me/offshoreatsea/25161",
+"source": "Telegram: @offshoreatsea",
+"found": [
+"second officer",
+"dpo"
+],
+"fp": "fp-3ad6f711e74ce848",
+"offshore": true,
+"info": {
+"rank": "2nd Officer / DPO",
+"contract": "6 weeks +/",
+"email": "israa.albsaisi@selectoffshore.com",
+"company": "selectoffshore.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-09T14:50:21+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "CHIEF OFFICER",
+"url": "https://t.me/cvsenderseaman/15802",
+"source": "Telegram: @cvsenderseaman",
+"found": [
+"chief officer"
+],
+"fp": "fp-195064ae02b68a19",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "AHTS",
+"salary": "Negotiable",
+"joining": "ASAP",
+"email": "seacv@meesa-egypt.com",
+"company": "meesa-egypt.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-09T14:51:02+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "SECOND OFFICER",
+"url": "https://t.me/cvsenderseaman/15805",
+"source": "Telegram: @cvsenderseaman",
+"found": [
+"second officer"
+],
+"fp": "fp-5cd6ca055ab0d31d",
+"offshore": true,
+"info": {
+"rank": "2nd Officer",
+"salary": "Negotiable",
+"joining": "25th November",
+"contract": "6 weeks",
+"email": "aaliyah.thurkettle@selectoffshore.com",
+"company": "selectoffshore.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-09T14:53:02+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "SECOND OFFICER",
+"url": "https://t.me/cvsenderseaman/15811",
+"source": "Telegram: @cvsenderseaman",
+"found": [
+"second officer",
+"dpo"
+],
+"fp": "fp-42729eb233c8d2c6",
+"offshore": true,
+"info": {
+"rank": "2nd Officer / DPO",
+"salary": "Negotiable",
+"joining": "25",
+"contract": "6 weeks +/",
+"email": "israa.albsaisi@selectoffshore.com",
+"company": "selectoffshore.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-09T15:01:38+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-3243,
-3244,
-3245,
-3246,
-3247,
-3248,
-3249,
-3250,
-3251,
-3252,
-3253,
-3254,
-3255,
-3256,
-3257,
-3258,
-3259,
-3260,
-3261,
-3262
+3263,
+3264,
+3265,
+3266,
+3267,
+3268,
+3269,
+3270,
+3271,
+3272,
+3273,
+3274,
+3275,
+3276,
+3277,
+3278,
+3279,
+3280,
+3281,
+3282,
+3283,
+3284
 ],
-"last_list": "2026-11-09T14:47:19.806039+00:00",
-"cleared_upto": 3242,
-"last_msg_id": 3262
+"last_list": "2026-11-09T15:37:27.766996+00:00",
+"cleared_upto": 3262,
+"last_msg_id": 3284
 }
