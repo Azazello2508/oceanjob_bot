@@ -1,10 +1,86 @@
 {
 "date": "2026-11-09",
-"jobs": [],
-"msg_ids": [
-3092
+"jobs": [
+{
+"uk": "",
+"title": "Компания ООО “Угольный морской порт Шахтерск” (Сахалин) приглашает на работу:",
+"url": "https://t.me/rekamore_su/164562",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
 ],
-"last_list": "2026-11-08T20:43:38.463077+00:00",
-"cleared_upto": 3091,
-"last_msg_id": 3092
+"fp": "fp-f4224da3e215ca7d",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo, Tug",
+"salary": "322 000 рублей (на руки)",
+"joining": "02 декабря",
+"email": "Sidorenkotv@eastmining.ru",
+"company": "eastmining.ru"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-09T04:10:05+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Компания ООО \"Легаси Марин\" приглашает на работу:",
+"url": "https://t.me/rekamore_su/164563",
+"source": "Telegram: @rekamore_su",
+"found": [
+"chief officer",
+"2nd officer",
+"2nd off",
+"старший помощник"
+],
+"fp": "fp-c92fb4e5e3e91294",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer / 3rd Officer",
+"salary": "800 000 руб. на руки",
+"joining": "24 ноября",
+"contract": "6-8 недель",
+"email": "crew.cv@legacymarine.ru",
+"company": "legacymarine.ru"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-09T04:12:02+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Компания \"Polluks Star\" приглашает на работу:",
+"url": "https://t.me/rekamore_su/164564",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-854824ab94772c2a",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo",
+"salary": "7300 евро",
+"joining": "15 ноября",
+"contract": "4 месяца",
+"email": "info@polluks-star.com",
+"company": "polluks-star.com"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-09T04:14:03+00:00",
+"junior_dp": false
+}
+],
+"msg_ids": [
+3093,
+3094,
+3095
+],
+"last_list": "2026-11-09T04:41:04.922639+00:00",
+"cleared_upto": 3092,
+"last_msg_id": 3095
 }
