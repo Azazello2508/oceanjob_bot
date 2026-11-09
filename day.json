@@ -73,14 +73,243 @@
 "repeat": true,
 "time": "2026-11-09T04:14:03+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "2nd Officer",
+"url": "https://seajobs.ru/ru/vacancy/18057/2nd-officer-crude-oil-tanker",
+"source": "seajobs.ru",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Crude oil tanker"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-09T05:29:26.388135+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Vacancy Code",
+"url": "https://t.me/marinejobs/43156",
+"source": "Telegram: @marinejobs",
+"found": [
+"dpo",
+"2nd off"
+],
+"fp": "fp-213d1ef27b6724ee",
+"offshore": true,
+"info": {
+"rank": "2nd Officer / 3rd Officer / DPO",
+"vessel": "PSV, MPSV",
+"salary": "s – 240 EUR per day",
+"joining": "11th of November",
+"contract": "4 weeks",
+"email": "crew@navis.eu",
+"company": "navis.eu"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-09T05:15:56+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Компания ООО \"СК \"АСТРОЛ\" приглашает на работу:",
+"url": "https://t.me/rekamore_su/164573",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-ffa44d609bd2a117",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo",
+"salary": "352 000 рублей (на руки) + доп…",
+"joining": "в Санкт-Петербурге",
+"email": "personal@sc-astrol.ru",
+"company": "sc-astrol.ru"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-09T04:47:02+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Компания ООО \"БСК\" приглашает на работу:",
+"url": "https://t.me/rekamore_su/164574",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-581faddf70e49587",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo",
+"salary": "297 000 рублей (на руки) + доп…",
+"joining": "СРОЧНАЯ",
+"contract": "4 месяца",
+"email": "personal@sc-astrol.ru",
+"company": "sc-astrol.ru"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-09T04:47:06+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Компанию АО \"ПЕРСПЕКТИВА\" приглашает на работу:",
+"url": "https://t.me/rekamore_su/164575",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-9c534e949b4c3f5c",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Tanker",
+"salary": "315 000 рублей (на руки)",
+"joining": "начало декабря",
+"contract": "4 мес",
+"email": "personal@sc-astrol.ru",
+"company": "sc-astrol.ru"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-09T04:47:10+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Компания ООО \"Белозерское пароходство\" приглашает на работу:",
+"url": "https://t.me/rekamore_su/164576",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-dcbfe930100f274b",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Tug",
+"email": "k.vasileva@karelkamen.ru",
+"company": "karelkamen.ru"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-09T04:49:04+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Компания ООО НП «Балтийское Морское Пароходство» приглашает на работу:",
+"url": "https://t.me/rekamore_su/164581",
+"source": "Telegram: @rekamore_su",
+"found": [
+"2off"
+],
+"fp": "fp-12f2b92bbfaa1dd8",
+"offshore": true,
+"info": {
+"rank": "2nd Officer / 3rd Officer",
+"vessel": "Crude oil tanker",
+"salary": "2000 USD",
+"joining": "ASAP",
+"company": "ООО НП «Балтийское Морское Пароходс…"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-09T04:55:05+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Компания ООО НП «Балтийское Морское Пароходство» приглашает на работу:",
+"url": "https://t.me/rekamore_su/164583",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-53cb10282b74dc9f",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Reefer",
+"salary": "5 500 USD",
+"joining": "СРОЧНАЯ в Санкт-Петербурге",
+"contract": "4+1",
+"company": "ООО НП «Балтийское Морское Пароходс…"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-09T04:55:13+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Судоходная компания \"Eco Shipping\" приглашает на работу:",
+"url": "https://t.me/rekamore_su/164586",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-3e2be08a86d4c374",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo",
+"salary": "365 000 рублей",
+"joining": "ноябрь- декабрь",
+"contract": "5/5 ( +/-1)",
+"email": "e.kievskaya@ecoshp.ru",
+"company": "ecoshp.ru"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-09T04:57:09+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Компания ГК \"ОТЭКО\" приглашает на  работу:",
+"url": "https://t.me/rekamore_su/164591",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-105216998cd5ccaa",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Tug",
+"email": "e.davydenko@oteko.ru",
+"company": "oteko.ru"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-09T05:31:04+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-3093,
-3094,
-3095
+3096,
+3097,
+3098,
+3099,
+3100,
+3101,
+3102,
+3103
 ],
-"last_list": "2026-11-09T04:41:04.922639+00:00",
-"cleared_upto": 3092,
-"last_msg_id": 3095
+"last_list": "2026-11-09T05:31:30.977848+00:00",
+"cleared_upto": 3095,
+"last_msg_id": 3103
 }
