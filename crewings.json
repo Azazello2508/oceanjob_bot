@@ -1205,22 +1205,26 @@
 "application@abacrew.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-03",
+"last": "2026-11-09",
 "links": {},
 "name": "",
 "off": 0,
 "offshore_hint": false,
-"phones": [],
+"phones": [
+"+380680051233"
+],
 "so": 1,
 "sources": [
 "@Merchant_Fleet",
-"@Sea_format"
+"@Sea_format",
+"@galaxymaritimeua"
 ],
 "telegram": [],
-"total": 2,
+"total": 3,
 "vessels": [
 "Bulk",
-"Container"
+"Container",
+"Tanker"
 ],
 "website": ""
 },
@@ -56063,7 +56067,7 @@
 "cvsenderseaman": 15696,
 "ecrewing": 3161,
 "findseajobs": 32567,
-"galaxymaritimeua": 1249,
+"galaxymaritimeua": 1250,
 "gm_seaman_cv": 2682,
 "help_seafarers": 4884,
 "ismira_agency": 440,
