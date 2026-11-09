@@ -21458,18 +21458,19 @@
 "recruitment@mainprizeoffshore.co.uk"
 ],
 "first": "2026-11-03",
-"last": "2026-11-03",
+"last": "2026-11-10",
 "links": {},
 "name": "",
-"off": 1,
+"off": 2,
 "offshore_hint": false,
 "phones": [],
 "so": 0,
 "sources": [
-"@galaxymaritimeua"
+"@galaxymaritimeua",
+"@marinejobs"
 ],
 "telegram": [],
-"total": 1,
+"total": 2,
 "vessels": [
 "Offshore"
 ],
@@ -56712,7 +56713,7 @@
 "Merchant_Fleet": 604,
 "OffshoreFleetJob": 11065,
 "Offshore_Vacancies": 913,
-"OnlyOffshore": 38908,
+"OnlyOffshore": 38909,
 "OnlyYacht": 2315,
 "SM_job_center": 2483,
 "SeaSeaWorks": 3934,
@@ -56735,7 +56736,7 @@
 "job_for_seaman": 17031,
 "jobfor_seamen": 12691,
 "marinecareerorg": 17758,
-"marinejobs": 43222,
+"marinejobs": 43223,
 "marinejobz": 194156,
 "marineman_ltd": 48347,
 "maritimeforum": 256313,
