@@ -40662,7 +40662,7 @@
 "saxon.shine@selectoffshore.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-09",
+"last": "2026-11-10",
 "links": {
 "crewell": "https://crewell.net/en/companies/73269/"
 },
@@ -40683,7 +40683,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 19,
+"total": 21,
 "vessels": [
 "Dredger",
 "Offshore",
@@ -41306,12 +41306,12 @@
 "hloy@atlasnextwave.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-09",
+"last": "2026-11-10",
 "links": {
 "crewell": "https://crewell.net/en/companies/168202/"
 },
 "name": "ORCA Crew Services",
-"off": 110,
+"off": 112,
 "offshore_hint": false,
 "phones": [
 "+38551336497"
@@ -41332,7 +41332,7 @@
 "@seajobfinder"
 ],
 "telegram": [],
-"total": 146,
+"total": 148,
 "uk": 11,
 "vessels": [
 "Dredger",
@@ -46684,7 +46684,7 @@
 "victoria@sevenseasrecruitment.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-04",
+"last": "2026-11-10",
 "links": {},
 "name": "",
 "off": 1,
@@ -46699,7 +46699,7 @@
 "@shipscreweu"
 ],
 "telegram": [],
-"total": 46,
+"total": 47,
 "vessels": [
 "Offshore"
 ],
@@ -54396,7 +54396,7 @@
 "hannah@yoacrew.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-04",
+"last": "2026-11-10",
 "links": {},
 "name": "",
 "off": 6,
@@ -54408,7 +54408,7 @@
 "@Yacht_Vacancies"
 ],
 "telegram": [],
-"total": 49,
+"total": 50,
 "vessels": [
 "Chemical",
 "Offshore",
@@ -56713,7 +56713,7 @@
 "OffshoreFleetJob": 11065,
 "Offshore_Vacancies": 913,
 "OnlyOffshore": 38908,
-"OnlyYacht": 2313,
+"OnlyYacht": 2315,
 "SM_job_center": 2483,
 "SeaSeaWorks": 3934,
 "Sea_format": 12341,
@@ -56751,12 +56751,12 @@
 "pervoemorskoe": 4521,
 "rekamore_su": 164678,
 "roster_marine": 1737,
-"seajobfinder": 42315,
+"seajobfinder": 42317,
 "seamenjob": 106165,
 "seamenvacancy": 1374,
 "seavacancies": 25204,
 "shipjobsindia": 420,
-"shipscreweu": 16618,
+"shipscreweu": 16620,
 "sidantey": 399,
 "supermariner_ua": 3891,
 "truemalina_offshore": 805,
