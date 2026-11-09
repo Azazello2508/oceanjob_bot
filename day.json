@@ -32,15 +32,50 @@
 "repeat": false,
 "time": "2026-11-09T21:04:03.457960+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "2nd Officer on General Cargo Vessel",
+"url": "https://crewell.net/en/vacancies/465489/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "General cargo"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-09T21:54:17.039244+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer on LPG - Ethylene Gas Carrier",
+"url": "https://crewell.net/en/vacancies/465491/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "LPG"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-09T21:54:17.707680+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-3385,
-3386,
-3387
+3388,
+3389,
+3390,
+3391
 ],
-"last_list": "2026-11-09T21:06:08.937181+00:00",
-"cleared_upto": 3384,
+"last_list": "2026-11-09T21:56:25.255138+00:00",
+"cleared_upto": 3387,
 "force": true,
-"last_msg_id": 3387
+"last_msg_id": 3391
 }
