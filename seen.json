@@ -3848,7 +3848,7 @@
 "hw|tg:ALPHACREW|3573",
 "hw|tg:BSMCSCUKRAINE|4343",
 "hw|tg:CREW_ARIA|14043",
-"hw|tg:Crew_Radar|3278",
+"hw|tg:Crew_Radar|3279",
 "hw|tg:JobForMariners|1201",
 "hw|tg:Merchant_Fleet|604",
 "hw|tg:OffshoreFleetJob|11065",
@@ -3906,7 +3906,7 @@
 "hw|tg:vesselsea|3122",
 "hw|tg:vshipsoffshore|1070",
 "hw|tschudishipmanagement.com|0",
-"hw|ukrcrewing|369334",
+"hw|ukrcrewing|369383",
 "maritime-union.com-197132",
 "maritime-union.com-198756",
 "maritime-union.com-199159",
@@ -9966,5 +9966,6 @@
 "ukrcrewing-369319",
 "ukrcrewing-369330",
 "ukrcrewing-369332",
-"ukrcrewing-369334"
+"ukrcrewing-369334",
+"ukrcrewing-369383"
 ]

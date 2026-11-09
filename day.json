@@ -16,14 +16,31 @@
 "repeat": false,
 "time": "2026-11-09T20:14:42.800974+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/369383",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-09T21:04:03.457960+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-3383,
-3384
+3385,
+3386,
+3387
 ],
-"last_list": "2026-11-09T20:15:53.321583+00:00",
-"cleared_upto": 3382,
+"last_list": "2026-11-09T21:06:08.937181+00:00",
+"cleared_upto": 3384,
 "force": true,
-"last_msg_id": 3384
+"last_msg_id": 3387
 }
