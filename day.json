@@ -2709,26 +2709,322 @@
 "repeat": false,
 "time": "2026-11-09T10:00:36+00:00",
 "junior_dp": true
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/369232",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-09T10:55:19.217513+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer Job - General Cargo Vessel",
+"url": "https://maritime-union.com/job/232301",
+"source": "maritime-union.com",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-09T10:55:41.783542+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer — Container Ship",
+"url": "https://seajobs.pro/jobs/chief-officer-container-ship-1f8f68f6-9704-432d-a949-1ae227ef13f5",
+"source": "seajobs.pro",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Container"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-09T10:55:57.242649+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "MV BAKKAFOSS - C/O - 02.03.2027",
+"url": "https://crewing.portalmorski.pl/en/sea-jobs/mv-bakkafoss-c-o-25-11-2026/",
+"source": "portalmorski.pl",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-09T10:56:01.863078+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "URGENT VACANCIES // LPG TANKER (NON-SANCTIONED)",
+"url": "https://t.me/maritimeforum/255995",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer",
+"старший помощник"
+],
+"fp": "fp-1327ffde1ddc3954",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 3rd Officer",
+"vessel": "LPG",
+"salary": "$ 9,000"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-09T10:15:42+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "NEW PCTC VESSEL |SENIOR OFFICERS",
+"url": "https://t.me/seamenjob/106145",
+"source": "Telegram: @seamenjob",
+"found": [
+"chief officer"
+],
+"fp": "fp-d1f0d41799ea0745",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Ro-Ro, PCTC",
+"joining": "14th / 15th November in Turkey",
+"email": "forcv@csm-ua.com",
+"company": "csm-ua.com"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-09T10:42:26+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "NEW PCTC VESSEL | DUAL FUEL | SENIOR OFFICERS",
+"url": "https://t.me/seamenjob/106146",
+"source": "Telegram: @seamenjob",
+"found": [
+"chief officer"
+],
+"fp": "fp-75b0041729fc4400",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Ro-Ro, PCTC",
+"joining": "end of November 2026 -beg of D",
+"email": "forcv@csm-ua.com",
+"company": "csm-ua.com"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-09T10:44:04+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Ch/Off 5000$",
+"url": "https://t.me/job_for_seaman/17028",
+"source": "Telegram: @job_for_seaman",
+"found": [
+"ch/off",
+"ch/off"
+],
+"fp": "fp-d134217e1abd96dc",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo",
+"joining": "12-13/11 in Varna",
+"contract": "6 months",
+"salary": "5000$"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-09T10:40:55+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "2ND OFFICER / DPO – PSV DP2",
+"url": "https://t.me/balticcareer/5484",
+"source": "Telegram: @balticcareer",
+"found": [
+"2nd officer",
+"dpo",
+"2nd off"
+],
+"fp": "fp-1939b711568cd843",
+"offshore": true,
+"info": {
+"rank": "2nd Officer / DPO",
+"vessel": "Bulk carrier, PSV",
+"salary": "€7,400 Gross/Month",
+"joining": "13–14 November 2026",
+"contract": "5 Weeks On / 5 Weeks Off"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-09T10:13:43+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "WE ARE HIRING - URGENT",
+"url": "https://t.me/shipscreweu/16605",
+"source": "Telegram: @shipscreweu",
+"found": [
+"chief officer"
+],
+"fp": "fp-3f49aa4bb3856ac1",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "AHTS",
+"contract": "2 months ON / 1 month OFF",
+"salary": "$210",
+"email": "recruitment@alnmarineservice.com",
+"company": "alnmarineservice.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-09T10:53:20+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Судоходная компания ООО \"Эко Шиппинг\" приглашает на работу:",
+"url": "https://t.me/rekamore_su/164660",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-913d33b75807afb5",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo",
+"salary": "от 150 000 рублей",
+"joining": "срочная, в Архангельске",
+"contract": "5/5 ( +/-1)",
+"email": "k.korelskaya@ecoshp.ru",
+"company": "ecoshp.ru"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-09T10:26:01+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "В турецкую компанию на танкер- химовоз 7000 dwt",
+"url": "https://t.me/rekamore_su/164661",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-9b2eab23d9e4ca6f",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Chemical tanker",
+"salary": "4800$",
+"joining": "начало ноября",
+"contract": "4+1 мес",
+"email": "office@safasco.ru",
+"company": "safasco.ru."
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-09T10:26:31+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Компания АО \"Донречфлот\" приглашает на работу:",
+"url": "https://t.me/rekamore_su/164665",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-5c38bb3b99b5a2d5",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo",
+"salary": "288 000 рублей (на руки)",
+"email": "adk@adship.ru",
+"company": "adship.ru"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-09T10:55:01+00:00",
+"junior_dp": false
+},
+{
+"uk": "…OPITO ITSO & OPITO FRC Boatman certificates UK Passport Holders ONLY dr@offshore-operations.com 🔘 AB…",
+"title": "Deckhand to start a permanent role in Aberdeen, Scotland starting on the 11th of Nov. See details:",
+"url": "https://t.me/gm_seaman_cv/2687",
+"source": "Telegram: @gm_seaman_cv",
+"found": [
+"sdpo",
+"dpo"
+],
+"fp": "fp-7579a999871d720c",
+"offshore": true,
+"info": {
+"rank": "SDPO / AB",
+"vessel": "AHTS, Dredger",
+"joining": "URGENT",
+"contract": "4 weeks on/off (Perm)",
+"email": "dr@offshore-operations.com",
+"company": "offshore-operations.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-09T10:38:33+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-3158,
-3159,
-3160,
-3161,
-3162,
-3163,
-3164,
-3165,
-3166,
-3167,
-3168,
-3169,
-3170,
-3171,
-3172
+3173,
+3174,
+3175,
+3176,
+3177,
+3178,
+3179,
+3180,
+3181,
+3182,
+3183,
+3184,
+3185,
+3186,
+3187,
+3188
 ],
-"last_list": "2026-11-09T10:07:11.275642+00:00",
-"cleared_upto": 3157,
-"last_msg_id": 3172
+"last_list": "2026-11-09T10:56:50.948381+00:00",
+"cleared_upto": 3172,
+"last_msg_id": 3188
 }
