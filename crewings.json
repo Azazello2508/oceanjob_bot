@@ -5928,7 +5928,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 12,
+"total": 13,
 "vessels": [
 "Chemical",
 "Tanker"
@@ -7911,7 +7911,7 @@
 "@maritimeforum"
 ],
 "telegram": [],
-"total": 88,
+"total": 90,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -8440,7 +8440,7 @@
 "cv@bims.lv"
 ],
 "first": "2026-11-03",
-"last": "2026-11-05",
+"last": "2026-11-09",
 "links": {
 "crewell": "https://crewell.net/en/companies/11451/"
 },
@@ -8448,14 +8448,14 @@
 "off": 0,
 "offshore_hint": false,
 "phones": [],
-"so": 1,
+"so": 2,
 "sources": [
 "@OffshoreFleetJob",
 "@maritimeforum",
 "crewell.net"
 ],
 "telegram": [],
-"total": 8,
+"total": 9,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -11250,7 +11250,7 @@
 "ukrcrewing.com.ua"
 ],
 "telegram": [],
-"total": 61,
+"total": 63,
 "vessels": [
 "Bulk",
 "Container",
@@ -11735,7 +11735,7 @@
 "employment@crossworldmarine.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-07",
+"last": "2026-11-09",
 "links": {
 "crewell": "https://crewell.net/en/companies/221718/"
 },
@@ -11745,7 +11745,7 @@
 "phones": [
 "+380974841783"
 ],
-"so": 0,
+"so": 1,
 "sources": [
 "@SM_job_center",
 "@cvsenderseaman",
@@ -11754,7 +11754,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 9,
+"total": 10,
 "vessels": [
 "Bulk"
 ],
@@ -11818,6 +11818,34 @@
 "total": 0,
 "vessels": [],
 "website": "csm-georgia.com"
+},
+"csm-idn.com": {
+"address": "",
+"city": "",
+"co": 0,
+"country": "",
+"emails": [
+"cv@csm-idn.com"
+],
+"first": "2026-11-09",
+"last": "2026-11-09",
+"links": {},
+"name": "",
+"off": 0,
+"offshore_hint": false,
+"phones": [],
+"so": 0,
+"sources": [
+"@marinejobs",
+"@maritimeforum",
+"@seamenjob"
+],
+"telegram": [],
+"total": 3,
+"vessels": [
+"Bulk"
+],
+"website": ""
 },
 "csm-rou.com": {
 "address": "",
@@ -12383,7 +12411,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 25,
+"total": 26,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -13715,7 +13743,7 @@
 "@supermariner_ua"
 ],
 "telegram": [],
-"total": 48,
+"total": 49,
 "vessels": [
 "Bulk",
 "Container",
@@ -13906,7 +13934,7 @@
 "@supermariner_ua"
 ],
 "telegram": [],
-"total": 26,
+"total": 27,
 "vessels": [
 "Bulk",
 "Container",
@@ -16422,7 +16450,7 @@
 "greenlight.ge": {
 "address": "Unit 1, 115 Bagrationi Street",
 "city": "BATUMI",
-"co": 2,
+"co": 3,
 "country": "Georgia",
 "emails": [
 "crew@greenlight.ge",
@@ -16444,7 +16472,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 4,
+"total": 6,
 "vessels": [
 "Chemical",
 "Tanker"
@@ -17371,7 +17399,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 29,
+"total": 30,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -18496,7 +18524,7 @@
 "@maritimeforum"
 ],
 "telegram": [],
-"total": 78,
+"total": 82,
 "vessels": [
 "Bulk",
 "Container"
@@ -20094,7 +20122,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 23,
+"total": 24,
 "vessels": [
 "Bulk",
 "Container",
@@ -20227,7 +20255,7 @@
 "job@l-stream.com.ua"
 ],
 "first": "2026-11-03",
-"last": "2026-11-07",
+"last": "2026-11-09",
 "links": {
 "crewell": "https://crewell.net/en/companies/9836/"
 },
@@ -20243,7 +20271,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 9,
+"total": 10,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -21697,7 +21725,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 8,
+"total": 10,
 "vessels": [
 "Chemical",
 "Container",
@@ -21900,7 +21928,7 @@
 "@marinemanapply",
 "@rudomyotova"
 ],
-"total": 112,
+"total": 114,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -22201,7 +22229,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 11,
+"total": 12,
 "vessels": [
 "Bulk",
 "Container",
@@ -41047,7 +41075,7 @@
 "@Sofia_OliveCrew",
 "@Svetlana_OliveCrew"
 ],
-"total": 283,
+"total": 285,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -41253,7 +41281,7 @@
 "crewell": "https://crewell.net/en/companies/168202/"
 },
 "name": "ORCA Crew Services",
-"off": 108,
+"off": 109,
 "offshore_hint": false,
 "phones": [
 "+38551336497"
@@ -41274,7 +41302,7 @@
 "@seajobfinder"
 ],
 "telegram": [],
-"total": 144,
+"total": 145,
 "uk": 11,
 "vessels": [
 "Dredger",
@@ -41733,7 +41761,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 101,
+"total": 102,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -47325,7 +47353,7 @@
 "@maritimeforum"
 ],
 "telegram": [],
-"total": 10,
+"total": 11,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -47861,7 +47889,7 @@
 "cvs@mariscrewing.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-08",
+"last": "2026-11-09",
 "links": {},
 "name": "",
 "off": 14,
@@ -47889,7 +47917,7 @@
 "@supermariner_ua"
 ],
 "telegram": [],
-"total": 59,
+"total": 60,
 "vessels": [
 "Bulk",
 "Container",
@@ -48714,7 +48742,7 @@
 "@maritimeforum"
 ],
 "telegram": [],
-"total": 5,
+"total": 6,
 "vessels": [],
 "website": "strong-praline-d91ece.netlify.app"
 },
@@ -49099,14 +49127,16 @@
 "name": "Systemar Ltd",
 "off": 0,
 "offshore_hint": false,
-"phones": [],
+"phones": [
+"+48571481993"
+],
 "so": 0,
 "sources": [
 "@maritimeforum",
 "crewell.net"
 ],
 "telegram": [],
-"total": 1,
+"total": 3,
 "vessels": [
 "LPG/LNG",
 "Tanker"
@@ -53811,7 +53841,7 @@
 "crewell": "https://crewell.net/en/companies/54631/"
 },
 "name": "Worldwide Recruitment Solutions",
-"off": 106,
+"off": 107,
 "offshore_hint": false,
 "phones": [],
 "so": 13,
@@ -53830,7 +53860,7 @@
 "@maritimeforum"
 ],
 "telegram": [],
-"total": 160,
+"total": 161,
 "uk": 22,
 "vessels": [
 "Dredger",
@@ -56658,26 +56688,26 @@
 "job_for_seaman": 17030,
 "jobfor_seamen": 12691,
 "marinecareerorg": 17757,
-"marinejobs": 43217,
+"marinejobs": 43220,
 "marinejobz": 194156,
-"marineman_ltd": 48339,
-"maritimeforum": 256261,
+"marineman_ltd": 48347,
+"maritimeforum": 256304,
 "merchantNavyrealjob": 262,
-"morehod_ru": 30851,
+"morehod_ru": 30855,
 "oceancrewjobs": 32751,
 "offshoreatsea": 25164,
 "offshorecv": 1589,
-"offshorevacancies": 47153,
+"offshorevacancies": 47155,
 "oilrigs": 778,
-"olive_crew": 2918,
-"onboard_su": 20720,
+"olive_crew": 2919,
+"onboard_su": 20721,
 "pervoemorskoe": 4521,
-"rekamore_su": 164677,
+"rekamore_su": 164678,
 "roster_marine": 1737,
 "seajobfinder": 42306,
-"seamenjob": 106162,
+"seamenjob": 106163,
 "seamenvacancy": 1374,
-"seavacancies": 25202,
+"seavacancies": 25203,
 "shipjobsindia": 420,
 "shipscreweu": 16607,
 "sidantey": 399,
