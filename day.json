@@ -5843,7 +5843,7 @@
 "info": {
 "rank": "Chief Officer"
 },
-"new": true,
+"new": false,
 "repeat": false,
 "time": "2026-11-09T17:15:55.379168+00:00",
 "junior_dp": false
@@ -5859,7 +5859,7 @@
 "info": {
 "rank": "Chief Officer"
 },
-"new": true,
+"new": false,
 "repeat": false,
 "time": "2026-11-09T17:15:56.351257+00:00",
 "junior_dp": false
@@ -5875,7 +5875,7 @@
 "info": {
 "rank": "2nd Officer"
 },
-"new": true,
+"new": false,
 "repeat": false,
 "time": "2026-11-09T17:15:57.618990+00:00",
 "junior_dp": false
@@ -5900,7 +5900,7 @@
 "email": "info@gretimybe.lt",
 "company": "gretimybe.lt"
 },
-"new": true,
+"new": false,
 "repeat": false,
 "time": "2026-11-09T16:49:23+00:00",
 "junior_dp": false
@@ -5923,37 +5923,108 @@
 "email": "dr@offshore-operations.com",
 "company": "offshore-operations.com"
 },
-"new": true,
+"new": false,
 "repeat": false,
 "time": "2026-11-09T16:50:34+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "3rd Officer – Container Ship",
+"url": "https://t.me/marinejobs/43222",
+"source": "Telegram: @marinejobs",
+"found": [
+"dp basic"
+],
+"fp": "fp-64b75c3fde16cef5",
+"offshore": true,
+"info": {
+"rank": "3rd Officer",
+"vessel": "Chemical tanker, Bulk carrier",
+"salary": "3,600 $",
+"joining": "13.11.2026",
+"contract": "5 months",
+"email": "operations@alncc.com",
+"company": "alncc.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-09T17:33:23+00:00",
+"junior_dp": true
+},
+{
+"uk": "",
+"title": "3rd Officer",
+"url": "https://t.me/job_for_seaman/17031",
+"source": "Telegram: @job_for_seaman",
+"found": [
+"dp basic"
+],
+"fp": "fp-df6247e48494d11e",
+"offshore": true,
+"info": {
+"rank": "3rd Officer",
+"vessel": "Chemical tanker, Bulk carrier",
+"salary": "3,600 $",
+"joining": "13.11.2026 | Contract: 5 month",
+"contract": "5 months | DWT: 152000",
+"email": "operations@alncc.com",
+"company": "alncc.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-09T17:29:01+00:00",
+"junior_dp": true
+},
+{
+"uk": "",
+"title": "2nd Officer Vacancy – HLV Vessel",
+"url": "https://t.me/help_seafarers/4887",
+"source": "Telegram: @help_seafarers",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-1aafd9070234632a",
+"offshore": true,
+"info": {
+"rank": "2nd Officer",
+"contract": "6 weeks (possibly + 2 add",
+"email": "elbek.juraev@selectoffshore.com",
+"company": "selectoffshore.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-09T17:40:41+00:00",
 "junior_dp": false
 }
 ],
 "msg_ids": [
-3285,
-3286,
-3287,
-3288,
-3289,
-3290,
-3291,
-3292,
-3293,
-3294,
-3295,
-3296,
-3297,
-3298,
-3299,
-3300,
-3301,
-3302,
-3303,
-3304,
-3305,
-3306
+3313,
+3314,
+3315,
+3316,
+3317,
+3318,
+3319,
+3320,
+3321,
+3322,
+3323,
+3324,
+3325,
+3326,
+3327,
+3328,
+3329,
+3330,
+3331,
+3332,
+3333,
+3334,
+3335
 ],
-"last_list": "2026-11-09T16:27:43.571965+00:00",
-"cleared_upto": 3284,
-"last_msg_id": 3312
+"last_list": "2026-11-09T17:44:34.839387+00:00",
+"cleared_upto": 3312,
+"last_msg_id": 3335
 }

@@ -40787,7 +40787,7 @@
 "crewell": "https://crewell.net/en/companies/384531/"
 },
 "name": "Offshore Operations Limited",
-"off": 79,
+"off": 80,
 "offshore_hint": false,
 "phones": [
 "+380674264056"
@@ -40808,7 +40808,7 @@
 "@seamenjob"
 ],
 "telegram": [],
-"total": 79,
+"total": 80,
 "uk": 20,
 "vessels": [
 "Dredger",
@@ -46507,10 +46507,10 @@
 "crewell": "https://crewell.net/en/companies/64960/"
 },
 "name": "Advance Global Recruitment Ltd",
-"off": 326,
+"off": 327,
 "offshore_hint": false,
 "phones": [],
-"so": 36,
+"so": 37,
 "sources": [
 "@CREW_ARIA",
 "@Offshore_Vacancies",
@@ -46526,7 +46526,7 @@
 "@offshoreatsea"
 ],
 "telegram": [],
-"total": 327,
+"total": 328,
 "uk": 40,
 "vessels": [
 "Bulk",
@@ -50019,7 +50019,7 @@
 "crewell": "https://crewell.net/en/companies/194804/"
 },
 "name": "Transport & Offshore Services Ukraine",
-"off": 138,
+"off": 139,
 "offshore_hint": false,
 "phones": [
 "+380672802995"
@@ -50040,7 +50040,7 @@
 "@offshorecv"
 ],
 "telegram": [],
-"total": 160,
+"total": 161,
 "uk": 8,
 "vessels": [
 "Bulk",
@@ -50328,7 +50328,14 @@
 "co": 5,
 "country": "Ukraine",
 "emails": [
-"application@trident-maritime.com"
+"application@trident-maritime.com",
+"apply@olivecrew.com",
+"briese.ukraine@gmail.com",
+"crew@prime-marine.net",
+"cv@alphacrew.com",
+"info@thalpis-crs.com",
+"irina.adamskaya@denmax-ua.com",
+"operations@alncc.com"
 ],
 "first": "2026-11-03",
 "last": "2026-11-09",
@@ -50336,13 +50343,17 @@
 "crewell": "https://crewell.net/en/companies/238248/"
 },
 "name": "Trident Maritime",
-"off": 4,
+"off": 6,
 "offshore_hint": false,
 "phones": [
+"+302109464800",
+"+306970091426",
+"+380487838080",
+"+380504063156",
 "+380677373730",
 "+380687373735",
-"+380974006633",
-"+380994062445"
+"+380952775851",
+"+380974006633"
 ],
 "so": 4,
 "sources": [
@@ -50351,15 +50362,18 @@
 "@SM_job_center",
 "@cvsenderseaman",
 "@findseajobs",
+"@job_for_seaman",
+"@marinejobs",
 "@maritimeforum",
 "@supermariner_ua",
 "crewell.net"
 ],
 "telegram": [],
-"total": 37,
+"total": 39,
 "vessels": [
 "Bulk",
 "Chemical",
+"Container",
 "Dredger",
 "General cargo",
 "LPG/LNG",
@@ -54540,7 +54554,7 @@
 "last": "2026-11-09",
 "links": {},
 "name": "",
-"off": 14,
+"off": 15,
 "offshore_hint": false,
 "phones": [],
 "so": 2,
@@ -54551,11 +54565,12 @@
 "@Sea_format",
 "@cvsenderseaman",
 "@gm_seaman_cv",
+"@help_seafarers",
 "@offshoreatsea",
 "@seajobfinder"
 ],
 "telegram": [],
-"total": 16,
+"total": 17,
 "vessels": [
 "Offshore",
 "Tug"
@@ -56683,12 +56698,12 @@
 "findseajobs": 32567,
 "galaxymaritimeua": 1250,
 "gm_seaman_cv": 2689,
-"help_seafarers": 4884,
+"help_seafarers": 4888,
 "ismira_agency": 440,
-"job_for_seaman": 17030,
+"job_for_seaman": 17031,
 "jobfor_seamen": 12691,
 "marinecareerorg": 17757,
-"marinejobs": 43221,
+"marinejobs": 43222,
 "marinejobz": 194156,
 "marineman_ltd": 48347,
 "maritimeforum": 256313,
