@@ -5134,14 +5134,14 @@
 "aquamarine-crew.com": {
 "address": "Polskyi descent 11",
 "city": "Odessa",
-"co": 27,
+"co": 28,
 "country": "Ukraine",
 "emails": [
 "application@aquamarine-crew.com",
 "application@aquamarine-shipping.ae"
 ],
 "first": "2026-11-03",
-"last": "2026-11-06",
+"last": "2026-11-09",
 "links": {
 "crewell": "https://crewell.net/en/companies/161628/",
 "ukrcrewing": "https://ukrcrewing.com.ua/en/agency/aquamarine_odessa"
@@ -5162,7 +5162,7 @@
 "ukrcrewing.com.ua"
 ],
 "telegram": [],
-"total": 42,
+"total": 45,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -5729,7 +5729,7 @@
 "gm@armada-holding.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-08",
+"last": "2026-11-09",
 "links": {
 "crewell": "https://crewell.net/en/companies/251882/",
 "ukrcrewing": "https://ukrcrewing.com.ua/en/agency/armadaholding"
@@ -5746,6 +5746,7 @@
 ],
 "so": 5,
 "sources": [
+"@CREW_ARIA",
 "@Merchant_Fleet",
 "@SM_job_center",
 "@cvsenderseaman",
@@ -5755,7 +5756,7 @@
 "ukrcrewing.com.ua"
 ],
 "telegram": [],
-"total": 53,
+"total": 55,
 "vessels": [
 "Bulk",
 "Container",
@@ -6957,7 +6958,7 @@
 "cv@atlantic-marine.net"
 ],
 "first": "2026-11-03",
-"last": "2026-11-08",
+"last": "2026-11-09",
 "links": {
 "crewell": "https://crewell.net/en/companies/284802/"
 },
@@ -6971,7 +6972,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 38,
+"total": 42,
 "vessels": [
 "Passenger"
 ],
@@ -9088,7 +9089,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 11,
+"total": 13,
 "vessels": [],
 "website": ""
 },
@@ -12250,13 +12251,13 @@
 "delta152.ru": {
 "address": "",
 "city": "",
-"co": 6,
+"co": 7,
 "country": "",
 "emails": [
 "staff@delta152.ru"
 ],
 "first": "2026-11-03",
-"last": "2026-11-06",
+"last": "2026-11-09",
 "links": {},
 "name": "ООО «Дельта»",
 "off": 0,
@@ -12268,7 +12269,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 13,
+"total": 16,
 "vessels": [
 "General cargo"
 ],
@@ -13174,7 +13175,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 9,
+"total": 10,
 "vessels": [
 "General cargo",
 "Tug"
@@ -37300,6 +37301,36 @@
 ],
 "website": ""
 },
+"name:темп+": {
+"address": "",
+"city": "",
+"co": 0,
+"country": "",
+"emails": [
+"elena.kochemalkina@yandex.ru"
+],
+"first": "2026-11-09",
+"last": "2026-11-09",
+"links": {},
+"name": "ООО «Темп+»",
+"off": 0,
+"offshore_hint": false,
+"phones": [
+"+79272680369",
+"+79967214772"
+],
+"so": 0,
+"sources": [
+"@rekamore_su"
+],
+"telegram": [],
+"total": 1,
+"vessels": [
+"Chemical",
+"General cargo"
+],
+"website": ""
+},
 "name:темп+ offline russian federation member since: nov 2016 no active vacancies судоходная компания &quot;темп+&quot; осуществляет свою деятельность с 2004г флот насчитывает в себе 15 судов из которых волгонефть 115; волгонефть 159; т/х &quot;леонид view profile": {
 "address": "",
 "city": "",
@@ -49143,7 +49174,7 @@
 "info@thalpis-crs.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-06",
+"last": "2026-11-09",
 "links": {
 "crewell": "https://crewell.net/en/companies/385866/"
 },
@@ -49169,7 +49200,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 306,
+"total": 310,
 "vessels": [
 "Bulk",
 "Container",
@@ -49600,7 +49631,7 @@
 "crew@tramontana.biz"
 ],
 "first": "2026-11-03",
-"last": "2026-11-03",
+"last": "2026-11-09",
 "links": {
 "crewell": "https://crewell.net/en/companies/6850/"
 },
@@ -49615,7 +49646,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 3,
+"total": 4,
 "vessels": [
 "Chemical",
 "Container",
@@ -50180,12 +50211,12 @@
 "crew6@udyashipping.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-06",
+"last": "2026-11-09",
 "links": {
 "crewell": "https://crewell.net/en/companies/208402/"
 },
 "name": "UDYA SHIPPING SERVICES PVT. LTD",
-"off": 5,
+"off": 7,
 "offshore_hint": false,
 "phones": [
 "+919326626527"
@@ -50200,8 +50231,9 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 8,
+"total": 10,
 "vessels": [
+"Container",
 "Offshore",
 "Passenger"
 ],
@@ -51994,7 +52026,7 @@
 "tturygina@vodohod.ru"
 ],
 "first": "2026-11-03",
-"last": "2026-11-07",
+"last": "2026-11-09",
 "links": {},
 "name": "ООО «ВодоходЪ»",
 "off": 0,
@@ -52006,7 +52038,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 40,
+"total": 46,
 "vessels": [],
 "website": ""
 },
@@ -53060,6 +53092,34 @@
 "total": 0,
 "vessels": [],
 "website": "wintermar.com"
+},
+"wiratirta.com": {
+"address": "",
+"city": "",
+"co": 2,
+"country": "",
+"emails": [
+"recruitment.marine@wiratirta.com"
+],
+"first": "2026-11-09",
+"last": "2026-11-09",
+"links": {},
+"name": "Wira Manning",
+"off": 0,
+"offshore_hint": false,
+"phones": [],
+"so": 0,
+"sources": [
+"@marinejobs",
+"@seamenjob"
+],
+"telegram": [],
+"total": 2,
+"vessels": [
+"LPG/LNG",
+"Tanker"
+],
+"website": ""
 },
 "wispb.com": {
 "address": "Mezhevoy Kanal 3",
@@ -54970,6 +55030,7 @@
 "line fast": "linefast.com",
 "lng": "balticcareer.eu",
 "lng carrier stargate crewing agency": "stargate-agency.ro",
+"lng tanker vessel wira manning": "wiratirta.com",
 "lognar maritime": "lognar.com",
 "lotus 18 days ago greece member since: oct 2026 no active vacancies view profile": "name:lotus 18 days ago greece member since: oct 2026 no active vacancies view profile",
 "lowestoft clyde marine": "agrl.co.uk",
@@ -55827,6 +55888,7 @@
 "winot ou": "winot-ou.com",
 "winter season at offshore operations": "jobatsea.online",
 "wintermar": "wintermar.com",
+"wira manning": "wiratirta.com",
 "wofsg": "wofsg.com",
 "work boat ryan shipmanagement": "ryanship.com",
 "work shipping": "workshipping.com",
@@ -56037,6 +56099,7 @@
 "стаксель": "sam-office.org",
 "строительная дноуглубительная компания": "cdc.business",
 "судоходная компания": "volgaflot.com",
+"темп+": "name:темп+",
 "темп+ offline russian federation member since: nov 2016 no active vacancies судоходная компания &quot;темп+&quot; осуществляет свою деятельность с 2004г флот насчитывает в себе 15 судов из которых волгонефть 115; волгонефть 159; т/х &quot;леонид view profile": "name:темп+ offline russian federation member since: nov 2016 no active vacancies судоходная компания &quot;темп+&quot; осуществляет свою деятельность с 2004г флот насчитывает в себе 15 судов из которых волгонефть 115; волгонефть 159; т/х &quot;леонид view profile",
 "тк северный проект": "ashipping.ru",
 "тоо каспиан оффшор констракшн offline kazakhstan member since: sep 2021 no active vacancies view profile": "name:тоо каспиан оффшор констракшн offline kazakhstan member since: sep 2021 no active vacancies view profile",
@@ -56081,7 +56144,7 @@
 "tg_hw": {
 "ALPHACREW": 3570,
 "BSMCSCUKRAINE": 4332,
-"CREW_ARIA": 14019,
+"CREW_ARIA": 14021,
 "Crew_Radar": 3252,
 "JobForMariners": 1201,
 "Merchant_Fleet": 599,
@@ -56097,10 +56160,10 @@
 "allcrewing": 3806,
 "andreeyVstart": 1388,
 "balticcareer": 5470,
-"crewingua": 44824,
-"crs_vacancies": 3551,
+"crewingua": 44827,
+"crs_vacancies": 3553,
 "cruiseshipjobs": 3,
-"cvsenderseaman": 15699,
+"cvsenderseaman": 15706,
 "ecrewing": 3162,
 "findseajobs": 32567,
 "galaxymaritimeua": 1250,
@@ -56110,12 +56173,12 @@
 "job_for_seaman": 17020,
 "jobfor_seamen": 12674,
 "marinecareerorg": 17757,
-"marinejobs": 43157,
+"marinejobs": 43159,
 "marinejobz": 194156,
 "marineman_ltd": 48339,
 "maritimeforum": 255954,
 "merchantNavyrealjob": 262,
-"morehod_ru": 30831,
+"morehod_ru": 30833,
 "oceancrewjobs": 32741,
 "offshoreatsea": 25108,
 "offshorecv": 1587,
@@ -56124,14 +56187,14 @@
 "olive_crew": 2905,
 "onboard_su": 20711,
 "pervoemorskoe": 4518,
-"rekamore_su": 164625,
+"rekamore_su": 164637,
 "roster_marine": 1736,
-"seajobfinder": 42273,
-"seamenjob": 106132,
+"seajobfinder": 42274,
+"seamenjob": 106133,
 "seamenvacancy": 1374,
 "seavacancies": 25197,
 "shipjobsindia": 420,
-"shipscreweu": 16595,
+"shipscreweu": 16596,
 "sidantey": 399,
 "supermariner_ua": 3888,
 "truemalina_offshore": 801,

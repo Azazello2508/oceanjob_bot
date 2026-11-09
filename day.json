@@ -471,9 +471,10 @@
 "email": "alexandra@xt-romania.com",
 "company": "xt-romania.com"
 },
-"new": true,
+"new": false,
 "repeat": false,
-"time": "2026-11-09T06:38:06+00:00"
+"time": "2026-11-09T06:38:06+00:00",
+"junior_dp": false
 },
 {
 "uk": "",
@@ -492,9 +493,10 @@
 "email": "CREW@BALTICSS.COM",
 "company": "balticss.com"
 },
-"new": true,
+"new": false,
 "repeat": true,
-"time": "2026-11-09T06:30:04+00:00"
+"time": "2026-11-09T06:30:04+00:00",
+"junior_dp": false
 },
 {
 "uk": "",
@@ -513,9 +515,10 @@
 "email": "kuznetsova@midvolga.com",
 "company": "midvolga.com"
 },
-"new": true,
+"new": false,
 "repeat": true,
-"time": "2026-11-09T06:35:06+00:00"
+"time": "2026-11-09T06:35:06+00:00",
+"junior_dp": false
 },
 {
 "uk": "",
@@ -535,9 +538,10 @@
 "email": "columbia@novocsmru.com",
 "company": "novocsmru.com"
 },
-"new": true,
+"new": false,
 "repeat": true,
-"time": "2026-11-09T06:40:10+00:00"
+"time": "2026-11-09T06:40:10+00:00",
+"junior_dp": false
 },
 {
 "uk": "",
@@ -558,25 +562,164 @@
 "email": "mohammed.kasim@rawabivallianz.com",
 "company": "rawabivallianz.com"
 },
-"new": true,
+"new": false,
 "repeat": false,
-"time": "2026-11-09T06:37:49+00:00"
+"time": "2026-11-09T06:37:49+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "2nd Officer on Oil/chemical tanker",
+"url": "https://crewell.net/en/vacancies/465325/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Chemical tanker"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-09T07:35:52.740952+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer on Bulk carrier",
+"url": "https://crewell.net/en/vacancies/465334/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Bulk carrier"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-09T07:35:53.478636+00:00",
+"junior_dp": false
+},
+{
+"uk": "…perience – essential Valid STCW certificates Right to work in the UK or valid UK Frontier Worker Permit (FWP) 5…",
+"title": "Hiring for Offshore Fleet (EU/UK)",
+"url": "https://oceancrew.org/vacancies/offshore/full-crew/hiring-for-offshore-fleet-euuk_09-11-2026",
+"source": "oceancrew.org",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {},
+"new": false,
+"repeat": false,
+"time": "2026-11-09T07:36:14.467469+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Crew Wanted for LNG Tanker",
+"url": "https://t.me/marinejobs/43158",
+"source": "Telegram: @marinejobs",
+"found": [
+"chief officer"
+],
+"fp": "fp-e1fa858b078e12bd",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "LNG",
+"joining": "December 2026",
+"email": "recruitment.marine@wiratirta.com",
+"company": "wiratirta.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-09T07:01:18+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "AQUAMARINE SHIPPING LLC",
+"url": "https://t.me/crewingua/44825",
+"source": "Telegram: @crewingua",
+"found": [
+"chief officer"
+],
+"fp": "fp-891c1351a04c05bf",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Bulk carrier",
+"joining": "URGENT",
+"email": "application@aquamarine-crew.com",
+"company": "aquamarine-crew.com"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-09T07:11:06+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Crew Recruitment for LNG Tanker Vessel",
+"url": "https://t.me/seamenjob/106133",
+"source": "Telegram: @seamenjob",
+"found": [
+"chief officer"
+],
+"fp": "fp-7ead5f2daf49db82",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "LNG",
+"joining": "December 2026 Open Positions D",
+"email": "recruitment.marine@wiratirta.com",
+"company": "wiratirta.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-09T06:55:33+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "В судоходную компанию \"Дельта\" требуется:",
+"url": "https://t.me/rekamore_su/164636",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-659260022db932d7",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo",
+"salary": "300 000 руб",
+"email": "staff@delta152.ru",
+"company": "delta152.ru"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-09T07:35:18+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-3106,
-3107,
-3108,
-3109,
-3110,
-3111,
-3112,
-3113,
-3114,
-3115,
-3116
+3117,
+3118,
+3119,
+3120,
+3121,
+3122,
+3123,
+3124,
+3125,
+3126,
+3127,
+3128,
+3129
 ],
-"last_list": "2026-11-09T06:21:57.377397+00:00",
-"cleared_upto": 3105,
-"last_msg_id": 3116
+"last_list": "2026-11-09T07:37:30.793936+00:00",
+"cleared_upto": 3116,
+"last_msg_id": 3129
 }
