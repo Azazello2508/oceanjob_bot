@@ -4256,9 +4256,10 @@
 "rank": "2nd Officer",
 "vessel": "PSV, MPSV"
 },
-"new": true,
+"new": false,
 "repeat": false,
-"time": "2026-11-10T15:34:35.120318+00:00"
+"time": "2026-11-10T15:34:35.120318+00:00",
+"junior_dp": false
 },
 {
 "uk": "",
@@ -4271,9 +4272,10 @@
 "info": {
 "rank": "2nd Officer"
 },
-"new": true,
+"new": false,
 "repeat": false,
-"time": "2026-11-10T15:34:37.680282+00:00"
+"time": "2026-11-10T15:34:37.680282+00:00",
+"junior_dp": false
 },
 {
 "uk": "",
@@ -4286,9 +4288,10 @@
 "info": {
 "rank": "Chief Officer"
 },
-"new": true,
+"new": false,
 "repeat": false,
-"time": "2026-11-10T15:34:39.063588+00:00"
+"time": "2026-11-10T15:34:39.063588+00:00",
+"junior_dp": false
 },
 {
 "uk": "…ed ENG1 Security Designated duties Must hold right to work in UK. travel covered Apply online Contact us Publ…",
@@ -4302,9 +4305,10 @@
 "rank": "3rd Officer",
 "vessel": "Dredger"
 },
-"new": true,
+"new": false,
 "repeat": false,
-"time": "2026-11-10T15:35:21.632987+00:00"
+"time": "2026-11-10T15:35:21.632987+00:00",
+"junior_dp": false
 },
 {
 "uk": "",
@@ -4319,9 +4323,10 @@
 "email": "shelly.mountain@crewingservices.co.uk",
 "company": "crewingservices.co.uk"
 },
-"new": true,
+"new": false,
 "repeat": false,
-"time": "2026-11-10T15:24:26+00:00"
+"time": "2026-11-10T15:24:26+00:00",
+"junior_dp": false
 },
 {
 "uk": "",
@@ -4337,9 +4342,10 @@
 "email": "shelly.mountain@crewingservices.co.uk",
 "company": "crewingservices.co.uk"
 },
-"new": true,
+"new": false,
 "repeat": false,
-"time": "2026-11-10T15:32:55+00:00"
+"time": "2026-11-10T15:32:55+00:00",
+"junior_dp": false
 },
 {
 "uk": "",
@@ -4357,9 +4363,10 @@
 "email": "ua-csc-ode-man@bs-shipmanagement.com",
 "company": "bs-shipmanagement.com"
 },
-"new": true,
+"new": false,
 "repeat": false,
-"time": "2026-11-10T15:22:01+00:00"
+"time": "2026-11-10T15:22:01+00:00",
+"junior_dp": false
 },
 {
 "uk": "",
@@ -4377,9 +4384,10 @@
 "email": "ua-csc-ode-man@bs-shipmanagement.com",
 "company": "bs-shipmanagement.com"
 },
-"new": true,
+"new": false,
 "repeat": false,
-"time": "2026-11-10T15:23:31+00:00"
+"time": "2026-11-10T15:23:31+00:00",
+"junior_dp": false
 },
 {
 "uk": "",
@@ -4397,9 +4405,10 @@
 "email": "info@staff-service-expert.com",
 "company": "staff-service-expert.com"
 },
-"new": true,
+"new": false,
 "repeat": false,
-"time": "2026-11-10T15:05:10+00:00"
+"time": "2026-11-10T15:05:10+00:00",
+"junior_dp": false
 },
 {
 "uk": "",
@@ -4414,33 +4423,243 @@
 "info": {
 "rank": "2nd Officer"
 },
-"new": true,
+"new": false,
 "repeat": false,
-"time": "2026-11-10T15:12:09+00:00"
+"time": "2026-11-10T15:12:09+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer Wanted** for General Cargo vessel",
+"url": "https://t.me/marinejobs/43271",
+"source": "Telegram: @marinejobs",
+"found": [
+"chief officer",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-5391d4a584b31fd9",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer",
+"vessel": "General cargo",
+"salary": "$6,500 USD for 4 months",
+"joining": "November 25th)",
+"email": "cv@allcrew.net",
+"company": "allcrew.net"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-10T15:36:45+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "New LPG crew position",
+"url": "https://t.me/marinejobs/43273",
+"source": "Telegram: @marinejobs",
+"found": [],
+"fp": "fp-479c6a2a95d2b823",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "LPG",
+"contract": "4 Months",
+"email": "ua-csc-ode-man@bs-shipmanagement.com",
+"company": "bs-shipmanagement.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-10T15:40:51+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer Position Available",
+"url": "https://t.me/marinejobs/43274",
+"source": "Telegram: @marinejobs",
+"found": [
+"chief officer"
+],
+"fp": "fp-15e177d0d58d8324",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "LPG",
+"joining": "December 1st",
+"contract": "3 months",
+"email": "ua-csc-ode-man@bs-shipmanagement.com",
+"company": "bs-shipmanagement.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-10T15:42:36+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "НА  GEN  CARGO  5000 DWT",
+"url": "https://t.me/crewingua/44874",
+"source": "Telegram: @crewingua",
+"found": [
+"2off",
+"choff"
+],
+"fp": "fp-6255f5a6907b138d",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer",
+"joining": "В  НОЯБРЕ / ДЕКАБРЕ",
+"salary": "€ 7500\n"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-10T15:43:04+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "НА  БАЛКЕР   3500  DWT",
+"url": "https://t.me/crewingua/44875",
+"source": "Telegram: @crewingua",
+"found": [
+"choff"
+],
+"fp": "fp-7eb3ebcde0357570",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Bulk carrier",
+"salary": "$ 7500"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-10T15:43:41+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "НА  GEN  CARGO  7000 DWT",
+"url": "https://t.me/crewingua/44876",
+"source": "Telegram: @crewingua",
+"found": [
+"2off",
+"choff"
+],
+"fp": "fp-ebced5729a17d1cb",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer",
+"salary": "$ 7000\n2"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-10T15:44:13+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "НА  LPG   17000  DWT",
+"url": "https://t.me/crewingua/44877",
+"source": "Telegram: @crewingua",
+"found": [
+"choff"
+],
+"fp": "fp-9bbdfe9350105dcf",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "LPG",
+"joining": "В   КОНЦЕ  НОЯБРЯ",
+"salary": "$13000\n"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-10T15:45:01+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "FOR  AHTS  DP1",
+"url": "https://t.me/crewingua/44878",
+"source": "Telegram: @crewingua",
+"found": [
+"2off"
+],
+"fp": "fp-af9467bbda6a2298",
+"offshore": true,
+"info": {
+"rank": "2nd Officer / 3rd Officer",
+"vessel": "AHTS",
+"contract": "S  2+1",
+"salary": "$12500\n2"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-10T15:45:03+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "DECK OFFICERS (40)",
+"url": "https://t.me/marineman_ltd/48354",
+"source": "Telegram: @marineman_ltd",
+"found": [
+"chief officer",
+"second officer"
+],
+"fp": "fp-b88f1f9490e0d93b",
+"offshore": true,
+"info": {
+"rank": "Chief Officer / 2nd Officer / 3rd Officer",
+"vessel": "LPG, LNG"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-10T16:00:01+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Список закрытых каналов в",
+"url": "https://t.me/rekamore_su/164801",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-de84ab9948b9e3a9",
+"offshore": false,
+"info": {
+"rank": "Chief Officer"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-10T16:03:01+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-3567,
-3568,
-3569,
-3570,
-3571,
-3572,
-3573,
-3574,
-3575,
-3576,
-3577,
-3578,
-3579,
-3580,
-3581,
-3582,
-3583,
-3584,
-3585
+3586,
+3587,
+3588,
+3589,
+3590,
+3591,
+3592,
+3593,
+3594,
+3595,
+3596,
+3597,
+3598,
+3599,
+3600,
+3601,
+3602,
+3603,
+3604
 ],
-"last_list": "2026-11-10T15:06:13.121086+00:00",
-"cleared_upto": 3566,
-"last_msg_id": 3585
+"last_list": "2026-11-10T16:26:36.723441+00:00",
+"cleared_upto": 3585,
+"last_msg_id": 3604
 }
