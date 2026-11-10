@@ -5033,30 +5033,55 @@
 "repeat": false,
 "time": "2026-11-10T17:42:28+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "Master",
+"url": "https://t.me/cvcrewcom/12896",
+"source": "Telegram: @cvcrewcom",
+"found": [
+"chief officer"
+],
+"fp": "fp-c4cb556f6016037c",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "LNG, Chemical tanker",
+"joining": "end-November",
+"contract": "3 +/-1",
+"salary": "12500-12500$",
+"email": "vacancies@queensway-services.com",
+"company": "queensway-services.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-10T14:05:50+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-3624,
-3625,
-3626,
-3627,
-3628,
-3629,
-3630,
-3631,
-3632,
-3633,
-3634,
-3635,
-3636,
-3637,
-3638,
-3639,
-3640,
-3641,
-3642
+3643,
+3644,
+3645,
+3646,
+3647,
+3648,
+3649,
+3650,
+3651,
+3652,
+3653,
+3654,
+3655,
+3656,
+3657,
+3658,
+3659,
+3660,
+3661,
+3662
 ],
-"last_list": "2026-11-10T18:07:04.263907+00:00",
-"cleared_upto": 3623,
-"last_msg_id": 3642
+"last_list": "2026-11-10T18:57:17.668952+00:00",
+"cleared_upto": 3642,
+"last_msg_id": 3662
 }
