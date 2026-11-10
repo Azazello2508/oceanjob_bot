@@ -4823,30 +4823,240 @@
 "repeat": false,
 "time": "2026-11-10T17:04:42+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "2nd Officer",
+"url": "https://t.me/maritimeforum/256498",
+"source": "Telegram: @maritimeforum",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-3f719bb242fc3104",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "General cargo",
+"contract": "6 months",
+"salary": "€3,200\n",
+"email": "application@trident-maritime.com",
+"company": "trident-maritime.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-10T17:39:18+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "2nd Officer",
+"url": "https://t.me/maritimeforum/256500",
+"source": "Telegram: @maritimeforum",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-7ad0195c30fc589d",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Bulk carrier",
+"contract": "6 months",
+"salary": "$4,191\n",
+"email": "crewing@balticshipping.pl",
+"company": "balticshipping.pl"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-10T17:39:30+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://t.me/maritimeforum/256506",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-13575227079e3c41",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Crude oil tanker",
+"contract": "4 months",
+"salary": "$11,000–12,000\n",
+"email": "cv@armatorcrew.com",
+"company": "armatorcrew.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-10T17:40:05+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://t.me/maritimeforum/256507",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-5d141ef5329a8b9e",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo",
+"contract": "4 months",
+"salary": "$5,800\n",
+"email": "ktship@ktship.ee",
+"company": "ktship.ee"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-10T17:40:11+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "2nd Officer",
+"url": "https://t.me/maritimeforum/256511",
+"source": "Telegram: @maritimeforum",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-e99b5b53146e4b99",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Bulk carrier",
+"contract": "5 months",
+"salary": "$3,000–3,800\n",
+"email": "crew@armada-holding.com",
+"company": "armada-holding.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-10T17:40:35+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://t.me/maritimeforum/256517",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-711c22a083a55b44",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Crude oil tanker",
+"contract": "3–5 months",
+"salary": "$11,300\n",
+"email": "sunrise.tolstikov@nbi.com.ua",
+"company": "nbi.com.ua"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-10T17:41:11+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://t.me/maritimeforum/256525",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-2d78377cbc3c458b",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Crude oil tanker",
+"contract": "3–5 months",
+"salary": "$11,000–11,700\n",
+"email": "uma@mau.com.ru",
+"company": "mau.com.ru"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-10T17:41:57+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "2nd Officer",
+"url": "https://t.me/maritimeforum/256526",
+"source": "Telegram: @maritimeforum",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-d66029c28bf8a2dd",
+"offshore": true,
+"info": {
+"rank": "2nd Officer",
+"vessel": "AHTS, Tug",
+"contract": "3 months",
+"email": "recruitment@csmlv.com",
+"company": "csmlv.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-10T17:42:04+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://t.me/maritimeforum/256530",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-347a18c68d036f72",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "LPG",
+"contract": "4 months",
+"salary": "$13,000\n",
+"email": "sunrise@nbi.com.ua",
+"company": "nbi.com.ua"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-10T17:42:28+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-3605,
-3606,
-3607,
-3608,
-3609,
-3610,
-3611,
-3612,
-3613,
-3614,
-3615,
-3616,
-3617,
-3618,
-3619,
-3620,
-3621,
-3622,
-3623
+3624,
+3625,
+3626,
+3627,
+3628,
+3629,
+3630,
+3631,
+3632,
+3633,
+3634,
+3635,
+3636,
+3637,
+3638,
+3639,
+3640,
+3641,
+3642
 ],
-"last_list": "2026-11-10T17:16:53.568039+00:00",
-"cleared_upto": 3604,
-"last_msg_id": 3623
+"last_list": "2026-11-10T18:07:04.263907+00:00",
+"cleared_upto": 3623,
+"last_msg_id": 3642
 }
