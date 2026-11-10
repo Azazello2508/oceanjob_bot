@@ -5057,31 +5057,65 @@
 "repeat": false,
 "time": "2026-11-10T14:05:50+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "2nd Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/369506",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-10T19:45:27.586771+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "𝗠𝗮𝗿𝗶𝘁𝗶𝗺𝗲 𝗡𝗲𝘄𝘀 𝗗𝗶𝗴𝗲𝘀𝘁 — 𝟭𝟬 𝗡𝗼𝘃𝗲𝗺𝗯𝗲𝗿 𝟮𝟬𝟮𝟲",
+"url": "https://t.me/seamenjob/106195",
+"source": "Telegram: @seamenjob",
+"found": [],
+"fp": "fp-1ab922aafed31eb6",
+"offshore": true,
+"info": {
+"vessel": "Suezmax, LNG",
+"salary": "Operation",
+"contract": "to build seven high-speed",
+"company": "EU Puts Funding Into New Maritime S…"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-10T19:02:59+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-3643,
-3644,
-3645,
-3646,
-3647,
-3648,
-3649,
-3650,
-3651,
-3652,
-3653,
-3654,
-3655,
-3656,
-3657,
-3658,
-3659,
-3660,
-3661,
-3662
+3663,
+3664,
+3665,
+3666,
+3667,
+3668,
+3669,
+3670,
+3671,
+3672,
+3673,
+3674,
+3675,
+3676,
+3677,
+3678,
+3679,
+3680,
+3681
 ],
-"last_list": "2026-11-10T18:57:17.668952+00:00",
-"cleared_upto": 3642,
-"last_msg_id": 3662
+"last_list": "2026-11-10T19:47:27.337069+00:00",
+"cleared_upto": 3662,
+"last_msg_id": 3681
 }
