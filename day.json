@@ -66,15 +66,58 @@
 "repeat": false,
 "time": "2026-11-09T21:54:17.707680+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "Морская компания приглашает специалистов для работы на буксире и кабелеукладочном судне.",
+"url": "https://t.me/vesselsea/3127",
+"source": "Telegram: @vesselsea",
+"found": [],
+"fp": "fp-05e87b1fb326069f",
+"offshore": true,
+"info": {
+"rank": "Chief Officer / AB",
+"vessel": "Tug",
+"salary": "индивидуально, по согласованию",
+"joining": "20.11.2026",
+"email": "more.crimea.2022@gmail.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-10T02:15:36+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Уважаемые специалисты",
+"url": "https://t.me/pervoemorskoe/4525",
+"source": "Telegram: @pervoemorskoe",
+"found": [
+"старший помощник"
+],
+"fp": "fp-3cfecff8ffff3764",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo",
+"salary": "3200$",
+"joining": "По готовности кандидатов",
+"contract": "5+1 месяцев"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-10T02:23:32+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-3392,
-3393,
-3394,
-3395
+3396,
+3397,
+3398,
+3399,
+3400
 ],
-"last_list": "2026-11-09T22:46:37.953311+00:00",
-"cleared_upto": 3391,
-"last_msg_id": 3395
+"last_list": "2026-11-10T02:31:01.315287+00:00",
+"cleared_upto": 3395,
+"last_msg_id": 3400
 }

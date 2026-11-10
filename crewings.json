@@ -13520,7 +13520,7 @@
 "k.korelskaya@ecoshp.ru"
 ],
 "first": "2026-11-03",
-"last": "2026-11-09",
+"last": "2026-11-10",
 "links": {},
 "name": "Eco Shipping",
 "off": 0,
@@ -13529,10 +13529,11 @@
 "so": 0,
 "sources": [
 "@morehod_ru",
-"@rekamore_su"
+"@rekamore_su",
+"@vesselsea"
 ],
 "telegram": [],
-"total": 20,
+"total": 21,
 "vessels": [
 "General cargo"
 ],
@@ -24336,10 +24337,10 @@
 "more.crimea.2022@gmail.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-09",
+"last": "2026-11-10",
 "links": {},
 "name": "",
-"off": 3,
+"off": 4,
 "offshore_hint": false,
 "phones": [
 "+79782126689"
@@ -24351,7 +24352,7 @@
 "@vesselsea"
 ],
 "telegram": [],
-"total": 5,
+"total": 6,
 "vessels": [
 "Offshore",
 "Tug"
@@ -56749,7 +56750,7 @@
 "oilrigs": 778,
 "olive_crew": 2919,
 "onboard_su": 20721,
-"pervoemorskoe": 4521,
+"pervoemorskoe": 4525,
 "rekamore_su": 164678,
 "roster_marine": 1737,
 "seajobfinder": 42317,
@@ -56763,7 +56764,7 @@
 "truemalina_offshore": 805,
 "ukrcrewing_official": 2381,
 "univis_crewing": 5011,
-"vesselsea": 3122,
+"vesselsea": 3127,
 "vshipsoffshore": 1070
 },
 "tg_low": {
