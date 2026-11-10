@@ -4636,30 +4636,217 @@
 "repeat": true,
 "time": "2026-11-10T16:03:01+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "Engineers & Chief Officer Vacancy on Handymax Bulk Carrier Campbell Shipping Company Ltd",
+"url": "https://maritime-union.com/job/232695",
+"source": "maritime-union.com",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Bulk carrier",
+"company": "Engineers & Chief Officer Vacancy o…"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-10T17:15:09.384158+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Offshore Jobs: Chief Officer, 2nd Officer, ETO, Cook PG Global",
+"url": "https://maritime-union.com/job/232715",
+"source": "maritime-union.com",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "Chief Officer / 2nd Officer"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-10T17:15:10.630502+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Mate Job on Multicat Vessel ORCA Crew Services",
+"url": "https://maritime-union.com/job/232718",
+"source": "maritime-union.com",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"company": "Chief Mate Job on Multicat Vessel O…"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-10T17:15:11.506389+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "URGENT VACANCIES FOR DFDE LNG",
+"url": "https://t.me/maritimeforum/256449",
+"source": "Telegram: @maritimeforum",
+"found": [
+"ch/off",
+"ch/off"
+],
+"fp": "fp-823122699378084a",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "LNG",
+"salary": "s: 19 000$",
+"contract": "4M",
+"email": "hr@univis.com.ua",
+"tg": "univisltd",
+"company": "univis.com.ua"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-10T17:07:04+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "OPEN VACANCIES FOR CONTAINER FLEET",
+"url": "https://t.me/maritimeforum/256450",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-0dbecf4252e59370",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer / 3rd Officer",
+"vessel": "Container",
+"salary": "11000-11700$",
+"contract": "4 +/-1",
+"email": "hr@univis.com.ua",
+"tg": "univisltd",
+"company": "univis.com.ua"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-10T17:07:11+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://t.me/maritimeforum/256466",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-834f2f1817832095",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Bulk carrier",
+"salary": "in EUR",
+"contract": "5 months",
+"email": "apply@olivecrew.com",
+"tg": "katerynaolivecrew",
+"company": "olivecrew.com"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-10T17:09:15+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "WE ARE HIRING ONBOARD MOTOR YACHT",
+"url": "https://t.me/oceancrewjobs/32768",
+"source": "Telegram: @oceancrewjobs",
+"found": [
+"chief officer"
+],
+"fp": "fp-c003be0a621b3e1c",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Bulk carrier, AHTS",
+"company": "https://oceancrew.org/vacancies/cru…"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-10T17:04:28+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "NEED SET CREW FOR TANKER VESSEL",
+"url": "https://t.me/oceancrewjobs/32769",
+"source": "Telegram: @oceancrewjobs",
+"found": [
+"second officer"
+],
+"fp": "fp-c31452467ff13820",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Bulk carrier, Container",
+"company": "NEED SET CREW FOR TANKER VESSEL"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-10T17:04:35+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "OPEN POSITIONS TO JOIN SP BARGE",
+"url": "https://t.me/oceancrewjobs/32770",
+"source": "Telegram: @oceancrewjobs",
+"found": [
+"chief officer",
+"second officer"
+],
+"fp": "fp-8f54bee069593522",
+"offshore": true,
+"info": {
+"rank": "Chief Officer / 2nd Officer / AB",
+"vessel": "Tug, Barge",
+"company": "https://oceancrew.org/vacancies/off…"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-10T17:04:42+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-3586,
-3587,
-3588,
-3589,
-3590,
-3591,
-3592,
-3593,
-3594,
-3595,
-3596,
-3597,
-3598,
-3599,
-3600,
-3601,
-3602,
-3603,
-3604
+3605,
+3606,
+3607,
+3608,
+3609,
+3610,
+3611,
+3612,
+3613,
+3614,
+3615,
+3616,
+3617,
+3618,
+3619,
+3620,
+3621,
+3622,
+3623
 ],
-"last_list": "2026-11-10T16:26:36.723441+00:00",
-"cleared_upto": 3585,
-"last_msg_id": 3604
+"last_list": "2026-11-10T17:16:53.568039+00:00",
+"cleared_upto": 3604,
+"last_msg_id": 3623
 }
