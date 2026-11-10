@@ -1215,25 +1215,388 @@
 "repeat": false,
 "time": "2026-11-10T07:31:53+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "2nd Officer on Oil/chemical tanker",
+"url": "https://crewell.net/en/vacancies/465532/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Chemical tanker"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-10T08:52:56.205347+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer on Crude oil tanker",
+"url": "https://crewell.net/en/vacancies/465546/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Crude oil tanker"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-10T08:52:57.053253+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer on Crude oil tanker",
+"url": "https://crewell.net/en/vacancies/465549/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Crude oil tanker"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-10T08:52:57.886299+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://seajobs.ru/ru/vacancy/18103/chief-officer-crude-oil-tanker",
+"source": "seajobs.ru",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Crude oil tanker"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-10T08:53:14.335064+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://seajobs.ru/ru/vacancy/18106/chief-officer-crude-oil-tanker",
+"source": "seajobs.ru",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Crude oil tanker"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-10T08:53:15.366675+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://seajobs.ru/ru/vacancy/18107/chief-officer-crude-oil-tanker",
+"source": "seajobs.ru",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Crude oil tanker"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-10T08:53:16.384024+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Second Officer for Maintenance Utility Vessel",
+"url": "https://oceancrew.org/vacancies/offshore/2nd-officer/second-officer-for-maintenance-utility-vessel-2_10-11-2026",
+"source": "oceancrew.org",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "2nd Officer"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-10T08:53:29.340077+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer for Maintenance Utility Vessel",
+"url": "https://oceancrew.org/vacancies/offshore/chief-officer/chief-officer-for-maintenance-utility-vessel-3_10-11-2026",
+"source": "oceancrew.org",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "Chief Officer"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-10T08:53:30.951030+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer for SP Barge (Guinea)",
+"url": "https://oceancrew.org/vacancies/offshore/chief-officer/chief-officer-for-sp-barge-guinea_10-11-2026",
+"source": "oceancrew.org",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Barge"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-10T08:53:32.551907+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "WE NEED",
+"url": "https://t.me/maritimeforum/256317",
+"source": "Telegram: @maritimeforum",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-eb7a4c863369029a",
+"offshore": false,
+"info": {
+"rank": "2nd Officer / 3rd Officer",
+"vessel": "Bulk carrier",
+"joining": "ASAP",
+"salary": "6500 USD",
+"email": "info@staff-service-expert.com",
+"company": "staff-service-expert.com"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-10T08:43:03+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "ARGENT OPENING – LNG VESSEL",
+"url": "https://t.me/maritimeforum/256319",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer",
+"second officer"
+],
+"fp": "fp-4c73093df071dfee",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer / 3rd Officer",
+"vessel": "VLCC, LNG",
+"salary": "DETAILS – LNG",
+"email": "RossMarine.info@ukr.net"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-10T08:46:49+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://t.me/marinejobs/43232",
+"source": "Telegram: @marinejobs",
+"found": [
+"chief officer",
+"c/o"
+],
+"fp": "fp-fe4b669e0b434b53",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Tanker",
+"salary": "10,500 – 11,000 $ + bonuses",
+"joining": "November 2026",
+"contract": "4 months",
+"email": "forcv@eurocrew-ua.com",
+"company": "eurocrew-ua.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-10T08:33:25+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "CHIEF OFFICER FOR OIL TANKER",
+"url": "https://t.me/seamenjob/106172",
+"source": "Telegram: @seamenjob",
+"found": [
+"chief officer",
+"c/o"
+],
+"fp": "fp-c79a85845723ead1",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Tanker",
+"salary": "10500 - 11000 $",
+"joining": "November 2026",
+"contract": "4 months",
+"email": "forcv@eurocrew-ua.com",
+"company": "eurocrew-ua.com"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-10T08:04:30+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "В турецкую компанию на танкер- химовоз 7000 dwt",
+"url": "https://t.me/rekamore_su/164756",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-9b2eab23d9e4ca6f",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Chemical tanker",
+"salary": "4800$",
+"joining": "конец ноября-начало декабря",
+"contract": "4+1 мес",
+"email": "office@safasco.ru",
+"company": "safasco.ru."
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-10T08:14:29+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "На танкер-химовоз 20.000 DWT ищем:",
+"url": "https://t.me/rekamore_su/164766",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-5e98caea72e5be4c",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Chemical tanker",
+"joining": "в ноябре",
+"contract": "ы 4+1 с возможностью прод",
+"email": "rp-shipping@yandex.ru"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-10T08:37:28+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Компания ООО \"Тринити Шиппинг\" приглашает на работу:",
+"url": "https://t.me/rekamore_su/164771",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-45599323e2853f71",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Chemical tanker",
+"salary": "250 000 рублей (с НДФЛ)",
+"joining": "ноябрь 2026г",
+"email": "hr@trinityshipping.ru",
+"company": "trinityshipping.ru"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-10T08:45:45+00:00",
+"junior_dp": false
+},
+{
+"uk": "…ster / Multicat experience preferred • Valid UK Work Permit / FWP israa.albsaisi@selectoffshore.com 🔘 Co…",
+"title": "Crane Operator",
+"url": "https://t.me/gm_seaman_cv/2690",
+"source": "Telegram: @gm_seaman_cv",
+"found": [
+"chief officer"
+],
+"fp": "fp-a11ab1abd07f16bc",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "AHTS, Dredger",
+"salary": "500 EUR/day",
+"contract": "4 weeks",
+"email": "cv@ojcrew.com",
+"company": "ojcrew.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-10T08:41:47+00:00",
+"junior_dp": false
+},
+{
+"uk": "…ster / Multicat experience preferred • Valid UK Work Permit / FWP ✉️ israa.albsaisi@selectoffshore.com #…",
+"title": "CHIEF OFFICER",
+"url": "https://t.me/cvsenderseaman/15835",
+"source": "Telegram: @cvsenderseaman",
+"found": [
+"chief officer"
+],
+"fp": "fp-e8d660fe4a752675",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"salary": "Negotiable",
+"joining": "ASAP",
+"contract": "4-6 weeks",
+"email": "israa.albsaisi@selectoffshore.com",
+"company": "selectoffshore.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-10T08:07:25+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-3435,
-3436,
-3437,
-3438,
-3439,
-3440,
-3441,
-3442,
-3443,
-3444,
-3445,
-3446,
-3447,
-3448
+3449,
+3450,
+3451,
+3452,
+3453,
+3454,
+3455,
+3456,
+3457,
+3458,
+3459,
+3460,
+3461,
+3462,
+3463
 ],
-"last_list": "2026-11-10T08:01:35.187751+00:00",
-"cleared_upto": 3434,
-"last_msg_id": 3448
+"last_list": "2026-11-10T08:55:16.248992+00:00",
+"cleared_upto": 3448,
+"last_msg_id": 3463
 }
