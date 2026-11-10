@@ -108,16 +108,66 @@
 "repeat": false,
 "time": "2026-11-10T02:23:32+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "Компания ООО \"Легаси Марин\" приглашает на работу:",
+"url": "https://t.me/rekamore_su/164681",
+"source": "Telegram: @rekamore_su",
+"found": [
+"chief officer",
+"2nd officer",
+"2nd off",
+"старший помощник"
+],
+"fp": "fp-c92fb4e5e3e91294",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer / 3rd Officer",
+"salary": "800 000 руб. на руки",
+"joining": "24 ноября",
+"contract": "6-8 недель",
+"email": "crew.cv@legacymarine.ru",
+"company": "legacymarine.ru"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-10T04:12:03+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Компания \"Polluks Star\" приглашает на работу:",
+"url": "https://t.me/rekamore_su/164682",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-a82c0e79f00725b0",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo",
+"salary": "7500 евро",
+"joining": "25 ноября",
+"contract": "2 месяца",
+"email": "info@polluks-star.com",
+"company": "polluks-star.com"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-10T04:14:04+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-3396,
-3397,
-3398,
-3399,
-3400
+3401,
+3402,
+3403,
+3404,
+3405
 ],
-"last_list": "2026-11-10T02:31:01.315287+00:00",
-"cleared_upto": 3395,
-"last_msg_id": 3400
+"last_list": "2026-11-10T04:40:29.559185+00:00",
+"cleared_upto": 3400,
+"last_msg_id": 3405
 }
