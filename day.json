@@ -495,21 +495,112 @@
 "repeat": false,
 "time": "2026-11-10T06:03:02+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "ООО «Балтийская Морская Компания» ведет набор специалистов в компанию \"RIX SHIPMANAGEMENT LTD\" (CYPRUS):",
+"url": "https://t.me/rekamore_su/164730",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-13c81967d96df0a7",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"salary": "7 600 евро",
+"contract": "4 месяца (+/- 1 месяц)",
+"email": "CREW@BALTICSS.COM",
+"company": "balticss.com"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-10T06:30:03+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Судоходная компания приглашает на работу:",
+"url": "https://t.me/rekamore_su/164735",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-a2262c3d7d55482a",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Chemical tanker, General cargo",
+"joining": "12 ноября г. Астрахань",
+"email": "kuznetsova@midvolga.com",
+"company": "midvolga.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-10T06:35:03+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Компания \"Columbia Shipmanagement\" (Новороссийск) приглашает на работу:",
+"url": "https://t.me/rekamore_su/164738",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-e8ccdff4f504552a",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Tanker",
+"salary": "11 000 $ (discussable up to 11…",
+"contract": "4 мес",
+"email": "columbia@novocsmru.com",
+"company": "novocsmru.com"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-10T06:40:08+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "SECOND OFFICER",
+"url": "https://t.me/cvsenderseaman/15819",
+"source": "Telegram: @cvsenderseaman",
+"found": [
+"second officer"
+],
+"fp": "fp-016394059531441f",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "General cargo",
+"salary": "3600 EUR / month",
+"joining": "11.11.2026",
+"contract": "3+/-1 months",
+"email": "cv@admiral-cm.com",
+"company": "admiral-cm.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-10T07:06:19+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-3415,
-3416,
-3417,
-3418,
-3419,
-3420,
-3421,
-3422,
-3423,
-3424
+3425,
+3426,
+3427,
+3428,
+3429,
+3430,
+3431,
+3432,
+3433,
+3434
 ],
-"last_list": "2026-11-10T06:20:50.105133+00:00",
-"cleared_upto": 3414,
-"last_msg_id": 3424
+"last_list": "2026-11-10T07:11:04.035118+00:00",
+"cleared_upto": 3424,
+"last_msg_id": 3434
 }
