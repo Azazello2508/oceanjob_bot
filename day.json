@@ -4012,30 +4012,261 @@
 "repeat": false,
 "time": "2026-11-10T14:09:09+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "2nd Officer on LPG",
+"url": "https://crewell.net/en/vacancies/465638/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "LPG"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-10T15:04:33.422975+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer on General Cargo Vessel",
+"url": "https://crewell.net/en/vacancies/465633/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-10T15:04:34.382867+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "2nd Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/369459",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-10T15:04:36.656574+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "OPEN VACANCIES — LPG",
+"url": "https://t.me/maritimeforum/256420",
+"source": "Telegram: @maritimeforum",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-9e05d369cf2eb850",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "LPG",
+"salary": "for passing Hormuz",
+"joining": "November 2026",
+"email": "marvelmarinecrewing@gmail.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-10T14:27:55+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "URGENT HIRING: 2ND OFFICER FOR VLCC",
+"url": "https://t.me/marinejobs/43265",
+"source": "Telegram: @marinejobs",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-7d3923ea42cc35e1",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "VLCC",
+"salary": "€4,180 per month + €135 re-joi…",
+"joining": "bonus",
+"contract": "4+1 months",
+"email": "forcv@eurocrew-ua.com",
+"company": "eurocrew-ua.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-10T14:31:10+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "2ND OFFICER",
+"url": "https://t.me/marinejobs/43266",
+"source": "Telegram: @marinejobs",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-d2330583ac697315",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Tanker",
+"salary": "4180 € + 135 € joining bonus",
+"joining": "bonus",
+"contract": "4+1 months",
+"email": "forcv@eurocrew-ua.com",
+"company": "eurocrew-ua.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-10T14:33:29+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Seafarer Vacancies – Bahamas",
+"url": "https://t.me/marinejobs/43268",
+"source": "Telegram: @marinejobs",
+"found": [
+"chief officer",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-670382eb3f1343b5",
+"offshore": true,
+"info": {
+"rank": "Chief Officer / 2nd Officer / AB",
+"email": "elbek.juraev@selectoffshore.com",
+"company": "selectoffshore.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-10T15:03:15+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "SIA Astor Shipmanagement (part of Scorpio Group) is hiring!",
+"url": "https://t.me/crewingua/44873",
+"source": "Telegram: @crewingua",
+"found": [
+"2off"
+],
+"fp": "fp-cfa4c7231680b8bb",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Chemical tanker, Crude oil tanker",
+"email": "crewapplication@astorship.com",
+"company": "astorship.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-10T14:35:06+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "with good English",
+"url": "https://t.me/allcrewing/3809",
+"source": "Telegram: @allcrewing",
+"found": [
+"chief officer",
+"2nd off"
+],
+"fp": "fp-2d4d2436de5d6828",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer",
+"vessel": "General cargo",
+"salary": "6500 USD",
+"email": "cv@allcrew.net",
+"company": "allcrew.net"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-10T14:18:36+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "FOR  AHTS  DP1",
+"url": "https://t.me/JobForMariners/1202",
+"source": "Telegram: @JobForMariners",
+"found": [
+"2off"
+],
+"fp": "fp-9678f3b60e24c81c",
+"offshore": true,
+"info": {
+"rank": "2nd Officer / 3rd Officer",
+"vessel": "AHTS",
+"contract": "S  2+1",
+"salary": "$12500\n2"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-10T14:46:06+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "НА  LPG   17000  DWT",
+"url": "https://t.me/JobForMariners/1203",
+"source": "Telegram: @JobForMariners",
+"found": [
+"choff"
+],
+"fp": "fp-f5744e7268b991e2",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "LPG",
+"joining": "В   КОНЦЕ  НОЯБРЯ",
+"salary": "$13000\n"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-10T14:53:24+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-3548,
-3549,
-3550,
-3551,
-3552,
-3553,
-3554,
-3555,
-3556,
-3557,
-3558,
-3559,
-3560,
-3561,
-3562,
-3563,
-3564,
-3565,
-3566
+3567,
+3568,
+3569,
+3570,
+3571,
+3572,
+3573,
+3574,
+3575,
+3576,
+3577,
+3578,
+3579,
+3580,
+3581,
+3582,
+3583,
+3584,
+3585
 ],
-"last_list": "2026-11-10T14:16:24.478015+00:00",
-"cleared_upto": 3547,
-"last_msg_id": 3566
+"last_list": "2026-11-10T15:06:13.121086+00:00",
+"cleared_upto": 3566,
+"last_msg_id": 3585
 }
