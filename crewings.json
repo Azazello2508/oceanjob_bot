@@ -3690,13 +3690,13 @@
 "info.tma@tschudishipmanagement.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-09",
+"last": "2026-11-10",
 "links": {
 "crewell": "https://crewell.net/en/companies/64276/",
 "ukrcrewing": "https://ukrcrewing.com.ua/en/agency/alpha_crew"
 },
 "name": "AlphaCrew Maritime",
-"off": 468,
+"off": 471,
 "offshore_hint": true,
 "phones": [
 "+35726000899",
@@ -3731,7 +3731,7 @@
 "@Olga_Alpha_Crew",
 "@irina_alpha"
 ],
-"total": 506,
+"total": 509,
 "uk": 22,
 "vessels": [
 "Bulk",
@@ -6634,7 +6634,7 @@
 "hr@aspol-line.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-09",
+"last": "2026-11-10",
 "links": {},
 "name": "Balt Shipping",
 "off": 0,
@@ -6649,7 +6649,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 8,
+"total": 9,
 "vessels": [
 "General cargo"
 ],
@@ -7719,7 +7719,7 @@
 "ok@bluewaveshipping.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-09",
+"last": "2026-11-10",
 "links": {},
 "name": "ООО «СК «Голубая Волна»",
 "off": 0,
@@ -7731,7 +7731,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 10,
+"total": 11,
 "vessels": [
 "General cargo"
 ],
@@ -9201,7 +9201,7 @@
 "bsc-spb.com": {
 "address": "2 Liter-D, Vidanvskaya street",
 "city": "Saint-Petersburg",
-"co": 10,
+"co": 11,
 "country": "Russia",
 "emails": [
 "cd@bsc-spb.com",
@@ -9209,15 +9209,15 @@
 "ed@bsc-spb.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-09",
+"last": "2026-11-10",
 "links": {
 "crewell": "https://crewell.net/en/companies/48029/"
 },
 "name": "CHINA at New Times Shipbuilding Co Ltd",
-"off": 19,
+"off": 20,
 "offshore_hint": false,
 "phones": [],
-"so": 10,
+"so": 11,
 "sources": [
 "@maritimeforum",
 "@morehod_ru",
@@ -9225,7 +9225,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 38,
+"total": 40,
 "vessels": [
 "Bulk",
 "LPG/LNG",
@@ -13119,7 +13119,7 @@
 "crew@donneftetrans.ru"
 ],
 "first": "2026-11-09",
-"last": "2026-11-09",
+"last": "2026-11-10",
 "links": {},
 "name": "ООО \"Доннефтетранс\"",
 "off": 0,
@@ -13130,7 +13130,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 1,
+"total": 2,
 "vessels": [
 "Tanker"
 ],
@@ -13513,7 +13513,7 @@
 "ecoshp.ru": {
 "address": "",
 "city": "",
-"co": 14,
+"co": 15,
 "country": "",
 "emails": [
 "e.kievskaya@ecoshp.ru",
@@ -13533,7 +13533,7 @@
 "@vesselsea"
 ],
 "telegram": [],
-"total": 21,
+"total": 23,
 "vessels": [
 "General cargo"
 ],
@@ -19523,14 +19523,14 @@
 "karelkamen.ru": {
 "address": "",
 "city": "",
-"co": 10,
+"co": 11,
 "country": "",
 "emails": [
 "a.hlyst@karelkamen.ru",
 "k.vasileva@karelkamen.ru"
 ],
 "first": "2026-11-03",
-"last": "2026-11-09",
+"last": "2026-11-10",
 "links": {},
 "name": "ООО \"Белозерское пароходство\"",
 "off": 0,
@@ -19542,7 +19542,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 24,
+"total": 27,
 "vessels": [
 "Tug"
 ],
@@ -21905,10 +21905,10 @@
 "o.kotoban@marineman.eu"
 ],
 "first": "2026-11-03",
-"last": "2026-11-09",
+"last": "2026-11-10",
 "links": {},
 "name": "Why Marine",
-"off": 0,
+"off": 1,
 "offshore_hint": false,
 "phones": [
 "+380504944082",
@@ -21931,13 +21931,14 @@
 "@marinemanapply",
 "@rudomyotova"
 ],
-"total": 114,
+"total": 115,
 "vessels": [
 "Bulk",
 "Chemical",
 "Container",
 "General cargo",
 "LPG/LNG",
+"Offshore",
 "Passenger",
 "Reefer",
 "Ro-Ro/PCTC",
@@ -37750,7 +37751,7 @@
 "elena.kochemalkina@yandex.ru"
 ],
 "first": "2026-11-09",
-"last": "2026-11-09",
+"last": "2026-11-10",
 "links": {},
 "name": "ООО «Темп+»",
 "off": 0,
@@ -37765,7 +37766,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 3,
+"total": 4,
 "vessels": [
 "Chemical",
 "General cargo"
@@ -39513,7 +39514,7 @@
 "nkcrew@nkflot.ru"
 ],
 "first": "2026-11-03",
-"last": "2026-11-09",
+"last": "2026-11-10",
 "links": {},
 "name": "ООО \"НК-Флот\"",
 "off": 0,
@@ -39525,7 +39526,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 14,
+"total": 15,
 "vessels": [
 "Tanker",
 "Tug"
@@ -43252,6 +43253,35 @@
 "vessels": [],
 "website": "queensway-services.com"
 },
+"r-trans.ru": {
+"address": "",
+"city": "",
+"co": 0,
+"country": "",
+"emails": [
+"d.tkachenko@r-trans.ru"
+],
+"first": "2026-11-10",
+"last": "2026-11-10",
+"links": {},
+"name": "ООО \"Р-Транс ТК»",
+"off": 0,
+"offshore_hint": false,
+"phones": [
+"+79509875469"
+],
+"so": 0,
+"sources": [
+"@morehod_ru",
+"@rekamore_su"
+],
+"telegram": [],
+"total": 2,
+"vessels": [
+"Tug"
+],
+"website": ""
+},
 "radugashipping.com": {
 "address": "Thaleias. str 3",
 "city": "Limassol",
@@ -43841,7 +43871,7 @@
 "n.gunchenko@fersol.pro"
 ],
 "first": "2026-11-03",
-"last": "2026-11-09",
+"last": "2026-11-10",
 "links": {},
 "name": "ООО \"Роктри ВГК Стивидор\"",
 "off": 0,
@@ -43853,7 +43883,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 18,
+"total": 20,
 "vessels": [
 "Bulk"
 ],
@@ -44862,13 +44892,13 @@
 "sc-astrol.ru": {
 "address": "",
 "city": "",
-"co": 22,
+"co": 25,
 "country": "",
 "emails": [
 "personal@sc-astrol.ru"
 ],
 "first": "2026-11-03",
-"last": "2026-11-09",
+"last": "2026-11-10",
 "links": {},
 "name": "ООО \"СК \"",
 "off": 0,
@@ -44880,7 +44910,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 28,
+"total": 31,
 "vessels": [
 "General cargo",
 "Tanker"
@@ -47970,10 +48000,10 @@
 "vinfo@staff-service-expert.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-09",
+"last": "2026-11-10",
 "links": {},
 "name": "",
-"off": 33,
+"off": 34,
 "offshore_hint": false,
 "phones": [
 "+380937800894",
@@ -47991,7 +48021,7 @@
 "@supermariner_ua"
 ],
 "telegram": [],
-"total": 224,
+"total": 225,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -56626,6 +56656,7 @@
 "помор-сервис offline russian federation member since: nov 2016 no active vacancies судоходная компания имеющая собственный буксирный и коммерческий флот view profile": "name:помор-сервис offline russian federation member since: nov 2016 no active vacancies судоходная компания имеющая собственный буксирный и коммерческий флот view profile",
 "прайм шиппинг": "primeshipping.ru",
 "примтанко 01 07 2026 russian federation member since: jun 2026 no active vacancies view profile": "name:примтанко 01 07 2026 russian federation member since: jun 2026 no active vacancies view profile",
+"р-транс тк": "r-trans.ru",
 "работа на круизных лайнерах сша и европы offline russian federation member since: feb 2020 no active vacancies view profile": "name:работа на круизных лайнерах сша и европы offline russian federation member since: feb 2020 no active vacancies view profile",
 "река-море offline russian federation member since: nov 2016 no active vacancies морское агентство река-море основано в 1999 году за годы работы компания приобрела огромный опыт в сфере агентирования речных и морских судов проходящих порт ростов-на-д view profile": "name:река-море offline russian federation member since: nov 2016 no active vacancies морское агентство река-море основано в 1999 году за годы работы компания приобрела огромный опыт в сфере агентирования речных и морских судов проходящих порт ростов-на-д view profile",
 "рекаморе offline russian federation member since: apr 2023 no active vacancies view profile": "name:рекаморе offline russian federation member since: apr 2023 no active vacancies view profile",
@@ -56716,7 +56747,7 @@
 "Offshore_Vacancies": 913,
 "OnlyOffshore": 38909,
 "OnlyYacht": 2315,
-"SM_job_center": 2483,
+"SM_job_center": 2484,
 "SeaSeaWorks": 3934,
 "Sea_format": 12341,
 "TSMexp": 861,
@@ -56742,7 +56773,7 @@
 "marineman_ltd": 48347,
 "maritimeforum": 256313,
 "merchantNavyrealjob": 262,
-"morehod_ru": 30857,
+"morehod_ru": 30860,
 "oceancrewjobs": 32760,
 "offshoreatsea": 25164,
 "offshorecv": 1589,
@@ -56751,10 +56782,10 @@
 "olive_crew": 2919,
 "onboard_su": 20721,
 "pervoemorskoe": 4526,
-"rekamore_su": 164688,
+"rekamore_su": 164707,
 "roster_marine": 1737,
 "seajobfinder": 42317,
-"seamenjob": 106166,
+"seamenjob": 106168,
 "seamenvacancy": 1374,
 "seavacancies": 25204,
 "shipjobsindia": 420,

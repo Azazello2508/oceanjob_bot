@@ -158,16 +158,181 @@
 "repeat": true,
 "time": "2026-11-10T04:14:04+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "Компания ООО \"СК \"АСТРОЛ\" приглашает на работу:",
+"url": "https://t.me/rekamore_su/164691",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-ffa44d609bd2a117",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo",
+"salary": "352 000 рублей (на руки) + доп…",
+"joining": "в Санкт-Петербурге",
+"email": "personal@sc-astrol.ru",
+"company": "sc-astrol.ru"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-10T04:47:05+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Компания ООО \"БСК\" приглашает на работу:",
+"url": "https://t.me/rekamore_su/164692",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-581faddf70e49587",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo",
+"salary": "297 000 рублей (на руки) + доп…",
+"joining": "СРОЧНАЯ",
+"contract": "4 месяца",
+"email": "personal@sc-astrol.ru",
+"company": "sc-astrol.ru"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-10T04:47:09+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Компанию АО \"ПЕРСПЕКТИВА\" приглашает на работу:",
+"url": "https://t.me/rekamore_su/164693",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-9c534e949b4c3f5c",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Tanker",
+"salary": "315 000 рублей (на руки)",
+"joining": "начало декабря",
+"contract": "4 мес",
+"email": "personal@sc-astrol.ru",
+"company": "sc-astrol.ru"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-10T04:47:13+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Компания ООО \"Белозерское пароходство\" приглашает на работу:",
+"url": "https://t.me/rekamore_su/164694",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-dcbfe930100f274b",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Tug",
+"email": "k.vasileva@karelkamen.ru",
+"company": "karelkamen.ru"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-10T04:49:03+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Компания ООО НП «Балтийское Морское Пароходство» приглашает на работу:",
+"url": "https://t.me/rekamore_su/164699",
+"source": "Telegram: @rekamore_su",
+"found": [
+"2off"
+],
+"fp": "fp-12f2b92bbfaa1dd8",
+"offshore": true,
+"info": {
+"rank": "2nd Officer / 3rd Officer",
+"vessel": "Crude oil tanker",
+"salary": "2000 USD",
+"joining": "ASAP",
+"company": "ООО НП «Балтийское Морское Пароходс…"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-10T04:55:06+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Компания ООО НП «Балтийское Морское Пароходство» приглашает на работу:",
+"url": "https://t.me/rekamore_su/164700",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-53cb10282b74dc9f",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Reefer",
+"salary": "5 500 USD",
+"joining": "СРОЧНАЯ в Санкт-Петербурге",
+"contract": "4+1",
+"company": "ООО НП «Балтийское Морское Пароходс…"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-10T04:55:10+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Судоходная компания \"Eco Shipping\" приглашает на работу:",
+"url": "https://t.me/rekamore_su/164702",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-3e2be08a86d4c374",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo",
+"salary": "365 000 рублей",
+"joining": "ноябрь- декабрь",
+"contract": "5/5 ( +/-1)",
+"email": "e.kievskaya@ecoshp.ru",
+"company": "ecoshp.ru"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-10T04:57:08+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-3401,
-3402,
-3403,
-3404,
-3405
+3406,
+3407,
+3408,
+3409,
+3410,
+3411,
+3412,
+3413,
+3414
 ],
-"last_list": "2026-11-10T04:40:29.559185+00:00",
-"cleared_upto": 3400,
-"last_msg_id": 3405
+"last_list": "2026-11-10T05:30:38.501688+00:00",
+"cleared_upto": 3405,
+"last_msg_id": 3414
 }
