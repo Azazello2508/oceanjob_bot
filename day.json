@@ -3637,30 +3637,405 @@
 "repeat": false,
 "time": "2026-11-10T13:14:25+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "2nd Officer on Product tanker",
+"url": "https://crewell.net/en/vacancies/465631/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Product tanker"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-10T14:14:32.894099+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer on PCC (Pure Car Carrier)",
+"url": "https://crewell.net/en/vacancies/465625/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "PCTC"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-10T14:14:33.690783+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "C/OFF for HEAVY LIFT VSL",
+"url": "https://crewing.portalmorski.pl/en/sea-jobs/c-off-for-heavy-lift-vsl/",
+"source": "portalmorski.pl",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-10T14:15:22.185089+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "CHIEF OFFICER for LPG - EASTERN PACIFIC SHIPPING",
+"url": "https://crewing.portalmorski.pl/en/sea-jobs/chief-officer-for-oil-tanker-eastern-pacific-shipping/",
+"source": "portalmorski.pl",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "LPG",
+"company": "CHIEF OFFICER for LPG - EASTERN PAC…"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-10T14:15:23.673894+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer for Ro-Ro / Start November 20",
+"url": "https://crewing.portalmorski.pl/en/sea-jobs/chief-officer-for-ro-ro-start-november-20/",
+"source": "portalmorski.pl",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Ro-Ro"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-10T14:15:25.028060+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "OPEN POSITION:",
+"url": "https://t.me/maritimeforum/256368",
+"source": "Telegram: @maritimeforum",
+"found": [
+"2/o"
+],
+"fp": "fp-78259ce5a45f478a",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Product tanker",
+"joining": "January",
+"contract": "4 Month(s)",
+"salary": "4,200 USD",
+"email": "cv@ariesnav.com",
+"company": "ariesnav.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-10T13:47:31+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "WE NEED",
+"url": "https://t.me/maritimeforum/256388",
+"source": "Telegram: @maritimeforum",
+"found": [
+"2nd off"
+],
+"fp": "fp-0db076531784dfbb",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"joining": "January",
+"salary": "4200 USD",
+"email": "info@staff-service-expert.com",
+"company": "staff-service-expert.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-10T13:50:55+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "OFFSHORE OPPORTUNITIES – GREECE",
+"url": "https://t.me/maritimeforum/256391",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer",
+"second officer"
+],
+"fp": "fp-0d64fb28b7eecfe2",
+"offshore": true,
+"info": {
+"rank": "Chief Officer / 2nd Officer",
+"contract": "Approximately 3 months",
+"email": "sgilchrist@pg-global.com",
+"company": "pg-global.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-10T13:52:37+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "ONLY UKRAINIAN NATIONALITY",
+"url": "https://t.me/maritimeforum/256399",
+"source": "Telegram: @maritimeforum",
+"found": [],
+"fp": "fp-b26effe2a5f8e60b",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "LPG",
+"joining": "11th of November in Ravennа",
+"contract": "ready to depart tomorrow",
+"email": "ua-csc-ode-man@bs-shipmanagement.com",
+"company": "bs-shipmanagement.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-10T13:54:12+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Seafarer Vacancies – Bahamas",
+"url": "https://t.me/maritimeforum/256404",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-c1338e9866cb6292",
+"offshore": true,
+"info": {
+"rank": "Chief Officer / 2nd Officer / AB",
+"email": "elbek.juraev@selectoffshore.com",
+"company": "selectoffshore.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-10T13:56:12+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Cruise - Plumber",
+"url": "https://t.me/maritimeforum/256407",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-dacb0aa4ab748f12",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Crude oil tanker, Cruise",
+"joining": "in Tampa, Florida - so a US C1",
+"contract": "so this is a long term",
+"email": "AE-MISM-MHR-CV@angloeastern.com",
+"company": "angloeastern.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-10T13:57:08+00:00",
+"junior_dp": false
+},
+{
+"uk": "…ster / Multicat experience preferred • Valid UK Work Permit / FWP • Must be eligible to obtain an A1 For…",
+"title": "HIRING: CHIEF OFFICER | SHOALBUSTER / MULTICAT",
+"url": "https://t.me/maritimeforum/256409",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-b7417ac57b04594b",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"joining": "Flexible",
+"contract": "4-6 Weeks",
+"email": "israa.albsaisi@selectoffshore.com",
+"company": "selectoffshore.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-10T13:57:49+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "2nd Officer",
+"url": "https://t.me/marinejobs/43252",
+"source": "Telegram: @marinejobs",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-b26b4d332c40adc1",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Chemical tanker",
+"salary": "$4,000–5,000",
+"joining": "20 Nov 2026",
+"contract": "4 months ±1"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-10T13:29:33+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Vacancy for LPG Operations",
+"url": "https://t.me/marinejobs/43264",
+"source": "Telegram: @marinejobs",
+"found": [
+"chief officer"
+],
+"fp": "fp-0431dc087f8edafd",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "LPG",
+"joining": "11th of November in Ravenna",
+"contract": "Ready to depart tomorrow",
+"email": "ua-csc-ode-man@bs-shipmanagement.com",
+"company": "bs-shipmanagement.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-10T14:10:57+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "2ND OFFICER FOR VLCC",
+"url": "https://t.me/seamenjob/106189",
+"source": "Telegram: @seamenjob",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-ee93279e631c8070",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "VLCC",
+"salary": "4180 Euro + 135 Euro",
+"joining": "26.11.2026",
+"contract": "4+1",
+"email": "forcv@eurocrew-ua.com",
+"company": "eurocrew-ua.com"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-10T14:03:59+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "2ND OFFICER FOR OIL TANKER",
+"url": "https://t.me/seamenjob/106190",
+"source": "Telegram: @seamenjob",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-29e53f032f67b6b6",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Tanker",
+"salary": "4180 Euro + 135 Euro",
+"joining": "26.11.2026",
+"contract": "4+1",
+"email": "forcv@eurocrew-ua.com",
+"company": "eurocrew-ua.com"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-10T14:04:30+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "https://jobatsea.online/job/625349/chief-officer-for-ahts-aurora-challenger-at-osm-thome/",
+"url": "https://t.me/offshorevacancies/47173",
+"source": "Telegram: @offshorevacancies",
+"found": [
+"chief officer"
+],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "AHTS"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-10T13:44:48+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "FRC/DC Coxswain",
+"url": "https://t.me/offshoreatsea/25193",
+"source": "Telegram: @offshoreatsea",
+"found": [],
+"fp": "fp-f9eb425fe57d3094",
+"offshore": true,
+"info": {
+"rank": "AB",
+"contract": "4/4",
+"email": "shelly.mountain@crewingservices.co.uk",
+"company": "crewingservices.co.uk"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-10T14:09:09+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-3529,
-3530,
-3531,
-3532,
-3533,
-3534,
-3535,
-3536,
-3537,
-3538,
-3539,
-3540,
-3541,
-3542,
-3543,
-3544,
-3545,
-3546,
-3547
+3548,
+3549,
+3550,
+3551,
+3552,
+3553,
+3554,
+3555,
+3556,
+3557,
+3558,
+3559,
+3560,
+3561,
+3562,
+3563,
+3564,
+3565,
+3566
 ],
-"last_list": "2026-11-10T13:26:24.048985+00:00",
-"cleared_upto": 3528,
-"last_msg_id": 3547
+"last_list": "2026-11-10T14:16:24.478015+00:00",
+"cleared_upto": 3547,
+"last_msg_id": 3566
 }
