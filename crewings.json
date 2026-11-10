@@ -7315,7 +7315,7 @@
 "last": "2026-11-10",
 "links": {},
 "name": "Area Mauritania Offshore Marine",
-"off": 74,
+"off": 75,
 "offshore_hint": false,
 "phones": [
 "+380487774163",
@@ -7337,7 +7337,7 @@
 "@seajobfinder"
 ],
 "telegram": [],
-"total": 91,
+"total": 92,
 "uk": 4,
 "vessels": [
 "Dredger",
@@ -8796,26 +8796,30 @@
 "co": 0,
 "country": "Netherlands",
 "emails": [
+"cv@boreasmaritime.com",
 "el@boreasmaritime.com",
 "fr@boreasmaritime.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-03",
+"last": "2026-11-10",
 "links": {
 "crewell": "https://crewell.net/en/companies/115283/"
 },
 "name": "Boreas Maritime",
-"off": 0,
+"off": 2,
 "offshore_hint": false,
 "phones": [],
 "so": 0,
 "sources": [
+"@OnlyOffshore",
 "@Sea_format",
+"@seajobfinder",
 "crewell.net"
 ],
 "telegram": [],
-"total": 1,
+"total": 3,
 "vessels": [
+"Offshore",
 "Tug"
 ],
 "website": "boreasmaritime.com"
@@ -9208,7 +9212,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 352,
+"total": 356,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -11600,7 +11604,7 @@
 "@shipscreweu"
 ],
 "telegram": [],
-"total": 53,
+"total": 56,
 "vessels": [
 "Offshore"
 ],
@@ -12277,7 +12281,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 22,
+"total": 23,
 "vessels": [
 "Chemical",
 "Dredger",
@@ -14035,7 +14039,7 @@
 "recruitment@epsilonhellas.com.ua"
 ],
 "first": "2026-11-03",
-"last": "2026-11-09",
+"last": "2026-11-10",
 "links": {},
 "name": "EPSILON MARITIME SERVICES LTD",
 "off": 6,
@@ -14056,7 +14060,7 @@
 "@supermariner_ua"
 ],
 "telegram": [],
-"total": 27,
+"total": 28,
 "vessels": [
 "Bulk",
 "Container",
@@ -20346,15 +20350,16 @@
 "co": 0,
 "country": "",
 "emails": [
+"jobs@kuiper-group.com",
 "merecruitment@kuiper-group.com",
 "sagustin@kuiper-group.com",
 "𝗠𝗘𝗿𝗲𝗰𝗿𝘂𝗶𝘁𝗺𝗲𝗻𝘁@kuiper-group.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-03",
+"last": "2026-11-10",
 "links": {},
 "name": "Assistant Marine",
-"off": 5,
+"off": 7,
 "offshore_hint": false,
 "phones": [],
 "so": 0,
@@ -20366,7 +20371,7 @@
 "@oilrigs"
 ],
 "telegram": [],
-"total": 6,
+"total": 8,
 "vessels": [
 "Offshore"
 ],
@@ -41544,7 +41549,7 @@
 "crewell": "https://crewell.net/en/companies/168202/"
 },
 "name": "ORCA Crew Services",
-"off": 116,
+"off": 117,
 "offshore_hint": false,
 "phones": [
 "+38551336497"
@@ -41565,7 +41570,7 @@
 "@seajobfinder"
 ],
 "telegram": [],
-"total": 154,
+"total": 157,
 "uk": 11,
 "vessels": [
 "Dredger",
@@ -48369,7 +48374,7 @@
 "@supermariner_ua"
 ],
 "telegram": [],
-"total": 234,
+"total": 236,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -49613,7 +49618,7 @@
 "cv@tbc-shipmanagement.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-09",
+"last": "2026-11-10",
 "links": {
 "crewell": "https://crewell.net/en/companies/85389/"
 },
@@ -49626,14 +49631,18 @@
 ],
 "so": 4,
 "sources": [
+"@CREW_ARIA",
+"@Merchant_Fleet",
 "@SM_job_center",
 "@cvsenderseaman",
 "@maritimeforum",
 "@supermariner_ua",
 "crewell.net"
 ],
-"telegram": [],
-"total": 23,
+"telegram": [
+"@TBC_Crew"
+],
+"total": 25,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -49810,7 +49819,7 @@
 "techmarine.com.ua": {
 "address": "Shevchenko av., 4d. Off. 42,",
 "city": "Odesa",
-"co": 3,
+"co": 4,
 "country": "Ukraine",
 "emails": [
 "crew@techmarine.com.ua"
@@ -49836,7 +49845,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 31,
+"total": 34,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -56330,6 +56339,7 @@
 "operations": "sa-world.com",
 "opl tankers dmcc offline united arab emirates member since: feb 2024 no active vacancies view profile": "name:opl tankers dmcc offline united arab emirates member since: feb 2024 no active vacancies view profile",
 "optima crewing services": "optimacrew.com",
+"orc crew services": "orca-crew.com",
 "orca crew services": "orca-crew.com",
 "orca ms group": "orcamsg.com",
 "ortelius": "ortelius.lt",
@@ -57153,16 +57163,16 @@
 "queue": [],
 "tg_hw": {
 "ALPHACREW": 3574,
-"BSMCSCUKRAINE": 4347,
-"CREW_ARIA": 14057,
+"BSMCSCUKRAINE": 4351,
+"CREW_ARIA": 14059,
 "Crew_Radar": 3291,
 "JobForMariners": 1203,
-"Merchant_Fleet": 608,
+"Merchant_Fleet": 609,
 "OffshoreFleetJob": 11065,
 "Offshore_Vacancies": 922,
-"OnlyOffshore": 38940,
+"OnlyOffshore": 38944,
 "OnlyYacht": 2316,
-"SM_job_center": 2485,
+"SM_job_center": 2486,
 "SeaSeaWorks": 3934,
 "Sea_format": 12343,
 "TSMexp": 861,
@@ -57183,24 +57193,24 @@
 "job_for_seaman": 17043,
 "jobfor_seamen": 12702,
 "marinecareerorg": 17758,
-"marinejobs": 43268,
+"marinejobs": 43270,
 "marinejobz": 194156,
 "marineman_ltd": 48352,
 "maritimeforum": 256420,
 "merchantNavyrealjob": 262,
 "morehod_ru": 30884,
 "oceancrewjobs": 32767,
-"offshoreatsea": 25194,
+"offshoreatsea": 25197,
 "offshorecv": 1591,
-"offshorevacancies": 47178,
+"offshorevacancies": 47179,
 "oilrigs": 778,
 "olive_crew": 2926,
 "onboard_su": 20726,
 "pervoemorskoe": 4526,
 "rekamore_su": 164800,
 "roster_marine": 1738,
-"seajobfinder": 42356,
-"seamenjob": 106192,
+"seajobfinder": 42360,
+"seamenjob": 106193,
 "seamenvacancy": 1375,
 "seavacancies": 25209,
 "shipjobsindia": 420,
