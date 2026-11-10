@@ -319,20 +319,197 @@
 "repeat": true,
 "time": "2026-11-10T04:57:08+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "Position:",
+"url": "https://t.me/CREW_ARIA/14048",
+"source": "Telegram: @CREW_ARIA",
+"found": [
+"chief officer"
+],
+"fp": "fp-2a853d4b357c8ffb",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "AHT, Tug",
+"contract": "6 weeks onoff long term",
+"salary": "350 €",
+"email": "dr@offshore-operations.com",
+"company": "offshore-operations.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-10T05:43:02+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Компания ГК \"ОТЭКО\" приглашает на  работу:",
+"url": "https://t.me/rekamore_su/164710",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-105216998cd5ccaa",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Tug",
+"email": "e.davydenko@oteko.ru",
+"company": "oteko.ru"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-10T05:31:03+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Компания ООО “Трансоптимал СПБ” приглашает на работу:",
+"url": "https://t.me/rekamore_su/164712",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-066718d61188db07",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "LNG, General cargo",
+"salary": "124 870 рублей (чистыми на рук…",
+"joining": "❗️",
+"email": "transoptimalng@mail.ru",
+"company": "️ Компания ООО “Трансоптимал СПБ”"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-10T05:33:04+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Компания ООО “Трэвелер Шиппинг” приглашает на работу:",
+"url": "https://t.me/rekamore_su/164715",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-42888872d2f67410",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Chemical tanker",
+"joining": "❗️",
+"email": "gavrilova_o@astonfleet.com",
+"company": "astonfleet.com"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-10T05:35:09+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Компания \"Alteam Crewing\" приглашает на работу:",
+"url": "https://t.me/rekamore_su/164716",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-eb617132ec0a9184",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"salary": "4 000 $",
+"contract": "4 месяца",
+"email": "alteam@crew-alteam.com",
+"company": "crew-alteam.com"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-10T05:36:03+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Компания  “Инмортерминал” приглашает на работу:",
+"url": "https://t.me/rekamore_su/164720",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-f2075f0a0ec16e58",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Tanker",
+"salary": "418 252 рублей на руки, 480 99…"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-10T05:39:07+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Компания ООО “ТК Северный проект” приглашает на работу:",
+"url": "https://t.me/rekamore_su/164727",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-ebeb13f3c616dd74",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo",
+"salary": "360 000 рублей ежемесячно + от…",
+"joining": "срочная",
+"contract": "4 месяца",
+"email": "rabota@ashipping.ru",
+"company": "ashipping.ru"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-10T06:20:10+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "New Senior Officers vacancies",
+"url": "https://t.me/seavacancies/25205",
+"source": "Telegram: @seavacancies",
+"found": [
+"chief officer"
+],
+"fp": "fp-081943931e27b435",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "LPG, Chemical tanker",
+"joining": "ASAP",
+"salary": "$12,500"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-10T06:03:02+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-3406,
-3407,
-3408,
-3409,
-3410,
-3411,
-3412,
-3413,
-3414
+3415,
+3416,
+3417,
+3418,
+3419,
+3420,
+3421,
+3422,
+3423,
+3424
 ],
-"last_list": "2026-11-10T05:30:38.501688+00:00",
-"cleared_upto": 3405,
-"last_msg_id": 3414
+"last_list": "2026-11-10T06:20:50.105133+00:00",
+"cleared_upto": 3414,
+"last_msg_id": 3424
 }
