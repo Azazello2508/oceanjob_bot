@@ -5796,19 +5796,20 @@
 "crewdep@ark-shipping.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-10",
+"last": "2026-11-11",
 "links": {},
 "name": "",
-"off": 11,
+"off": 12,
 "offshore_hint": false,
 "phones": [],
 "so": 0,
 "sources": [
 "@morehod_ru",
-"@rekamore_su"
+"@rekamore_su",
+"@seamenjob"
 ],
 "telegram": [],
-"total": 34,
+"total": 35,
 "vessels": [
 "General cargo",
 "Offshore",
@@ -9643,7 +9644,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 2,
+"total": 3,
 "vessels": [],
 "website": ""
 },
@@ -17971,7 +17972,7 @@
 "ihor.graffmarine@gmail.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-10",
+"last": "2026-11-11",
 "links": {},
 "name": "",
 "off": 1,
@@ -17984,10 +17985,11 @@
 "@CREW_ARIA",
 "@Merchant_Fleet",
 "@Offshore_Vacancies",
-"@job_for_seaman"
+"@job_for_seaman",
+"@marinejobs"
 ],
 "telegram": [],
-"total": 8,
+"total": 10,
 "vessels": [
 "Bulk",
 "Container",
@@ -18895,7 +18897,7 @@
 "yulia.voronina@iqrewing.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-09",
+"last": "2026-11-11",
 "links": {
 "crewell": "https://crewell.net/en/companies/216389/"
 },
@@ -18923,7 +18925,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 44,
+"total": 46,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -22448,7 +22450,7 @@
 "soikher.n@marinetec.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-09",
+"last": "2026-11-11",
 "links": {},
 "name": "",
 "off": 0,
@@ -22462,7 +22464,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 9,
+"total": 11,
 "vessels": [
 "General cargo"
 ],
@@ -22471,24 +22473,26 @@
 "mariniaqatar.com": {
 "address": "",
 "city": "",
-"co": 0,
+"co": 2,
 "country": "",
 "emails": [
 "crewing@mariniaqatar.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-03",
+"last": "2026-11-11",
 "links": {},
 "name": "",
-"off": 1,
+"off": 8,
 "offshore_hint": false,
 "phones": [],
-"so": 0,
+"so": 1,
 "sources": [
-"@Sea_format"
+"@Sea_format",
+"@cvsenderseaman",
+"@offshoreatsea"
 ],
 "telegram": [],
-"total": 1,
+"total": 8,
 "vessels": [
 "Offshore"
 ],
@@ -40410,7 +40414,7 @@
 "north-alliance.com": {
 "address": "",
 "city": "",
-"co": 14,
+"co": 16,
 "country": "",
 "emails": [
 "vacancy@north-alliance.com"
@@ -40431,7 +40435,7 @@
 "@vesselsea"
 ],
 "telegram": [],
-"total": 71,
+"total": 73,
 "vessels": [
 "Offshore",
 "Passenger",
@@ -41788,7 +41792,7 @@
 "hloy@atlasnextwave.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-10",
+"last": "2026-11-11",
 "links": {
 "crewell": "https://crewell.net/en/companies/168202/"
 },
@@ -41814,7 +41818,7 @@
 "@seajobfinder"
 ],
 "telegram": [],
-"total": 159,
+"total": 160,
 "uk": 11,
 "vessels": [
 "Dredger",
@@ -43926,7 +43930,7 @@
 "raymarinecrewing.com": {
 "address": "",
 "city": "Odessa",
-"co": 85,
+"co": 87,
 "country": "Ukraine",
 "emails": [
 "crew@raymarinecrewing.com",
@@ -43973,7 +43977,7 @@
 "@DaniilPRayMarine",
 "@anastasiaChRayMarine"
 ],
-"total": 221,
+"total": 223,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -44811,12 +44815,12 @@
 "crewing@sailinga.lt"
 ],
 "first": "2026-11-03",
-"last": "2026-11-06",
+"last": "2026-11-11",
 "links": {
 "crewell": "https://crewell.net/en/companies/265326/"
 },
 "name": "Ryan Ship Management Pvt. Ltd",
-"off": 103,
+"off": 106,
 "offshore_hint": true,
 "phones": [
 "+40750898682",
@@ -44824,7 +44828,7 @@
 "+918879641818",
 "+918879970031"
 ],
-"so": 10,
+"so": 12,
 "sources": [
 "@CREW_ARIA",
 "@OffshoreFleetJob",
@@ -44840,7 +44844,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 109,
+"total": 112,
 "uk": 2,
 "vessels": [
 "Bulk",
@@ -46410,8 +46414,9 @@
 "@cvsenderseaman"
 ],
 "telegram": [],
-"total": 1,
+"total": 2,
 "vessels": [
+"Bulk",
 "General cargo"
 ],
 "website": ""
@@ -47225,7 +47230,7 @@
 "selectoffshore.com": {
 "address": "68 Lombard Street",
 "city": "London",
-"co": 60,
+"co": 61,
 "country": "United Kingdom",
 "emails": [
 "aaliyah.thurkettle@selectoffshore.com",
@@ -47238,12 +47243,12 @@
 "application@maritime.pl"
 ],
 "first": "2026-11-03",
-"last": "2026-11-10",
+"last": "2026-11-11",
 "links": {
 "crewell": "https://crewell.net/en/companies/64960/"
 },
 "name": "Advance Global Recruitment Ltd",
-"off": 374,
+"off": 378,
 "offshore_hint": false,
 "phones": [],
 "so": 45,
@@ -47262,7 +47267,7 @@
 "@marinejobs"
 ],
 "telegram": [],
-"total": 375,
+"total": 379,
 "uk": 52,
 "vessels": [
 "Bulk",
@@ -50809,12 +50814,12 @@
 "ben.shaw@selectoffshore.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-10",
+"last": "2026-11-11",
 "links": {
 "crewell": "https://crewell.net/en/companies/194804/"
 },
 "name": "Transport & Offshore Services Ukraine",
-"off": 151,
+"off": 152,
 "offshore_hint": false,
 "phones": [
 "+380672802995"
@@ -50835,7 +50840,7 @@
 "@offshoreatsea"
 ],
 "telegram": [],
-"total": 173,
+"total": 174,
 "uk": 8,
 "vessels": [
 "Bulk",
@@ -51498,19 +51503,19 @@
 "udyashipping.com": {
 "address": "Belapur",
 "city": "Mumbai",
-"co": 1,
+"co": 2,
 "country": "India",
 "emails": [
 "crew3@udyashipping.com",
 "crew6@udyashipping.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-09",
+"last": "2026-11-11",
 "links": {
 "crewell": "https://crewell.net/en/companies/208402/"
 },
 "name": "UDYA SHIPPING SERVICES PVT. LTD",
-"off": 10,
+"off": 14,
 "offshore_hint": false,
 "phones": [
 "+919326626527"
@@ -51526,7 +51531,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 13,
+"total": 17,
 "vessels": [
 "Container",
 "Offshore",
@@ -53321,7 +53326,7 @@
 "tturygina@vodohod.ru"
 ],
 "first": "2026-11-03",
-"last": "2026-11-10",
+"last": "2026-11-11",
 "links": {},
 "name": "ООО «ВодоходЪ»",
 "off": 0,
@@ -53333,7 +53338,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 52,
+"total": 58,
 "vessels": [],
 "website": ""
 },
@@ -55976,6 +55981,7 @@
 "costamare": "costamare.com",
 "create maritime": "marineman.eu",
 "crew agency akkerman": "crew-akkerman.com",
+"crew boat ryan shipmanagement": "ryanship.com",
 "crew manning": "crewmanning.bg",
 "crewingcom offline russian federation member since: feb 2018 no active vacancies we would like to introduce our maritime crewing agency crewingcom located in krasnodar city - near ports of novorossiysk/ tuapse/ sochi/ port kavkaz/ kerch black sea and view profile": "name:crewingcom offline russian federation member since: feb 2018 no active vacancies we would like to introduce our maritime crewing agency crewingcom located in krasnodar city - near ports of novorossiysk/ tuapse/ sochi/ port kavkaz/ kerch black sea and view profile",
 "crewmembership offline moldova republic of member since: may 2023 no active vacancies view profile": "name:crewmembership offline moldova republic of member since: may 2023 no active vacancies view profile",
@@ -57540,38 +57546,38 @@
 "allcrewing": 3809,
 "andreeyVstart": 1393,
 "balticcareer": 5569,
-"crewingua": 44881,
+"crewingua": 44883,
 "crs_vacancies": 3554,
 "cruiseshipjobs": 3,
 "cvcrewcom": 12896,
-"cvsenderseaman": 15917,
-"ecrewing": 3183,
+"cvsenderseaman": 15921,
+"ecrewing": 3184,
 "findseajobs": 32567,
 "galaxymaritimeua": 1250,
 "gm_seaman_cv": 2695,
 "help_seafarers": 4889,
 "ismira_agency": 440,
-"job_for_seaman": 17043,
+"job_for_seaman": 17045,
 "jobfor_seamen": 12702,
 "marinecareerorg": 17759,
-"marinejobs": 43278,
+"marinejobs": 43279,
 "marinejobz": 194156,
 "marineman_ltd": 48360,
 "maritimeforum": 256551,
 "merchantNavyrealjob": 262,
-"morehod_ru": 30895,
+"morehod_ru": 30898,
 "oceancrewjobs": 32772,
-"offshoreatsea": 25197,
-"offshorecv": 1591,
-"offshorevacancies": 47181,
+"offshoreatsea": 25213,
+"offshorecv": 1592,
+"offshorevacancies": 47183,
 "oilrigs": 778,
 "olive_crew": 2926,
 "onboard_su": 20731,
 "pervoemorskoe": 4527,
-"rekamore_su": 164874,
+"rekamore_su": 164885,
 "roster_marine": 1739,
 "seajobfinder": 42363,
-"seamenjob": 106198,
+"seamenjob": 106200,
 "seamenvacancy": 1375,
 "seavacancies": 25212,
 "shipjobsindia": 420,
@@ -57579,7 +57585,7 @@
 "sidantey": 399,
 "supermariner_ua": 3896,
 "truemalina_offshore": 809,
-"ukrcrewing_official": 2382,
+"ukrcrewing_official": 2383,
 "univis_crewing": 5016,
 "vesselsea": 3129,
 "vshipsoffshore": 1070

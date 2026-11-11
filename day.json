@@ -881,6 +881,269 @@
 "repeat": true,
 "time": "2026-11-11T07:20:02+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "2nd Officer on MPSV DP3",
+"url": "https://crewell.net/en/vacancies/465707/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "2nd Officer",
+"vessel": "PSV, MPSV"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-11T07:55:18.271759+00:00"
+},
+{
+"uk": "UK в названии вакансии",
+"title": "Need crew for CTV (UK/EU)",
+"url": "https://oceancrew.org/vacancies/offshore/full-crew/need-crew-for-ctv-ukeu_11-11-2026",
+"source": "oceancrew.org",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"company": "Need crew for CTV (UK/EU) need crew…"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-11T07:55:39.823191+00:00"
+},
+{
+"uk": "",
+"title": "VACANCY: SECOND ENGINEER",
+"url": "https://t.me/crewingua/44882",
+"source": "Telegram: @crewingua",
+"found": [
+"chief officer"
+],
+"fp": "fp-fd0124fa877b6847",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Bulk carrier",
+"salary": "8500",
+"joining": "Asap",
+"contract": "4 +/- 1 months",
+"email": "crew@raymarinecrewing.com",
+"tg": "AnastasiaKRayMarine",
+"company": "raymarinecrewing.com"
+},
+"new": true,
+"repeat": true,
+"time": "2026-11-11T07:41:03+00:00"
+},
+{
+"uk": "…th-excavator-operators-experience-with-valid-uk-work-permit-at-tos-energy-maritime-crew/ Crane Operator…",
+"title": "https://jobatsea.online/job/625378/crane-operator-with-excavator-operators-experience-with-valid-uk-work-permit-at-tos-energy-maritime-crew/",
+"url": "https://t.me/offshorevacancies/47182",
+"source": "Telegram: @offshorevacancies",
+"found": [],
+"fp": "fp-9fd1054e811a8cff",
+"offshore": true,
+"info": {
+"company": "https://jobatsea.online/job/625378/…"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-11T07:36:09+00:00"
+},
+{
+"uk": "",
+"title": "Компания “Северный Альянс” приглашает на работу:",
+"url": "https://t.me/rekamore_su/164883",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-537df7273f2c8ade",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Tug",
+"salary": "330 750 р. (на руки)",
+"joining": "СРОЧНАЯ (переход в Марокко)",
+"email": "vacancy@north-alliance.com",
+"company": "north-alliance.com"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-11T07:44:26+00:00"
+},
+{
+"uk": "",
+"title": "Tanker Fleet Vacancies",
+"url": "https://t.me/ukrcrewing_official/2383",
+"source": "Telegram: @ukrcrewing_official",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-df5e6ffea2b5cd8d",
+"offshore": false,
+"info": {
+"rank": "2nd Officer / 3rd Officer",
+"vessel": "LPG, Chemical tanker",
+"salary": "7500 $"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-11T07:44:28+00:00"
+},
+{
+"uk": "",
+"title": "Chief Mate DPO",
+"url": "https://t.me/offshoreatsea/25200",
+"source": "Telegram: @offshoreatsea",
+"found": [
+"chief mate",
+"sdpo",
+"dpo"
+],
+"fp": "fp-0ee78d4572a12a4b",
+"offshore": true,
+"info": {
+"rank": "Chief Officer / SDPO",
+"vessel": "PSV",
+"email": "elbek.juraev@selectoffshore.com",
+"company": "selectoffshore.com"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-11T07:30:07+00:00"
+},
+{
+"uk": "",
+"title": "Second Officer",
+"url": "https://t.me/offshoreatsea/25202",
+"source": "Telegram: @offshoreatsea",
+"found": [
+"second officer"
+],
+"fp": "fp-08fec767f544077d",
+"offshore": true,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Crew boat",
+"email": "applications@ryanship.com",
+"company": "ryanship.com"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-11T07:30:07+00:00"
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://t.me/offshoreatsea/25204",
+"source": "Telegram: @offshoreatsea",
+"found": [
+"chief officer"
+],
+"fp": "fp-f8fc27f20d133f3e",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "DSV",
+"contract": "03 Months ON / 01 Month O",
+"email": "crew6@udyashipping.com",
+"company": "udyashipping.com"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-11T07:30:11+00:00"
+},
+{
+"uk": "",
+"title": "Approved ADNOC Master for Jackup Barge",
+"url": "https://t.me/offshoreatsea/25208",
+"source": "Telegram: @offshoreatsea",
+"found": [
+"sdpo",
+"dpo"
+],
+"fp": "fp-6ac3cac53a638d53",
+"offshore": true,
+"info": {
+"rank": "SDPO",
+"vessel": "Jack-up, Barge",
+"email": "Crewing@mariniaqatar.com",
+"company": "mariniaqatar.com"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-11T07:41:25+00:00"
+},
+{
+"uk": "",
+"title": "Approved ADNOC Chief Officer for Jackup Barge",
+"url": "https://t.me/offshoreatsea/25209",
+"source": "Telegram: @offshoreatsea",
+"found": [
+"chief officer",
+"sdpo",
+"dpo"
+],
+"fp": "fp-482caa09e552257c",
+"offshore": true,
+"info": {
+"rank": "Chief Officer / SDPO",
+"vessel": "Jack-up, Barge",
+"email": "Crewing@mariniaqatar.com",
+"company": "mariniaqatar.com"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-11T07:41:25+00:00"
+},
+{
+"uk": "",
+"title": "2nd Officer - DPO",
+"url": "https://t.me/offshoreatsea/25210",
+"source": "Telegram: @offshoreatsea",
+"found": [
+"chief officer",
+"2nd officer",
+"dpo",
+"2nd off"
+],
+"fp": "fp-d1981f40c58a340d",
+"offshore": true,
+"info": {
+"rank": "Chief Officer / 2nd Officer / DPO",
+"vessel": "Jack-up, Barge",
+"email": "Crewing@mariniaqatar.com",
+"company": "mariniaqatar.com"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-11T07:41:26+00:00"
+},
+{
+"uk": "",
+"title": "SECOND OFFICER",
+"url": "https://t.me/cvsenderseaman/15919",
+"source": "Telegram: @cvsenderseaman",
+"found": [
+"second officer"
+],
+"fp": "fp-3c59c0d84a4c6baa",
+"offshore": true,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Crew boat",
+"salary": "Negotiable",
+"joining": "30/11/2026",
+"email": "applications@ryanship.com",
+"company": "ryanship.com"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-11T07:40:15+00:00"
 }
 ],
 "msg_ids": [
