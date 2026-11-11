@@ -2363,6 +2363,440 @@
 "repeat": false,
 "time": "2026-11-11T10:20:09+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://seajobs.ru/ru/vacancy/18133/chief-officer-container-ship",
+"source": "seajobs.ru",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Container"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-11T11:14:41.123992+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer for DSV DP2",
+"url": "https://oceancrew.org/vacancies/offshore/chief-officer/chief-officer-for-dsv-dp2-2_11-11-2026",
+"source": "oceancrew.org",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "DSV"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-11T11:14:50.033364+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer for Tug Boat",
+"url": "https://oceancrew.org/vacancies/offshore/chief-officer/chief-officer-for-tug-boat-3_11-11-2026",
+"source": "oceancrew.org",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Tug"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-11T11:14:51.431007+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Master, Chief Officer, Engineer, ETO Jobs on Bulk Carrier STM SHIP MANAGEMENT PVT LTD",
+"url": "https://maritime-union.com/job/232783",
+"source": "maritime-union.com",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Bulk carrier",
+"company": "Master, Chief Officer, Engineer, ET…"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-11T11:14:56.534318+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer Job - Chemical/Oil Products Tanker Marine and Off Shore Recruitment. CSM Manning Agency",
+"url": "https://maritime-union.com/job/232805",
+"source": "maritime-union.com",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Chemical tanker",
+"company": "Chief Officer Job - Chemical/Oil Pr…"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-11T11:14:57.078118+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "2nd Officer Job on Crude Oil Tanker CSM Manning Agency",
+"url": "https://maritime-union.com/job/232801",
+"source": "maritime-union.com",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Crude oil tanker"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-11T11:14:57.941946+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "2nd Officer DPO Job on DSV offshorecareer",
+"url": "https://maritime-union.com/job/232812",
+"source": "maritime-union.com",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "2nd Officer / DPO",
+"vessel": "DSV"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-11T11:14:58.847568+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "CHIEF OFFICER – OFFSHORE PIPELAY VESSEL",
+"url": "https://crewing.portalmorski.pl/en/sea-jobs/chief-officer-offshore-pipelay-vessel/",
+"source": "portalmorski.pl",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "Chief Officer"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-11T11:15:19.655520+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "C/O with experience on Bulk vessels",
+"url": "https://www.ainostri.ro/oferte/maritim/c-o-with-experience-on-bulk-vessels-14145",
+"source": "ainostri.ro",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Bulk carrier"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-11T11:15:23.249693+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "2/O with experience on Bulk vessels",
+"url": "https://www.ainostri.ro/oferte/maritim/2-o-with-experience-on-bulk-vessels-14147",
+"source": "ainostri.ro",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Bulk carrier"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-11T11:15:23.658777+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "URGENT OPENINGS // CHEMICAL/OIL PRODUCTS Tanker Рассмотрим в старт с чистым паспортом моряка Only Ukrainian",
+"url": "https://t.me/maritimeforum/256585",
+"source": "Telegram: @maritimeforum",
+"found": [
+"старший помощник"
+],
+"fp": "fp-a29c27e30433f8b2",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Chemical tanker",
+"salary": "(100% бонус за нахождение в зо…"
+},
+"new": true,
+"repeat": true,
+"time": "2026-11-11T10:52:42+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "NEW PCTC VESSEL | DUAL FUEL | SENIOR OFFICERS",
+"url": "https://t.me/maritimeforum/256591",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-75b0041729fc4400",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Ro-Ro, PCTC",
+"joining": "end of November 2026 -beg of D",
+"email": "forcv@csm-ua.com",
+"company": "csm-ua.com"
+},
+"new": true,
+"repeat": true,
+"time": "2026-11-11T11:01:15+00:00",
+"junior_dp": false
+},
+{
+"uk": "…could be your next step! Requirements Valid UK work permit Engine Room Able Seafarer Rating (STCW) III/…",
+"title": "Bosun | AHTS | Singapore",
+"url": "https://t.me/maritimeforum/256592",
+"source": "Telegram: @maritimeforum",
+"found": [],
+"fp": "fp-4942d9c0ee47b90e",
+"offshore": true,
+"info": {
+"rank": "3rd Officer",
+"vessel": "AHTS, Dredger",
+"joining": "13 Dec",
+"contract": "6W (-/+2W)",
+"email": "rs@offshore-operations.com",
+"company": "offshore-operations.com"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-11T11:03:32+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "WE NEED",
+"url": "https://t.me/maritimeforum/256593",
+"source": "Telegram: @maritimeforum",
+"found": [
+"2nd off"
+],
+"fp": "fp-8d392d24451ecac1",
+"offshore": false,
+"info": {
+"rank": "2nd Officer / 3rd Officer / AB",
+"joining": "ASAP",
+"salary": "4200-4500 USD",
+"email": "info@staff-service-expert.com",
+"company": "staff-service-expert.com"
+},
+"new": true,
+"repeat": true,
+"time": "2026-11-11T11:04:22+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "WILSON URGENT VACANCIES for Ukrainian citizens only",
+"url": "https://t.me/crewingua/44891",
+"source": "Telegram: @crewingua",
+"found": [
+"chief officer",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-14337007aaf0ac6a",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer / AB",
+"vessel": "General cargo",
+"email": "wca.odessa@wilsonship.no",
+"company": "wilsonship.no"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-11T10:36:03+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "DRY CARGO FLEET - Bulk Carrier",
+"url": "https://t.me/crewingua/44892",
+"source": "Telegram: @crewingua",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-4647d67c58f54ae3",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Bulk carrier",
+"joining": "End of November",
+"salary": "3.800-4.000$",
+"email": "crew@oceanodyssey.com.ua",
+"company": "oceanodyssey.com.ua"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-11T10:38:49+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "DRY CARGO FLEET - Bulk Carrier",
+"url": "https://t.me/crewingua/44895",
+"source": "Telegram: @crewingua",
+"found": [
+"chief officer"
+],
+"fp": "fp-73546fe8d3e27a7f",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Bulk carrier",
+"joining": "ASAP",
+"salary": "7.000 - 7.200$",
+"email": "crew@oceanodyssey.com.ua",
+"company": "oceanodyssey.com.ua"
+},
+"new": true,
+"repeat": true,
+"time": "2026-11-11T10:40:17+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "DRY CARGO FLEET - Container",
+"url": "https://t.me/crewingua/44896",
+"source": "Telegram: @crewingua",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-9e81802d26f3cae4",
+"offshore": false,
+"info": {
+"rank": "2nd Officer / 3rd Officer",
+"vessel": "Container",
+"joining": "End of November",
+"salary": "3.800 - 4.000$",
+"email": "crew@oceanodyssey.com.ua",
+"company": "oceanodyssey.com.ua"
+},
+"new": true,
+"repeat": true,
+"time": "2026-11-11T10:41:05+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "CHIEF OFFICER – PIPE LAYER",
+"url": "https://t.me/balticcareer/5575",
+"source": "Telegram: @balticcareer",
+"found": [
+"chief officer"
+],
+"fp": "fp-26e5edd6ba3e570a",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"salary": "12000-13500 Euro",
+"contract": "5 weeks on / 5 weeks off"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-11T10:51:04+00:00",
+"junior_dp": false
+},
+{
+"uk": "…rotations 📄 Documents/Certificates: • FWP / UK Work Permit ✅ Requirements: • Strong Shoalbuster experie…",
+"title": "Chief Officer - FWP",
+"url": "https://t.me/offshoreatsea/25221",
+"source": "Telegram: @offshoreatsea",
+"found": [
+"chief officer"
+],
+"fp": "fp-a34d508bf27f3605",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"contract": "4-6 week rotations",
+"email": "aaliyah.thurkettle@selectoffshore.com",
+"company": "selectoffshore.com"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-11T10:45:17+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "OPEN POSITIONS FOR OIL TANKER VESSEL",
+"url": "https://t.me/oceancrewjobs/32775",
+"source": "Telegram: @oceancrewjobs",
+"found": [
+"chief officer",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-072fbe8d51287e9f",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer / 3rd Officer",
+"vessel": "Bulk carrier, Container",
+"company": "https://oceancrew.org/vacancies/mer…"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-11T11:13:34+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "NEED TEAM ONBOARD CTV",
+"url": "https://t.me/oceancrewjobs/32776",
+"source": "Telegram: @oceancrewjobs",
+"found": [
+"chief mate",
+"2nd mate"
+],
+"fp": "fp-9de93d6e9da89db5",
+"offshore": true,
+"info": {
+"rank": "Chief Officer / AB",
+"vessel": "Tug, Barge",
+"company": "https://oceancrew.org/vacancies/off…"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-11T11:13:38+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
@@ -2387,5 +2821,5 @@
 ],
 "last_list": "2026-11-11T10:26:23.776752+00:00",
 "cleared_upto": 3778,
-"last_msg_id": 3796
+"last_msg_id": 3809
 }
