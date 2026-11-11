@@ -5519,31 +5519,86 @@
 "repeat": false,
 "time": "2026-11-11T18:51:14+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer — Bulk Carrier",
+"url": "https://seajobs.pro/jobs/chief-officer-bulk-carrier-b3038765-fedb-41d2-8117-09b82b5b0a96",
+"source": "seajobs.pro",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Bulk carrier"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-11T19:46:47.951961+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer — ASD Tug",
+"url": "https://seajobs.pro/jobs/chief-officer-asd-tug-9e69479a-ecf0-45fd-9c60-eb6fdb7c49df",
+"source": "seajobs.pro",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Tug"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-11T19:46:48.152271+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Position publishing service was stopped for the night.",
+"url": "https://t.me/marinecareerorg/17761",
+"source": "Telegram: @marinecareerorg",
+"found": [
+"chief officer",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-0aa3709984c4ce35",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer",
+"vessel": "Crude oil tanker, Bulk carrier"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-11T19:00:15+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-3923,
-3924,
-3925,
-3926,
-3927,
-3928,
-3929,
-3930,
-3931,
-3932,
-3933,
-3934,
-3935,
-3936,
-3937,
-3938,
-3939,
-3940,
-3941,
-3942
+3943,
+3944,
+3945,
+3946,
+3947,
+3948,
+3949,
+3950,
+3951,
+3952,
+3953,
+3954,
+3955,
+3956,
+3957,
+3958,
+3959,
+3960,
+3961,
+3962
 ],
-"last_list": "2026-11-11T18:57:55.389297+00:00",
-"cleared_upto": 3922,
-"last_msg_id": 3942
+"last_list": "2026-11-11T19:47:42.695328+00:00",
+"cleared_upto": 3942,
+"last_msg_id": 3962
 }
