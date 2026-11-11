@@ -1,10 +1,85 @@
 {
 "date": "2026-11-12",
-"jobs": [],
-"msg_ids": [
-3963
+"jobs": [
+{
+"uk": "",
+"title": "Chief Officer Job on 50m Sailing Yacht Crew & Concierge Ltd.",
+"url": "https://maritime-union.com/job/232820",
+"source": "maritime-union.com",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"company": "Chief Officer Job on 50m Sailing Ya…"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-11T21:55:34.922750+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer Job on AHTS/Supply/LCT Vessel World Maritime Crewing LTD",
+"url": "https://maritime-union.com/job/232822",
+"source": "maritime-union.com",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "AHTS",
+"company": "Chief Officer Job on AHTS/Supply/LC…"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-11T21:55:35.779052+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer Job on Panamax Bulk Carrier Ryan Ship Management Pvt Ltd",
+"url": "https://maritime-union.com/job/232824",
+"source": "maritime-union.com",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Bulk carrier",
+"company": "Chief Officer Job on Panamax Bulk C…"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-11T21:55:36.382373+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Mate Job on ASD Tug Vessel Atlas NextWave",
+"url": "https://maritime-union.com/job/232840",
+"source": "maritime-union.com",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Tug"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-11T21:55:37.282018+00:00",
+"junior_dp": false
+}
 ],
-"last_list": "2026-11-11T20:37:17.668217+00:00",
-"cleared_upto": 3962,
-"last_msg_id": 3963
+"msg_ids": [
+3964,
+3965,
+3966,
+3967,
+3968
+],
+"last_list": "2026-11-11T21:56:40.067723+00:00",
+"cleared_upto": 3963,
+"last_msg_id": 3968
 }
