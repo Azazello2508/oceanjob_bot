@@ -133,15 +133,35 @@
 "repeat": false,
 "time": "2026-11-10T21:51:58.990121+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "Найди вакансии своей должности",
+"url": "https://t.me/cvsenderseaman/15907",
+"source": "Telegram: @cvsenderseaman",
+"found": [
+"dpo"
+],
+"fp": "fp-5bec086014d5ddd9",
+"offshore": true,
+"info": {
+"rank": "DPO / AB",
+"vessel": "LPG, LNG"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-11T04:01:34+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-3690,
-3691,
-3692,
-3693
+3694,
+3695,
+3696,
+3697,
+3698
 ],
-"last_list": "2026-11-10T21:53:48.498968+00:00",
-"cleared_upto": 3689,
-"last_msg_id": 3693
+"last_list": "2026-11-11T04:08:17.872134+00:00",
+"cleared_upto": 3693,
+"last_msg_id": 3698
 }
