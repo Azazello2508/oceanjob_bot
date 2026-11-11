@@ -5915,7 +5915,7 @@
 "gm@armada-holding.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-10",
+"last": "2026-11-11",
 "links": {
 "crewell": "https://crewell.net/en/companies/251882/",
 "ukrcrewing": "https://ukrcrewing.com.ua/en/agency/armadaholding"
@@ -5942,7 +5942,7 @@
 "ukrcrewing.com.ua"
 ],
 "telegram": [],
-"total": 70,
+"total": 71,
 "vessels": [
 "Bulk",
 "Container",
@@ -9631,7 +9631,7 @@
 "hr@bunker.ru"
 ],
 "first": "2026-11-03",
-"last": "2026-11-03",
+"last": "2026-11-11",
 "links": {},
 "name": "",
 "off": 0,
@@ -9639,10 +9639,11 @@
 "phones": [],
 "so": 0,
 "sources": [
-"@morehod_ru"
+"@morehod_ru",
+"@rekamore_su"
 ],
 "telegram": [],
-"total": 1,
+"total": 2,
 "vessels": [],
 "website": ""
 },
@@ -11753,7 +11754,7 @@
 "vicky.ganguly@bs-shipmanagement.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-10",
+"last": "2026-11-11",
 "links": {
 "crewell": "https://crewell.net/en/companies/272756/"
 },
@@ -11761,7 +11762,7 @@
 "off": 0,
 "offshore_hint": false,
 "phones": [],
-"so": 1,
+"so": 2,
 "sources": [
 "@cvcrewcom",
 "@maritimeforum",
@@ -11769,7 +11770,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 35,
+"total": 37,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -12326,7 +12327,7 @@
 "crewing@cymare.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-10",
+"last": "2026-11-11",
 "links": {
 "crewell": "https://crewell.net/en/companies/91169/"
 },
@@ -12348,7 +12349,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 25,
+"total": 26,
 "vessels": [
 "Chemical",
 "Dredger",
@@ -12668,7 +12669,7 @@
 "staff@delta152.ru"
 ],
 "first": "2026-11-03",
-"last": "2026-11-10",
+"last": "2026-11-11",
 "links": {},
 "name": "ООО «Дельта»",
 "off": 0,
@@ -12680,7 +12681,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 22,
+"total": 26,
 "vessels": [
 "General cargo"
 ],
@@ -13243,13 +13244,13 @@
 "donmastershipping.ru": {
 "address": "",
 "city": "",
-"co": 3,
+"co": 4,
 "country": "",
 "emails": [
 "crew@donmastershipping.ru"
 ],
 "first": "2026-11-03",
-"last": "2026-11-10",
+"last": "2026-11-11",
 "links": {},
 "name": "ООО \"Донмастер\"",
 "off": 0,
@@ -13261,7 +13262,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 8,
+"total": 9,
 "vessels": [
 "General cargo"
 ],
@@ -15112,14 +15113,14 @@
 "flothr.ru": {
 "address": "",
 "city": "",
-"co": 7,
+"co": 9,
 "country": "",
 "emails": [
 "sc_astra@flothr.ru",
 "sc_novo@flothr.ru"
 ],
 "first": "2026-11-03",
-"last": "2026-11-03",
+"last": "2026-11-11",
 "links": {},
 "name": "",
 "off": 0,
@@ -15131,7 +15132,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 7,
+"total": 9,
 "vessels": [
 "General cargo",
 "Tanker"
@@ -22213,7 +22214,7 @@
 "@marinemanapply",
 "@rudomyotova"
 ],
-"total": 129,
+"total": 130,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -40591,13 +40592,13 @@
 "novocsmru.com": {
 "address": "",
 "city": "",
-"co": 12,
+"co": 13,
 "country": "",
 "emails": [
 "columbia@novocsmru.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-10",
+"last": "2026-11-11",
 "links": {},
 "name": "Columbia Shipmanagement",
 "off": 0,
@@ -40612,7 +40613,7 @@
 "@vesselsea"
 ],
 "telegram": [],
-"total": 22,
+"total": 24,
 "vessels": [
 "Chemical",
 "Tanker"
@@ -42011,6 +42012,33 @@
 "Tanker"
 ],
 "website": "osmthome.com"
+},
+"oss-tm.com": {
+"address": "",
+"city": "",
+"co": 0,
+"country": "",
+"emails": [
+"crew@oss-tm.com"
+],
+"first": "2026-11-11",
+"last": "2026-11-11",
+"links": {},
+"name": "ООО \"ОСС\"",
+"off": 0,
+"offshore_hint": false,
+"phones": [],
+"so": 0,
+"sources": [
+"@morehod_ru",
+"@rekamore_su"
+],
+"telegram": [],
+"total": 2,
+"vessels": [
+"General cargo"
+],
+"website": ""
 },
 "oteko.ru": {
 "address": "",
@@ -43713,6 +43741,33 @@
 "vessels": [],
 "website": ""
 },
+"queenliz.ro": {
+"address": "",
+"city": "",
+"co": 0,
+"country": "",
+"emails": [
+"office@queenliz.ro"
+],
+"first": "2026-11-11",
+"last": "2026-11-11",
+"links": {},
+"name": "",
+"off": 0,
+"offshore_hint": false,
+"phones": [],
+"so": 0,
+"sources": [
+"@cvsenderseaman"
+],
+"telegram": [],
+"total": 1,
+"vessels": [
+"Chemical",
+"Tanker"
+],
+"website": ""
+},
 "queensway-services.com": {
 "address": "1 Memed Abashidze Avenue",
 "city": "Batumi",
@@ -43883,7 +43938,7 @@
 "ukraine@uniteammarine.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-10",
+"last": "2026-11-11",
 "links": {
 "crewell": "https://crewell.net/en/companies/374687/"
 },
@@ -43918,7 +43973,7 @@
 "@DaniilPRayMarine",
 "@anastasiaChRayMarine"
 ],
-"total": 220,
+"total": 221,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -47829,7 +47884,7 @@
 "smirnova@skanship.ru"
 ],
 "first": "2026-11-03",
-"last": "2026-11-10",
+"last": "2026-11-11",
 "links": {},
 "name": "ООО \"Сканшип Нева\"",
 "off": 0,
@@ -47843,7 +47898,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 6,
+"total": 8,
 "vessels": [
 "Tanker"
 ],
@@ -50514,7 +50569,7 @@
 "office@tinecomar.ro"
 ],
 "first": "2026-11-03",
-"last": "2026-11-10",
+"last": "2026-11-11",
 "links": {
 "crewell": "https://crewell.net/en/companies/310197/"
 },
@@ -50528,7 +50583,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 11,
+"total": 12,
 "vessels": [
 "Bulk",
 "General cargo",
@@ -53331,7 +53386,7 @@
 "@seamenjob"
 ],
 "telegram": [],
-"total": 5,
+"total": 6,
 "vessels": [
 "Tanker"
 ],
@@ -54739,7 +54794,7 @@
 "info@xt-romania.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-09",
+"last": "2026-11-11",
 "links": {
 "crewell": "https://crewell.net/en/companies/263731/"
 },
@@ -54757,10 +54812,11 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 9,
+"total": 10,
 "vessels": [
 "Bulk",
 "Chemical",
+"Container",
 "Tanker"
 ],
 "website": "xtholdings.com"
@@ -57375,6 +57431,7 @@
 "общество с ограниченной ответственностью доброфлот / offline russian federation member since: apr 2021 no active vacancies view profile": "name:общество с ограниченной ответственностью доброфлот / offline russian federation member since: apr 2021 no active vacancies view profile",
 "общество с ограниченной ответственностью магнит-128 offline russian federation member since: apr 2017 no active vacancies view profile": "name:общество с ограниченной ответственностью магнит-128 offline russian federation member since: apr 2017 no active vacancies view profile",
 "оптовая компания mir-suvenir offline russian federation member since: jun 2017 no active vacancies view profile": "name:оптовая компания mir-suvenir offline russian federation member since: jun 2017 no active vacancies view profile",
+"осс": "oss-tm.com",
 "п транско": "ptransco.ru",
 "перспектива": "sc-astrol.ru",
 "пкф южно-курильский рыбокомбинат": "ykrk.ru",
@@ -57483,11 +57540,11 @@
 "allcrewing": 3809,
 "andreeyVstart": 1393,
 "balticcareer": 5569,
-"crewingua": 44880,
+"crewingua": 44881,
 "crs_vacancies": 3554,
 "cruiseshipjobs": 3,
 "cvcrewcom": 12896,
-"cvsenderseaman": 15911,
+"cvsenderseaman": 15917,
 "ecrewing": 3183,
 "findseajobs": 32567,
 "galaxymaritimeua": 1250,
@@ -57502,16 +57559,16 @@
 "marineman_ltd": 48360,
 "maritimeforum": 256551,
 "merchantNavyrealjob": 262,
-"morehod_ru": 30891,
+"morehod_ru": 30895,
 "oceancrewjobs": 32772,
 "offshoreatsea": 25197,
 "offshorecv": 1591,
 "offshorevacancies": 47181,
 "oilrigs": 778,
 "olive_crew": 2926,
-"onboard_su": 20729,
+"onboard_su": 20731,
 "pervoemorskoe": 4527,
-"rekamore_su": 164863,
+"rekamore_su": 164874,
 "roster_marine": 1739,
 "seajobfinder": 42363,
 "seamenjob": 106198,
@@ -57521,7 +57578,7 @@
 "shipscreweu": 16635,
 "sidantey": 399,
 "supermariner_ua": 3896,
-"truemalina_offshore": 808,
+"truemalina_offshore": 809,
 "ukrcrewing_official": 2382,
 "univis_crewing": 5016,
 "vesselsea": 3129,

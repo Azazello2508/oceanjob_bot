@@ -789,24 +789,116 @@
 "repeat": false,
 "time": "2026-11-11T06:35:03+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "For reefer 1456 DWT, flag Norway:",
+"url": "https://t.me/onboard_su/20731",
+"source": "Telegram: @onboard_su",
+"found": [
+"second officer"
+],
+"fp": "fp-2cf5f1cb54da3e20",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Reefer",
+"contract": "4+-1",
+"salary": "4000$",
+"email": "cv@crewmontenegro.com",
+"company": "crewmontenegro.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-11T07:01:26+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Компания \"Columbia Shipmanagement\" (Новороссийск) приглашает на работу:",
+"url": "https://t.me/rekamore_su/164865",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-e8ccdff4f504552a",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Tanker",
+"salary": "11 000 $ (discussable up to 11…",
+"contract": "4 мес",
+"email": "columbia@novocsmru.com",
+"company": "novocsmru.com"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-11T06:40:08+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Компания ООО \"Донмастер\" приглашает на работу:",
+"url": "https://t.me/rekamore_su/164866",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-dd44c00d22393f66",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo",
+"salary": "360 000 рублей (на руки)",
+"email": "crew@donmastershipping.ru",
+"company": "donmastershipping.ru"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-11T06:45:05+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "В судоходную компанию требуются специалисты:",
+"url": "https://t.me/rekamore_su/164873",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-449ecd8236d043a7",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo",
+"salary": "350 000 рублей (на руки)",
+"joining": "г. Ростов-на-Дону",
+"contract": "4 мес. (+/-1) мес",
+"email": "sc_astra@flothr.ru",
+"company": "flothr.ru"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-11T07:20:02+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-3721,
-3722,
-3723,
-3724,
-3725,
-3726,
-3727,
-3728,
-3729,
-3730,
-3731,
-3732,
-3733
+3734,
+3735,
+3736,
+3737,
+3738,
+3739,
+3740,
+3741,
+3742,
+3743,
+3744,
+3745,
+3746
 ],
-"last_list": "2026-11-11T06:37:19.346892+00:00",
-"cleared_upto": 3720,
-"last_msg_id": 3733
+"last_list": "2026-11-11T07:27:00.310367+00:00",
+"cleared_upto": 3733,
+"last_msg_id": 3746
 }
