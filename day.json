@@ -5311,31 +5311,239 @@
 "repeat": false,
 "time": "2026-11-11T16:59:34+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "Open Position",
+"url": "https://t.me/maritimeforum/256785",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-4668490070fbf5cf",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Chemical tanker, Crude oil tanker",
+"salary": "Range (USD)",
+"joining": "End of November",
+"email": "olesia@desecrew.com",
+"company": "desecrew.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-11T18:16:45+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://t.me/maritimeforum/256829",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-d1f107d06f32d0b3",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "LNG",
+"contract": "3 months",
+"salary": "$17,750–18,550\n",
+"email": "crewing@balticshipping.pl",
+"company": "balticshipping.pl"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-11T18:28:03+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://t.me/maritimeforum/256830",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-6ecc06483751aa1e",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Bulk carrier",
+"contract": "4 months",
+"salary": "$9,000\n",
+"email": "hr@univis.com.ua",
+"company": "univis.com.ua"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-11T18:28:09+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "2nd Officer",
+"url": "https://t.me/maritimeforum/256844",
+"source": "Telegram: @maritimeforum",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-c2de1e589b72be5a",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"contract": "4 months",
+"salary": "$3,840\n",
+"email": "crewing@nautilus.mk.ua",
+"company": "nautilus.mk.ua"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-11T18:29:32+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "2nd Officer",
+"url": "https://t.me/maritimeforum/256850",
+"source": "Telegram: @maritimeforum",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-30e34b45b395c1eb",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Container",
+"contract": "4 months",
+"salary": "$4,000–4,500\n",
+"email": "cv.riga@baltic-crew.com",
+"company": "baltic-crew.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-11T18:30:09+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "2nd Officer",
+"url": "https://t.me/maritimeforum/256851",
+"source": "Telegram: @maritimeforum",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-47c964ef2f196fb2",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Chemical tanker",
+"contract": "4 months",
+"salary": "$4,500–4,700\n",
+"email": "crew@hncrewing.com",
+"company": "hncrewing.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-11T18:30:15+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://t.me/maritimeforum/256862",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-737a102ad5dba19d",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo",
+"contract": "4 months",
+"salary": "$6,300\n",
+"email": "crewing@seafactor.com",
+"company": "seafactor.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-11T18:31:18+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://t.me/maritimeforum/256863",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-b8daebc73fe84cb0",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Bulk carrier",
+"contract": "4 months",
+"salary": "$7,500\n",
+"email": "anketa@zenithmarine.com.ua",
+"company": "zenithmarine.com.ua"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-11T18:31:24+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Mate / Relief Captain – 30m Private S/Y (FDTCA)",
+"url": "https://t.me/OnlyYacht/2320",
+"source": "Telegram: @OnlyYacht",
+"found": [
+"chief mate"
+],
+"fp": "fp-9da08abea00d3624",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"salary": "DOE, 90 days leave",
+"contract": "Permanent",
+"email": "info@islayachtgroup.com",
+"company": "islayachtgroup.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-11T18:51:14+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-3903,
-3904,
-3905,
-3906,
-3907,
-3908,
-3909,
-3910,
-3911,
-3912,
-3913,
-3914,
-3915,
-3916,
-3917,
-3918,
-3919,
-3920,
-3921,
-3922
+3923,
+3924,
+3925,
+3926,
+3927,
+3928,
+3929,
+3930,
+3931,
+3932,
+3933,
+3934,
+3935,
+3936,
+3937,
+3938,
+3939,
+3940,
+3941,
+3942
 ],
-"last_list": "2026-11-11T17:18:35.682054+00:00",
-"cleared_upto": 3902,
-"last_msg_id": 3922
+"last_list": "2026-11-11T18:57:55.389297+00:00",
+"cleared_upto": 3922,
+"last_msg_id": 3942
 }
