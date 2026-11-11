@@ -4247,29 +4247,301 @@
 "repeat": false,
 "time": "2026-11-11T14:08:37+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "2nd Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/369560",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-11T15:00:22.448698+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer (Bulk Carrier)",
+"url": "https://www.ainostri.ro/oferte/maritim/chief-officer-bulk-carrier-14162",
+"source": "ainostri.ro",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Bulk carrier"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-11T15:01:20.567859+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Position:",
+"url": "https://t.me/CREW_ARIA/14076",
+"source": "Telegram: @CREW_ARIA",
+"found": [
+"chief officer"
+],
+"fp": "fp-09fd38ac06031f5d",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "AHTS, Tug",
+"salary": "600 USD  day",
+"joining": "1312",
+"contract": "6 weeks +-2 weeks",
+"email": "ankita.parab@vggindia.com",
+"company": "vggindia.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-11T14:48:57+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Position:",
+"url": "https://t.me/CREW_ARIA/14077",
+"source": "Telegram: @CREW_ARIA",
+"found": [
+"chief officer",
+"2nd officer",
+"dpo",
+"2nd off"
+],
+"fp": "fp-dc9d9b951d1315dd",
+"offshore": true,
+"info": {
+"rank": "Chief Officer / 2nd Officer / DPO",
+"vessel": "Jack-up, Barge",
+"email": "Crewing@mariniaqatar.com",
+"company": "mariniaqatar.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-11T14:51:32+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer Position Available",
+"url": "https://t.me/marinejobs/43307",
+"source": "Telegram: @marinejobs",
+"found": [
+"chief officer",
+"chief mate"
+],
+"fp": "fp-ea17cb02901336a2",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Container",
+"salary": "353,000 rubles net monthly + v…",
+"joining": "Late October - Early Novemb",
+"contract": "& Compensation",
+"email": "crewing@peleng-line.ru",
+"company": "peleng-line.ru"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-11T14:32:07+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "HOT VACANCIES IN VITA MARITIME LTD.",
+"url": "https://t.me/crewingua/44902",
+"source": "Telegram: @crewingua",
+"found": [
+"chief officer",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-2f0b8a1a83af48fe",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer / 3rd Officer",
+"vessel": "Chemical tanker, Container",
+"salary": "7,500 USD",
+"joining": "01 December 2026",
+"email": "a.sholda@vitamaritime.com.ua",
+"company": "vitamaritime.com.ua"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-11T14:13:03+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "𝗔𝗟𝗣𝗛𝗔 𝗖𝗥𝗘𝗪 𝗚𝗥𝗢𝗨𝗣 𝗜𝗦 𝗨𝗥𝗚𝗘𝗡𝗧𝗟𝗬 𝗟𝗢𝗢𝗞𝗜𝗡𝗚 𝗙𝗢𝗥:",
+"url": "https://t.me/jobfor_seamen/12712",
+"source": "Telegram: @jobfor_seamen",
+"found": [],
+"fp": "fp-968433721dd279fe",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "DSV",
+"salary": "475 - 500 USD p/d",
+"joining": "BEG of December",
+"contract": "2 months",
+"email": "cv@alphacrew.com",
+"tg": "Ekaterina_Alpha_Crew",
+"company": "alphacrew.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-11T14:43:35+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://t.me/seamenjob/106217",
+"source": "Telegram: @seamenjob",
+"found": [
+"chief officer"
+],
+"fp": "fp-79d107ffdfa78472",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Container, General cargo",
+"joining": "в конце октября - начале ноябр",
+"contract": "а 2+1 месяцев (возможно у",
+"salary": "353 000 руб",
+"email": "crewing@peleng-line.ru",
+"company": "peleng-line.ru"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-11T14:21:03+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "VACANCIES – CHIEF OFFICER",
+"url": "https://t.me/andreeyVstart/1397",
+"source": "Telegram: @andreeyVstart",
+"found": [
+"chief officer"
+],
+"fp": "fp-f063b79232588658",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo",
+"salary": "7000-  7200 USD",
+"joining": "ASAP",
+"contract": "4 ±1 months",
+"email": "ops@start-manning.com",
+"company": "start-manning.com"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-11T14:14:11+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "MULTIPLE OFFSHORE VACANCIES – AHTS DP2 & JACK-UP BARGE",
+"url": "https://t.me/balticcareer/5580",
+"source": "Telegram: @balticcareer",
+"found": [
+"chief officer"
+],
+"fp": "fp-c55220eb3aeeec4d",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "AHTS, Jack-up",
+"salary": "Negotiable, Depending on Inter…",
+"contract": "8 Weeks ON / 8 Weeks OFF"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-11T14:37:07+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "В турецкую компанию на танкер- химовоз 7000 dwt",
+"url": "https://t.me/rekamore_su/164917",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-fcffc211c47dfdeb",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Chemical tanker",
+"salary": "4800$",
+"joining": "конец ноября-начало декабря",
+"contract": "4+1 мес",
+"email": "office@safasco.ru",
+"company": "safasco.ru."
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-11T14:17:36+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "CHIEF OFFICER",
+"url": "https://t.me/cvsenderseaman/15972",
+"source": "Telegram: @cvsenderseaman",
+"found": [
+"chief officer"
+],
+"fp": "fp-634fc1452a41d2e5",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Tug",
+"salary": "Negotiable",
+"joining": "ASAP",
+"contract": "8 weeks",
+"email": "cv@ojcrew.com",
+"company": "ojcrew.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-11T14:18:14+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-3846,
-3847,
-3848,
-3849,
-3850,
-3851,
-3852,
-3853,
-3854,
-3855,
-3856,
-3857,
-3858,
-3859,
-3860,
-3861,
-3862,
-3863
+3864,
+3865,
+3866,
+3867,
+3868,
+3869,
+3870,
+3871,
+3872,
+3873,
+3874,
+3875,
+3876,
+3877,
+3878,
+3879,
+3880,
+3881,
+3882
 ],
-"last_list": "2026-11-11T14:12:13.630466+00:00",
-"cleared_upto": 3845,
-"last_msg_id": 3863
+"last_list": "2026-11-11T15:02:17.011975+00:00",
+"cleared_upto": 3863,
+"last_msg_id": 3882
 }
