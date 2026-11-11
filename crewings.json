@@ -878,7 +878,7 @@
 "country": "",
 "emails": [],
 "first": "2026-11-03",
-"last": "2026-11-09",
+"last": "2026-11-11",
 "links": {},
 "name": "",
 "off": 0,
@@ -891,7 +891,7 @@
 "telegram": [
 "@tankerjobatsea"
 ],
-"total": 4,
+"total": 5,
 "vessels": [
 "Chemical",
 "LPG/LNG",
@@ -1210,7 +1210,7 @@
 "aavishka.com": {
 "address": "U/N. B-102,1st Floor, Crystal Plaza, New Link Road,Opp.Infinity Mall,Lokhandwala",
 "city": "Mumbai",
-"co": 14,
+"co": 16,
 "country": "India",
 "emails": [
 "jobs@aavishka.com"
@@ -1221,10 +1221,10 @@
 "crewell": "https://crewell.net/en/companies/89488/"
 },
 "name": "AAVISHKA SHIPPING PVT LTD.",
-"off": 16,
+"off": 18,
 "offshore_hint": false,
 "phones": [],
-"so": 10,
+"so": 12,
 "sources": [
 "@CREW_ARIA",
 "@Offshore_Vacancies",
@@ -1237,7 +1237,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 18,
+"total": 20,
 "vessels": [
 "Offshore",
 "Tug"
@@ -7343,7 +7343,7 @@
 "atlasnextwave.com": {
 "address": "",
 "city": "",
-"co": 7,
+"co": 8,
 "country": "",
 "emails": [
 "amcdonald@atlasnextwave.com",
@@ -7359,7 +7359,7 @@
 "last": "2026-11-11",
 "links": {},
 "name": "Area Mauritania Offshore Marine",
-"off": 80,
+"off": 81,
 "offshore_hint": false,
 "phones": [
 "+380487774163",
@@ -7381,7 +7381,7 @@
 "@seajobfinder"
 ],
 "telegram": [],
-"total": 97,
+"total": 98,
 "uk": 5,
 "vessels": [
 "Dredger",
@@ -13276,11 +13276,13 @@
 "doehle-romania.com": {
 "address": "155 Mamaia Bld.",
 "city": "Constanta",
-"co": 0,
+"co": 1,
 "country": "Romania",
-"emails": [],
+"emails": [
+"crew@doehle-romania.com"
+],
 "first": "2026-11-03",
-"last": "",
+"last": "2026-11-11",
 "links": {
 "crewell": "https://crewell.net/en/companies/260756/"
 },
@@ -13290,11 +13292,14 @@
 "phones": [],
 "so": 0,
 "sources": [
+"@cvsenderseaman",
 "crewell.net"
 ],
 "telegram": [],
-"total": 0,
-"vessels": [],
+"total": 1,
+"vessels": [
+"Bulk"
+],
 "website": "doehle-romania.com"
 },
 "doehle-seafront.com": {
@@ -39590,7 +39595,7 @@
 "crewell": "https://crewell.net/en/companies/58901/"
 },
 "name": "Navis Crew Management",
-"off": 101,
+"off": 103,
 "offshore_hint": false,
 "phones": [
 "+380507055005",
@@ -39614,7 +39619,7 @@
 "@seamenjob"
 ],
 "telegram": [],
-"total": 103,
+"total": 105,
 "uk": 3,
 "vessels": [
 "Bulk",
@@ -47590,7 +47595,7 @@
 "crewell": "https://crewell.net/en/companies/64960/"
 },
 "name": "Advance Global Recruitment Ltd",
-"off": 403,
+"off": 404,
 "offshore_hint": false,
 "phones": [],
 "so": 46,
@@ -47611,7 +47616,7 @@
 "telegram": [
 "@cvpro_mailing"
 ],
-"total": 404,
+"total": 405,
 "uk": 56,
 "vessels": [
 "Bulk",
@@ -55286,7 +55291,7 @@
 "yachtcrewinternational.com": {
 "address": "",
 "city": "",
-"co": 1,
+"co": 3,
 "country": "",
 "emails": [
 "europe@yachtcrewinternational.com"
@@ -55298,12 +55303,14 @@
 "off": 0,
 "offshore_hint": false,
 "phones": [],
-"so": 1,
+"so": 3,
 "sources": [
+"@CREW_ARIA",
+"@marinejobs",
 "@seamenjob"
 ],
 "telegram": [],
-"total": 1,
+"total": 3,
 "vessels": [],
 "website": ""
 },
@@ -57967,12 +57974,12 @@
 "tg_hw": {
 "ALPHACREW": 3575,
 "BSMCSCUKRAINE": 4364,
-"CREW_ARIA": 14078,
+"CREW_ARIA": 14082,
 "Crew_Radar": 3322,
 "JobForMariners": 1204,
 "Merchant_Fleet": 615,
 "OffshoreFleetJob": 11074,
-"Offshore_Vacancies": 930,
+"Offshore_Vacancies": 933,
 "OnlyOffshore": 38965,
 "OnlyYacht": 2318,
 "SM_job_center": 2490,
@@ -57981,13 +57988,13 @@
 "TSMexp": 862,
 "Yacht_Vacancies": 290,
 "allcrewing": 3809,
-"andreeyVstart": 1397,
-"balticcareer": 5582,
+"andreeyVstart": 1398,
+"balticcareer": 5584,
 "crewingua": 44908,
 "crs_vacancies": 3554,
 "cruiseshipjobs": 3,
 "cvcrewcom": 12897,
-"cvsenderseaman": 15989,
+"cvsenderseaman": 15994,
 "ecrewing": 3186,
 "findseajobs": 32567,
 "galaxymaritimeua": 1250,
@@ -57997,7 +58004,7 @@
 "job_for_seaman": 17048,
 "jobfor_seamen": 12713,
 "marinecareerorg": 17760,
-"marinejobs": 43319,
+"marinejobs": 43320,
 "marinejobz": 194156,
 "marineman_ltd": 48368,
 "maritimeforum": 256773,
@@ -58006,12 +58013,12 @@
 "oceancrewjobs": 32781,
 "offshoreatsea": 25251,
 "offshorecv": 1594,
-"offshorevacancies": 47215,
+"offshorevacancies": 47217,
 "oilrigs": 778,
 "olive_crew": 2930,
 "onboard_su": 20738,
 "pervoemorskoe": 4527,
-"rekamore_su": 164920,
+"rekamore_su": 164921,
 "roster_marine": 1741,
 "seajobfinder": 42367,
 "seamenjob": 106219,

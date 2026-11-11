@@ -5152,31 +5152,190 @@
 "repeat": false,
 "time": "2026-11-11T15:47:06+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "Position:",
+"url": "https://t.me/CREW_ARIA/14081",
+"source": "Telegram: @CREW_ARIA",
+"found": [
+"chief officer",
+"second officer",
+"sdpo",
+"dpo"
+],
+"fp": "fp-6dc44b791e866a81",
+"offshore": true,
+"info": {
+"rank": "Chief Officer / 2nd Officer / SDPO",
+"contract": "90 Days On  60 Days Off ("
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-11T16:54:54+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Position:",
+"url": "https://t.me/CREW_ARIA/14082",
+"source": "Telegram: @CREW_ARIA",
+"found": [
+"chief officer",
+"second officer"
+],
+"fp": "fp-cb4f7c01777c557e",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer",
+"salary": "Competitive package",
+"joining": "To be confirmed",
+"contract": "Ability to work in a bu",
+"email": "europe@yachtcrewinternational.com",
+"company": "yachtcrewinternational.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-11T16:58:07+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Second Officer",
+"url": "https://t.me/marinejobs/43320",
+"source": "Telegram: @marinejobs",
+"found": [
+"chief officer",
+"second officer"
+],
+"fp": "fp-1ec00d20bfa520c5",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer",
+"salary": "package + 60 days' leave",
+"email": "europe@yachtcrewinternational.com",
+"company": "yachtcrewinternational.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-11T16:31:32+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "https://jobatsea.online/job/625381/chief-mates-chief-officers-with-dpo-to-join-psv-vessels-at-select-offshore/",
+"url": "https://t.me/offshorevacancies/47216",
+"source": "Telegram: @offshorevacancies",
+"found": [
+"chief officer",
+"chief mate",
+"dpo"
+],
+"fp": "fp-1ed72ac3b1855e55",
+"offshore": true,
+"info": {
+"rank": "Chief Officer / DPO",
+"vessel": "PSV"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-11T16:33:28+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Vessel",
+"url": "https://t.me/cvsenderseaman/15990",
+"source": "Telegram: @cvsenderseaman",
+"found": [
+"dpo"
+],
+"fp": "fp-4b69fc252c093275",
+"offshore": true,
+"info": {
+"rank": "DPO",
+"salary": "420.66 USD / day",
+"joining": "17th",
+"contract": "4–6 weeks"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-11T16:35:34+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "OPEN POSITIONS",
+"url": "https://t.me/cvsenderseaman/15991",
+"source": "Telegram: @cvsenderseaman",
+"found": [
+"chief officer",
+"c/o"
+],
+"fp": "fp-cb4d724fd491cdf2",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 3rd Officer",
+"vessel": "Bulk carrier",
+"joining": "December",
+"salary": "8,600 USD / month",
+"email": "crew@doehle-romania.com",
+"company": "doehle-romania.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-11T16:43:34+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "CHIEF OFFICER",
+"url": "https://t.me/cvsenderseaman/15993",
+"source": "Telegram: @cvsenderseaman",
+"found": [
+"chief officer",
+"chief mate"
+],
+"fp": "fp-652558c15b206fa7",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Tug",
+"salary": "Negotiable",
+"joining": "25 November 2026",
+"contract": "25 November – 23 December",
+"email": "jkirusova@atlasnextwave.com",
+"company": "atlasnextwave.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-11T16:59:34+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-3883,
-3884,
-3885,
-3886,
-3887,
-3888,
-3889,
-3890,
-3891,
-3892,
-3893,
-3894,
-3895,
-3896,
-3897,
-3898,
-3899,
-3900,
-3901,
-3902
+3903,
+3904,
+3905,
+3906,
+3907,
+3908,
+3909,
+3910,
+3911,
+3912,
+3913,
+3914,
+3915,
+3916,
+3917,
+3918,
+3919,
+3920,
+3921,
+3922
 ],
-"last_list": "2026-11-11T16:28:53.787471+00:00",
-"cleared_upto": 3882,
-"last_msg_id": 3902
+"last_list": "2026-11-11T17:18:35.682054+00:00",
+"cleared_upto": 3902,
+"last_msg_id": 3922
 }
