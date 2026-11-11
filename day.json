@@ -402,21 +402,238 @@
 "repeat": false,
 "time": "2026-11-11T04:09:43+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer on Crude oil tanker",
+"url": "https://crewell.net/en/vacancies/465693/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Crude oil tanker"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-11T05:46:01.796103+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Position:",
+"url": "https://t.me/CREW_ARIA/14065",
+"source": "Telegram: @CREW_ARIA",
+"found": [
+"chief officer",
+"chief mate",
+"second officer"
+],
+"fp": "fp-140a7ca20d0c312c",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"salary": "TBC (DOE)",
+"contract": "TBC with Captain)"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-11T05:28:14+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Offshore. Job selection for 11/11/2026",
+"url": "https://t.me/SM_job_center/2488",
+"source": "Telegram: @SM_job_center",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-794c77f3b6ddcbf9",
+"offshore": true,
+"info": {
+"rank": "2nd Officer",
+"vessel": "OSV, DSV",
+"salary": "$180-$200/day",
+"email": "cv@alphacrew.com",
+"company": "alphacrew.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-11T05:04:44+00:00",
+"junior_dp": false
+},
+{
+"uk": "…essel: DSV DP2 Joining: ASAP Requirements: - UK Work Permit - DSV Crane Operator experience - Crane Oper…",
+"title": "TI CRANE OPERATOR - DSV DP2",
+"url": "https://t.me/Sea_format/12344",
+"source": "Telegram: @Sea_format",
+"found": [],
+"fp": "fp-2b1c96d3d513f130",
+"offshore": true,
+"info": {
+"rank": "AB",
+"vessel": "DSV",
+"salary": "423 GBP/day",
+"joining": "ASAP",
+"contract": "2-4 weeks",
+"email": "cv@alphacrew.com",
+"company": "alphacrew.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-11T05:30:12+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Компания ООО \"НК-Флот\" приглашает на работу:",
+"url": "https://t.me/rekamore_su/164828",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-b64841c075cd549c",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Tug",
+"salary": "от 60 000 рублей (на руки)",
+"contract": "2/2 месяца",
+"email": "nkcrew@nkflot.ru",
+"company": "nkflot.ru"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-11T04:59:04+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Компания ООО \"Доннефтетранс\" приглашает на работу:",
+"url": "https://t.me/rekamore_su/164829",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-f28e27f333091f17",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Chemical tanker",
+"salary": "ЗП обсуждается с кандидатом",
+"joining": "конец ноября в Астрахани",
+"email": "crew@donneftetrans.ru",
+"company": "donneftetrans.ru"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-11T05:01:04+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Компания ГК \"ОТЭКО\" приглашает на  работу:",
+"url": "https://t.me/rekamore_su/164834",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-105216998cd5ccaa",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Tug",
+"email": "e.davydenko@oteko.ru",
+"company": "oteko.ru"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-11T05:31:04+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Компания ООО “Трэвелер Шиппинг” приглашает на работу:",
+"url": "https://t.me/rekamore_su/164839",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-42888872d2f67410",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Chemical tanker",
+"joining": "❗️",
+"email": "gavrilova_o@astonfleet.com",
+"company": "astonfleet.com"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-11T05:35:10+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Компания \"Alteam Crewing\" приглашает на работу:",
+"url": "https://t.me/rekamore_su/164840",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-eb617132ec0a9184",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"salary": "4 000 $",
+"contract": "4 месяца",
+"email": "alteam@crew-alteam.com",
+"company": "crew-alteam.com"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-11T05:36:04+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Компания  “Инмортерминал” приглашает на работу:",
+"url": "https://t.me/rekamore_su/164844",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-f2075f0a0ec16e58",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Tanker",
+"salary": "418 252 рублей на руки, 480 99…"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-11T05:39:09+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-3699,
-3700,
-3701,
-3702,
-3703,
-3704,
-3705,
-3706,
-3707,
-3708
+3709,
+3710,
+3711,
+3712,
+3713,
+3714,
+3715,
+3716,
+3717,
+3718,
+3719,
+3720
 ],
-"last_list": "2026-11-11T04:57:54.485006+00:00",
-"cleared_upto": 3698,
-"last_msg_id": 3708
+"last_list": "2026-11-11T05:47:37.639516+00:00",
+"cleared_upto": 3708,
+"last_msg_id": 3720
 }
