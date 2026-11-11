@@ -2108,27 +2108,284 @@
 "repeat": false,
 "time": "2026-11-11T09:07:22+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer on Oil/chemical tanker",
+"url": "https://crewell.net/en/vacancies/465769/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Chemical tanker"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-11T10:24:43.532320+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/369535",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-11T10:24:45.409993+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/369536",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-11T10:24:46.400853+00:00",
+"junior_dp": false
+},
+{
+"uk": "…UK Requirements: Must hold EU Passport FWP / UK Work Permit required Strong Shoalbuster experience MUST…",
+"title": "Chief Officer - FWP",
+"url": "https://t.me/maritimeforum/256579",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-7aa43e1d1b738b8c",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "AHTS, Jack-up",
+"contract": "4-6 week rotations",
+"email": "aaliyah.thurkettle@selectoffshore.com",
+"company": "selectoffshore.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-11T09:58:58+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Crude Oil Tanker",
+"url": "https://t.me/maritimeforum/256583",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-b90835f2b72a3075",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Crude oil tanker",
+"salary": "Master - 15000 USD",
+"joining": "End of November",
+"contract": "4 months",
+"email": "fairwind@te.net.ua",
+"company": "te.net.ua"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-11T10:25:21+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "NEW PCTC VESSEL |SENIOR OFFICERS",
+"url": "https://t.me/seamenjob/106204",
+"source": "Telegram: @seamenjob",
+"found": [
+"chief officer"
+],
+"fp": "fp-2ccdadae70054d31",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Ro-Ro, PCTC",
+"joining": "14th / 15th November 2026 in T",
+"email": "forcv@csm-ua.com",
+"company": "csm-ua.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-11T10:20:05+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Master",
+"url": "https://t.me/job_for_seaman/17046",
+"source": "Telegram: @job_for_seaman",
+"found": [
+"chief officer",
+"sdpo",
+"dpo"
+],
+"fp": "fp-07cb950caa8a2938",
+"offshore": false,
+"info": {
+"vessel": "Bulk carrier, Container",
+"salary": "9,200-9,500 $",
+"joining": "15.11.2026 | Contract: 4 month",
+"contract": "4 months",
+"email": "cv@amergogroup.com",
+"company": "amergogroup.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-11T09:55:14+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Gas Carriers. Job selection for 11/11/2026",
+"url": "https://t.me/SM_job_center/2489",
+"source": "Telegram: @SM_job_center",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-9bcb094e5c35ddbb",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "LPG",
+"salary": "$8,300/month",
+"email": "forcv@eurocrew-ua.com",
+"company": "eurocrew-ua.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-11T10:00:35+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "https://jobatsea.online/job/625417/chief-officer-fwp-shoalbustermulticat-at-select-offshore/",
+"url": "https://t.me/offshorevacancies/47192",
+"source": "Telegram: @offshorevacancies",
+"found": [
+"chief officer"
+],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "Chief Officer"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-11T10:18:29+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://t.me/offshoreatsea/25217",
+"source": "Telegram: @offshoreatsea",
+"found": [
+"chief officer"
+],
+"fp": "fp-388e4bae531a76c9",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Tug",
+"salary": "Negotiable depending on experi…",
+"contract": "8 weeks",
+"email": "cv@ojcrew.com",
+"company": "ojcrew.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-11T10:25:29+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Cook",
+"url": "https://t.me/cvcrewcom/12897",
+"source": "Telegram: @cvcrewcom",
+"found": [
+"chief officer",
+"second officer"
+],
+"fp": "fp-4380004d1b0de141",
+"offshore": true,
+"info": {
+"rank": "Chief Officer / 2nd Officer / AB",
+"vessel": "Chemical tanker, Bulk carrier",
+"joining": "Temporary assignment",
+"contract": "Short Cover – 4 Weeks",
+"salary": "2500$",
+"email": "cv@mau.com.ru",
+"company": "mau.com.ru"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-11T09:44:25+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "SECOND OFFICER",
+"url": "https://t.me/cvsenderseaman/15939",
+"source": "Telegram: @cvsenderseaman",
+"found": [
+"second officer"
+],
+"fp": "fp-deb7ba63c6f5ed28",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Chemical tanker",
+"salary": "$5,200",
+"joining": "12 Nov 2026",
+"contract": "4 months",
+"email": "hr@univis.com.ua",
+"company": "univis.com.ua"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-11T10:20:09+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-3763,
-3764,
-3765,
-3766,
-3767,
-3768,
-3769,
-3770,
-3771,
-3772,
-3773,
-3774,
-3775,
-3776,
-3777,
-3778
+3779,
+3780,
+3781,
+3782,
+3783,
+3784,
+3785,
+3786,
+3787,
+3788,
+3789,
+3790,
+3791,
+3792,
+3793,
+3794,
+3795,
+3796
 ],
-"last_list": "2026-11-11T09:36:36.737135+00:00",
-"cleared_upto": 3762,
-"last_msg_id": 3778
+"last_list": "2026-11-11T10:26:23.776752+00:00",
+"cleared_upto": 3778,
+"last_msg_id": 3796
 }
