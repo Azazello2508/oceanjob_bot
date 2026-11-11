@@ -617,23 +617,196 @@
 "repeat": true,
 "time": "2026-11-11T05:39:09+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "Second Officer for Non DP Crew Boat",
+"url": "https://www.seacareer.com/i36837/second-officer-for-non-dp-crew-boat/",
+"source": "seacareer.com",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Crew boat",
+"company": "Second Officer for Non DP Crew Boat"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-11T06:35:52.597020+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Second Officer for NON DP Crew Boat Ryan Ship Management Pvt Ltd",
+"url": "https://maritime-union.com/job/232753",
+"source": "maritime-union.com",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Crew boat",
+"company": "Second Officer for NON DP Crew Boat…"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-11T06:36:02.895097+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Компания “Северный Альянс” приглашает на работу:",
+"url": "https://t.me/rekamore_su/164850",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-d04e511e47412fcb",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / AB",
+"vessel": "Tug",
+"salary": "396 900 р. (на руки)",
+"joining": "СРОЧНАЯ (переход в Марокко)",
+"email": "vacancy@north-alliance.com",
+"company": "north-alliance.com"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-11T06:15:21+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Компания “Северный Альянс” приглашает на работу:",
+"url": "https://t.me/rekamore_su/164851",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-9115a94ae7590fac",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / AB",
+"vessel": "Tug",
+"salary": "396 900 р. (на руки)",
+"joining": "СРОЧНАЯ (переход во Владивосто",
+"email": "vacancy@north-alliance.com",
+"company": "north-alliance.com"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-11T06:15:25+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Компания ООО “ТК Северный проект” приглашает на работу:",
+"url": "https://t.me/rekamore_su/164854",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-ebeb13f3c616dd74",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo",
+"salary": "360 000 рублей ежемесячно + от…",
+"joining": "срочная",
+"contract": "4 месяца",
+"email": "rabota@ashipping.ru",
+"company": "ashipping.ru"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-11T06:20:08+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Компания \"Alteam Crewing\" приглашает на работу:",
+"url": "https://t.me/rekamore_su/164856",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-b525764d9ad9fe0c",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"salary": "4 400 $",
+"contract": "4 месяца",
+"email": "alteam@crew-alteam.com",
+"company": "crew-alteam.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-11T06:21:46+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "ООО «Балтийская Морская Компания» ведет набор специалистов в компанию \"RIX SHIPMANAGEMENT LTD\" (CYPRUS):",
+"url": "https://t.me/rekamore_su/164861",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-13c81967d96df0a7",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"salary": "7 600 евро",
+"contract": "4 месяца (+/- 1 месяц)",
+"email": "CREW@BALTICSS.COM",
+"company": "balticss.com"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-11T06:30:05+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Судоходная компания приглашает на работу:",
+"url": "https://t.me/rekamore_su/164863",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-52e5f624bf4876a1",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Chemical tanker, General cargo",
+"joining": "14 ноября",
+"email": "kuznetsova@midvolga.com",
+"company": "midvolga.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-11T06:35:03+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-3709,
-3710,
-3711,
-3712,
-3713,
-3714,
-3715,
-3716,
-3717,
-3718,
-3719,
-3720
+3721,
+3722,
+3723,
+3724,
+3725,
+3726,
+3727,
+3728,
+3729,
+3730,
+3731,
+3732,
+3733
 ],
-"last_list": "2026-11-11T05:47:37.639516+00:00",
-"cleared_upto": 3708,
-"last_msg_id": 3720
+"last_list": "2026-11-11T06:37:19.346892+00:00",
+"cleared_upto": 3720,
+"last_msg_id": 3733
 }
