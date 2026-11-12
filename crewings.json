@@ -14170,19 +14170,20 @@
 "hilmi.ghazi@eooffshore.com"
 ],
 "first": "2026-11-11",
-"last": "2026-11-11",
+"last": "2026-11-12",
 "links": {},
 "name": "",
-"off": 3,
+"off": 5,
 "offshore_hint": false,
 "phones": [],
 "so": 0,
 "sources": [
 "@OnlyOffshore",
+"@cvsenderseaman",
 "@offshoreatsea"
 ],
 "telegram": [],
-"total": 3,
+"total": 5,
 "vessels": [
 "Offshore"
 ],
@@ -21124,7 +21125,7 @@
 "crew2@legacymarine.ru"
 ],
 "first": "2026-11-03",
-"last": "2026-11-11",
+"last": "2026-11-12",
 "links": {},
 "name": "ООО \"Легаси Марин\"",
 "off": 0,
@@ -21141,7 +21142,7 @@
 "@vesselsea"
 ],
 "telegram": [],
-"total": 23,
+"total": 24,
 "vessels": [
 "Tanker"
 ],
@@ -22421,7 +22422,7 @@
 "o.kotoban@marineman.eu"
 ],
 "first": "2026-11-03",
-"last": "2026-11-11",
+"last": "2026-11-12",
 "links": {},
 "name": "Why Marine",
 "off": 3,
@@ -22447,7 +22448,7 @@
 "@marinemanapply",
 "@rudomyotova"
 ],
-"total": 134,
+"total": 135,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -45893,7 +45894,7 @@
 "vacancy@scf-group.ru"
 ],
 "first": "2026-11-03",
-"last": "2026-11-11",
+"last": "2026-11-12",
 "links": {
 "crewell": "https://crewell.net/en/companies/264003/"
 },
@@ -45911,7 +45912,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 17,
+"total": 19,
 "vessels": [
 "LPG/LNG",
 "Tanker"
@@ -58024,7 +58025,7 @@
 "crs_vacancies": 3554,
 "cruiseshipjobs": 3,
 "cvcrewcom": 12897,
-"cvsenderseaman": 15994,
+"cvsenderseaman": 15997,
 "ecrewing": 3186,
 "findseajobs": 32568,
 "galaxymaritimeua": 1250,
@@ -58034,7 +58035,7 @@
 "job_for_seaman": 17048,
 "jobfor_seamen": 12713,
 "marinecareerorg": 17761,
-"marinejobs": 43320,
+"marinejobs": 43321,
 "marinejobz": 194156,
 "marineman_ltd": 48368,
 "maritimeforum": 256881,
@@ -58048,16 +58049,16 @@
 "olive_crew": 2930,
 "onboard_su": 20738,
 "pervoemorskoe": 4530,
-"rekamore_su": 164921,
+"rekamore_su": 164923,
 "roster_marine": 1741,
 "seajobfinder": 42367,
-"seamenjob": 106220,
+"seamenjob": 106221,
 "seamenvacancy": 1375,
 "seavacancies": 25220,
 "shipjobsindia": 420,
 "shipscreweu": 16639,
 "sidantey": 399,
-"supermariner_ua": 3899,
+"supermariner_ua": 3900,
 "truemalina_offshore": 812,
 "ukrcrewing_official": 2383,
 "univis_crewing": 5019,
