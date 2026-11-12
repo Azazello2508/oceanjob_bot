@@ -3858,7 +3858,7 @@
 "ukrcrewing": "https://ukrcrewing.com.ua/en/agency/alpha_crew"
 },
 "name": "AlphaCrew Maritime",
-"off": 503,
+"off": 506,
 "offshore_hint": true,
 "phones": [
 "+35726000899",
@@ -3893,7 +3893,7 @@
 "@Olga_Alpha_Crew",
 "@irina_alpha"
 ],
-"total": 543,
+"total": 546,
 "uk": 23,
 "vessels": [
 "Bulk",
@@ -12219,7 +12219,7 @@
 "csm-ua.com": {
 "address": "3 Sabanskiy Lane, Office 11n",
 "city": "Odessa",
-"co": 65,
+"co": 67,
 "country": "Ukraine",
 "emails": [
 "cv@csm-idn.com",
@@ -12265,7 +12265,7 @@
 "telegram": [
 "@sitelia_world"
 ],
-"total": 178,
+"total": 182,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -18966,7 +18966,7 @@
 "interorient.com": {
 "address": "14 line VO, 7",
 "city": "St.Petersburg",
-"co": 17,
+"co": 18,
 "country": "Russia",
 "emails": [
 "crewcv@interorient.com",
@@ -19002,7 +19002,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 135,
+"total": 140,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -19814,7 +19814,7 @@
 "ukrcrewing.com.ua"
 ],
 "telegram": [],
-"total": 73,
+"total": 74,
 "vessels": [
 "Dredger",
 "Offshore",
@@ -47922,7 +47922,7 @@
 "crewell": "https://crewell.net/en/companies/64960/"
 },
 "name": "Advance Global Recruitment Ltd",
-"off": 467,
+"off": 468,
 "offshore_hint": false,
 "phones": [],
 "so": 46,
@@ -47943,7 +47943,7 @@
 "telegram": [
 "@cvpro_mailing"
 ],
-"total": 468,
+"total": 469,
 "uk": 60,
 "vessels": [
 "Bulk",
@@ -51232,10 +51232,11 @@
 "phones": [],
 "so": 0,
 "sources": [
+"@marinejobs",
 "@seamenjob"
 ],
 "telegram": [],
-"total": 1,
+"total": 2,
 "vessels": [],
 "website": ""
 },
@@ -55449,7 +55450,7 @@
 "@maritimeforum"
 ],
 "telegram": [],
-"total": 192,
+"total": 193,
 "uk": 22,
 "vessels": [
 "Dredger",
@@ -57565,6 +57566,7 @@
 "phoenician shipping and crewing": "phoenicianship.com",
 "phoenix maritime": "phoenix-maritime.com",
 "pipe layer dp3 maritime": "maritime-universal.com",
+"pipelay barge at mnr recruitment": "jobatsea.online",
 "pmg holding offline cyprus member since: dec 2021 no active vacancies bunkering continuous jobs on board of bunker barges: 2-nd eng; 3-rd eng; bosun; ab; os view profile": "name:pmg holding offline cyprus member since: dec 2021 no active vacancies bunkering continuous jobs on board of bunker barges: 2-nd eng; 3-rd eng; bosun; ab; os view profile",
 "polar marine geosurvey expedidion offline russian federation member since: jul 2022 no active vacancies view profile": "name:polar marine geosurvey expedidion offline russian federation member since: jul 2022 no active vacancies view profile",
 "polaris marine": "te.net.ua",
@@ -58360,7 +58362,7 @@
 "Merchant_Fleet": 642,
 "OffshoreFleetJob": 11074,
 "Offshore_Vacancies": 941,
-"OnlyOffshore": 39003,
+"OnlyOffshore": 39004,
 "OnlyYacht": 2324,
 "SM_job_center": 2494,
 "SeaSeaWorks": 3934,
@@ -58379,31 +58381,31 @@
 "findseajobs": 32569,
 "galaxymaritimeua": 1250,
 "gm_seaman_cv": 2710,
-"help_seafarers": 4894,
+"help_seafarers": 4896,
 "ismira_agency": 440,
 "job_for_seaman": 17059,
 "jobfor_seamen": 12723,
 "marinecareerorg": 17761,
-"marinejobs": 43390,
+"marinejobs": 43396,
 "marinejobz": 194156,
 "marineman_ltd": 48378,
-"maritimeforum": 257018,
+"maritimeforum": 257020,
 "merchantNavyrealjob": 262,
 "morehod_ru": 30951,
-"oceancrewjobs": 32793,
+"oceancrewjobs": 32794,
 "offshoreatsea": 25312,
 "offshorecv": 1600,
-"offshorevacancies": 47242,
+"offshorevacancies": 47244,
 "oilrigs": 778,
 "olive_crew": 2932,
 "onboard_su": 20749,
 "pervoemorskoe": 4530,
 "rekamore_su": 165039,
 "roster_marine": 1742,
-"seajobfinder": 42396,
+"seajobfinder": 42397,
 "seamenjob": 106269,
-"seamenvacancy": 1379,
-"seavacancies": 25227,
+"seamenvacancy": 1386,
+"seavacancies": 25228,
 "shipjobsindia": 420,
 "shipscreweu": 16650,
 "sidantey": 399,

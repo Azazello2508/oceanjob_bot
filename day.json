@@ -5566,33 +5566,116 @@
 "repeat": true,
 "time": "2026-11-12T17:25:07+00:00",
 "junior_dp": false
+},
+{
+"uk": "…ate is £207.33 Must be UK based and hold the right to work in UK Apply online Contact us Published 12TH NOVEM…",
+"title": "AB – Workboat/Dredger – 20th November",
+"url": "https://www.clyderecruit.com/job/ab-workboat-dredger-20th-november/",
+"source": "clyderecruit.com",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "AB",
+"vessel": "Dredger"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-12T18:29:47.512859+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://t.me/marinejobs/43392",
+"source": "Telegram: @marinejobs",
+"found": [
+"chief officer"
+],
+"fp": "fp-3b6da83ded34298b",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Bulk carrier",
+"joining": "15 Jan 2027",
+"contract": "4±1 months",
+"email": "forcv@csm-ua.com",
+"company": "csm-ua.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-12T18:03:43+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "LOOKING FOR CHIEF OFFICER",
+"url": "https://t.me/seamenvacancy/1384",
+"source": "Telegram: @seamenvacancy",
+"found": [
+"chief officer"
+],
+"fp": "fp-7c66ae70251096bb",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "MPP",
+"joining": "DAY: END NOVEMBER",
+"contract": "3 MONTHS",
+"email": "crewcv@interorient.com",
+"company": "interorient.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-12T17:55:51+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Need Candidates for PCC/ Container Carrier Vessels",
+"url": "https://t.me/oceancrewjobs/32794",
+"source": "Telegram: @oceancrewjobs",
+"found": [
+"chief officer"
+],
+"fp": "fp-bc9092ffc62dfe74",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 3rd Officer / AB",
+"vessel": "Container, PCTC",
+"company": "https://oceancrew.org/vacancies/mer…"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-12T17:57:25+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-4225,
-4226,
-4227,
-4228,
-4229,
-4230,
-4231,
-4232,
-4233,
-4234,
-4235,
-4236,
-4237,
-4238,
-4239,
-4240,
-4241,
-4242,
-4243,
-4244,
-4245,
-4246
+4247,
+4248,
+4249,
+4250,
+4251,
+4252,
+4253,
+4254,
+4255,
+4256,
+4257,
+4258,
+4259,
+4260,
+4261,
+4262,
+4263,
+4264,
+4265,
+4266,
+4267,
+4268
 ],
-"last_list": "2026-11-12T17:40:52.964568+00:00",
-"cleared_upto": 4224,
-"last_msg_id": 4246
+"last_list": "2026-11-12T18:30:47.088329+00:00",
+"cleared_upto": 4246,
+"last_msg_id": 4268
 }
