@@ -12219,7 +12219,7 @@
 "csm-ua.com": {
 "address": "3 Sabanskiy Lane, Office 11n",
 "city": "Odessa",
-"co": 64,
+"co": 65,
 "country": "Ukraine",
 "emails": [
 "cv@csm-idn.com",
@@ -12265,7 +12265,7 @@
 "telegram": [
 "@sitelia_world"
 ],
-"total": 174,
+"total": 178,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -12458,7 +12458,7 @@
 "cvseajobs@gmail.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-11",
+"last": "2026-11-12",
 "links": {},
 "name": "",
 "off": 0,
@@ -12474,7 +12474,7 @@
 "telegram": [
 "@MaritimeVacansiess"
 ],
-"total": 5,
+"total": 7,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -17627,7 +17627,7 @@
 "@seajobfinder"
 ],
 "telegram": [],
-"total": 30,
+"total": 31,
 "vessels": [
 "Dredger",
 "Offshore",
@@ -19002,7 +19002,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 133,
+"total": 135,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -24283,17 +24283,19 @@
 "last": "2026-11-12",
 "links": {},
 "name": "",
-"off": 5,
+"off": 7,
 "offshore_hint": false,
 "phones": [],
 "so": 0,
 "sources": [
 "@OnlyOffshore",
+"@marinejobs",
+"@offshoreatsea",
 "@offshorecv",
 "@roster_marine"
 ],
 "telegram": [],
-"total": 5,
+"total": 7,
 "uk": 1,
 "vessels": [
 "Offshore"
@@ -48070,7 +48072,7 @@
 "victoria@sevenseasrecruitment.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-11",
+"last": "2026-11-12",
 "links": {},
 "name": "",
 "off": 1,
@@ -48085,7 +48087,7 @@
 "@shipscreweu"
 ],
 "telegram": [],
-"total": 54,
+"total": 55,
 "vessels": [
 "Offshore",
 "Passenger"
@@ -51213,6 +51215,30 @@
 ],
 "website": "thalpis-crs.com"
 },
+"thecrewguy.com": {
+"address": "",
+"city": "",
+"co": 0,
+"country": "",
+"emails": [
+"apply@thecrewguy.com"
+],
+"first": "2026-11-12",
+"last": "2026-11-12",
+"links": {},
+"name": "",
+"off": 0,
+"offshore_hint": false,
+"phones": [],
+"so": 0,
+"sources": [
+"@seamenjob"
+],
+"telegram": [],
+"total": 1,
+"vessels": [],
+"website": ""
+},
 "thrivegroup.co.uk": {
 "address": "",
 "city": "",
@@ -52471,7 +52497,7 @@
 "@shipscreweu"
 ],
 "telegram": [],
-"total": 48,
+"total": 50,
 "uk": 3,
 "vessels": [
 "Chemical",
@@ -55971,7 +55997,7 @@
 "hannah@yoacrew.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-10",
+"last": "2026-11-12",
 "links": {},
 "name": "",
 "off": 6,
@@ -55983,7 +56009,7 @@
 "@Yacht_Vacancies"
 ],
 "telegram": [],
-"total": 50,
+"total": 51,
 "vessels": [
 "Chemical",
 "Offshore",
@@ -58328,27 +58354,27 @@
 "tg_hw": {
 "ALPHACREW": 3578,
 "BSMCSCUKRAINE": 4383,
-"CREW_ARIA": 14144,
+"CREW_ARIA": 14145,
 "Crew_Radar": 3341,
 "JobForMariners": 1204,
-"Merchant_Fleet": 641,
+"Merchant_Fleet": 642,
 "OffshoreFleetJob": 11074,
 "Offshore_Vacancies": 941,
 "OnlyOffshore": 39003,
-"OnlyYacht": 2322,
+"OnlyYacht": 2324,
 "SM_job_center": 2494,
 "SeaSeaWorks": 3934,
 "Sea_format": 12347,
 "TSMexp": 862,
 "Yacht_Vacancies": 290,
 "allcrewing": 3809,
-"andreeyVstart": 1399,
+"andreeyVstart": 1400,
 "balticcareer": 5645,
 "crewingua": 44928,
 "crs_vacancies": 3561,
 "cruiseshipjobs": 8,
 "cvcrewcom": 12898,
-"cvsenderseaman": 16102,
+"cvsenderseaman": 16103,
 "ecrewing": 3191,
 "findseajobs": 32569,
 "galaxymaritimeua": 1250,
@@ -58358,28 +58384,28 @@
 "job_for_seaman": 17059,
 "jobfor_seamen": 12723,
 "marinecareerorg": 17761,
-"marinejobs": 43388,
+"marinejobs": 43390,
 "marinejobz": 194156,
 "marineman_ltd": 48378,
 "maritimeforum": 257018,
 "merchantNavyrealjob": 262,
 "morehod_ru": 30951,
 "oceancrewjobs": 32793,
-"offshoreatsea": 25311,
+"offshoreatsea": 25312,
 "offshorecv": 1600,
 "offshorevacancies": 47242,
 "oilrigs": 778,
 "olive_crew": 2932,
 "onboard_su": 20749,
 "pervoemorskoe": 4530,
-"rekamore_su": 165038,
+"rekamore_su": 165039,
 "roster_marine": 1742,
-"seajobfinder": 42395,
-"seamenjob": 106265,
-"seamenvacancy": 1376,
+"seajobfinder": 42396,
+"seamenjob": 106269,
+"seamenvacancy": 1379,
 "seavacancies": 25227,
 "shipjobsindia": 420,
-"shipscreweu": 16649,
+"shipscreweu": 16650,
 "sidantey": 399,
 "supermariner_ua": 3904,
 "truemalina_offshore": 815,
