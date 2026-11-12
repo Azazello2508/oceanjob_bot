@@ -16205,7 +16205,7 @@
 "@marinejobs"
 ],
 "telegram": [],
-"total": 26,
+"total": 27,
 "vessels": [
 "Chemical",
 "General cargo",
@@ -16850,7 +16850,7 @@
 "team2@goodwinds.ro"
 ],
 "first": "2026-11-03",
-"last": "2026-11-05",
+"last": "2026-11-12",
 "links": {
 "crewell": "https://crewell.net/en/companies/246245/"
 },
@@ -16864,7 +16864,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 3,
+"total": 4,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -17602,7 +17602,7 @@
 "heldermaritiem.com": {
 "address": "",
 "city": "",
-"co": 7,
+"co": 8,
 "country": "",
 "emails": [
 "diana.bimane@heldermaritiem.com",
@@ -17627,7 +17627,7 @@
 "@seajobfinder"
 ],
 "telegram": [],
-"total": 28,
+"total": 30,
 "vessels": [
 "Dredger",
 "Offshore",
@@ -22988,7 +22988,7 @@
 "application@marisrecruitment.eu"
 ],
 "first": "2026-11-03",
-"last": "2026-11-10",
+"last": "2026-11-12",
 "links": {
 "crewell": "https://crewell.net/en/companies/139686/"
 },
@@ -23002,7 +23002,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 4,
+"total": 5,
 "vessels": [
 "Bulk",
 "Offshore",
@@ -24280,10 +24280,10 @@
 "poland@mercatorcrewing.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-03",
+"last": "2026-11-12",
 "links": {},
 "name": "",
-"off": 4,
+"off": 5,
 "offshore_hint": false,
 "phones": [],
 "so": 0,
@@ -24293,7 +24293,7 @@
 "@roster_marine"
 ],
 "telegram": [],
-"total": 4,
+"total": 5,
 "uk": 1,
 "vessels": [
 "Offshore"
@@ -39720,7 +39720,7 @@
 "@shipscreweu"
 ],
 "telegram": [],
-"total": 9,
+"total": 10,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -41423,10 +41423,10 @@
 "country": "",
 "emails": [],
 "first": "2026-11-03",
-"last": "2026-11-11",
+"last": "2026-11-12",
 "links": {},
 "name": "Fitter Production Technician Lead Marine",
-"off": 4,
+"off": 5,
 "offshore_hint": false,
 "phones": [],
 "so": 0,
@@ -41434,7 +41434,7 @@
 "@oceancrewjobs"
 ],
 "telegram": [],
-"total": 4,
+"total": 5,
 "vessels": [
 "Offshore",
 "Tug"
@@ -42537,7 +42537,7 @@
 "crewell": "https://crewell.net/en/companies/65957/"
 },
 "name": "OSM Crew Management",
-"off": 11,
+"off": 12,
 "offshore_hint": false,
 "phones": [
 "+37046310997",
@@ -42548,12 +42548,13 @@
 "+380974006633",
 "+380980665071"
 ],
-"so": 2,
+"so": 3,
 "sources": [
 "@SM_job_center",
 "@cvsenderseaman",
 "@help_seafarers",
 "@job_for_seaman",
+"@marinejobs",
 "@maritimeforum",
 "@offshoreatsea",
 "@roster_marine",
@@ -42562,7 +42563,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 30,
+"total": 31,
 "vessels": [
 "LPG/LNG",
 "Offshore",
@@ -47757,24 +47758,28 @@
 "application@seawell.com.ua"
 ],
 "first": "2026-11-03",
-"last": "2026-11-03",
+"last": "2026-11-12",
 "links": {},
 "name": "",
 "off": 1,
 "offshore_hint": false,
 "phones": [
+"+3737976565",
 "+37379765651"
 ],
 "so": 1,
 "sources": [
+"@CREW_ARIA",
 "@Merchant_Fleet",
 "@Offshore_Vacancies"
 ],
 "telegram": [],
-"total": 3,
+"total": 7,
 "vessels": [
 "General cargo",
+"LPG/LNG",
 "Offshore",
+"Tanker",
 "Tug"
 ],
 "website": ""
@@ -55399,7 +55404,7 @@
 "crewell": "https://crewell.net/en/companies/54631/"
 },
 "name": "Worldwide Recruitment Solutions",
-"off": 132,
+"off": 133,
 "offshore_hint": false,
 "phones": [],
 "so": 13,
@@ -55418,7 +55423,7 @@
 "@maritimeforum"
 ],
 "telegram": [],
-"total": 191,
+"total": 192,
 "uk": 22,
 "vessels": [
 "Dredger",
@@ -57461,6 +57466,7 @@
 "ogenus offshore management uk": "ogenusoffshore.com",
 "oil tanker armada marine services": "armada-holding.com",
 "oilcity crew jobs centre": "oilcitygroup.com",
+"oim marine": "oceancrew.org",
 "oj crew": "ojcrew.com",
 "oj crew offline lithuania member since: feb 2017 no active vacancies view profile": "name:oj crew offline lithuania member since: feb 2017 no active vacancies view profile",
 "oj crew poland": "ojcrew.com",
@@ -58322,27 +58328,27 @@
 "tg_hw": {
 "ALPHACREW": 3578,
 "BSMCSCUKRAINE": 4383,
-"CREW_ARIA": 14141,
+"CREW_ARIA": 14144,
 "Crew_Radar": 3341,
 "JobForMariners": 1204,
-"Merchant_Fleet": 640,
+"Merchant_Fleet": 641,
 "OffshoreFleetJob": 11074,
 "Offshore_Vacancies": 941,
-"OnlyOffshore": 39002,
+"OnlyOffshore": 39003,
 "OnlyYacht": 2322,
 "SM_job_center": 2494,
 "SeaSeaWorks": 3934,
-"Sea_format": 12346,
+"Sea_format": 12347,
 "TSMexp": 862,
 "Yacht_Vacancies": 290,
 "allcrewing": 3809,
 "andreeyVstart": 1399,
 "balticcareer": 5645,
-"crewingua": 44927,
+"crewingua": 44928,
 "crs_vacancies": 3561,
 "cruiseshipjobs": 8,
 "cvcrewcom": 12898,
-"cvsenderseaman": 16096,
+"cvsenderseaman": 16102,
 "ecrewing": 3191,
 "findseajobs": 32569,
 "galaxymaritimeua": 1250,
@@ -58352,26 +58358,26 @@
 "job_for_seaman": 17059,
 "jobfor_seamen": 12723,
 "marinecareerorg": 17761,
-"marinejobs": 43387,
+"marinejobs": 43388,
 "marinejobz": 194156,
 "marineman_ltd": 48378,
 "maritimeforum": 257018,
 "merchantNavyrealjob": 262,
-"morehod_ru": 30948,
-"oceancrewjobs": 32786,
+"morehod_ru": 30951,
+"oceancrewjobs": 32793,
 "offshoreatsea": 25311,
 "offshorecv": 1600,
-"offshorevacancies": 47239,
+"offshorevacancies": 47242,
 "oilrigs": 778,
 "olive_crew": 2932,
 "onboard_su": 20749,
 "pervoemorskoe": 4530,
-"rekamore_su": 165036,
+"rekamore_su": 165038,
 "roster_marine": 1742,
 "seajobfinder": 42395,
 "seamenjob": 106265,
 "seamenvacancy": 1376,
-"seavacancies": 25226,
+"seavacancies": 25227,
 "shipjobsindia": 420,
 "shipscreweu": 16649,
 "sidantey": 399,
