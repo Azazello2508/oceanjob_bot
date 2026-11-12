@@ -4111,32 +4111,363 @@
 "repeat": true,
 "time": "2026-11-12T12:22:35+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "2nd Officer on Container Ship",
+"url": "https://crewell.net/en/vacancies/465973/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Container"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-12T13:51:58.355049+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "2nd Officer on PSV DP2",
+"url": "https://crewell.net/en/vacancies/465979/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "2nd Officer",
+"vessel": "PSV"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-12T13:51:59.074023+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer on Crude oil tanker",
+"url": "https://crewell.net/en/vacancies/465970/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Crude oil tanker"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-12T13:52:00.068813+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/369641",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-12T13:52:02.539808+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "2nd Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/369642",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-12T13:52:03.952555+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://seajobs.ru/ru/vacancy/18158/chief-officer-crude-oil-tanker",
+"source": "seajobs.ru",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Crude oil tanker"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-12T13:52:28.322414+00:00",
+"junior_dp": false
+},
+{
+"uk": "Clyde Marine (UK): нужно право работать в UK, проверь условия",
+"title": "Chief Officer for LNG (Steam) tanker. 285m. Joining in December",
+"url": "https://www.clyderecruit.com/job/chief-officer-for-lng-steam-tanker-285m-joining-in-december/",
+"source": "clyderecruit.com",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "LNG",
+"joining": "in December"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-12T13:53:04.039377+00:00",
+"junior_dp": false
+},
+{
+"uk": "Clyde Marine (UK): нужно право работать в UK, проверь условия",
+"title": "Second Officer for LNG (Steam) Tanker. 285m. Joining December",
+"url": "https://www.clyderecruit.com/job/second-officer-for-lng-steam-tanker-285m-joining-december/",
+"source": "clyderecruit.com",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "LNG",
+"joining": "December"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-12T13:53:04.710062+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer for LPG Ethylene Carrier",
+"url": "https://www.ainostri.ro/oferte/maritim/chief-officer-for-lpg-ethylene-carrier-14193",
+"source": "ainostri.ro",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "LPG"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-12T13:53:24.109323+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "We are looking for crew",
+"url": "https://t.me/seajobfinder/42368",
+"source": "Telegram: @seajobfinder",
+"found": [
+"chief officer"
+],
+"fp": "fp-ea94cb88efea414b",
+"offshore": true,
+"info": {
+"rank": "Chief Officer / AB",
+"joining": "s on 18 November 2026",
+"email": "diana.bimane@heldermaritiem.com",
+"company": "heldermaritiem.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-12T13:24:28+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "MULTIPLE OFFSHORE OPPORTUNITIES",
+"url": "https://t.me/seajobfinder/42387",
+"source": "Telegram: @seajobfinder",
+"found": [
+"dpo"
+],
+"fp": "fp-5fd8f73d2ecb17c5",
+"offshore": true,
+"info": {
+"rank": "DPO",
+"email": "Max.OS@worldwide-rs.com",
+"company": "worldwide-rs.com"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-12T13:47:25+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Position:",
+"url": "https://t.me/CREW_ARIA/14127",
+"source": "Telegram: @CREW_ARIA",
+"found": [
+"second officer"
+],
+"fp": "fp-119e687fa9b4f17b",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Container",
+"joining": "to be confirmed",
+"contract": "4 +/- 1 months",
+"salary": "4300 €",
+"email": "application@abacrew.com",
+"company": "abacrew.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-12T13:07:17+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Position:",
+"url": "https://t.me/CREW_ARIA/14132",
+"source": "Telegram: @CREW_ARIA",
+"found": [
+"chief officer"
+],
+"fp": "fp-9833eef943f7803d",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Product tanker",
+"joining": "to be confirmed",
+"salary": "9900 $",
+"email": "application@abacrew.com",
+"company": "abacrew.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-12T13:27:38+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "CAPTAIN(ROTA) - M/Y 40M - MED",
+"url": "https://t.me/seamenjob/106254",
+"source": "Telegram: @seamenjob",
+"found": [
+"chief officer",
+"first officer"
+],
+"fp": "fp-5f6507e7413f039e",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Tug",
+"company": "SCS Yachting is seeking an experien…"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-12T13:49:44+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Pelican Marine Services SA is recruiting a Master, Chief Officer,  Second Engineer and Electro-Technical Officer to join a PSV in Nigeria in December 2026.",
+"url": "https://t.me/OnlyOffshore/38971",
+"source": "Telegram: @OnlyOffshore",
+"found": [
+"chief officer"
+],
+"fp": "fp-3e728da15ac58036",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "PSV",
+"contract": "2 months on / 2 months",
+"email": "contact@pelicanmarine.ch",
+"company": "pelicanmarine.ch."
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-12T13:25:35+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Dear Seafarers,",
+"url": "https://t.me/OnlyOffshore/38976",
+"source": "Telegram: @OnlyOffshore",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-0cff7b3e4decd14a",
+"offshore": true,
+"info": {
+"rank": "2nd Officer",
+"vessel": "PSV, AHTS",
+"joining": "07.12.2026",
+"contract": "5/5 weeks - stable shift",
+"email": "hr.vacancies@tdw.com",
+"company": "tdw.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-12T13:38:07+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "SECOND OFFICER",
+"url": "https://t.me/cvsenderseaman/16072",
+"source": "Telegram: @cvsenderseaman",
+"found": [
+"second officer"
+],
+"fp": "fp-959d035f0b681f04",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"salary": "3844 USD / month",
+"joining": "26.11.2026",
+"contract": "4",
+"email": "crewing@nautilus.mk.ua",
+"company": "nautilus.mk.ua"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-12T13:18:55+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-4120,
-4121,
-4122,
-4123,
-4124,
-4125,
-4126,
-4127,
-4128,
-4129,
-4130,
-4131,
-4132,
-4133,
-4134,
-4135,
-4136,
-4137,
-4138,
-4139,
-4140
+4141,
+4142,
+4143,
+4144,
+4145,
+4146,
+4147,
+4148,
+4149,
+4150,
+4151,
+4152,
+4153,
+4154,
+4155,
+4156,
+4157,
+4158,
+4159,
+4160,
+4161
 ],
-"last_list": "2026-11-12T13:03:48.980946+00:00",
-"cleared_upto": 4119,
-"last_msg_id": 4140
+"last_list": "2026-11-12T13:54:30.853112+00:00",
+"cleared_upto": 4140,
+"last_msg_id": 4161
 }
