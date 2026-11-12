@@ -49580,12 +49580,12 @@
 "lukasz.jamroz@stanship.com.pl"
 ],
 "first": "2026-11-03",
-"last": "2026-11-03",
+"last": "2026-11-13",
 "links": {
 "crewell": "https://crewell.net/en/companies/111885/"
 },
 "name": "Stan Shipping",
-"off": 1,
+"off": 2,
 "offshore_hint": false,
 "phones": [
 "+48501267733"
@@ -49593,10 +49593,11 @@
 "so": 0,
 "sources": [
 "@help_seafarers",
+"@marinejobs",
 "crewell.net"
 ],
 "telegram": [],
-"total": 1,
+"total": 2,
 "vessels": [
 "Offshore",
 "Tug"
@@ -58406,7 +58407,7 @@
 "Merchant_Fleet": 642,
 "OffshoreFleetJob": 11074,
 "Offshore_Vacancies": 941,
-"OnlyOffshore": 39004,
+"OnlyOffshore": 39005,
 "OnlyYacht": 2324,
 "SM_job_center": 2495,
 "SeaSeaWorks": 3934,
@@ -58430,7 +58431,7 @@
 "job_for_seaman": 17059,
 "jobfor_seamen": 12723,
 "marinecareerorg": 17762,
-"marinejobs": 43399,
+"marinejobs": 43400,
 "marinejobz": 194156,
 "marineman_ltd": 48378,
 "maritimeforum": 257118,
