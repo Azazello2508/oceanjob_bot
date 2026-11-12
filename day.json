@@ -4456,7 +4456,8 @@
 },
 "new": true,
 "repeat": false,
-"time": "2026-11-12T14:19:49.725837+00:00"
+"time": "2026-11-12T14:19:49.725837+00:00",
+"junior_dp": false
 },
 {
 "uk": "",
@@ -4471,7 +4472,8 @@
 },
 "new": true,
 "repeat": false,
-"time": "2026-11-12T14:19:50.718208+00:00"
+"time": "2026-11-12T14:19:50.718208+00:00",
+"junior_dp": false
 },
 {
 "uk": "",
@@ -4494,7 +4496,8 @@
 },
 "new": true,
 "repeat": false,
-"time": "2026-11-12T14:09:10+00:00"
+"time": "2026-11-12T14:09:10+00:00",
+"junior_dp": false
 },
 {
 "uk": "",
@@ -4515,7 +4518,8 @@
 },
 "new": true,
 "repeat": false,
-"time": "2026-11-12T14:04:07+00:00"
+"time": "2026-11-12T14:04:07+00:00",
+"junior_dp": false
 },
 {
 "uk": "",
@@ -4539,7 +4543,8 @@
 },
 "new": true,
 "repeat": true,
-"time": "2026-11-12T14:03:59+00:00"
+"time": "2026-11-12T14:03:59+00:00",
+"junior_dp": false
 },
 {
 "uk": "",
@@ -4563,7 +4568,461 @@
 },
 "new": true,
 "repeat": true,
-"time": "2026-11-12T14:04:29+00:00"
+"time": "2026-11-12T14:04:29+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Junior DPO on Oil tanker",
+"url": "https://crewell.net/en/vacancies/465988/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "JDPO",
+"vessel": "Tanker"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-12T15:09:30.013560+00:00",
+"junior_dp": true
+},
+{
+"uk": "",
+"title": "Chief Officer on Oil tanker",
+"url": "https://crewell.net/en/vacancies/465995/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Tanker"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-12T15:09:30.682610+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer on Oil tanker",
+"url": "https://crewell.net/en/vacancies/466001/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Tanker"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-12T15:09:31.313754+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer on Bulk carrier",
+"url": "https://crewell.net/en/vacancies/466008/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Bulk carrier"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-12T15:09:31.910471+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "OPEN VACANCIES — NOVEMBER 2026",
+"url": "https://t.me/maritimeforum/256980",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer",
+"c/o",
+"2/o"
+],
+"fp": "fp-7410023cd9d16a6a",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer",
+"vessel": "Bulk carrier",
+"joining": "November 2026",
+"contract": "4 ± 2 months",
+"salary": "$6,500"
+},
+"new": true,
+"repeat": true,
+"time": "2026-11-12T14:43:00+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://t.me/maritimeforum/256992",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-6ab75c86f259a293",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo",
+"contract": "4 +/- 1",
+"email": "apply@olivecrew.com",
+"tg": "Elyzaveta_OliveCrew",
+"company": "olivecrew.com"
+},
+"new": true,
+"repeat": true,
+"time": "2026-11-12T14:44:44+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Position:",
+"url": "https://t.me/CREW_ARIA/14138",
+"source": "Telegram: @CREW_ARIA",
+"found": [
+"second officer",
+"dpo"
+],
+"fp": "fp-2ba020b3d4050e6d",
+"offshore": true,
+"info": {
+"rank": "2nd Officer / DPO",
+"vessel": "PSV",
+"contract": "60 days",
+"email": "applications@ryanship.com",
+"company": "ryanship.com"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-12T14:44:04+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Position:",
+"url": "https://t.me/CREW_ARIA/14139",
+"source": "Telegram: @CREW_ARIA",
+"found": [
+"chief officer"
+],
+"fp": "fp-f03bb4237f7e1a0b",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "PSV",
+"contract": "2 months on  2 months",
+"email": "contact@pelicanmarine.ch",
+"company": "pelicanmarine.ch."
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-12T14:46:04+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "2ND OFFICER",
+"url": "https://t.me/marinejobs/43374",
+"source": "Telegram: @marinejobs",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-a3f78e0cae28b1ef",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "VLCC",
+"salary": "4,180 Euro",
+"joining": "bonus",
+"contract": "4+1 months",
+"email": "forcv@eurocrew-ua.com",
+"company": "eurocrew-ua.com"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-12T14:31:02+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Looking for a qualified",
+"url": "https://t.me/marinejobs/43375",
+"source": "Telegram: @marinejobs",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-bcaa026fb2b2d9d9",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Tanker",
+"salary": "€4,180 + €135 re-joining bonus",
+"joining": "bonus",
+"contract": "4+1 months",
+"email": "forcv@eurocrew-ua.com",
+"company": "eurocrew-ua.com"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-12T14:32:46+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Captain (Rota)",
+"url": "https://t.me/marinejobs/43377",
+"source": "Telegram: @marinejobs",
+"found": [
+"first officer"
+],
+"fp": "fp-739821bf125218ba",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Tug",
+"salary": "Competitive package (details o…",
+"joining": "Winter season start",
+"email": "recruitment@scsyachtimg.com",
+"company": "scsyachtimg.com"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-12T15:01:44+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://t.me/olive_crew/2932",
+"source": "Telegram: @olive_crew",
+"found": [
+"chief officer"
+],
+"fp": "fp-dcc0167bd7733eed",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo",
+"contract": "4 +/- 1",
+"email": "apply@olivecrew.com",
+"tg": "Elyzaveta_OliveCrew",
+"company": "olivecrew.com"
+},
+"new": true,
+"repeat": true,
+"time": "2026-11-12T14:32:04+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "https://jobatsea.online/job/625504/second-officer-dpo-for-dp2-psv-vessel-at-ryanshipmanagement/",
+"url": "https://t.me/offshorevacancies/47235",
+"source": "Telegram: @offshorevacancies",
+"found": [
+"second officer",
+"dpo"
+],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "2nd Officer / DPO",
+"vessel": "PSV"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-12T14:29:58+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Marine Crewing Agency Everest",
+"url": "https://t.me/rekamore_su/165036",
+"source": "Telegram: @rekamore_su",
+"found": [
+"chief officer",
+"c/o"
+],
+"fp": "fp-067375567b594520",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Chemical tanker, Crude oil tanker",
+"salary": "выплачивается наличными на бор…",
+"contract": "ы 4+1. Смена: ноябрь",
+"company": "Marine Crewing Agency Everest"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-12T15:05:25+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://t.me/offshoreatsea/25300",
+"source": "Telegram: @offshoreatsea",
+"found": [
+"chief officer"
+],
+"fp": "fp-5720b1703495da3b",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"email": "diana.bimane@heldermaritiem.com",
+"company": "heldermaritiem.com"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-12T14:32:28+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Duration: 12 months",
+"url": "https://t.me/offshoreatsea/25306",
+"source": "Telegram: @offshoreatsea",
+"found": [
+"sdpo",
+"dpo"
+],
+"fp": "fp-e1ff6c1090a82c30",
+"offshore": true,
+"info": {
+"rank": "SDPO",
+"contract": "12 months",
+"email": "isabelle.j@worldwide-rs.com",
+"company": "worldwide-rs.com"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-12T14:37:47+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Medic",
+"url": "https://t.me/offshoreatsea/25307",
+"source": "Telegram: @offshoreatsea",
+"found": [
+"dpo"
+],
+"fp": "fp-b693d67135aaee2e",
+"offshore": true,
+"info": {
+"rank": "DPO",
+"contract": "12 months",
+"email": "isabelle.j@worldwide-rs.com",
+"company": "worldwide-rs.com"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-12T14:37:50+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Crane Operator",
+"url": "https://t.me/offshoreatsea/25308",
+"source": "Telegram: @offshoreatsea",
+"found": [
+"dpo"
+],
+"fp": "fp-335c00eff08c9939",
+"offshore": true,
+"info": {
+"rank": "DPO",
+"contract": "12 months",
+"email": "isabelle.j@worldwide-rs.com",
+"company": "worldwide-rs.com"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-12T14:37:51+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Electrician",
+"url": "https://t.me/offshoreatsea/25309",
+"source": "Telegram: @offshoreatsea",
+"found": [
+"dpo"
+],
+"fp": "fp-f9a563e0a0b61386",
+"offshore": true,
+"info": {
+"rank": "DPO",
+"contract": "12 months",
+"email": "isabelle.j@worldwide-rs.com",
+"company": "worldwide-rs.com"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-12T14:37:51+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "SECOND OFFICER",
+"url": "https://t.me/cvsenderseaman/16084",
+"source": "Telegram: @cvsenderseaman",
+"found": [
+"second officer",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-b4d5129a189b2835",
+"offshore": true,
+"info": {
+"rank": "2nd Officer",
+"vessel": "PSV, AHTS",
+"salary": "Negotiable",
+"joining": "07.12.2026",
+"contract": "5/5 weeks - stable shift",
+"email": "hr.vacancies@tdw.com",
+"company": "tdw.com"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-12T14:30:55+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "ELECTRICIAN",
+"url": "https://t.me/cvsenderseaman/16089",
+"source": "Telegram: @cvsenderseaman",
+"found": [
+"dpo"
+],
+"fp": "fp-e6a77529a9521d47",
+"offshore": true,
+"info": {
+"rank": "DPO",
+"salary": "Negotiable",
+"joining": "ASAP",
+"contract": "12 months",
+"email": "isabelle.j@worldwide-rs.com",
+"company": "worldwide-rs.com"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-12T15:02:55+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
@@ -4591,5 +5050,5 @@
 ],
 "last_list": "2026-11-12T13:54:30.853112+00:00",
 "cleared_upto": 4140,
-"last_msg_id": 4161
+"last_msg_id": 4180
 }
