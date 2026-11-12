@@ -70,16 +70,86 @@
 "repeat": false,
 "time": "2026-11-11T21:55:37.282018+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "Second Officer | Oil/Chemical Tanker",
+"url": "https://seajobs.pro/jobs/second-officer-oil-chemical-tanker-30ef4174-7fad-4b47-b779-a9200105e7b9",
+"source": "seajobs.pro",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Chemical tanker"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-12T00:24:22.988581+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Second Officer | General Cargo",
+"url": "https://seajobs.pro/jobs/second-officer-general-cargo-8f54c4a8-8dd8-4789-9366-bf5f33ec6f44",
+"source": "seajobs.pro",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "General cargo"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-12T00:24:23.145294+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer | General Cargo",
+"url": "https://seajobs.pro/jobs/chief-officer-general-cargo-4b03c34a-e4c7-4a7a-aae7-e0f5d03a43af",
+"source": "seajobs.pro",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-12T00:24:23.362732+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer | Oil Product Tanker",
+"url": "https://seajobs.pro/jobs/chief-officer-oil-product-tanker-334e7b20-e8fc-42e6-853e-1e316056294b",
+"source": "seajobs.pro",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Product tanker"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-12T00:24:23.571155+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-3964,
-3965,
-3966,
-3967,
-3968
+3969,
+3970,
+3971,
+3972,
+3973,
+3974,
+3975
 ],
-"last_list": "2026-11-11T21:56:40.067723+00:00",
-"cleared_upto": 3963,
-"last_msg_id": 3968
+"last_list": "2026-11-12T00:25:14.096143+00:00",
+"cleared_upto": 3968,
+"last_msg_id": 3975
 }
