@@ -1657,6 +1657,266 @@
 "repeat": false,
 "time": "2026-11-12T08:14:55+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "CO for Heavy Lift vessel - AAL fleet - mid February",
+"url": "https://crewing.portalmorski.pl/en/sea-jobs/co-for-heavy-lift-vessel-aal-fleet-mid-february/",
+"source": "portalmorski.pl",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-12T08:50:47.270814+00:00"
+},
+{
+"uk": "",
+"title": "CHIEF OFFICER for Container - EASTERN PACIFIC SHIPPING",
+"url": "https://crewing.portalmorski.pl/en/sea-jobs/chief-officer-for-container-eastern-pacific-shipping/",
+"source": "portalmorski.pl",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Container",
+"company": "CHIEF OFFICER for Container - EASTE…"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-12T08:50:48.956585+00:00"
+},
+{
+"uk": "",
+"title": "Exciting Chief Officer opportunity on an oil tanker!",
+"url": "https://t.me/marinejobs/43337",
+"source": "Telegram: @marinejobs",
+"found": [
+"chief officer"
+],
+"fp": "fp-dc55fd4dbbbff40c",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Tanker",
+"salary": "$10,500 - $11,000 + bonuses",
+"joining": "November 2026",
+"contract": "4 months",
+"email": "forcv@eurocrew-ua.com",
+"company": "eurocrew-ua.com"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-12T08:33:04+00:00"
+},
+{
+"uk": "",
+"title": "DRY CARGO FLEET - Bulk Carrier",
+"url": "https://t.me/crewingua/44917",
+"source": "Telegram: @crewingua",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-4647d67c58f54ae3",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Bulk carrier",
+"joining": "End of November",
+"salary": "3.800-4.000$",
+"email": "crew@oceanodyssey.com.ua",
+"company": "oceanodyssey.com.ua"
+},
+"new": true,
+"repeat": true,
+"time": "2026-11-12T08:49:02+00:00"
+},
+{
+"uk": "",
+"title": "ВАКАНСИЯ",
+"url": "https://t.me/crewingua/44918",
+"source": "Telegram: @crewingua",
+"found": [
+"2/o"
+],
+"fp": "fp-8c8a5ef9f30f7cba",
+"offshore": false,
+"info": {
+"rank": "2nd Officer / 3rd Officer",
+"contract": "4 m",
+"salary": "2600 Eur",
+"email": "dept.crew@gmail.com"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-12T08:50:05+00:00"
+},
+{
+"uk": "",
+"title": "NEW PCTC VESSEL | DUAL FUEL | SENIOR OFFICERS",
+"url": "https://t.me/seamenjob/106232",
+"source": "Telegram: @seamenjob",
+"found": [
+"chief officer"
+],
+"fp": "fp-75b0041729fc4400",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Ro-Ro, PCTC",
+"joining": "end of November 2026 -beg of D",
+"email": "forcv@csm-ua.com",
+"company": "csm-ua.com"
+},
+"new": true,
+"repeat": true,
+"time": "2026-11-12T08:41:33+00:00"
+},
+{
+"uk": "",
+"title": "CHIEF OFFICER – CHEMICAL/OIL TANKER",
+"url": "https://t.me/balticcareer/5598",
+"source": "Telegram: @balticcareer",
+"found": [
+"chief officer"
+],
+"fp": "fp-db8960e6fe8df175",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Chemical tanker",
+"salary": "10500 USD / month",
+"contract": "4 months (+/-1)"
+},
+"new": true,
+"repeat": true,
+"time": "2026-11-12T08:36:15+00:00"
+},
+{
+"uk": "",
+"title": "CHIEF OFFICER – CONTAINER SHIP",
+"url": "https://t.me/balticcareer/5601",
+"source": "Telegram: @balticcareer",
+"found": [
+"chief officer"
+],
+"fp": "fp-33e558273162b48e",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Container",
+"salary": "7100-7800 USD / month",
+"contract": "3 months +/- 1 month"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-12T08:50:30+00:00"
+},
+{
+"uk": "…es: • Certificate of Competency (COC II/5) • UK Work Permit ✅ Requirements: • European residence • UK FW…",
+"title": "Deckhand",
+"url": "https://t.me/offshoreatsea/25252",
+"source": "Telegram: @offshoreatsea",
+"found": [],
+"fp": "fp-7a6d23b18814bfa8",
+"offshore": true,
+"info": {
+"rank": "AB",
+"vessel": "Dredger",
+"contract": "6 weeks",
+"email": "jrocko@atlasnextwave.com",
+"company": "atlasnextwave.com"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-12T08:38:01+00:00"
+},
+{
+"uk": "",
+"title": "Second Officer DPO",
+"url": "https://t.me/offshoreatsea/25257",
+"source": "Telegram: @offshoreatsea",
+"found": [
+"second officer",
+"dpo"
+],
+"fp": "fp-f71186f46c4e727f",
+"offshore": true,
+"info": {
+"rank": "2nd Officer / DPO",
+"vessel": "PSV",
+"email": "applications@ryanship.com",
+"company": "ryanship.com"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-12T08:38:52+00:00"
+},
+{
+"uk": "",
+"title": "Chief Mate",
+"url": "https://t.me/offshoreatsea/25259",
+"source": "Telegram: @offshoreatsea",
+"found": [
+"chief mate"
+],
+"fp": "fp-ed85b91365fe313b",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Tug",
+"contract": "period: 25 November – 23",
+"email": "jkirusova@atlasnextwave.com",
+"company": "atlasnextwave.com"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-12T08:38:53+00:00"
+},
+{
+"uk": "…e Certificate of Competency (COC II/5) Valid UK Work Permit is mandatory jrocko@atlasnextwave.com 🔘 SMST…",
+"title": "URGENT HIRING – DECKHAND | HOPPER DREDGER VESSEL",
+"url": "https://t.me/gm_seaman_cv/2705",
+"source": "Telegram: @gm_seaman_cv",
+"found": [
+"chief officer"
+],
+"fp": "fp-e91e998b153de96c",
+"offshore": true,
+"info": {
+"rank": "Chief Officer / AB",
+"vessel": "PSV, AHTS",
+"joining": "25 November 2026",
+"contract": "6 weeks",
+"email": "jrocko@atlasnextwave.com",
+"company": "atlasnextwave.com"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-12T08:23:53+00:00"
+},
+{
+"uk": "",
+"title": "OPEN POSITIONS",
+"url": "https://t.me/cvsenderseaman/16031",
+"source": "Telegram: @cvsenderseaman",
+"found": [],
+"fp": "fp-a963233a0e0476e6",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Bulk carrier",
+"joining": "beginning December",
+"salary": "10,500 USD"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-12T08:22:55+00:00"
 }
 ],
 "msg_ids": [
