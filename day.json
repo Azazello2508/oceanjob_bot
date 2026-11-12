@@ -58,15 +58,31 @@
 "repeat": true,
 "time": "2026-11-12T21:05:14+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "2nd Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/369680",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-12T23:08:25.403086+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-4297,
-4298,
-4299,
-4300
+4301,
+4302,
+4303,
+4304
 ],
-"last_list": "2026-11-12T22:20:15.863108+00:00",
-"cleared_upto": 4296,
-"last_msg_id": 4300
+"last_list": "2026-11-12T23:10:02.566771+00:00",
+"cleared_upto": 4300,
+"last_msg_id": 4304
 }
