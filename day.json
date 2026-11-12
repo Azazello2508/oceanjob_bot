@@ -390,20 +390,230 @@
 "repeat": false,
 "time": "2026-11-12T04:16:14+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "Second Officer DPO for DP2 PSV vessel Ryan Ship Management Pvt Ltd",
+"url": "https://maritime-union.com/job/232856",
+"source": "maritime-union.com",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "2nd Officer / DPO",
+"vessel": "PSV",
+"company": "Second Officer DPO for DP2 PSV vess…"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-12T05:51:10.992896+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer for Panamax Bulk Carrier Vessel Ryan Ship Management Pvt Ltd",
+"url": "https://maritime-union.com/job/232857",
+"source": "maritime-union.com",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Bulk carrier",
+"company": "Chief Officer for Panamax Bulk Carr…"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-12T05:51:11.869003+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Offshore. Job selection for 12/11/2026",
+"url": "https://t.me/SM_job_center/2492",
+"source": "Telegram: @SM_job_center",
+"found": [
+"chief officer"
+],
+"fp": "fp-c104a3abfcc48339",
+"offshore": true,
+"info": {
+"rank": "Chief Officer / 3rd Officer",
+"vessel": "AHTS, OSV",
+"salary": "$5,000/month",
+"email": "crew@emescrewing.com",
+"company": "emescrewing.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-12T05:03:40+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Компания ГК \"ОТЭКО\" приглашает на  работу:",
+"url": "https://t.me/rekamore_su/164956",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-105216998cd5ccaa",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Tug",
+"email": "e.davydenko@oteko.ru",
+"company": "oteko.ru"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-12T05:31:03+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Компания ООО “Трэвелер Шиппинг” приглашает на работу:",
+"url": "https://t.me/rekamore_su/164960",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-42888872d2f67410",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Chemical tanker",
+"joining": "❗️",
+"email": "gavrilova_o@astonfleet.com",
+"company": "astonfleet.com"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-12T05:35:08+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Компания \"Alteam Crewing\" приглашает на работу:",
+"url": "https://t.me/rekamore_su/164961",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-b525764d9ad9fe0c",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"salary": "4 400 $",
+"contract": "4 месяца",
+"email": "alteam@crew-alteam.com",
+"company": "crew-alteam.com"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-12T05:36:03+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Компания \"Речмортранс\" приглашает на работу:",
+"url": "https://t.me/rekamore_su/164963",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-5f4b1ad2a4e0de2d",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo",
+"email": "okrmt@rechmortrans.ru",
+"company": "rechmortrans.ru"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-12T05:37:07+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Компания  “Инмортерминал” приглашает на работу:",
+"url": "https://t.me/rekamore_su/164965",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-f2075f0a0ec16e58",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Tanker",
+"salary": "418 252 рублей на руки, 480 99…"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-12T05:39:08+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Open Positions for DP2 PSV",
+"url": "https://t.me/oceancrewjobs/32783",
+"source": "Telegram: @oceancrewjobs",
+"found": [
+"chief officer",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-3267607568910db2",
+"offshore": true,
+"info": {
+"rank": "Chief Officer / 2nd Officer / AB",
+"vessel": "PSV",
+"company": "https://oceancrew.org/vacancies/off…"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-12T05:49:03+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Crew Positions for Oil Tanker Vessel",
+"url": "https://t.me/oceancrewjobs/32784",
+"source": "Telegram: @oceancrewjobs",
+"found": [
+"chief officer",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-0b32c46cb6890b2f",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer / 3rd Officer",
+"vessel": "Tanker",
+"company": "Crew Positions for Oil Tanker Vesse…"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-12T05:49:10+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-3976,
-3977,
-3978,
-3979,
-3980,
-3981,
-3982,
-3983,
-3984
+3985,
+3986,
+3987,
+3988,
+3989,
+3990,
+3991,
+3992,
+3993,
+3994,
+3995
 ],
-"last_list": "2026-11-12T05:02:42.467056+00:00",
-"cleared_upto": 3975,
-"last_msg_id": 3984
+"last_list": "2026-11-12T05:52:21.953133+00:00",
+"cleared_upto": 3984,
+"last_msg_id": 3995
 }
