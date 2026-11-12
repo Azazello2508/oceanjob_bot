@@ -16,14 +16,58 @@
 "repeat": false,
 "time": "2026-11-12T20:38:48.643412+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer on VLCC",
+"url": "https://crewell.net/en/vacancies/466032/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "VLCC"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-12T21:28:36.990525+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Marine Crewing Agency Everest",
+"url": "https://t.me/rekamore_su/165041",
+"source": "Telegram: @rekamore_su",
+"found": [
+"chief officer",
+"second officer",
+"2nd off"
+],
+"fp": "fp-f9d3600903c7908e",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 3rd Officer",
+"vessel": "Aframax, LPG",
+"salary": "+ BONUS за HRA",
+"joining": "Master: December 2026",
+"contract": "6 месяцев.(можно меньше",
+"company": "Marine Crewing Agency Everest"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-12T21:05:14+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-4291,
-4292
+4293,
+4294,
+4295,
+4296
 ],
-"last_list": "2026-11-12T20:40:29.023169+00:00",
-"cleared_upto": 4290,
+"last_list": "2026-11-12T21:30:23.018936+00:00",
+"cleared_upto": 4292,
 "force": true,
-"last_msg_id": 4292
+"last_msg_id": 4296
 }

@@ -39607,28 +39607,31 @@
 "sasham@nautilus.mk.ua"
 ],
 "first": "2026-11-03",
-"last": "2026-11-12",
+"last": "2026-11-13",
 "links": {
 "crewell": "https://crewell.net/en/companies/33657/"
 },
 "name": "Myklebusthaug Management AS",
-"off": 28,
+"off": 31,
 "offshore_hint": false,
 "phones": [],
 "so": 3,
 "sources": [
 "@Offshore_Vacancies",
+"@OnlyOffshore",
 "@cvsenderseaman",
 "@findseajobs",
 "@galaxymaritimeua",
 "@help_seafarers",
+"@marinejobs",
 "@maritimeforum",
 "@roster_marine",
+"@seajobfinder",
 "@truemalina_offshore",
 "crewell.net"
 ],
 "telegram": [],
-"total": 38,
+"total": 41,
 "vessels": [
 "General cargo",
 "Offshore"
@@ -42874,7 +42877,7 @@
 "partner-dv.com": {
 "address": "г. Владивосток, ул. Кирова, д. 23, офис 208.",
 "city": "Владивосток",
-"co": 19,
+"co": 21,
 "country": "Russia",
 "emails": [
 "everest_sea_nhk@mail.ru",
@@ -42882,7 +42885,7 @@
 "wazup@partner-dv.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-12",
+"last": "2026-11-13",
 "links": {
 "crewell": "https://crewell.net/en/companies/284191/"
 },
@@ -42890,7 +42893,7 @@
 "off": 0,
 "offshore_hint": false,
 "phones": [],
-"so": 0,
+"so": 2,
 "sources": [
 "@cvsenderseaman",
 "@morehod_ru",
@@ -42899,7 +42902,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 114,
+"total": 116,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -58407,7 +58410,7 @@
 "Merchant_Fleet": 642,
 "OffshoreFleetJob": 11074,
 "Offshore_Vacancies": 941,
-"OnlyOffshore": 39005,
+"OnlyOffshore": 39007,
 "OnlyYacht": 2324,
 "SM_job_center": 2495,
 "SeaSeaWorks": 3934,
@@ -58431,12 +58434,12 @@
 "job_for_seaman": 17059,
 "jobfor_seamen": 12723,
 "marinecareerorg": 17762,
-"marinejobs": 43400,
+"marinejobs": 43401,
 "marinejobz": 194156,
 "marineman_ltd": 48378,
 "maritimeforum": 257118,
 "merchantNavyrealjob": 262,
-"morehod_ru": 30951,
+"morehod_ru": 30953,
 "oceancrewjobs": 32794,
 "offshoreatsea": 25312,
 "offshorecv": 1600,
@@ -58445,9 +58448,9 @@
 "olive_crew": 2932,
 "onboard_su": 20749,
 "pervoemorskoe": 4530,
-"rekamore_su": 165039,
+"rekamore_su": 165041,
 "roster_marine": 1742,
-"seajobfinder": 42397,
+"seajobfinder": 42398,
 "seamenjob": 106270,
 "seamenvacancy": 1386,
 "seavacancies": 25228,
