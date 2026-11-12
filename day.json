@@ -2899,31 +2899,423 @@
 "repeat": false,
 "time": "2026-11-12T10:03:02+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer on General Cargo Vessel",
+"url": "https://crewell.net/en/vacancies/465925/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-12T11:20:39.141698+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/369624",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-12T11:20:41.575805+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "2nd Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/369625",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-12T11:20:42.619332+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "2nd Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/369626",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-12T11:20:43.829897+00:00",
+"junior_dp": false
+},
+{
+"uk": "UK в названии вакансии",
+"title": "URGENT | Chief Officer  |Offshore - PSV | Aberdeen, UK",
+"url": "https://crewing.portalmorski.pl/en/sea-jobs/urgent-chief-officer-offshore-psv-aberdeen-uk/",
+"source": "portalmorski.pl",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "PSV"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-12T11:21:46.641042+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief mate - Bulk/General Cargo Vessels",
+"url": "https://www.ainostri.ro/oferte/maritim/chief-mate-bulk-general-cargo-vessels-14187",
+"source": "ainostri.ro",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Bulk carrier, General cargo"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-12T11:21:51.706853+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "VACANCIES – GENERAL CARGO",
+"url": "https://t.me/maritimeforum/256919",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-7d1e5de6a3080ddc",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo",
+"salary": "5,000 USD",
+"email": "ops@start-manning.com",
+"company": "start-manning.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-12T10:32:30+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Position:",
+"url": "https://t.me/CREW_ARIA/14103",
+"source": "Telegram: @CREW_ARIA",
+"found": [
+"chief officer"
+],
+"fp": "fp-8c1d962f6548a13e",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"joining": "contract duration, trading a",
+"contract": "trading area and other",
+"salary": "7400 €",
+"email": "application@abacrew.com",
+"company": "abacrew.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-12T11:12:23+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Position:",
+"url": "https://t.me/CREW_ARIA/14106",
+"source": "Telegram: @CREW_ARIA",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-5664c9de0a19e099",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "General cargo",
+"joining": "contract duration, trading a",
+"contract": "trading area and eligib",
+"salary": "3450 $",
+"email": "application@abacrew.com",
+"company": "abacrew.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-12T11:13:11+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Position:",
+"url": "https://t.me/CREW_ARIA/14107",
+"source": "Telegram: @CREW_ARIA",
+"found": [
+"chief officer"
+],
+"fp": "fp-1b83a25917a69591",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo",
+"salary": "7000-  7200 USD",
+"joining": "ASAP",
+"contract": "4 ±1 months",
+"email": "ops@start-manning.com",
+"company": "start-manning.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-12T11:14:47+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Position:",
+"url": "https://t.me/CREW_ARIA/14113",
+"source": "Telegram: @CREW_ARIA",
+"found": [
+"dpo"
+],
+"fp": "fp-f6515db3c0add521",
+"offshore": true,
+"info": {
+"rank": "DPO",
+"vessel": "PSV",
+"salary": "220 USD pday",
+"joining": "end of Nov",
+"contract": "56 days +- 15 days",
+"email": "cv@tsmexp.com",
+"company": "tsmexp.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-12T11:21:24+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "VACANCIES – GENERAL CARGO",
+"url": "https://t.me/job_for_seaman/17055",
+"source": "Telegram: @job_for_seaman",
+"found": [
+"chief officer"
+],
+"fp": "fp-c39d360a23d4d62e",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo",
+"salary": "5,000 USD",
+"email": "ops@start-manning.com",
+"company": "start-manning.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-12T10:32:56+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "CHIEF OFFICER – GENERAL CARGO",
+"url": "https://t.me/balticcareer/5617",
+"source": "Telegram: @balticcareer",
+"found": [
+"chief officer"
+],
+"fp": "fp-82b0d4ddefea7df0",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo, MPP",
+"salary": "8500 USD / month",
+"contract": "3 months +/- 1 month"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-12T10:40:26+00:00",
+"junior_dp": false
+},
+{
+"uk": "…UK 📅 Boarding: 16.11.2026 ✅ 1 year on PSV ✅ UK work permit 👉 https://balticcareer.eu",
+"title": "CHIEF OFFICER – PSV",
+"url": "https://t.me/balticcareer/5619",
+"source": "Telegram: @balticcareer",
+"found": [
+"chief officer"
+],
+"fp": "fp-501a82763fe5ea9b",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "PSV",
+"salary": "12959 GBP / month",
+"contract": "4 weeks"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-12T10:55:08+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "https://jobatsea.online/job/625510/chief-officer-shoalbuster-multicat-at-select-offshore/",
+"url": "https://t.me/offshorevacancies/47221",
+"source": "Telegram: @offshorevacancies",
+"found": [
+"chief officer"
+],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "Chief Officer"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-12T11:05:49+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Master",
+"url": "https://t.me/offshoreatsea/25291",
+"source": "Telegram: @offshoreatsea",
+"found": [
+"sdpo",
+"dpo"
+],
+"fp": "fp-307b771dd7f3e056",
+"offshore": true,
+"info": {
+"rank": "SDPO",
+"vessel": "PSV",
+"contract": "8 weeks",
+"email": "alyona@tospeople.com",
+"company": "tospeople.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-12T10:48:46+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "AHTS DP-2",
+"url": "https://t.me/vesselsea/3134",
+"source": "Telegram: @vesselsea",
+"found": [
+"dpo"
+],
+"fp": "fp-c0614039cb64246e",
+"offshore": true,
+"info": {
+"rank": "DPO",
+"vessel": "AHTS",
+"joining": "ноябрь 2026 года",
+"email": "crew@nimbusmarinegroup.com",
+"company": "nimbusmarinegroup.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-12T10:34:39+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "CHIEF OFFICER",
+"url": "https://t.me/cvsenderseaman/16054",
+"source": "Telegram: @cvsenderseaman",
+"found": [
+"chief officer"
+],
+"fp": "fp-e1c86ea23ce0f20e",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"salary": "Negotiable",
+"joining": "07",
+"contract": "6 weeks",
+"email": "jobs@heldermaritiem.com",
+"company": "heldermaritiem.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-12T10:54:55+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "CHIEF OFFICER",
+"url": "https://t.me/cvsenderseaman/16056",
+"source": "Telegram: @cvsenderseaman",
+"found": [
+"chief officer",
+"chief mate"
+],
+"fp": "fp-a5fde75a11cc5dcb",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Bulk carrier, General cargo",
+"salary": "7200 EUR",
+"joining": "ASAP",
+"contract": "3 months",
+"email": "office@tinecomar.ro",
+"company": "tinecomar.ro"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-12T11:10:55+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-4059,
-4060,
-4061,
-4062,
-4063,
-4064,
-4065,
-4066,
-4067,
-4068,
-4069,
-4070,
-4071,
-4072,
-4073,
-4074,
-4075,
-4076,
-4077,
-4078
+4079,
+4080,
+4081,
+4082,
+4083,
+4084,
+4085,
+4086,
+4087,
+4088,
+4089,
+4090,
+4091,
+4092,
+4093,
+4094,
+4095,
+4096,
+4097,
+4098
 ],
-"last_list": "2026-11-12T10:32:29.325332+00:00",
-"cleared_upto": 4058,
-"last_msg_id": 4078
+"last_list": "2026-11-12T11:22:56.871879+00:00",
+"cleared_upto": 4078,
+"last_msg_id": 4098
 }
