@@ -909,25 +909,371 @@
 "repeat": false,
 "time": "2026-11-12T06:08:14+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/369600",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-12T07:30:06.256893+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer — DSV",
+"url": "https://seajobs.pro/jobs/chief-officer-dsv-b7acc2e5-ff9c-40e1-97cd-fec05e4361a0",
+"source": "seajobs.pro",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "DSV"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-12T07:30:50.441116+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "C/O na CHEM TANKER",
+"url": "https://crewing.portalmorski.pl/en/sea-jobs/c-o-chem-tanker-asap/",
+"source": "portalmorski.pl",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Chemical tanker"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-12T07:30:54.649223+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "CHIEF OFFICER FOR LPG/VLGC",
+"url": "https://www.ainostri.ro/oferte/maritim/chief-officer-for-lpg-vlgc-14167",
+"source": "ainostri.ro",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "LPG"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-12T07:30:58.583959+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "CHIEF OFFICER FOR TANKER/PANAMAX (IMO II & III)",
+"url": "https://www.ainostri.ro/oferte/maritim/chief-officer-for-tanker-panamax-imo-ii-and-iii-14171",
+"source": "ainostri.ro",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Tanker"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-12T07:30:59.293400+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "На приёмку новых судов проекта RSD 59, DWT 8144",
+"url": "https://t.me/onboard_su/20744",
+"source": "Telegram: @onboard_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-bb9923aa583fc512",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"contract": "4+-1. Оплата проезда. Вак",
+"salary": "224 000 ₽",
+"email": "cv@crewmontenegro.com",
+"company": "crewmontenegro.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-12T06:52:45+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Position:",
+"url": "https://t.me/CREW_ARIA/14092",
+"source": "Telegram: @CREW_ARIA",
+"found": [
+"chief officer"
+],
+"fp": "fp-2a2437127555ebb1",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "VLCC, Crude oil tanker",
+"salary": "field shows the lower end of t…",
+"joining": "to be confirmed. The salary fi",
+"contract": "trading area and eligib",
+"email": "application@abacrew.com",
+"company": "abacrew.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-12T06:59:16+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "VACANCIES – CHIEF OFFICER",
+"url": "https://t.me/job_for_seaman/17050",
+"source": "Telegram: @job_for_seaman",
+"found": [
+"chief officer"
+],
+"fp": "fp-ae8a92da52293d7e",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo",
+"salary": "7000-  7200 USD",
+"joining": "ASAP",
+"contract": "4 ±1 months"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-12T07:24:08+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Vacancy Code",
+"url": "https://t.me/shipscreweu/16643",
+"source": "Telegram: @shipscreweu",
+"found": [
+"dpo",
+"2nd off"
+],
+"fp": "fp-609863043c02db40",
+"offshore": true,
+"info": {
+"rank": "2nd Officer / 3rd Officer / DPO",
+"vessel": "PSV, MPSV",
+"salary": "s – 240 EUR per day",
+"joining": "18th of November",
+"contract": "4 weeks",
+"email": "vovk@navis.eu",
+"company": "navis.eu"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-12T07:20:15+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Компания ООО \"Донмастер\" приглашает на работу:",
+"url": "https://t.me/rekamore_su/164985",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-dd44c00d22393f66",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo",
+"salary": "360 000 рублей (на руки)",
+"email": "crew@donmastershipping.ru",
+"company": "donmastershipping.ru"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-12T06:45:06+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Судоходная компания в связи с расширением флота приглашает на работу:",
+"url": "https://t.me/rekamore_su/164989",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-98c4f61a90bed5e6",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Tanker",
+"salary": "от 380 000 рублей (на руки)",
+"joining": "г. Астрахань",
+"contract": "4 месяца",
+"email": "sc_novo@flothr.ru",
+"company": "flothr.ru"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-12T07:29:01+00:00",
+"junior_dp": false
+},
+{
+"uk": "…er / Multicat experience (Mandatory) • Valid UK Work Permit / FWP • Must be eligible to obtain an A1 For…",
+"title": "Project commencing Mid Jan - Project crew required",
+"url": "https://t.me/gm_seaman_cv/2704",
+"source": "Telegram: @gm_seaman_cv",
+"found": [
+"chief officer"
+],
+"fp": "fp-b6dbff64b916206b",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Jack-up, Barge",
+"joining": "ASAP",
+"contract": "2-3 Months",
+"email": "max.cooper@selectoffshore.com",
+"company": "selectoffshore.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-12T07:13:59+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "URGENTLY!!!! We have multiple openings for Officers for VLCC for a reputable Greek company.",
+"url": "https://t.me/crs_vacancies/3556",
+"source": "Telegram: @crs_vacancies",
+"found": [
+"chief officer",
+"second officer"
+],
+"fp": "fp-d3f1b2594e58b639",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer",
+"vessel": "VLCC",
+"salary": "15.000 USD plus 1500 rejoining…",
+"joining": "as per your availability",
+"contract": "4 (+/-1) months",
+"email": "info@thalpis-crs.com",
+"company": "thalpis-crs.com"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-12T07:22:42+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "URGENTLY!!!! We have multiple openings for Officers for",
+"url": "https://t.me/crs_vacancies/3557",
+"source": "Telegram: @crs_vacancies",
+"found": [
+"chief officer",
+"second officer"
+],
+"fp": "fp-c882c7a37c30c5a3",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer",
+"vessel": "Suezmax",
+"salary": "14.500 USD plus 1500 rejoining…",
+"joining": "as per your availability",
+"contract": "4 (+/-1) months",
+"email": "info@thalpis-crs.com",
+"company": "thalpis-crs.com"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-12T07:23:14+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "URGENTLY!!!! We have multiple openings for Officers for",
+"url": "https://t.me/crs_vacancies/3558",
+"source": "Telegram: @crs_vacancies",
+"found": [
+"chief officer",
+"second officer"
+],
+"fp": "fp-0a17e6e7dabf5f31",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer",
+"vessel": "Aframax",
+"salary": "14.500 USD plus 2000 rejoining…",
+"joining": "as per your availability",
+"contract": "4 (+/-1) months",
+"email": "info@thalpis-crs.com",
+"company": "thalpis-crs.com"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-12T07:23:37+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Urgently!!! We are looking for Officers  on bitumen tanker !",
+"url": "https://t.me/crs_vacancies/3560",
+"source": "Telegram: @crs_vacancies",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-f23c18bff6a4361d",
+"offshore": false,
+"info": {
+"rank": "2nd Officer / 3rd Officer",
+"vessel": "Tanker",
+"joining": "16th of November",
+"salary": "4200  USD",
+"email": "info@thalpis-crs.com",
+"company": "thalpis-crs.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-12T07:24:15+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-3996,
-3997,
-3998,
-3999,
-4000,
-4001,
-4002,
-4003,
-4004,
-4005,
-4006,
-4007,
-4008,
-4009
+4010,
+4011,
+4012,
+4013,
+4014,
+4015,
+4016,
+4017,
+4018,
+4019,
+4020,
+4021,
+4022,
+4023,
+4024
 ],
-"last_list": "2026-11-12T06:41:58.853693+00:00",
-"cleared_upto": 3995,
-"last_msg_id": 4009
+"last_list": "2026-11-12T07:31:46.348777+00:00",
+"cleared_upto": 4009,
+"last_msg_id": 4024
 }
