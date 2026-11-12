@@ -1275,15 +1275,15 @@
 "abacrew.com": {
 "address": "",
 "city": "",
-"co": 1,
+"co": 3,
 "country": "",
 "emails": [
 "application@abacrew.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-09",
+"last": "2026-11-12",
 "links": {},
-"name": "",
+"name": "Aba Crewing",
 "off": 0,
 "offshore_hint": false,
 "phones": [
@@ -1298,7 +1298,7 @@
 "@galaxymaritimeua"
 ],
 "telegram": [],
-"total": 6,
+"total": 12,
 "vessels": [
 "Bulk",
 "Container",
@@ -4853,13 +4853,13 @@
 "areer@orca-crew.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-11",
+"last": "2026-11-12",
 "links": {
 "crewell": "https://crewell.net/en/companies/254338/",
 "ukrcrewing": "https://ukrcrewing.com.ua/en/agency/anglo_eastern"
 },
 "name": "Advanced Marine",
-"off": 80,
+"off": 83,
 "offshore_hint": false,
 "phones": [
 "+37168688362",
@@ -4882,7 +4882,7 @@
 "@marinejobs"
 ],
 "telegram": [],
-"total": 103,
+"total": 106,
 "uk": 15,
 "vessels": [
 "Bulk",
@@ -7870,7 +7870,7 @@
 "ok@bluewaveshipping.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-11",
+"last": "2026-11-12",
 "links": {},
 "name": "ООО «СК «Голубая Волна»",
 "off": 0,
@@ -7882,7 +7882,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 12,
+"total": 13,
 "vessels": [
 "General cargo"
 ],
@@ -9416,7 +9416,7 @@
 "bsc-spb.com": {
 "address": "2 Liter-D, Vidanvskaya street",
 "city": "Saint-Petersburg",
-"co": 14,
+"co": 15,
 "country": "Russia",
 "emails": [
 "cd@bsc-spb.com",
@@ -9424,15 +9424,15 @@
 "ed@bsc-spb.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-11",
+"last": "2026-11-12",
 "links": {
 "crewell": "https://crewell.net/en/companies/48029/"
 },
 "name": "CHINA at New Times Shipbuilding Co Ltd",
-"off": 21,
+"off": 22,
 "offshore_hint": false,
 "phones": [],
-"so": 12,
+"so": 13,
 "sources": [
 "@maritimeforum",
 "@morehod_ru",
@@ -9440,7 +9440,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 44,
+"total": 46,
 "vessels": [
 "Bulk",
 "LPG/LNG",
@@ -9459,7 +9459,7 @@
 "kadry@bsklogistic.ru"
 ],
 "first": "2026-11-03",
-"last": "2026-11-11",
+"last": "2026-11-12",
 "links": {},
 "name": "ООО «Борская судоходная компания»",
 "off": 0,
@@ -9473,7 +9473,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 15,
+"total": 16,
 "vessels": [],
 "website": ""
 },
@@ -10285,7 +10285,7 @@
 "personal@cdc.business"
 ],
 "first": "2026-11-03",
-"last": "2026-11-11",
+"last": "2026-11-12",
 "links": {},
 "name": "ООО «Строительная дноуглубительная компания»",
 "off": 0,
@@ -10297,7 +10297,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 13,
+"total": 14,
 "vessels": [],
 "website": ""
 },
@@ -12118,12 +12118,12 @@
 "t.kobzar@csm-ua.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-11",
+"last": "2026-11-12",
 "links": {
 "crewell": "https://crewell.net/en/companies/262765/"
 },
 "name": "COLUMBIA Shipmanagement",
-"off": 43,
+"off": 44,
 "offshore_hint": true,
 "phones": [
 "+380503241376",
@@ -12153,7 +12153,7 @@
 "telegram": [
 "@sitelia_world"
 ],
-"total": 155,
+"total": 156,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -13381,13 +13381,13 @@
 "donneftetrans.ru": {
 "address": "",
 "city": "",
-"co": 2,
+"co": 3,
 "country": "",
 "emails": [
 "crew@donneftetrans.ru"
 ],
 "first": "2026-11-09",
-"last": "2026-11-11",
+"last": "2026-11-12",
 "links": {},
 "name": "ООО \"Доннефтетранс\"",
 "off": 0,
@@ -13398,7 +13398,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 4,
+"total": 5,
 "vessels": [
 "Tanker"
 ],
@@ -13720,7 +13720,7 @@
 "sidorenkotv@eastmining.ru"
 ],
 "first": "2026-11-03",
-"last": "2026-11-10",
+"last": "2026-11-12",
 "links": {},
 "name": "ООО “Угольный морской порт Шахтерск”",
 "off": 0,
@@ -13735,7 +13735,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 11,
+"total": 12,
 "vessels": [
 "General cargo",
 "Tug"
@@ -13817,14 +13817,14 @@
 "ecoshp.ru": {
 "address": "",
 "city": "",
-"co": 16,
+"co": 17,
 "country": "",
 "emails": [
 "e.kievskaya@ecoshp.ru",
 "k.korelskaya@ecoshp.ru"
 ],
 "first": "2026-11-03",
-"last": "2026-11-11",
+"last": "2026-11-12",
 "links": {},
 "name": "Eco Shipping",
 "off": 0,
@@ -13837,7 +13837,7 @@
 "@vesselsea"
 ],
 "telegram": [],
-"total": 25,
+"total": 27,
 "vessels": [
 "General cargo"
 ],
@@ -14899,7 +14899,7 @@
 "career@fastramarine.ro"
 ],
 "first": "2026-11-09",
-"last": "2026-11-09",
+"last": "2026-11-12",
 "links": {},
 "name": "",
 "off": 0,
@@ -14910,7 +14910,7 @@
 "@cvsenderseaman"
 ],
 "telegram": [],
-"total": 1,
+"total": 2,
 "vessels": [
 "Container"
 ],
@@ -18118,7 +18118,7 @@
 "crew@i-muromets.ru"
 ],
 "first": "2026-11-03",
-"last": "2026-11-11",
+"last": "2026-11-12",
 "links": {
 "crewell": "https://crewell.net/en/companies/302158/"
 },
@@ -18133,7 +18133,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 15,
+"total": 16,
 "vessels": [
 "Tanker"
 ],
@@ -19835,7 +19835,7 @@
 "kormacheva@jsbunker.ru"
 ],
 "first": "2026-11-06",
-"last": "2026-11-11",
+"last": "2026-11-12",
 "links": {},
 "name": "АО «Бункерная компания»",
 "off": 0,
@@ -19849,7 +19849,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 8,
+"total": 9,
 "vessels": [
 "Tanker"
 ],
@@ -20032,14 +20032,14 @@
 "karelkamen.ru": {
 "address": "",
 "city": "",
-"co": 14,
+"co": 15,
 "country": "",
 "emails": [
 "a.hlyst@karelkamen.ru",
 "k.vasileva@karelkamen.ru"
 ],
 "first": "2026-11-03",
-"last": "2026-11-11",
+"last": "2026-11-12",
 "links": {},
 "name": "ООО \"Белозерское пароходство\"",
 "off": 0,
@@ -20051,7 +20051,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 34,
+"total": 37,
 "vessels": [
 "Tug"
 ],
@@ -24499,13 +24499,13 @@
 "midvolga.com": {
 "address": "",
 "city": "",
-"co": 12,
+"co": 13,
 "country": "",
 "emails": [
 "kuznetsova@midvolga.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-11",
+"last": "2026-11-12",
 "links": {},
 "name": "",
 "off": 0,
@@ -24517,7 +24517,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 16,
+"total": 17,
 "vessels": [
 "General cargo",
 "Tanker"
@@ -37521,6 +37521,32 @@
 "vessels": [],
 "website": ""
 },
+"name:морской судовой сервис": {
+"address": "",
+"city": "",
+"co": 0,
+"country": "",
+"emails": [
+"mssnvrsk@yandex.ru"
+],
+"first": "2026-11-12",
+"last": "2026-11-12",
+"links": {},
+"name": "ООО \"Морской Судовой Сервис\"",
+"off": 0,
+"offshore_hint": false,
+"phones": [],
+"so": 0,
+"sources": [
+"@rekamore_su"
+],
+"telegram": [],
+"total": 1,
+"vessels": [
+"General cargo"
+],
+"website": ""
+},
 "name:морской центр offline russian federation member since: nov 2016 no active vacancies работаем с риферами и балкерами view profile": {
 "address": "",
 "city": "",
@@ -38418,7 +38444,7 @@
 "ok_flot@mail.ru"
 ],
 "first": "2026-11-03",
-"last": "2026-11-11",
+"last": "2026-11-12",
 "links": {},
 "name": "ООО \"СК ТРАНСФЛОТ\"",
 "off": 0,
@@ -38430,7 +38456,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 11,
+"total": 12,
 "vessels": [],
 "website": ""
 },
@@ -38443,7 +38469,7 @@
 "anastasya_afanaseva@mail.ru"
 ],
 "first": "2026-11-05",
-"last": "2026-11-11",
+"last": "2026-11-12",
 "links": {},
 "name": "ООО «Смарт Шиппинг»",
 "off": 0,
@@ -38457,7 +38483,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 10,
+"total": 11,
 "vessels": [],
 "website": ""
 },
@@ -40263,13 +40289,13 @@
 "nkflot.ru": {
 "address": "",
 "city": "",
-"co": 3,
+"co": 4,
 "country": "",
 "emails": [
 "nkcrew@nkflot.ru"
 ],
 "first": "2026-11-03",
-"last": "2026-11-11",
+"last": "2026-11-12",
 "links": {},
 "name": "ООО \"НК-Флот\"",
 "off": 0,
@@ -40281,7 +40307,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 20,
+"total": 21,
 "vessels": [
 "Tanker",
 "Tug"
@@ -41034,18 +41060,19 @@
 "crewing@oams.ae"
 ],
 "first": "2026-11-11",
-"last": "2026-11-11",
+"last": "2026-11-12",
 "links": {},
 "name": "",
-"off": 1,
+"off": 2,
 "offshore_hint": false,
 "phones": [],
 "so": 0,
 "sources": [
+"@cvsenderseaman",
 "@offshoreatsea"
 ],
 "telegram": [],
-"total": 1,
+"total": 2,
 "vessels": [
 "Offshore"
 ],
@@ -42990,7 +43017,7 @@
 "pg-global.com": {
 "address": "",
 "city": "Sliema",
-"co": 6,
+"co": 7,
 "country": "Malta",
 "emails": [
 "catalina.spinu@pg-global.com",
@@ -43003,12 +43030,12 @@
 "joel.dihan@selectoffshore.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-11",
+"last": "2026-11-12",
 "links": {
 "crewell": "https://crewell.net/en/companies/37890/"
 },
 "name": "PG Global Ltd",
-"off": 50,
+"off": 51,
 "offshore_hint": false,
 "phones": [],
 "so": 5,
@@ -43027,7 +43054,7 @@
 "@shipscreweu"
 ],
 "telegram": [],
-"total": 57,
+"total": 58,
 "vessels": [
 "Offshore"
 ],
@@ -43421,13 +43448,13 @@
 "polluks-star.com": {
 "address": "11 Varkausa str.",
 "city": "Petrozavodsk",
-"co": 11,
+"co": 12,
 "country": "Russia",
 "emails": [
 "info@polluks-star.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-11",
+"last": "2026-11-12",
 "links": {
 "crewell": "https://crewell.net/en/companies/161823/"
 },
@@ -43445,7 +43472,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 17,
+"total": 18,
 "vessels": [
 "General cargo"
 ],
@@ -44750,7 +44777,7 @@
 "n.gunchenko@fersol.pro"
 ],
 "first": "2026-11-03",
-"last": "2026-11-11",
+"last": "2026-11-12",
 "links": {},
 "name": "ООО \"Роктри ВГК Стивидор\"",
 "off": 0,
@@ -44762,7 +44789,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 24,
+"total": 26,
 "vessels": [
 "Bulk"
 ],
@@ -45808,13 +45835,13 @@
 "sc-astrol.ru": {
 "address": "",
 "city": "",
-"co": 33,
+"co": 34,
 "country": "",
 "emails": [
 "personal@sc-astrol.ru"
 ],
 "first": "2026-11-03",
-"last": "2026-11-11",
+"last": "2026-11-12",
 "links": {},
 "name": "ООО \"СК \"",
 "off": 0,
@@ -45826,7 +45853,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 39,
+"total": 42,
 "vessels": [
 "General cargo",
 "Tanker"
@@ -47584,18 +47611,19 @@
 "samuel.parker@selectoffshore.co"
 ],
 "first": "2026-11-11",
-"last": "2026-11-11",
+"last": "2026-11-12",
 "links": {},
 "name": "",
-"off": 1,
+"off": 2,
 "offshore_hint": false,
 "phones": [],
 "so": 0,
 "sources": [
+"@cvsenderseaman",
 "@offshoreatsea"
 ],
 "telegram": [],
-"total": 1,
+"total": 2,
 "uk": 1,
 "vessels": [
 "Offshore"
@@ -55983,6 +56011,7 @@
 "aark shipping & manning pvt": "aarkshipping.com",
 "aavishka shipping pvt": "aavishka.com",
 "ab crewing": "abcrewing.com",
+"aba crewing": "abacrew.com",
 "abacast shipping and management": "abacast.com.ph",
 "abb ship management pvt": "abbshipmanagement.com",
 "abb ship management pvt 17 09 2026 india member since: jul 2026 no active vacancies view profile": "name:abb ship management pvt 17 09 2026 india member since: jul 2026 no active vacancies view profile",
@@ -57891,6 +57920,7 @@
 "морское образование offline russian federation member since: nov 2016 no active vacancies обучение морским специальностям переподготовка плавсостава трудоустройство консультации моряков по вопросам дипломирования и оформления морских документов view profile": "name:морское образование offline russian federation member since: nov 2016 no active vacancies обучение морским специальностям переподготовка плавсостава трудоустройство консультации моряков по вопросам дипломирования и оформления морских документов view profile",
 "морской инжиниринг и шиппинг": "seaeng.ru",
 "морской путь offline russian federation member since: aug 2023 no active vacancies view profile": "name:морской путь offline russian federation member since: aug 2023 no active vacancies view profile",
+"морской судовой сервис": "name:морской судовой сервис",
 "морской центр offline russian federation member since: nov 2016 no active vacancies работаем с риферами и балкерами view profile": "name:морской центр offline russian federation member since: nov 2016 no active vacancies работаем с риферами и балкерами view profile",
 "морспецфлот offline russian federation member since: nov 2016 no active vacancies компания проводит научно-исследовательские работы по изучению морского дна view profile": "name:морспецфлот offline russian federation member since: nov 2016 no active vacancies компания проводит научно-исследовательские работы по изучению морского дна view profile",
 "моряк мир offline russian federation member since: nov 2016 no active vacancies моряк и мир — это надежный партнер для судовладельца и для моряка! в нижнем новгороде лицензированная компания моряк и мир ведет свою историю с 2008 года и на сегодняшний д view profile": "name:моряк мир offline russian federation member since: nov 2016 no active vacancies моряк и мир — это надежный партнер для судовладельца и для моряка! в нижнем новгороде лицензированная компания моряк и мир ведет свою историю с 2008 года и на сегодняшний д view profile",
@@ -58005,10 +58035,10 @@
 "tg_hw": {
 "ALPHACREW": 3575,
 "BSMCSCUKRAINE": 4364,
-"CREW_ARIA": 14083,
+"CREW_ARIA": 14086,
 "Crew_Radar": 3323,
 "JobForMariners": 1204,
-"Merchant_Fleet": 617,
+"Merchant_Fleet": 620,
 "OffshoreFleetJob": 11074,
 "Offshore_Vacancies": 934,
 "OnlyOffshore": 38965,
@@ -58025,7 +58055,7 @@
 "crs_vacancies": 3554,
 "cruiseshipjobs": 3,
 "cvcrewcom": 12897,
-"cvsenderseaman": 15997,
+"cvsenderseaman": 16005,
 "ecrewing": 3186,
 "findseajobs": 32568,
 "galaxymaritimeua": 1250,
@@ -58035,7 +58065,7 @@
 "job_for_seaman": 17048,
 "jobfor_seamen": 12713,
 "marinecareerorg": 17761,
-"marinejobs": 43321,
+"marinejobs": 43322,
 "marinejobz": 194156,
 "marineman_ltd": 48368,
 "maritimeforum": 256881,
@@ -58049,10 +58079,10 @@
 "olive_crew": 2930,
 "onboard_su": 20738,
 "pervoemorskoe": 4530,
-"rekamore_su": 164923,
+"rekamore_su": 164949,
 "roster_marine": 1741,
 "seajobfinder": 42367,
-"seamenjob": 106221,
+"seamenjob": 106223,
 "seamenvacancy": 1375,
 "seavacancies": 25220,
 "shipjobsindia": 420,
