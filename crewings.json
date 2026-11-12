@@ -39612,7 +39612,7 @@
 "crewell": "https://crewell.net/en/companies/33657/"
 },
 "name": "Myklebusthaug Management AS",
-"off": 31,
+"off": 32,
 "offshore_hint": false,
 "phones": [],
 "so": 3,
@@ -39631,7 +39631,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 41,
+"total": 42,
 "vessels": [
 "General cargo",
 "Offshore"
@@ -58449,7 +58449,7 @@
 "onboard_su": 20749,
 "pervoemorskoe": 4530,
 "rekamore_su": 165041,
-"roster_marine": 1742,
+"roster_marine": 1743,
 "seajobfinder": 42398,
 "seamenjob": 106270,
 "seamenvacancy": 1386,
