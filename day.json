@@ -4286,6 +4286,29 @@
 "repeat": false,
 "time": "2026-11-13T16:31:07+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "OPEN VACANCIES — NOVEMBER 2026",
+"url": "https://t.me/maritimeforum/257180",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer",
+"c/o",
+"2/o"
+],
+"fp": "fp-7410023cd9d16a6a",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer",
+"vessel": "Bulk carrier",
+"joining": "November 2026",
+"contract": "4 ± 2 months",
+"salary": "$6,500"
+},
+"new": true,
+"repeat": true,
+"time": "2026-11-13T17:31:04+00:00"
 }
 ],
 "msg_ids": [
