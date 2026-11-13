@@ -42902,7 +42902,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 116,
+"total": 117,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -47964,7 +47964,7 @@
 "crewell": "https://crewell.net/en/companies/64960/"
 },
 "name": "Advance Global Recruitment Ltd",
-"off": 472,
+"off": 474,
 "offshore_hint": false,
 "phones": [],
 "so": 46,
@@ -47985,7 +47985,7 @@
 "telegram": [
 "@cvpro_mailing"
 ],
-"total": 473,
+"total": 475,
 "uk": 60,
 "vessels": [
 "Bulk",
@@ -52567,7 +52567,7 @@
 "@shipscreweu"
 ],
 "telegram": [],
-"total": 56,
+"total": 60,
 "uk": 3,
 "vessels": [
 "Chemical",
@@ -55497,12 +55497,12 @@
 "ruel.b@worldwide-rs.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-12",
+"last": "2026-11-13",
 "links": {
 "crewell": "https://crewell.net/en/companies/54631/"
 },
 "name": "Worldwide Recruitment Solutions",
-"off": 133,
+"off": 135,
 "offshore_hint": false,
 "phones": [],
 "so": 13,
@@ -55521,7 +55521,7 @@
 "@maritimeforum"
 ],
 "telegram": [],
-"total": 194,
+"total": 196,
 "uk": 22,
 "vessels": [
 "Dredger",
@@ -58472,16 +58472,16 @@
 "offshorevacancies": 47245,
 "oilrigs": 778,
 "olive_crew": 2932,
-"onboard_su": 20749,
+"onboard_su": 20751,
 "pervoemorskoe": 4530,
 "rekamore_su": 165041,
 "roster_marine": 1743,
-"seajobfinder": 42403,
+"seajobfinder": 42407,
 "seamenjob": 106270,
 "seamenvacancy": 1386,
 "seavacancies": 25228,
 "shipjobsindia": 420,
-"shipscreweu": 16654,
+"shipscreweu": 16658,
 "sidantey": 399,
 "supermariner_ua": 3905,
 "truemalina_offshore": 815,
