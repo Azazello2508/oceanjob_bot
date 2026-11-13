@@ -30627,6 +30627,33 @@
 "vessels": [],
 "website": ""
 },
+"name:india s shipping": {
+"address": "",
+"city": "",
+"co": 0,
+"country": "",
+"emails": [],
+"first": "2026-11-14",
+"last": "2026-11-14",
+"links": {},
+"name": "India's Shipping",
+"off": 1,
+"offshore_hint": false,
+"phones": [],
+"so": 0,
+"sources": [
+"@seamenjob"
+],
+"telegram": [],
+"total": 1,
+"vessels": [
+"Bulk",
+"LPG/LNG",
+"Offshore",
+"Tanker"
+],
+"website": ""
+},
 "name:inmorterminal offline russian federation member since: may 2022 no active vacancies operates oil tankers also provides bunkering services view profile": {
 "address": "",
 "city": "",
@@ -57517,6 +57544,7 @@
 "immediate crewing": "bs-shipmanagement.com",
 "imperium crewing agency": "imperium-crewing.com",
 "increw offline russian federation member since: nov 2019 no active vacancies view profile": "name:increw offline russian federation member since: nov 2019 no active vacancies view profile",
+"india s shipping": "name:india s shipping",
 "inka crew management": "inkacrew.com",
 "inka ship crew managemnt": "inkacrew.com",
 "inmorterminal offline russian federation member since: may 2022 no active vacancies operates oil tankers also provides bunkering services view profile": "name:inmorterminal offline russian federation member since: may 2022 no active vacancies operates oil tankers also provides bunkering services view profile",
@@ -58863,7 +58891,7 @@
 "marinejobs": 43466,
 "marinejobz": 194156,
 "marineman_ltd": 48386,
-"maritimeforum": 257264,
+"maritimeforum": 257275,
 "merchantNavyrealjob": 262,
 "morehod_ru": 30986,
 "oceancrewjobs": 32822,
@@ -58877,7 +58905,7 @@
 "rekamore_su": 165145,
 "roster_marine": 1743,
 "seajobfinder": 42438,
-"seamenjob": 106326,
+"seamenjob": 106327,
 "seamenvacancy": 1386,
 "seavacancies": 25235,
 "shipjobsindia": 420,
