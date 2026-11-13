@@ -4379,31 +4379,185 @@
 "repeat": false,
 "time": "2026-11-13T18:08:17+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer on General Cargo Vessel",
+"url": "https://crewell.net/en/vacancies/466248/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-13T19:18:28.208138+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://t.me/maritimeforum/257241",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-dd1d66cc7666732f",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "PCTC",
+"contract": "4 months",
+"salary": "$8,100–9,000\n",
+"email": "cv@well.lv",
+"company": "well.lv"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-13T19:10:51+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "2nd Officer",
+"url": "https://t.me/maritimeforum/257246",
+"source": "Telegram: @maritimeforum",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-cb31095293430450",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Crude oil tanker",
+"contract": "5 months",
+"email": "info@jenmar-crewing.com",
+"company": "jenmar-crewing.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-13T19:11:22+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "2nd Officer",
+"url": "https://t.me/maritimeforum/257249",
+"source": "Telegram: @maritimeforum",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-9a3ddeab14dbe326",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Tanker",
+"contract": "4 months",
+"salary": "$4,200\n",
+"email": "info@thalpis-crs.com",
+"company": "thalpis-crs.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-13T19:11:40+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "2nd Officer",
+"url": "https://t.me/maritimeforum/257255",
+"source": "Telegram: @maritimeforum",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-eca976dbee6a8089",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Container",
+"contract": "3–5 months",
+"salary": "$3,700\n",
+"email": "recruitment@nordic-hamburg.com",
+"company": "nordic-hamburg.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-13T19:12:17+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "2nd Officer",
+"url": "https://t.me/maritimeforum/257257",
+"source": "Telegram: @maritimeforum",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-2b2d79c9922c335c",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"contract": "4 months",
+"salary": "$3,800\n",
+"email": "crewing@nautilus.mk.ua",
+"company": "nautilus.mk.ua"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-13T19:12:29+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Position publishing service was stopped for the night.",
+"url": "https://t.me/marinecareerorg/17763",
+"source": "Telegram: @marinecareerorg",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-cd6ae9ceb828b697",
+"offshore": false,
+"info": {
+"rank": "2nd Officer / 3rd Officer",
+"vessel": "VLCC, Crude oil tanker"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-13T19:00:59+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-4538,
-4539,
-4540,
-4541,
-4542,
-4543,
-4544,
-4545,
-4546,
-4547,
-4548,
-4549,
-4550,
-4551,
-4552,
-4553,
-4554,
-4555,
-4556,
-4557
+4558,
+4559,
+4560,
+4561,
+4562,
+4563,
+4564,
+4565,
+4566,
+4567,
+4568,
+4569,
+4570,
+4571,
+4572,
+4573,
+4574,
+4575,
+4576,
+4577
 ],
-"last_list": "2026-11-13T18:30:18.995715+00:00",
-"cleared_upto": 4537,
-"last_msg_id": 4557
+"last_list": "2026-11-13T19:20:46.690614+00:00",
+"cleared_upto": 4557,
+"last_msg_id": 4577
 }
