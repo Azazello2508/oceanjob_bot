@@ -48136,6 +48136,32 @@
 ],
 "website": ""
 },
+"sevnor.com": {
+"address": "",
+"city": "",
+"co": 0,
+"country": "",
+"emails": [
+"crewing@sevnor.com"
+],
+"first": "2026-11-13",
+"last": "2026-11-13",
+"links": {},
+"name": "",
+"off": 0,
+"offshore_hint": false,
+"phones": [],
+"so": 0,
+"sources": [
+"@vesselsea"
+],
+"telegram": [],
+"total": 1,
+"vessels": [
+"General cargo"
+],
+"website": ""
+},
 "sgmship.com": {
 "address": "",
 "city": "",
@@ -58461,7 +58487,7 @@
 "truemalina_offshore": 815,
 "ukrcrewing_official": 2384,
 "univis_crewing": 5023,
-"vesselsea": 3136,
+"vesselsea": 3137,
 "vshipsoffshore": 1070
 },
 "tg_low": {
