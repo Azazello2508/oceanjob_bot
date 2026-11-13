@@ -4079,31 +4079,198 @@
 "repeat": false,
 "time": "2026-11-13T15:34:50+00:00",
 "junior_dp": false
+},
+{
+"uk": "Faststream (UK): проверь условия по праву работать в UK",
+"title": "Chief Officer",
+"url": "https://www.faststream.com/job/chief-officer-985733",
+"source": "faststream.com",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-13T16:25:42.546175+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Fresh vacancies via ORCA Crew Services",
+"url": "https://t.me/marinejobs/43462",
+"source": "Telegram: @marinejobs",
+"found": [
+"chief mate"
+],
+"fp": "fp-ca26236189f99ae2",
+"offshore": true,
+"info": {
+"rank": "Chief Officer / AB",
+"vessel": "AHTS, Tug",
+"joining": "window",
+"contract": "s",
+"email": "career@orca-crew.com",
+"company": "orca-crew.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-13T15:35:07+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Танкер‑химовоз 2013 г.",
+"url": "https://t.me/marinejobs/43463",
+"source": "Telegram: @marinejobs",
+"found": [
+"старший помощник"
+],
+"fp": "fp-17e42ea038d9f584",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Chemical tanker",
+"email": "kuznetsova@midvolga.com",
+"company": "midvolga.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-13T16:01:45+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "DECK OFFICERS (34)",
+"url": "https://t.me/marineman_ltd/48380",
+"source": "Telegram: @marineman_ltd",
+"found": [
+"chief officer",
+"second officer"
+],
+"fp": "fp-d12a2b7294ecbf1d",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer / 3rd Officer",
+"vessel": "LPG, LNG"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-13T16:00:03+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Список закрытых каналов в",
+"url": "https://t.me/rekamore_su/165143",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-de84ab9948b9e3a9",
+"offshore": false,
+"info": {
+"rank": "Chief Officer"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-13T16:03:01+00:00",
+"junior_dp": false
+},
+{
+"uk": "…e UK, ASAP, for 4 - 6 weeks. You will need a UK work permit You must have COC STCWS GWO SS/BT Medical Se…",
+"title": "Master and Chief Officer to join Guard vessel.",
+"url": "https://t.me/gm_seaman_cv/2715",
+"source": "Telegram: @gm_seaman_cv",
+"found": [
+"chief officer",
+"sdpo",
+"dpo"
+],
+"fp": "fp-039996c88d3b7957",
+"offshore": true,
+"info": {
+"rank": "Chief Officer / SDPO / AB",
+"vessel": "AHTS, OSV",
+"joining": "7 December 2026",
+"contract": "2 months. Location - Fran",
+"email": "Y.Shabatura@tospeople.com",
+"company": "tospeople.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-13T16:02:46+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "CHIEF OFFICER",
+"url": "https://t.me/cvsenderseaman/16183",
+"source": "Telegram: @cvsenderseaman",
+"found": [
+"chief officer"
+],
+"fp": "fp-6c16c1f10673b26e",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Container",
+"salary": "8500 USD / month",
+"joining": "10.12.2026",
+"email": "valerii.shendryk@navilands.com",
+"company": "navilands.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-13T15:42:51+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "CHIEF OFFICER",
+"url": "https://t.me/cvsenderseaman/16191",
+"source": "Telegram: @cvsenderseaman",
+"found": [
+"chief officer"
+],
+"fp": "fp-194a9713e090142f",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"salary": "190 USD / day",
+"joining": "ASAP",
+"contract": "2"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-13T16:22:50+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-4478,
-4479,
-4480,
-4481,
-4482,
-4483,
-4484,
-4485,
-4486,
-4487,
-4488,
-4489,
-4490,
-4491,
-4492,
-4493,
-4494,
-4495,
-4496,
-4497
+4498,
+4499,
+4500,
+4501,
+4502,
+4503,
+4504,
+4505,
+4506,
+4507,
+4508,
+4509,
+4510,
+4511,
+4512,
+4513,
+4514,
+4515,
+4516,
+4517
 ],
-"last_list": "2026-11-13T15:36:18.663367+00:00",
-"cleared_upto": 4477,
-"last_msg_id": 4497
+"last_list": "2026-11-13T16:26:46.861681+00:00",
+"cleared_upto": 4497,
+"last_msg_id": 4517
 }
