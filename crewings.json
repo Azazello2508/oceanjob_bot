@@ -3859,7 +3859,7 @@
 "ukrcrewing": "https://ukrcrewing.com.ua/en/agency/alpha_crew"
 },
 "name": "AlphaCrew Maritime",
-"off": 511,
+"off": 513,
 "offshore_hint": true,
 "phones": [
 "+35726000899",
@@ -3894,7 +3894,7 @@
 "@Olga_Alpha_Crew",
 "@irina_alpha"
 ],
-"total": 551,
+"total": 553,
 "uk": 23,
 "vessels": [
 "Bulk",
@@ -11835,7 +11835,7 @@
 "yuriy@desecrew.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-12",
+"last": "2026-11-13",
 "links": {},
 "name": "STCW SA",
 "off": 22,
@@ -11857,7 +11857,7 @@
 "@shipscreweu"
 ],
 "telegram": [],
-"total": 65,
+"total": 67,
 "vessels": [
 "Offshore"
 ],
@@ -47959,12 +47959,12 @@
 "anna.wegner-radunska@vships.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-12",
+"last": "2026-11-13",
 "links": {
 "crewell": "https://crewell.net/en/companies/64960/"
 },
 "name": "Advance Global Recruitment Ltd",
-"off": 470,
+"off": 472,
 "offshore_hint": false,
 "phones": [],
 "so": 46,
@@ -47985,7 +47985,7 @@
 "telegram": [
 "@cvpro_mailing"
 ],
-"total": 471,
+"total": 473,
 "uk": 60,
 "vessels": [
 "Bulk",
@@ -52543,7 +52543,7 @@
 "forcv@eurocrew-ua.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-12",
+"last": "2026-11-13",
 "links": {
 "crewell": "https://crewell.net/en/companies/287784/"
 },
@@ -52567,7 +52567,7 @@
 "@shipscreweu"
 ],
 "telegram": [],
-"total": 54,
+"total": 56,
 "uk": 3,
 "vessels": [
 "Chemical",
@@ -58476,12 +58476,12 @@
 "pervoemorskoe": 4530,
 "rekamore_su": 165041,
 "roster_marine": 1743,
-"seajobfinder": 42399,
+"seajobfinder": 42403,
 "seamenjob": 106270,
 "seamenvacancy": 1386,
 "seavacancies": 25228,
 "shipjobsindia": 420,
-"shipscreweu": 16650,
+"shipscreweu": 16654,
 "sidantey": 399,
 "supermariner_ua": 3905,
 "truemalina_offshore": 815,
