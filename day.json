@@ -3386,7 +3386,7 @@
 "info": {
 "rank": "2nd Officer"
 },
-"new": true,
+"new": false,
 "repeat": false,
 "time": "2026-11-13T14:43:41.564821+00:00",
 "junior_dp": false
@@ -3402,7 +3402,7 @@
 "info": {
 "rank": "2nd Officer"
 },
-"new": true,
+"new": false,
 "repeat": false,
 "time": "2026-11-13T14:43:44.537665+00:00",
 "junior_dp": false
@@ -3418,7 +3418,7 @@
 "info": {
 "rank": "Chief Officer"
 },
-"new": true,
+"new": false,
 "repeat": false,
 "time": "2026-11-13T14:43:45.911785+00:00",
 "junior_dp": false
@@ -3439,7 +3439,7 @@
 "email": "Y.Shabatura@tospeople.com",
 "company": "tospeople.com"
 },
-"new": true,
+"new": false,
 "repeat": false,
 "time": "2026-11-13T14:38:40+00:00",
 "junior_dp": false
@@ -3460,7 +3460,7 @@
 "contract": "3 weeks",
 "company": "Today’s open vacancies through ORCA…"
 },
-"new": true,
+"new": false,
 "repeat": false,
 "time": "2026-11-13T14:40:18+00:00",
 "junior_dp": false
@@ -3483,7 +3483,7 @@
 "email": "cv@allcrew.net",
 "company": "allcrew.net"
 },
-"new": true,
+"new": false,
 "repeat": false,
 "time": "2026-11-13T13:54:55+00:00",
 "junior_dp": false
@@ -3508,7 +3508,7 @@
 "email": "forcv@eurocrew-ua.com",
 "company": "eurocrew-ua.com"
 },
-"new": true,
+"new": false,
 "repeat": false,
 "time": "2026-11-13T14:31:45+00:00",
 "junior_dp": false
@@ -3533,7 +3533,7 @@
 "email": "forcv@eurocrew-ua.com",
 "company": "eurocrew-ua.com"
 },
-"new": true,
+"new": false,
 "repeat": false,
 "time": "2026-11-13T14:33:44+00:00",
 "junior_dp": false
@@ -3557,7 +3557,7 @@
 "email": "crew@ncplus.ru",
 "company": "ncplus.ru"
 },
-"new": true,
+"new": false,
 "repeat": false,
 "time": "2026-11-13T14:35:48+00:00",
 "junior_dp": false
@@ -3581,7 +3581,7 @@
 "email": "cv@allcrew.net",
 "company": "allcrew.net"
 },
-"new": true,
+"new": false,
 "repeat": false,
 "time": "2026-11-13T14:37:38+00:00",
 "junior_dp": false
@@ -3606,7 +3606,7 @@
 "email": "forcv@eurocrew-ua.com",
 "company": "eurocrew-ua.com"
 },
-"new": true,
+"new": false,
 "repeat": true,
 "time": "2026-11-13T14:04:00+00:00",
 "junior_dp": false
@@ -3631,7 +3631,7 @@
 "email": "forcv@eurocrew-ua.com",
 "company": "eurocrew-ua.com"
 },
-"new": true,
+"new": false,
 "repeat": true,
 "time": "2026-11-13T14:04:31+00:00",
 "junior_dp": false
@@ -3653,7 +3653,7 @@
 "email": "cv@allcrew.net",
 "company": "allcrew.net"
 },
-"new": true,
+"new": false,
 "repeat": false,
 "time": "2026-11-13T14:06:43+00:00",
 "junior_dp": false
@@ -3675,7 +3675,7 @@
 "joining": "В  КОНЦЕ НОЯБРЯ / НАЧАЛЕ ДЕКАБ",
 "salary": "€ 7000\n"
 },
-"new": true,
+"new": false,
 "repeat": false,
 "time": "2026-11-13T14:10:15+00:00",
 "junior_dp": false
@@ -3697,7 +3697,7 @@
 "contract": "S  2+1",
 "salary": "$9000\n2"
 },
-"new": true,
+"new": false,
 "repeat": false,
 "time": "2026-11-13T14:21:01+00:00",
 "junior_dp": false
@@ -3717,35 +3717,393 @@
 "vessel": "Tug",
 "company": "Crew for Pusher Tug Boat"
 },
-"new": true,
+"new": false,
 "repeat": false,
 "time": "2026-11-13T14:43:04+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "2nd Officer on VLCC",
+"url": "https://crewell.net/en/vacancies/466188/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "VLCC"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-13T15:33:57.088736+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer on Bulk carrier",
+"url": "https://crewell.net/en/vacancies/466184/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Bulk carrier"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-13T15:33:57.783378+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer on VLCC",
+"url": "https://crewell.net/en/vacancies/466187/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "VLCC"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-13T15:33:58.812651+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/369777",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-13T15:34:01.316647+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/369781",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-13T15:34:02.499152+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "2nd Officer",
+"url": "https://seajobs.ru/ru/vacancy/18180/2nd-officer-heavy-lift-vessel",
+"source": "seajobs.ru",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-13T15:34:24.507872+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Position:",
+"url": "https://t.me/CREW_ARIA/14156",
+"source": "Telegram: @CREW_ARIA",
+"found": [
+"second officer"
+],
+"fp": "fp-bb3ee0d13b8439a4",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Chemical tanker",
+"salary": "s: segment leading pay in USD",
+"joining": "December 2026",
+"email": "CV@lscgroup.lv",
+"company": "lscgroup.lv"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-13T14:56:51+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "We're seeking maritime talent!",
+"url": "https://t.me/marinejobs/43461",
+"source": "Telegram: @marinejobs",
+"found": [
+"chief officer"
+],
+"fp": "fp-baf35d6a882fa247",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"contract": "2 months",
+"email": "Y.Shabatura@tospeople.com",
+"company": "tospeople.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-13T15:32:51+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "НА  БАЛКЕР   3500  DWT",
+"url": "https://t.me/crewingua/44946",
+"source": "Telegram: @crewingua",
+"found": [
+"choff"
+],
+"fp": "fp-7eb3ebcde0357570",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Bulk carrier",
+"salary": "$ 7500"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-13T15:23:21+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "НА  GEN  CARGO  7000 DWT",
+"url": "https://t.me/crewingua/44947",
+"source": "Telegram: @crewingua",
+"found": [
+"2off",
+"choff"
+],
+"fp": "fp-56057dde6d7e8c7d",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer",
+"salary": "$ 9000\n"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-13T15:24:10+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "НА  LPG   17000  DWT",
+"url": "https://t.me/crewingua/44948",
+"source": "Telegram: @crewingua",
+"found": [
+"choff"
+],
+"fp": "fp-31c04a17132ae01d",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "LPG",
+"joining": "В   КОНЦЕ  НОЯБРЯ",
+"salary": "$15000\n"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-13T15:25:07+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "FOR  AHTS  DP1",
+"url": "https://t.me/crewingua/44950",
+"source": "Telegram: @crewingua",
+"found": [
+"2off",
+"choff"
+],
+"fp": "fp-5d79a4fc753bdf5f",
+"offshore": true,
+"info": {
+"rank": "Chief Officer / 2nd Officer / 3rd Officer",
+"vessel": "AHTS",
+"contract": "S  2+1",
+"salary": "$9000\n2"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-13T15:25:10+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "На танкер-химовоз 2013г.п.",
+"url": "https://t.me/seamenjob/106326",
+"source": "Telegram: @seamenjob",
+"found": [
+"старший помощник"
+],
+"fp": "fp-2a1bcf8ca4430c75",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Chemical tanker",
+"joining": "г.Астрахань",
+"email": "kuznetsova@midvolga.com",
+"company": "midvolga.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-13T15:30:43+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "MULTIPLE POSITIONS – LNG CARRIER",
+"url": "https://t.me/balticcareer/5704",
+"source": "Telegram: @balticcareer",
+"found": [
+"chief officer",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-0c4514579d546349",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer / 3rd Officer",
+"vessel": "LNG",
+"joining": "5 December 2026",
+"salary": "$24,750"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-13T14:59:03+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Bulkers. Job selection for 13/11/2026",
+"url": "https://t.me/SM_job_center/2498",
+"source": "Telegram: @SM_job_center",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-5e1200b0b6be707b",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Bulk carrier",
+"salary": "$3,000-$3,200/month",
+"email": "info@staff-service-expert.com",
+"company": "staff-service-expert.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-13T15:02:23+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "https://jobatsea.online/job/625692/chief-officer-asap-psv-at-select-offshore/",
+"url": "https://t.me/offshorevacancies/47271",
+"source": "Telegram: @offshorevacancies",
+"found": [
+"chief officer"
+],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "PSV"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-13T15:25:37+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "OPEN POSITIONS",
+"url": "https://t.me/cvsenderseaman/16171",
+"source": "Telegram: @cvsenderseaman",
+"found": [
+"chief officer"
+],
+"fp": "fp-d9cffa6cc27b19d3",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"salary": "✉️",
+"joining": "Early January Monthly salary",
+"email": "office@fairspirit.ro",
+"company": "fairspirit.ro"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-13T14:50:50+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "CHIEF OFFICER",
+"url": "https://t.me/cvsenderseaman/16180",
+"source": "Telegram: @cvsenderseaman",
+"found": [
+"chief officer"
+],
+"fp": "fp-5b85d5f0185262af",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Bulk carrier",
+"salary": "7730-8780 USD / month",
+"joining": "10.01.2027",
+"email": "berkutsia@danica-crewing.com",
+"company": "danica-crewing.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-13T15:34:50+00:00",
 "junior_dp": false
 }
 ],
 "msg_ids": [
-4448,
-4449,
-4450,
-4451,
-4452,
-4453,
-4454,
-4455,
-4456,
-4457,
-4458,
-4459,
-4460,
-4461,
-4462,
-4463,
-4464,
-4465,
-4466,
-4467
+4478,
+4479,
+4480,
+4481,
+4482,
+4483,
+4484,
+4485,
+4486,
+4487,
+4488,
+4489,
+4490,
+4491,
+4492,
+4493,
+4494,
+4495,
+4496,
+4497
 ],
-"last_list": "2026-11-13T13:55:29.966151+00:00",
-"cleared_upto": 4447,
-"last_msg_id": 4477
+"last_list": "2026-11-13T15:36:18.663367+00:00",
+"cleared_upto": 4477,
+"last_msg_id": 4497
 }
