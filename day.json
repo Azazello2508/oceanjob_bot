@@ -50,16 +50,58 @@
 "repeat": false,
 "time": "2026-11-13T20:09:30.866245+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "OPEN POSITIONS FOR OFFSHORE FLEET",
+"url": "https://t.me/oceancrewjobs/32823",
+"source": "Telegram: @oceancrewjobs",
+"found": [
+"dpo"
+],
+"fp": "fp-d83faf69d4f6abb5",
+"offshore": true,
+"info": {
+"rank": "DPO",
+"vessel": "Tug, Barge",
+"company": "https://oceancrew.org/vacancies/off…"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-13T20:32:23+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "NEED CREW FOR OIL/CHEM TANKER VESSEL",
+"url": "https://t.me/oceancrewjobs/32824",
+"source": "Telegram: @oceancrewjobs",
+"found": [
+"chief officer"
+],
+"fp": "fp-a4f667b681bcaffe",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / AB",
+"vessel": "Chemical tanker, Bulk carrier",
+"company": "NEED CREW FOR OIL/CHEM TANKER VESSE…"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-13T20:32:29+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-4578,
-4579,
-4580,
-4581
+4582,
+4583,
+4584,
+4585,
+4586,
+4587
 ],
-"last_list": "2026-11-13T20:11:01.955043+00:00",
-"cleared_upto": 4577,
+"last_list": "2026-11-13T21:01:24.759447+00:00",
+"cleared_upto": 4581,
 "force": true,
-"last_msg_id": 4581
+"last_msg_id": 4587
 }
