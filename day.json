@@ -74,15 +74,40 @@
 "repeat": false,
 "time": "2026-11-12T23:08:25.403086+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "CHIEF OFFICER",
+"url": "https://t.me/cvsenderseaman/16107",
+"source": "Telegram: @cvsenderseaman",
+"found": [
+"chief officer"
+],
+"fp": "fp-ad0540786152e1c4",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "MPP",
+"salary": "Negotiable",
+"joining": "end November",
+"contract": "3 months",
+"email": "crewcv@interorient.com",
+"company": "interorient.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-13T04:08:20+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-4301,
-4302,
-4303,
-4304
+4305,
+4306,
+4307,
+4308,
+4309
 ],
-"last_list": "2026-11-12T23:10:02.566771+00:00",
-"cleared_upto": 4300,
-"last_msg_id": 4304
+"last_list": "2026-11-13T04:37:42.684469+00:00",
+"cleared_upto": 4304,
+"last_msg_id": 4309
 }
