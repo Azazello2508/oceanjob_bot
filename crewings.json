@@ -38382,6 +38382,28 @@
 "vessels": [],
 "website": ""
 },
+"name:океанрыбфлот": {
+"address": "",
+"city": "",
+"co": 0,
+"country": "",
+"emails": [],
+"first": "2026-11-14",
+"last": "2026-11-14",
+"links": {},
+"name": "АО «ОКЕАНРЫБФЛОТ»",
+"off": 0,
+"offshore_hint": false,
+"phones": [],
+"so": 0,
+"sources": [
+"@vesselsea"
+],
+"telegram": [],
+"total": 1,
+"vessels": [],
+"website": ""
+},
 "name:оптовая компания mir-suvenir offline russian federation member since: jun 2017 no active vacancies view profile": {
 "address": "",
 "city": "",
@@ -58762,6 +58784,7 @@
 "оборонлогистика offline russian federation member since: apr 2021 no active vacancies общество с ограниченной ответственностью оборонлогистика создано в структуре министерства обороны российской федерации в 2011 году оборонлогистика имеет статус судоходной view profile": "name:оборонлогистика offline russian federation member since: apr 2021 no active vacancies общество с ограниченной ответственностью оборонлогистика создано в структуре министерства обороны российской федерации в 2011 году оборонлогистика имеет статус судоходной view profile",
 "общество с ограниченной ответственностью доброфлот / offline russian federation member since: apr 2021 no active vacancies view profile": "name:общество с ограниченной ответственностью доброфлот / offline russian federation member since: apr 2021 no active vacancies view profile",
 "общество с ограниченной ответственностью магнит-128 offline russian federation member since: apr 2017 no active vacancies view profile": "name:общество с ограниченной ответственностью магнит-128 offline russian federation member since: apr 2017 no active vacancies view profile",
+"океанрыбфлот": "name:океанрыбфлот",
 "оптовая компания mir-suvenir offline russian federation member since: jun 2017 no active vacancies view profile": "name:оптовая компания mir-suvenir offline russian federation member since: jun 2017 no active vacancies view profile",
 "осс": "oss-tm.com",
 "п транско": "ptransco.ru",
@@ -58915,7 +58938,7 @@
 "truemalina_offshore": 816,
 "ukrcrewing_official": 2385,
 "univis_crewing": 5024,
-"vesselsea": 3137,
+"vesselsea": 3138,
 "vshipsoffshore": 1070
 },
 "tg_low": {
