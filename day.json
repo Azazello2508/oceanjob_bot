@@ -4246,31 +4246,71 @@
 "repeat": false,
 "time": "2026-11-13T16:22:50+00:00",
 "junior_dp": false
+},
+{
+"uk": "…nt and PSCSHI. Joining in Belfast. Must hold right to work in the UK. Travel covered. Apply online Contact us Pub…",
+"title": "2x’s AB’s – Roro – Joining 22nd and 29th November",
+"url": "https://www.clyderecruit.com/job/2xs-abs-roro-joining-22nd-and-29th-november/",
+"source": "clyderecruit.com",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "AB",
+"vessel": "Ro-Ro",
+"joining": "22nd and 29th November"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-13T17:15:54.719647+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Urgent crewing for Ukrainian seafarers",
+"url": "https://t.me/marinejobs/43465",
+"source": "Telegram: @marinejobs",
+"found": [
+"chief officer"
+],
+"fp": "fp-67f9e6bd8281cb05",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Crude oil tanker",
+"salary": "s",
+"joining": "early start possible",
+"email": "bss.kherson1@gmail.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-13T16:31:07+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-4498,
-4499,
-4500,
-4501,
-4502,
-4503,
-4504,
-4505,
-4506,
-4507,
-4508,
-4509,
-4510,
-4511,
-4512,
-4513,
-4514,
-4515,
-4516,
-4517
+4518,
+4519,
+4520,
+4521,
+4522,
+4523,
+4524,
+4525,
+4526,
+4527,
+4528,
+4529,
+4530,
+4531,
+4532,
+4533,
+4534,
+4535,
+4536,
+4537
 ],
-"last_list": "2026-11-13T16:26:46.861681+00:00",
-"cleared_upto": 4497,
-"last_msg_id": 4517
+"last_list": "2026-11-13T17:17:15.779007+00:00",
+"cleared_upto": 4517,
+"last_msg_id": 4537
 }

@@ -3860,7 +3860,7 @@
 "ukrcrewing": "https://ukrcrewing.com.ua/en/agency/alpha_crew"
 },
 "name": "AlphaCrew Maritime",
-"off": 531,
+"off": 532,
 "offshore_hint": true,
 "phones": [
 "+35726000899",
@@ -3895,7 +3895,7 @@
 "@Olga_Alpha_Crew",
 "@irina_alpha"
 ],
-"total": 571,
+"total": 572,
 "uk": 23,
 "vessels": [
 "Bulk",
@@ -9729,7 +9729,7 @@
 "bss.kherson1@gmail.com": {
 "address": "",
 "city": "",
-"co": 2,
+"co": 3,
 "country": "",
 "emails": [
 "bss.kherson1@gmail.com"
@@ -9752,7 +9752,7 @@
 "@shipscreweu"
 ],
 "telegram": [],
-"total": 21,
+"total": 22,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -24175,7 +24175,7 @@
 "crewing@mclinternational.ro"
 ],
 "first": "2026-11-06",
-"last": "2026-11-06",
+"last": "2026-11-13",
 "links": {},
 "name": "",
 "off": 0,
@@ -24186,7 +24186,7 @@
 "@cvsenderseaman"
 ],
 "telegram": [],
-"total": 1,
+"total": 2,
 "vessels": [
 "Passenger",
 "Ro-Ro/PCTC"
@@ -39943,7 +39943,7 @@
 "@shipscreweu"
 ],
 "telegram": [],
-"total": 16,
+"total": 17,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -58843,7 +58843,7 @@
 "crs_vacancies": 3562,
 "cruiseshipjobs": 8,
 "cvcrewcom": 12900,
-"cvsenderseaman": 16191,
+"cvsenderseaman": 16193,
 "ecrewing": 3194,
 "findseajobs": 32569,
 "galaxymaritimeua": 1250,
@@ -58853,7 +58853,7 @@
 "job_for_seaman": 17067,
 "jobfor_seamen": 12737,
 "marinecareerorg": 17762,
-"marinejobs": 43464,
+"marinejobs": 43466,
 "marinejobz": 194156,
 "marineman_ltd": 48386,
 "maritimeforum": 257176,
@@ -58862,12 +58862,12 @@
 "oceancrewjobs": 32815,
 "offshoreatsea": 25324,
 "offshorecv": 1603,
-"offshorevacancies": 47274,
+"offshorevacancies": 47275,
 "oilrigs": 778,
 "olive_crew": 2935,
 "onboard_su": 20764,
 "pervoemorskoe": 4530,
-"rekamore_su": 165144,
+"rekamore_su": 165145,
 "roster_marine": 1743,
 "seajobfinder": 42438,
 "seamenjob": 106326,
