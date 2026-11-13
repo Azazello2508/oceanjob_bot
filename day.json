@@ -2798,9 +2798,10 @@
 "rank": "Chief Officer",
 "vessel": "Container"
 },
-"new": true,
+"new": false,
 "repeat": false,
-"time": "2026-11-13T12:12:03.147197+00:00"
+"time": "2026-11-13T12:12:03.147197+00:00",
+"junior_dp": false
 },
 {
 "uk": "",
@@ -2814,9 +2815,10 @@
 "rank": "Chief Officer",
 "vessel": "Container"
 },
-"new": true,
+"new": false,
 "repeat": false,
-"time": "2026-11-13T12:12:03.842480+00:00"
+"time": "2026-11-13T12:12:03.842480+00:00",
+"junior_dp": false
 },
 {
 "uk": "",
@@ -2830,9 +2832,10 @@
 "rank": "Chief Officer",
 "vessel": "Bulk carrier"
 },
-"new": true,
+"new": false,
 "repeat": false,
-"time": "2026-11-13T12:12:04.881590+00:00"
+"time": "2026-11-13T12:12:04.881590+00:00",
+"junior_dp": false
 },
 {
 "uk": "",
@@ -2845,9 +2848,10 @@
 "info": {
 "rank": "Chief Officer"
 },
-"new": true,
+"new": false,
 "repeat": false,
-"time": "2026-11-13T12:13:16.520515+00:00"
+"time": "2026-11-13T12:13:16.520515+00:00",
+"junior_dp": false
 },
 {
 "uk": "",
@@ -2865,9 +2869,10 @@
 "salary": "Info at office",
 "contract": "2-3 months - cyclically"
 },
-"new": true,
+"new": false,
 "repeat": false,
-"time": "2026-11-13T12:02:00+00:00"
+"time": "2026-11-13T12:02:00+00:00",
+"junior_dp": false
 },
 {
 "uk": "",
@@ -2886,9 +2891,10 @@
 "salary": "Info at office",
 "contract": "2-3 months - cyclically"
 },
-"new": true,
+"new": false,
 "repeat": false,
-"time": "2026-11-13T12:07:52+00:00"
+"time": "2026-11-13T12:07:52+00:00",
+"junior_dp": false
 },
 {
 "uk": "",
@@ -2904,9 +2910,10 @@
 "rank": "2nd Officer",
 "vessel": "PSV"
 },
-"new": true,
+"new": false,
 "repeat": false,
-"time": "2026-11-13T11:56:30+00:00"
+"time": "2026-11-13T11:56:30+00:00",
+"junior_dp": false
 },
 {
 "uk": "",
@@ -2926,9 +2933,10 @@
 "email": "columbia@novocsmru.com",
 "company": "novocsmru.com"
 },
-"new": true,
+"new": false,
 "repeat": false,
-"time": "2026-11-13T11:55:04+00:00"
+"time": "2026-11-13T11:55:04+00:00",
+"junior_dp": false
 },
 {
 "uk": "",
@@ -2949,9 +2957,10 @@
 "email": "office@safasco.ru",
 "company": "safasco.ru."
 },
-"new": true,
+"new": false,
 "repeat": true,
-"time": "2026-11-13T12:02:44+00:00"
+"time": "2026-11-13T12:02:44+00:00",
+"junior_dp": false
 },
 {
 "uk": "",
@@ -2969,33 +2978,241 @@
 "vessel": "General cargo",
 "company": "Crew onboard General Cargo Vessel"
 },
-"new": true,
+"new": false,
 "repeat": false,
-"time": "2026-11-13T12:09:43+00:00"
+"time": "2026-11-13T12:09:43+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "2/O for LPG in December",
+"url": "https://crewing.portalmorski.pl/en/sea-jobs/2-o-for-lpg-in-december/",
+"source": "portalmorski.pl",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "LPG"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-13T13:03:30.789164+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": ",,Золотой Штурвал ,,:",
+"url": "https://t.me/maritimeforum/257129",
+"source": "Telegram: @maritimeforum",
+"found": [
+"старпом"
+],
+"fp": "fp-e7d01a1a6541ebd0",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Bulk carrier",
+"salary": "7700€ СУДА НОНЫЕ С 2015-2026 Г…",
+"joining": "12.11",
+"contract": "6+-1"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-13T12:18:17+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "СРОЧНО НА НОЯБРЬ НУЖНЫ МОРЯКИ ЗАРПЛАТА СТАРПОМ -6100€ , 3- ШТУРМАН- 3200€ МОЖНО В СТАРТ ,ЗНАНИЕ АНГЛИЙСКОГО ЯЗЫКА. ЗВОНИТЕ  МЕНЕДЖЕР ИРИНА ВАЦАП АНКЕТУ НА ВАЦАП…",
+"url": "https://t.me/maritimeforum/257132",
+"source": "Telegram: @maritimeforum",
+"found": [
+"старпом"
+],
+"fp": "fp-6383c03b14ff4f78",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo",
+"salary": "СТАРПОМ -6100€ , 3- ШТУРМАН- 3…"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-13T12:20:03+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "JKT MIRACLE, Chemical/Oil Products Tanker - Данные судна и текущее положение - IMO 9278662 - VesselFinder",
+"url": "https://t.me/maritimeforum/257134",
+"source": "Telegram: @maritimeforum",
+"found": [
+"старпом"
+],
+"fp": "fp-520725b1516510e7",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Chemical tanker",
+"salary": "9300$"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-13T12:20:03+00:00",
+"junior_dp": false
+},
+{
+"uk": "…Location: UK Requirements DP Unlimited FWP / UK Work Permit PSV Experience Valid STCW's If you are avail…",
+"title": "2nd Officer DPO- FWP",
+"url": "https://t.me/seajobfinder/42426",
+"source": "Telegram: @seajobfinder",
+"found": [
+"2nd officer",
+"dpo",
+"2nd off"
+],
+"fp": "fp-1b3a95f8948c0207",
+"offshore": true,
+"info": {
+"rank": "2nd Officer / DPO",
+"vessel": "PSV",
+"contract": "4 weeks +/",
+"email": "aaliyah.thurkettle@selectoffshore.com",
+"company": "selectoffshore.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-13T12:45:10+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://t.me/seajobfinder/42427",
+"source": "Telegram: @seajobfinder",
+"found": [
+"chief officer",
+"chief mate"
+],
+"fp": "fp-8241b4520c970f61",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "PSV",
+"contract": "60 day+/- rotations",
+"email": "aaliyah.thurkettle@selectoffshore.com",
+"company": "selectoffshore.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-13T12:45:32+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "2/O – GAS CARRIER",
+"url": "https://t.me/balticcareer/5694",
+"source": "Telegram: @balticcareer",
+"found": [
+"2/o"
+],
+"fp": "fp-07e27a88d063b21b",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"salary": "4200 EUR / month",
+"contract": "4 months"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-13T12:29:20+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "CHIEF OFFICER – GENERAL CARGO / MPP",
+"url": "https://t.me/balticcareer/5700",
+"source": "Telegram: @balticcareer",
+"found": [
+"chief officer"
+],
+"fp": "fp-72629c947208a203",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo, MPP",
+"salary": "8000 USD / month",
+"contract": "4 months +/-1"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-13T12:59:23+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "https://jobatsea.online/job/625687/uk-maritime-ctv-crew-at-greentec-recruitment/",
+"url": "https://t.me/offshorevacancies/47262",
+"source": "Telegram: @offshorevacancies",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"company": "https://jobatsea.online/job/625687/…"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-13T12:25:20+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "ETO - AHT Vessel",
+"url": "https://t.me/gm_seaman_cv/2714",
+"source": "Telegram: @gm_seaman_cv",
+"found": [
+"second officer"
+],
+"fp": "fp-e7947e43ef82df95",
+"offshore": true,
+"info": {
+"rank": "2nd Officer / AB",
+"vessel": "PSV, AHTS",
+"salary": "220 USD p/d",
+"joining": "JANUARY 2027",
+"contract": "Approx. 6 weeks",
+"email": "e.vihrova@ipspowerfulpeople.com",
+"company": "ipspowerfulpeople.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-13T12:35:44+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-4410,
-4411,
-4412,
-4413,
-4414,
-4415,
-4416,
-4417,
-4418,
-4419,
-4420,
-4421,
-4422,
-4423,
-4424,
-4425,
-4426,
-4427,
-4428
+4429,
+4430,
+4431,
+4432,
+4433,
+4434,
+4435,
+4436,
+4437,
+4438,
+4439,
+4440,
+4441,
+4442,
+4443,
+4444,
+4445,
+4446,
+4447
 ],
-"last_list": "2026-11-13T11:43:45.700026+00:00",
-"cleared_upto": 4409,
-"last_msg_id": 4428
+"last_list": "2026-11-13T13:04:47.149234+00:00",
+"cleared_upto": 4428,
+"last_msg_id": 4447
 }
