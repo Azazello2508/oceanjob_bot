@@ -709,25 +709,49 @@
 "repeat": true,
 "time": "2026-11-14T16:03:01+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "We are hiring experienced Ukrainian 𝗠𝗮𝘀𝘁𝗲𝗿, 𝗖𝗵𝗶𝗲𝗳 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿, 𝗖𝗵𝗶𝗲𝗳 𝗢𝗳𝗳𝗶𝗰𝗲𝗿 for AHTS DP vessel",
+"url": "https://t.me/maritimeforum/257370",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-1cb6931e6d888107",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "AHTS",
+"salary": "600 USD / day",
+"joining": "13/12",
+"contract": "6 weeks +-2 weeks",
+"email": "ankita.parab@vggindia.com",
+"company": "vggindia.com"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-14T17:55:02+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-4670,
-4671,
-4672,
-4673,
-4674,
-4675,
-4676,
-4677,
-4678,
-4679,
-4680,
-4681,
-4682,
-4683
+4684,
+4685,
+4686,
+4687,
+4688,
+4689,
+4690,
+4691,
+4692,
+4693,
+4694,
+4695,
+4696,
+4697
 ],
-"last_list": "2026-11-14T16:18:36.484751+00:00",
-"cleared_upto": 4669,
-"last_msg_id": 4683
+"last_list": "2026-11-14T17:58:40.624631+00:00",
+"cleared_upto": 4683,
+"last_msg_id": 4697
 }
