@@ -15121,7 +15121,7 @@
 "career@fastramarine.ro"
 ],
 "first": "2026-11-09",
-"last": "2026-11-13",
+"last": "2026-11-14",
 "links": {},
 "name": "",
 "off": 0,
@@ -15132,8 +15132,9 @@
 "@cvsenderseaman"
 ],
 "telegram": [],
-"total": 3,
+"total": 4,
 "vessels": [
+"Chemical",
 "Container",
 "Tanker"
 ],
@@ -39975,7 +39976,7 @@
 "cv@navicrew.ro"
 ],
 "first": "2026-11-03",
-"last": "2026-11-13",
+"last": "2026-11-14",
 "links": {},
 "name": "Navicrew SRL",
 "off": 3,
@@ -39993,7 +39994,7 @@
 "@shipscreweu"
 ],
 "telegram": [],
-"total": 17,
+"total": 18,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -43140,7 +43141,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 138,
+"total": 139,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -44884,7 +44885,7 @@
 "ukraine@uniteammarine.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-13",
+"last": "2026-11-14",
 "links": {
 "crewell": "https://crewell.net/en/companies/374687/"
 },
@@ -44919,7 +44920,7 @@
 "@DaniilPRayMarine",
 "@anastasiaChRayMarine"
 ],
-"total": 279,
+"total": 280,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -54813,7 +54814,7 @@
 "kateryna.ivanko@vships.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-13",
+"last": "2026-11-14",
 "links": {},
 "name": "V.Ships Marine Services",
 "off": 224,
@@ -54843,7 +54844,7 @@
 "@marinejobs"
 ],
 "telegram": [],
-"total": 334,
+"total": 335,
 "uk": 12,
 "vessels": [
 "Bulk",
@@ -58901,7 +58902,7 @@
 "crs_vacancies": 3562,
 "cruiseshipjobs": 8,
 "cvcrewcom": 12900,
-"cvsenderseaman": 16197,
+"cvsenderseaman": 16200,
 "ecrewing": 3195,
 "findseajobs": 32569,
 "galaxymaritimeua": 1250,
@@ -58916,7 +58917,7 @@
 "marineman_ltd": 48386,
 "maritimeforum": 257275,
 "merchantNavyrealjob": 262,
-"morehod_ru": 30989,
+"morehod_ru": 30990,
 "oceancrewjobs": 32824,
 "offshoreatsea": 25324,
 "offshorecv": 1603,
@@ -58928,7 +58929,7 @@
 "rekamore_su": 165153,
 "roster_marine": 1743,
 "seajobfinder": 42438,
-"seamenjob": 106328,
+"seamenjob": 106330,
 "seamenvacancy": 1386,
 "seavacancies": 25236,
 "shipjobsindia": 420,
