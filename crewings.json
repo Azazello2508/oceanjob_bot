@@ -3841,7 +3841,7 @@
 "alphacrew.com": {
 "address": "17, Rishelievskaya, 2 floor",
 "city": "Odessa",
-"co": 46,
+"co": 47,
 "country": "Ukraine",
 "emails": [
 "crewing@alphacrew.com",
@@ -3854,13 +3854,13 @@
 "cv@ojcrew.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-13",
+"last": "2026-11-14",
 "links": {
 "crewell": "https://crewell.net/en/companies/64276/",
 "ukrcrewing": "https://ukrcrewing.com.ua/en/agency/alpha_crew"
 },
 "name": "AlphaCrew Maritime",
-"off": 532,
+"off": 535,
 "offshore_hint": true,
 "phones": [
 "+35726000899",
@@ -3895,7 +3895,7 @@
 "@Olga_Alpha_Crew",
 "@irina_alpha"
 ],
-"total": 572,
+"total": 575,
 "uk": 23,
 "vessels": [
 "Bulk",
@@ -14224,10 +14224,10 @@
 "crew@emescrewing.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-13",
+"last": "2026-11-14",
 "links": {},
 "name": "EMES Crewing Agency",
-"off": 29,
+"off": 30,
 "offshore_hint": false,
 "phones": [],
 "so": 1,
@@ -14239,7 +14239,7 @@
 "@supermariner_ua"
 ],
 "telegram": [],
-"total": 54,
+"total": 55,
 "vessels": [
 "Bulk",
 "Container",
@@ -43142,7 +43142,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 139,
+"total": 141,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -49781,10 +49781,10 @@
 "vinfo@staff-service-expert.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-13",
+"last": "2026-11-14",
 "links": {},
 "name": "",
-"off": 40,
+"off": 41,
 "offshore_hint": false,
 "phones": [
 "+380937800894",
@@ -49802,7 +49802,7 @@
 "@supermariner_ua"
 ],
 "telegram": [],
-"total": 269,
+"total": 272,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -58916,9 +58916,9 @@
 "marinejobs": 43472,
 "marinejobz": 194156,
 "marineman_ltd": 48386,
-"maritimeforum": 257286,
+"maritimeforum": 257288,
 "merchantNavyrealjob": 262,
-"morehod_ru": 30990,
+"morehod_ru": 30991,
 "oceancrewjobs": 32824,
 "offshoreatsea": 25324,
 "offshorecv": 1603,
@@ -58927,7 +58927,7 @@
 "olive_crew": 2935,
 "onboard_su": 20768,
 "pervoemorskoe": 4530,
-"rekamore_su": 165155,
+"rekamore_su": 165156,
 "roster_marine": 1743,
 "seajobfinder": 42438,
 "seamenjob": 106330,
@@ -58936,11 +58936,11 @@
 "shipjobsindia": 420,
 "shipscreweu": 16672,
 "sidantey": 399,
-"supermariner_ua": 3912,
+"supermariner_ua": 3913,
 "truemalina_offshore": 817,
 "ukrcrewing_official": 2385,
 "univis_crewing": 5024,
-"vesselsea": 3138,
+"vesselsea": 3139,
 "vshipsoffshore": 1070
 },
 "tg_low": {
