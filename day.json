@@ -537,25 +537,140 @@
 "repeat": false,
 "time": "2026-11-14T10:10:44+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://t.me/maritimeforum/257338",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-35eb624cab959d8b",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "LNG",
+"contract": "3 months",
+"salary": "$19,200\n",
+"email": "crew@hncrewing.com",
+"company": "hncrewing.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-14T12:18:16+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://t.me/maritimeforum/257340",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-e04fdad183c90970",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "VLCC",
+"contract": "5 months",
+"salary": "$11,000–12,500\n",
+"email": "office@master-crewing.com",
+"company": "master-crewing.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-14T12:18:29+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://t.me/maritimeforum/257352",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-7dcbb4ea1e00f1e6",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"contract": "4 months",
+"salary": "$6,500\n",
+"email": "ktship@ktship.ee",
+"company": "ktship.ee"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-14T12:19:42+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "2nd Officer",
+"url": "https://t.me/maritimeforum/257364",
+"source": "Telegram: @maritimeforum",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-71295097167fee7d",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "General cargo",
+"contract": "4 months",
+"salary": "$3,700\n",
+"email": "crewing@united-lloyd.com",
+"company": "united-lloyd.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-14T12:20:52+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://t.me/maritimeforum/257368",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-9bc99e4d856b9864",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Bulk carrier",
+"contract": "5 months",
+"salary": "$7,800\n",
+"email": "office@crewingoscar.com",
+"company": "crewingoscar.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-14T12:21:15+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-4628,
-4629,
-4630,
-4631,
-4632,
-4633,
-4634,
-4635,
-4636,
-4637,
-4638,
-4639,
-4640,
-4641
+4642,
+4643,
+4644,
+4645,
+4646,
+4647,
+4648,
+4649,
+4650,
+4651,
+4652,
+4653,
+4654,
+4655
 ],
-"last_list": "2026-11-14T10:51:17.625035+00:00",
-"cleared_upto": 4627,
-"last_msg_id": 4641
+"last_list": "2026-11-14T12:31:40.813163+00:00",
+"cleared_upto": 4641,
+"last_msg_id": 4655
 }
