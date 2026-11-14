@@ -652,25 +652,64 @@
 "repeat": false,
 "time": "2026-11-14T12:21:15+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "2nd Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/370000",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-14T13:19:50.332743+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Marine Crewing Agency Everest",
+"url": "https://t.me/rekamore_su/165165",
+"source": "Telegram: @rekamore_su",
+"found": [
+"chief officer",
+"c/o"
+],
+"fp": "fp-8ac8df80d72bea2c",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Chemical tanker, Crude oil tanker",
+"salary": "выплачивается наличными на бор…",
+"contract": "ы 4+1. Смена: ноябрь. Лин",
+"company": "Marine Crewing Agency Everest"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-14T13:02:53+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-4642,
-4643,
-4644,
-4645,
-4646,
-4647,
-4648,
-4649,
-4650,
-4651,
-4652,
-4653,
-4654,
-4655
+4656,
+4657,
+4658,
+4659,
+4660,
+4661,
+4662,
+4663,
+4664,
+4665,
+4666,
+4667,
+4668,
+4669
 ],
-"last_list": "2026-11-14T12:31:40.813163+00:00",
-"cleared_upto": 4641,
-"last_msg_id": 4655
+"last_list": "2026-11-14T13:22:01.929440+00:00",
+"cleared_upto": 4655,
+"last_msg_id": 4669
 }

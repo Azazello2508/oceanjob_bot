@@ -24781,18 +24781,20 @@
 "unik.mi@mgt-kavkaz.ru"
 ],
 "first": "2026-11-03",
-"last": "2026-11-03",
+"last": "2026-11-14",
 "links": {},
 "name": "",
 "off": 0,
 "offshore_hint": false,
-"phones": [],
+"phones": [
+"+79529828969"
+],
 "so": 1,
 "sources": [
 "@onboard_su"
 ],
 "telegram": [],
-"total": 1,
+"total": 2,
 "vessels": [],
 "website": ""
 },
@@ -43147,7 +43149,7 @@
 "partner-dv.com": {
 "address": "г. Владивосток, ул. Кирова, д. 23, офис 208.",
 "city": "Владивосток",
-"co": 27,
+"co": 29,
 "country": "Russia",
 "emails": [
 "everest_sea_nhk@mail.ru",
@@ -43172,7 +43174,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 143,
+"total": 145,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -58963,16 +58965,16 @@
 "marineman_ltd": 48386,
 "maritimeforum": 257369,
 "merchantNavyrealjob": 262,
-"morehod_ru": 30992,
+"morehod_ru": 30993,
 "oceancrewjobs": 32824,
 "offshoreatsea": 25324,
 "offshorecv": 1603,
 "offshorevacancies": 47275,
 "oilrigs": 778,
 "olive_crew": 2935,
-"onboard_su": 20768,
+"onboard_su": 20769,
 "pervoemorskoe": 4530,
-"rekamore_su": 165164,
+"rekamore_su": 165165,
 "roster_marine": 1743,
 "seajobfinder": 42438,
 "seamenjob": 106330,
