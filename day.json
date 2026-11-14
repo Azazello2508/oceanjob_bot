@@ -1,10 +1,28 @@
 {
 "date": "2026-11-15",
-"jobs": [],
-"msg_ids": [
-4712
+"jobs": [
+{
+"uk": "",
+"title": "DP2 FSIV Officers - Chief Officer, 2nd Officer, Engineer, ETO Jobs aavishka.com",
+"url": "https://maritime-union.com/job/233025",
+"source": "maritime-union.com",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "Chief Officer / 2nd Officer"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-14T22:32:56.673685+00:00",
+"junior_dp": false
+}
 ],
-"last_list": "2026-11-14T20:28:22.824221+00:00",
-"cleared_upto": 4711,
-"last_msg_id": 4712
+"msg_ids": [
+4713,
+4714
+],
+"last_list": "2026-11-14T22:34:06.718212+00:00",
+"cleared_upto": 4712,
+"last_msg_id": 4714
 }
