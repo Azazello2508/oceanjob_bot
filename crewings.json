@@ -12106,10 +12106,10 @@
 "country": "",
 "emails": [],
 "first": "2026-11-03",
-"last": "2026-11-11",
+"last": "2026-11-14",
 "links": {},
 "name": "Marie Shipping Ltd",
-"off": 10,
+"off": 11,
 "offshore_hint": false,
 "phones": [],
 "so": 0,
@@ -12117,7 +12117,7 @@
 "@Crew_Radar"
 ],
 "telegram": [],
-"total": 29,
+"total": 33,
 "vessels": [
 "LPG/LNG",
 "Offshore"
@@ -43166,7 +43166,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 141,
+"total": 143,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -45646,7 +45646,7 @@
 "rp-shipping@yandex.ru"
 ],
 "first": "2026-11-03",
-"last": "2026-11-13",
+"last": "2026-11-14",
 "links": {},
 "name": "",
 "off": 0,
@@ -45657,7 +45657,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 43,
+"total": 49,
 "vessels": [
 "Tanker"
 ],
@@ -58912,7 +58912,7 @@
 "ALPHACREW": 3580,
 "BSMCSCUKRAINE": 4384,
 "CREW_ARIA": 14161,
-"Crew_Radar": 3347,
+"Crew_Radar": 3359,
 "JobForMariners": 1206,
 "Merchant_Fleet": 647,
 "OffshoreFleetJob": 11080,
@@ -58932,7 +58932,7 @@
 "cruiseshipjobs": 8,
 "cvcrewcom": 12900,
 "cvsenderseaman": 16201,
-"ecrewing": 3198,
+"ecrewing": 3199,
 "findseajobs": 32569,
 "galaxymaritimeua": 1250,
 "gm_seaman_cv": 2715,
@@ -58946,7 +58946,7 @@
 "marineman_ltd": 48386,
 "maritimeforum": 257331,
 "merchantNavyrealjob": 262,
-"morehod_ru": 30991,
+"morehod_ru": 30992,
 "oceancrewjobs": 32824,
 "offshoreatsea": 25324,
 "offshorecv": 1603,
@@ -58955,12 +58955,12 @@
 "olive_crew": 2935,
 "onboard_su": 20768,
 "pervoemorskoe": 4530,
-"rekamore_su": 165156,
+"rekamore_su": 165164,
 "roster_marine": 1743,
 "seajobfinder": 42438,
 "seamenjob": 106330,
 "seamenvacancy": 1386,
-"seavacancies": 25238,
+"seavacancies": 25239,
 "shipjobsindia": 420,
 "shipscreweu": 16672,
 "sidantey": 399,
