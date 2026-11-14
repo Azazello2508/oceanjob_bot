@@ -10330,7 +10330,7 @@
 "caspiancrew@yandex.ru"
 ],
 "first": "2026-11-03",
-"last": "2026-11-13",
+"last": "2026-11-14",
 "links": {},
 "name": "",
 "off": 0,
@@ -10343,7 +10343,7 @@
 "@onboard_su"
 ],
 "telegram": [],
-"total": 6,
+"total": 7,
 "vessels": [
 "General cargo"
 ],
@@ -39146,7 +39146,7 @@
 "transoptimalng@mail.ru"
 ],
 "first": "2026-11-03",
-"last": "2026-11-13",
+"last": "2026-11-14",
 "links": {},
 "name": "ООО “Трансоптимал СПБ”",
 "off": 0,
@@ -39158,7 +39158,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 19,
+"total": 20,
 "vessels": [
 "General cargo",
 "LPG/LNG"
@@ -50259,7 +50259,7 @@
 "operations@statusmanila.com.ph"
 ],
 "first": "2026-11-13",
-"last": "2026-11-13",
+"last": "2026-11-14",
 "links": {},
 "name": "Status Maritime Corp",
 "off": 0,
@@ -50270,7 +50270,7 @@
 "@seamenjob"
 ],
 "telegram": [],
-"total": 1,
+"total": 2,
 "vessels": [
 "Bulk"
 ],
@@ -58886,7 +58886,7 @@
 "JobForMariners": 1206,
 "Merchant_Fleet": 647,
 "OffshoreFleetJob": 11080,
-"Offshore_Vacancies": 948,
+"Offshore_Vacancies": 949,
 "OnlyOffshore": 39027,
 "OnlyYacht": 2324,
 "SM_job_center": 2499,
@@ -58923,19 +58923,19 @@
 "offshorevacancies": 47275,
 "oilrigs": 778,
 "olive_crew": 2935,
-"onboard_su": 20766,
+"onboard_su": 20767,
 "pervoemorskoe": 4530,
-"rekamore_su": 165150,
+"rekamore_su": 165151,
 "roster_marine": 1743,
 "seajobfinder": 42438,
-"seamenjob": 106327,
+"seamenjob": 106328,
 "seamenvacancy": 1386,
-"seavacancies": 25235,
+"seavacancies": 25236,
 "shipjobsindia": 420,
 "shipscreweu": 16672,
 "sidantey": 399,
 "supermariner_ua": 3912,
-"truemalina_offshore": 816,
+"truemalina_offshore": 817,
 "ukrcrewing_official": 2385,
 "univis_crewing": 5024,
 "vesselsea": 3138,

@@ -115,18 +115,40 @@
 "repeat": true,
 "time": "2026-11-14T00:50:09+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "New Watch Officers vacancies",
+"url": "https://t.me/seavacancies/25236",
+"source": "Telegram: @seavacancies",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-0ed80170c9c213cc",
+"offshore": false,
+"info": {
+"rank": "2nd Officer / 3rd Officer",
+"vessel": "VLCC, LNG",
+"joining": "29 Nov",
+"salary": "$3,800-4,500"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-14T06:03:03+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-4594,
-4595,
-4596,
-4597,
-4598,
-4599,
-4600
+4601,
+4602,
+4603,
+4604,
+4605,
+4606,
+4607
 ],
-"last_list": "2026-11-14T01:37:41.203783+00:00",
-"cleared_upto": 4593,
-"last_msg_id": 4600
+"last_list": "2026-11-14T06:14:03.702113+00:00",
+"cleared_upto": 4600,
+"last_msg_id": 4607
 }
