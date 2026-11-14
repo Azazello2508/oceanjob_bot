@@ -415,26 +415,147 @@
 "info": {
 "rank": "Chief Officer"
 },
-"new": true,
+"new": false,
 "repeat": false,
-"time": "2026-11-14T10:00:01.070386+00:00"
+"time": "2026-11-14T10:00:01.070386+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "ARGENT OPENING – LNG VESSEL",
+"url": "https://t.me/maritimeforum/257315",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer",
+"second officer"
+],
+"fp": "fp-4c73093df071dfee",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer / 3rd Officer",
+"vessel": "VLCC, LNG",
+"salary": "DETAILS – LNG",
+"email": "RossMarine.info@ukr.net"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-14T09:59:52+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "OPEN VACANCIES — NOVEMBER 2026",
+"url": "https://t.me/maritimeforum/257316",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer",
+"c/o",
+"2/o"
+],
+"fp": "fp-7410023cd9d16a6a",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer",
+"vessel": "Bulk carrier",
+"joining": "November 2026",
+"contract": "4 ± 2 months",
+"salary": "$6,500"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-14T10:01:28+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Crew for Oil/Chem Tanker Vessel",
+"url": "https://t.me/maritimeforum/257320",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-79a08015fc6eb17a",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / AB",
+"vessel": "Chemical tanker",
+"email": "recruitmenttopaz@pttm.co.id",
+"company": "pttm.co.id"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-14T10:01:53+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "CHIEF ENGINEER & ETO (LNG)",
+"url": "https://t.me/maritimeforum/257331",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer",
+"2nd officer",
+"dpo",
+"2nd off"
+],
+"fp": "fp-b5f65bdad9d0ce76",
+"offshore": true,
+"info": {
+"rank": "Chief Officer / 2nd Officer / 3rd Officer",
+"vessel": "LPG, LNG",
+"joining": "Port: Yalova, Turkey",
+"contract": "6 weeks on / 6 weeks off",
+"salary": "3,500-4,500 $",
+"email": "urvi.kamani@vships.com",
+"company": "vships.com"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-14T10:03:08+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "CHIEF OFFICER",
+"url": "https://t.me/cvsenderseaman/16201",
+"source": "Telegram: @cvsenderseaman",
+"found": [
+"chief officer"
+],
+"fp": "fp-bcb74474f52d8005",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Ro-Ro",
+"salary": "Negotiable",
+"joining": "ASAP",
+"contract": "6/6 weeks",
+"email": "costel.litu@stodig.no",
+"company": "stodig.no"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-14T10:10:44+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-4616,
-4617,
-4618,
-4619,
-4620,
-4621,
-4622,
-4623,
-4624,
-4625,
-4626,
-4627
+4628,
+4629,
+4630,
+4631,
+4632,
+4633,
+4634,
+4635,
+4636,
+4637,
+4638,
+4639,
+4640,
+4641
 ],
-"last_list": "2026-11-14T09:34:34.680218+00:00",
-"cleared_upto": 4615,
-"last_msg_id": 4627
+"last_list": "2026-11-14T10:51:17.625035+00:00",
+"cleared_upto": 4627,
+"last_msg_id": 4641
 }
