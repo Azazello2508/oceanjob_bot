@@ -10957,12 +10957,13 @@
 "sourcingoffshore@columbiaaurus.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-13",
+"last": "2026-11-14",
 "links": {},
 "name": "Columbia Aurus Ship Management",
-"off": 11,
+"off": 12,
 "offshore_hint": false,
 "phones": [
+"+918076989049",
 "+918100594643"
 ],
 "so": 4,
@@ -10977,7 +10978,7 @@
 "@shipscreweu"
 ],
 "telegram": [],
-"total": 14,
+"total": 16,
 "vessels": [
 "Offshore",
 "Tanker"
@@ -23447,7 +23448,7 @@
 "crewing@marlinships.net"
 ],
 "first": "2026-11-03",
-"last": "2026-11-13",
+"last": "2026-11-14",
 "links": {},
 "name": "ООО «Малое море»",
 "off": 0,
@@ -23461,7 +23462,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 43,
+"total": 44,
 "vessels": [
 "General cargo"
 ],
@@ -40102,12 +40103,12 @@
 "dr@offshore-operations.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-13",
+"last": "2026-11-14",
 "links": {
 "crewell": "https://crewell.net/en/companies/58901/"
 },
 "name": "Navis Crew Management",
-"off": 109,
+"off": 111,
 "offshore_hint": false,
 "phones": [
 "+380507055005",
@@ -40115,7 +40116,7 @@
 "+380735343112",
 "+380735343113"
 ],
-"so": 32,
+"so": 33,
 "sources": [
 "@CREW_ARIA",
 "@Merchant_Fleet",
@@ -40131,7 +40132,7 @@
 "@seamenjob"
 ],
 "telegram": [],
-"total": 111,
+"total": 113,
 "uk": 3,
 "vessels": [
 "Bulk",
@@ -54844,7 +54845,7 @@
 "@marinejobs"
 ],
 "telegram": [],
-"total": 335,
+"total": 336,
 "uk": 12,
 "vessels": [
 "Bulk",
@@ -58903,7 +58904,7 @@
 "cruiseshipjobs": 8,
 "cvcrewcom": 12900,
 "cvsenderseaman": 16200,
-"ecrewing": 3195,
+"ecrewing": 3196,
 "findseajobs": 32569,
 "galaxymaritimeua": 1250,
 "gm_seaman_cv": 2715,
@@ -58912,10 +58913,10 @@
 "job_for_seaman": 17067,
 "jobfor_seamen": 12737,
 "marinecareerorg": 17763,
-"marinejobs": 43467,
+"marinejobs": 43472,
 "marinejobz": 194156,
 "marineman_ltd": 48386,
-"maritimeforum": 257275,
+"maritimeforum": 257286,
 "merchantNavyrealjob": 262,
 "morehod_ru": 30990,
 "oceancrewjobs": 32824,
@@ -58924,14 +58925,14 @@
 "offshorevacancies": 47275,
 "oilrigs": 778,
 "olive_crew": 2935,
-"onboard_su": 20767,
+"onboard_su": 20768,
 "pervoemorskoe": 4530,
-"rekamore_su": 165153,
+"rekamore_su": 165155,
 "roster_marine": 1743,
 "seajobfinder": 42438,
 "seamenjob": 106330,
 "seamenvacancy": 1386,
-"seavacancies": 25236,
+"seavacancies": 25237,
 "shipjobsindia": 420,
 "shipscreweu": 16672,
 "sidantey": 399,

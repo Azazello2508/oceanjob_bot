@@ -137,18 +137,177 @@
 "repeat": false,
 "time": "2026-11-14T06:03:03+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "СРОЧНЫЕ ВАКАНСИИ НА VLGC (ГАЗОВОЗ)",
+"url": "https://t.me/maritimeforum/257277",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer",
+"старший помощник"
+],
+"fp": "fp-4ad2c2f4e6a6fe69",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"salary": "13 500 – 14 000 USD"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-14T08:04:25+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "СРОЧНАЯ ПОСАДКА! Требуется командный состав на танкер VLCC",
+"url": "https://t.me/maritimeforum/257278",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer",
+"2nd officer",
+"2nd off",
+"старший помощник"
+],
+"fp": "fp-3dfdbef0bd2b399c",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer / 3rd Officer",
+"vessel": "VLCC",
+"salary": "ы",
+"joining": "! Требуется командный состав н"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-14T08:04:38+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "URGENT VACANCIES | GENERAL CARGO",
+"url": "https://t.me/maritimeforum/257280",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-6cdab3582f430d99",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer",
+"vessel": "General cargo",
+"salary": "$6,000 / month",
+"joining": "Türkiye",
+"contract": "6 months"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-14T08:06:16+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "СРОЧНО / URGENT VACANCIES • VLGC FLEET • ASAP EMBARKATION",
+"url": "https://t.me/maritimeforum/257281",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-11f00018051dfa22",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer / 3rd Officer",
+"salary": "(Salary)",
+"joining": "в самое ближайшее время (",
+"contract": "(Contract)"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-14T08:06:35+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "URGENT OPENINGS // CHEMICAL/OIL PRODUCTS Tanker Рассмотрим в старт с чистым паспортом моряка Only Ukrainian",
+"url": "https://t.me/maritimeforum/257283",
+"source": "Telegram: @maritimeforum",
+"found": [
+"старший помощник"
+],
+"fp": "fp-a29c27e30433f8b2",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Chemical tanker",
+"salary": "(100% бонус за нахождение в зо…"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-14T08:08:03+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "СРОЧНАЯ ВАКАНСИЯ: Танкер-газовоз (LNG)",
+"url": "https://t.me/maritimeforum/257285",
+"source": "Telegram: @maritimeforum",
+"found": [
+"2/o"
+],
+"fp": "fp-fd5566a9f0dfc90f",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "LNG",
+"joining": "Срочная (в ближайшее время)",
+"contract": "а",
+"salary": "$5,500 – $6,000"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-14T08:25:55+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Vacancy Code",
+"url": "https://t.me/marinejobs/43471",
+"source": "Telegram: @marinejobs",
+"found": [
+"dpo",
+"2nd off"
+],
+"fp": "fp-f9bc0fc640e1d066",
+"offshore": true,
+"info": {
+"rank": "2nd Officer / 3rd Officer / DPO",
+"vessel": "PSV, MPSV",
+"salary": "s – 240 EUR per day",
+"joining": "9th of December",
+"contract": "4 weeks",
+"email": "crew@navis.eu",
+"company": "navis.eu"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-14T08:01:53+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-4601,
-4602,
-4603,
-4604,
-4605,
-4606,
-4607
+4608,
+4609,
+4610,
+4611,
+4612,
+4613,
+4614,
+4615
 ],
-"last_list": "2026-11-14T06:14:03.702113+00:00",
-"cleared_upto": 4600,
-"last_msg_id": 4607
+"last_list": "2026-11-14T08:44:20.204109+00:00",
+"cleared_upto": 4607,
+"last_msg_id": 4615
 }
