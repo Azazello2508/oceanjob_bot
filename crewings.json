@@ -10546,21 +10546,22 @@
 "crewing@chaharshippingco.in"
 ],
 "first": "2026-11-03",
-"last": "2026-11-03",
+"last": "2026-11-15",
 "links": {
 "crewell": "https://crewell.net/en/companies/222150/"
 },
 "name": "CHAHAR & CHAHAR SHIPPING CO PVT LTD",
-"off": 3,
+"off": 4,
 "offshore_hint": false,
 "phones": [],
 "so": 0,
 "sources": [
+"@Crew_Radar",
 "@OffshoreFleetJob",
 "crewell.net"
 ],
 "telegram": [],
-"total": 3,
+"total": 4,
 "vessels": [
 "Offshore",
 "Tug"
@@ -11665,7 +11666,7 @@
 "ukrcrewing": "https://ukrcrewing.com.ua/en/agency/all_crew_llc"
 },
 "name": "Wilhelmsen Marine",
-"off": 63,
+"off": 64,
 "offshore_hint": false,
 "phones": [
 "+74012799806+79637376536"
@@ -11678,7 +11679,7 @@
 "ukrcrewing.com.ua"
 ],
 "telegram": [],
-"total": 76,
+"total": 77,
 "vessels": [
 "Bulk",
 "Container",
@@ -19986,7 +19987,7 @@
 "last": "2026-11-15",
 "links": {},
 "name": "Northern Marine Manning Services",
-"off": 25,
+"off": 26,
 "offshore_hint": false,
 "phones": [],
 "so": 0,
@@ -19994,7 +19995,7 @@
 "@Crew_Radar"
 ],
 "telegram": [],
-"total": 42,
+"total": 43,
 "vessels": [
 "Chemical",
 "LPG/LNG",
@@ -20584,24 +20585,26 @@
 "crew.manager@kisamos-shipping.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-10",
+"last": "2026-11-15",
 "links": {
 "crewell": "https://crewell.net/en/companies/295655/"
 },
 "name": "Kisamos Shipping DMCC",
-"off": 0,
+"off": 1,
 "offshore_hint": false,
 "phones": [],
 "so": 0,
 "sources": [
+"@Crew_Radar",
 "@cvsenderseaman",
 "@maritimeforum",
 "crewell.net"
 ],
 "telegram": [],
-"total": 9,
+"total": 10,
 "vessels": [
 "Bulk",
+"LPG/LNG",
 "Tanker"
 ],
 "website": "kisamos-shipping.com"
@@ -45863,7 +45866,7 @@
 "crewell": "https://crewell.net/en/companies/265326/"
 },
 "name": "Ryan Ship Management Pvt. Ltd",
-"off": 120,
+"off": 121,
 "offshore_hint": true,
 "phones": [
 "+40750898682",
@@ -45888,7 +45891,7 @@
 "@shipscreweu"
 ],
 "telegram": [],
-"total": 129,
+"total": 130,
 "uk": 2,
 "vessels": [
 "Bulk",
@@ -58997,7 +59000,7 @@
 "ALPHACREW": 3580,
 "BSMCSCUKRAINE": 4384,
 "CREW_ARIA": 14162,
-"Crew_Radar": 3435,
+"Crew_Radar": 3449,
 "JobForMariners": 1206,
 "Merchant_Fleet": 648,
 "OffshoreFleetJob": 11080,
@@ -59017,7 +59020,7 @@
 "cruiseshipjobs": 8,
 "cvcrewcom": 12900,
 "cvsenderseaman": 16209,
-"ecrewing": 3199,
+"ecrewing": 3200,
 "findseajobs": 32569,
 "galaxymaritimeua": 1250,
 "gm_seaman_cv": 2715,
@@ -59026,7 +59029,7 @@
 "job_for_seaman": 17068,
 "jobfor_seamen": 12737,
 "marinecareerorg": 17764,
-"marinejobs": 43480,
+"marinejobs": 43481,
 "marinejobz": 194156,
 "marineman_ltd": 48386,
 "maritimeforum": 257453,
@@ -59045,7 +59048,7 @@
 "seajobfinder": 42439,
 "seamenjob": 106332,
 "seamenvacancy": 1386,
-"seavacancies": 25246,
+"seavacancies": 25247,
 "shipjobsindia": 420,
 "shipscreweu": 16672,
 "sidantey": 399,

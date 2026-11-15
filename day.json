@@ -567,22 +567,64 @@
 "repeat": false,
 "time": "2026-11-15T11:22:09+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer — LNG",
+"url": "https://t.me/Crew_Radar/3442",
+"source": "Telegram: @Crew_Radar",
+"found": [
+"chief officer"
+],
+"fp": "fp-80070197dc18ce9c",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "LNG",
+"salary": "$9,160/mo",
+"joining": "ASAP",
+"contract": "Permanent"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-15T12:03:35+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "2nd Engineer — AHTS",
+"url": "https://t.me/Crew_Radar/3446",
+"source": "Telegram: @Crew_Radar",
+"found": [],
+"fp": "fp-45d5b3c1544561d5",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "AHTS",
+"salary": "$275/day",
+"joining": "31 Oct–1 Nov 2026",
+"contract": "3 ± 1 months"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-15T12:03:51+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-4744,
-4745,
-4746,
-4747,
-4748,
-4749,
-4750,
-4751,
-4752,
-4753,
-4754
+4755,
+4756,
+4757,
+4758,
+4759,
+4760,
+4761,
+4762,
+4763,
+4764,
+4765
 ],
-"last_list": "2026-11-15T12:02:04.713195+00:00",
-"cleared_upto": 4743,
-"last_msg_id": 4754
+"last_list": "2026-11-15T12:52:06.110623+00:00",
+"cleared_upto": 4754,
+"last_msg_id": 4765
 }
