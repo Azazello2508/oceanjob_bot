@@ -41,14 +41,37 @@
 "repeat": true,
 "time": "2026-11-15T00:00:24+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "TANKER CREW RECRUITMENT | OIL, CHEMICAL & PRODUCT TANKERS",
+"url": "https://t.me/Sea_format/12349",
+"source": "Telegram: @Sea_format",
+"found": [
+"chief officer",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-3dfa50ad2bf31894",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer / 3rd Officer",
+"vessel": "Chemical tanker, Product tanker",
+"company": "TANKER CREW RECRUITMENT | OIL, CHEM…"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-15T05:22:05+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-4715,
-4716,
-4717
+4718,
+4719,
+4720,
+4721
 ],
-"last_list": "2026-11-15T00:13:39.879000+00:00",
-"cleared_upto": 4714,
-"last_msg_id": 4717
+"last_list": "2026-11-15T05:41:47.127108+00:00",
+"cleared_upto": 4717,
+"last_msg_id": 4721
 }

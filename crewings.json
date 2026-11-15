@@ -33849,6 +33849,31 @@
 "vessels": [],
 "website": ""
 },
+"name:product tankers inter-world shipping": {
+"address": "",
+"city": "",
+"co": 1,
+"country": "",
+"emails": [],
+"first": "2026-11-15",
+"last": "2026-11-15",
+"links": {},
+"name": "PRODUCT TANKERS Inter-World Shipping",
+"off": 0,
+"offshore_hint": false,
+"phones": [],
+"so": 1,
+"sources": [
+"@Sea_format"
+],
+"telegram": [],
+"total": 1,
+"vessels": [
+"Chemical",
+"Tanker"
+],
+"website": ""
+},
 "name:professional maritime": {
 "address": "",
 "city": "",
@@ -39213,7 +39238,7 @@
 "transoptimalng@mail.ru"
 ],
 "first": "2026-11-03",
-"last": "2026-11-14",
+"last": "2026-11-15",
 "links": {},
 "name": "ООО “Трансоптимал СПБ”",
 "off": 0,
@@ -39225,7 +39250,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 20,
+"total": 21,
 "vessels": [
 "General cargo",
 "LPG/LNG"
@@ -58198,6 +58223,7 @@
 "pro team": "proteam-crew.com",
 "pro team sia": "proteam-crew.com",
 "product tanker aba crewing": "abacrew.com",
+"product tankers inter-world shipping": "name:product tankers inter-world shipping",
 "professional maritime": "name:professional maritime",
 "pronav": "pronav.de",
 "proteas marine services": "pmars.ru",
@@ -58973,7 +58999,7 @@
 "OnlyYacht": 2324,
 "SM_job_center": 2499,
 "SeaSeaWorks": 3934,
-"Sea_format": 12348,
+"Sea_format": 12349,
 "TSMexp": 864,
 "Yacht_Vacancies": 290,
 "allcrewing": 3812,
@@ -59007,7 +59033,7 @@
 "olive_crew": 2935,
 "onboard_su": 20771,
 "pervoemorskoe": 4530,
-"rekamore_su": 165173,
+"rekamore_su": 165175,
 "roster_marine": 1743,
 "seajobfinder": 42439,
 "seamenjob": 106330,
