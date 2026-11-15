@@ -1,10 +1,28 @@
 {
 "date": "2026-11-16",
-"jobs": [],
-"msg_ids": [
-4846
+"jobs": [
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/370012",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-15T21:13:19.758697+00:00",
+"junior_dp": false
+}
 ],
-"last_list": "2026-11-15T20:25:12.772621+00:00",
-"cleared_upto": 4845,
-"last_msg_id": 4846
+"msg_ids": [
+4847,
+4848
+],
+"last_list": "2026-11-15T21:14:43.402543+00:00",
+"cleared_upto": 4846,
+"last_msg_id": 4848
 }
