@@ -43239,7 +43239,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 147,
+"total": 148,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -45686,24 +45686,24 @@
 "rossmarine.info@ukr.net": {
 "address": "",
 "city": "",
-"co": 13,
+"co": 14,
 "country": "",
 "emails": [
 "rossmarine.info@ukr.net"
 ],
 "first": "2026-11-03",
-"last": "2026-11-14",
+"last": "2026-11-15",
 "links": {},
 "name": "",
 "off": 0,
 "offshore_hint": false,
 "phones": [],
-"so": 15,
+"so": 16,
 "sources": [
 "@maritimeforum"
 ],
 "telegram": [],
-"total": 49,
+"total": 50,
 "vessels": [
 "LPG/LNG",
 "Tanker"
@@ -47667,7 +47667,7 @@
 "@maritimeforum"
 ],
 "telegram": [],
-"total": 71,
+"total": 72,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -50265,7 +50265,7 @@
 "start-manning.com": {
 "address": "",
 "city": "",
-"co": 86,
+"co": 87,
 "country": "",
 "emails": [
 "ops@start-manning.com"
@@ -50290,7 +50290,7 @@
 "@maritimeforum"
 ],
 "telegram": [],
-"total": 253,
+"total": 254,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -59021,7 +59021,7 @@
 "cvcrewcom": 12900,
 "cvsenderseaman": 16212,
 "ecrewing": 3200,
-"findseajobs": 32569,
+"findseajobs": 32570,
 "galaxymaritimeua": 1250,
 "gm_seaman_cv": 2715,
 "help_seafarers": 4896,
@@ -59029,10 +59029,10 @@
 "job_for_seaman": 17069,
 "jobfor_seamen": 12737,
 "marinecareerorg": 17764,
-"marinejobs": 43481,
+"marinejobs": 43482,
 "marinejobz": 194156,
 "marineman_ltd": 48386,
-"maritimeforum": 257453,
+"maritimeforum": 257455,
 "merchantNavyrealjob": 265,
 "morehod_ru": 31005,
 "oceancrewjobs": 32824,
@@ -59041,7 +59041,7 @@
 "offshorevacancies": 47275,
 "oilrigs": 778,
 "olive_crew": 2935,
-"onboard_su": 20774,
+"onboard_su": 20776,
 "pervoemorskoe": 4530,
 "rekamore_su": 165187,
 "roster_marine": 1743,
