@@ -764,22 +764,139 @@
 "repeat": false,
 "time": "2026-11-15T14:31:34+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://t.me/maritimeforum/257466",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-f6a9f558dd4610f9",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Crude oil tanker",
+"contract": "3–5 months",
+"salary": "$9,500–12,000\n",
+"email": "crewing@smacrewing.com",
+"company": "smacrewing.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-15T15:46:31+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://t.me/maritimeforum/257472",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-007318eb1721ea91",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "PCTC",
+"contract": "5 months",
+"salary": "$8,500–9,000\n",
+"email": "dox@a-m-s.com.ua",
+"company": "a-m-s.com.ua"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-15T15:47:08+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "2nd Officer",
+"url": "https://t.me/maritimeforum/257474",
+"source": "Telegram: @maritimeforum",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-ad4eea9dd20dcdce",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Container",
+"contract": "4 months",
+"salary": "$3,800\n",
+"email": "cv@mau.com.ua",
+"company": "mau.com.ua"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-15T15:47:20+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://t.me/maritimeforum/257476",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-a5ebf540bd99c4aa",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo",
+"contract": "4 months",
+"salary": "$6,200\n",
+"email": "crew@techmarine.com.ua",
+"company": "techmarine.com.ua"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-15T15:47:31+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://t.me/maritimeforum/257481",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-6caa1c24919373d0",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Crude oil tanker",
+"contract": "4 months",
+"email": "forcv@csm-ua.com",
+"company": "csm-ua.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-15T15:48:01+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-4777,
-4778,
-4779,
-4780,
-4781,
-4782,
-4783,
-4784,
-4785,
-4786,
-4787
+4788,
+4789,
+4790,
+4791,
+4792,
+4793,
+4794,
+4795,
+4796,
+4797,
+4798,
+4799,
+4800
 ],
-"last_list": "2026-11-15T14:59:09.217745+00:00",
-"cleared_upto": 4776,
-"last_msg_id": 4787
+"last_list": "2026-11-15T15:49:24.504171+00:00",
+"cleared_upto": 4787,
+"last_msg_id": 4800
 }
