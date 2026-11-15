@@ -45712,7 +45712,7 @@
 "rp-shipping@yandex.ru"
 ],
 "first": "2026-11-03",
-"last": "2026-11-14",
+"last": "2026-11-15",
 "links": {},
 "name": "",
 "off": 0,
@@ -45723,7 +45723,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 49,
+"total": 55,
 "vessels": [
 "Tanker"
 ],
@@ -59033,12 +59033,12 @@
 "olive_crew": 2935,
 "onboard_su": 20773,
 "pervoemorskoe": 4530,
-"rekamore_su": 165176,
+"rekamore_su": 165184,
 "roster_marine": 1743,
 "seajobfinder": 42439,
 "seamenjob": 106332,
 "seamenvacancy": 1386,
-"seavacancies": 25244,
+"seavacancies": 25245,
 "shipjobsindia": 420,
 "shipscreweu": 16672,
 "sidantey": 399,

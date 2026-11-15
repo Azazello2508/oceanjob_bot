@@ -87,15 +87,72 @@
 "repeat": false,
 "time": "2026-11-15T07:18:28+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer for Tug Boat",
+"url": "https://oceancrew.org/vacancies/offshore/chief-officer/chief-officer-for-tug-vessel_14-11-2026",
+"source": "oceancrew.org",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Tug"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-15T08:39:48.763981+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer for Tug Boat (International)",
+"url": "https://oceancrew.org/vacancies/offshore/chief-officer/chief-officer-for-tug-boat-international_14-11-2026",
+"source": "oceancrew.org",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Tug"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-15T08:39:50.249919+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "New Watch Officers vacancies",
+"url": "https://t.me/seavacancies/25245",
+"source": "Telegram: @seavacancies",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-667b1b1f61097cf4",
+"offshore": false,
+"info": {
+"rank": "2nd Officer / 3rd Officer",
+"vessel": "Chemical tanker, Bulk carrier",
+"joining": "30 Nov",
+"salary": "€3,900"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-15T08:03:03+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-4722,
-4723,
-4724,
-4725
+4726,
+4727,
+4728,
+4729,
+4730
 ],
-"last_list": "2026-11-15T07:20:54.277608+00:00",
-"cleared_upto": 4721,
-"last_msg_id": 4725
+"last_list": "2026-11-15T08:41:25.880716+00:00",
+"cleared_upto": 4725,
+"last_msg_id": 4730
 }
