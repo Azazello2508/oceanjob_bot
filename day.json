@@ -1086,26 +1086,76 @@
 "repeat": true,
 "time": "2026-11-15T16:03:01+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "2nd Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/370007",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-15T17:27:53.753367+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "2nd Officer — General Cargo 3,500 DWT",
+"url": "https://seajobs.pro/jobs/2nd-officer-general-cargo-3-500-dwt-3190ad75-db53-4e17-b1cb-325a3aef2dae",
+"source": "seajobs.pro",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "General cargo"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-15T17:28:50.146068+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer — General Cargo 3,500 DWT",
+"url": "https://seajobs.pro/jobs/chief-officer-general-cargo-3-500-dwt-d8e11ded-bc20-4795-90db-5ef0b5bf99bc",
+"source": "seajobs.pro",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-15T17:28:50.403143+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-4801,
-4802,
-4803,
-4804,
-4805,
-4806,
-4807,
-4808,
-4809,
-4810,
-4811,
-4812,
-4813,
-4814,
-4815
+4816,
+4817,
+4818,
+4819,
+4820,
+4821,
+4822,
+4823,
+4824,
+4825,
+4826,
+4827,
+4828,
+4829,
+4830
 ],
-"last_list": "2026-11-15T16:39:44.151692+00:00",
-"cleared_upto": 4800,
-"last_msg_id": 4815
+"last_list": "2026-11-15T17:30:01.124652+00:00",
+"cleared_upto": 4815,
+"last_msg_id": 4830
 }
