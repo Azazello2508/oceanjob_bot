@@ -5920,7 +5920,7 @@
 "crewdep@ark-shipping.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-13",
+"last": "2026-11-15",
 "links": {},
 "name": "",
 "off": 13,
@@ -5934,7 +5934,7 @@
 "@seamenjob"
 ],
 "telegram": [],
-"total": 39,
+"total": 40,
 "vessels": [
 "General cargo",
 "Offshore",
@@ -28429,7 +28429,7 @@
 "country": "",
 "emails": [],
 "first": "2026-11-04",
-"last": "2026-11-13",
+"last": "2026-11-15",
 "links": {},
 "name": "Bermuda Maritime",
 "off": 0,
@@ -28444,7 +28444,7 @@
 "telegram": [
 "@AndreyVStart"
 ],
-"total": 10,
+"total": 11,
 "vessels": [],
 "website": ""
 },
@@ -59005,7 +59005,7 @@
 "allcrewing": 3812,
 "andreeyVstart": 1406,
 "balticcareer": 5704,
-"crewingua": 44952,
+"crewingua": 44953,
 "crs_vacancies": 3562,
 "cruiseshipjobs": 8,
 "cvcrewcom": 12900,
@@ -59033,7 +59033,7 @@
 "olive_crew": 2935,
 "onboard_su": 20773,
 "pervoemorskoe": 4530,
-"rekamore_su": 165184,
+"rekamore_su": 165185,
 "roster_marine": 1743,
 "seajobfinder": 42439,
 "seamenjob": 106332,
@@ -59042,7 +59042,7 @@
 "shipjobsindia": 420,
 "shipscreweu": 16672,
 "sidantey": 399,
-"supermariner_ua": 3915,
+"supermariner_ua": 3916,
 "truemalina_offshore": 818,
 "ukrcrewing_official": 2385,
 "univis_crewing": 5024,
