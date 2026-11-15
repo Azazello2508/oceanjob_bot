@@ -16,13 +16,39 @@
 "repeat": false,
 "time": "2026-11-14T22:32:56.673685+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "Marine Crewing Agency Everest",
+"url": "https://t.me/rekamore_su/165173",
+"source": "Telegram: @rekamore_su",
+"found": [
+"chief officer",
+"second officer",
+"2nd off"
+],
+"fp": "fp-f9d3600903c7908e",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 3rd Officer",
+"vessel": "Aframax, LPG",
+"salary": "+ BONUS за HRA",
+"joining": "Master: December 2026",
+"contract": "6 месяцев.(можно меньше",
+"company": "Marine Crewing Agency Everest"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-15T00:00:24+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-4713,
-4714
+4715,
+4716,
+4717
 ],
-"last_list": "2026-11-14T22:34:06.718212+00:00",
-"cleared_upto": 4712,
-"last_msg_id": 4714
+"last_list": "2026-11-15T00:13:39.879000+00:00",
+"cleared_upto": 4714,
+"last_msg_id": 4717
 }

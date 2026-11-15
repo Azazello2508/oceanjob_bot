@@ -43156,7 +43156,7 @@
 "partner-dv.com": {
 "address": "г. Владивосток, ул. Кирова, д. 23, офис 208.",
 "city": "Владивосток",
-"co": 29,
+"co": 31,
 "country": "Russia",
 "emails": [
 "everest_sea_nhk@mail.ru",
@@ -43164,7 +43164,7 @@
 "wazup@partner-dv.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-14",
+"last": "2026-11-15",
 "links": {
 "crewell": "https://crewell.net/en/companies/284191/"
 },
@@ -43172,7 +43172,7 @@
 "off": 0,
 "offshore_hint": false,
 "phones": [],
-"so": 5,
+"so": 7,
 "sources": [
 "@cvsenderseaman",
 "@morehod_ru",
@@ -43181,7 +43181,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 145,
+"total": 147,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -58972,7 +58972,7 @@
 "marineman_ltd": 48386,
 "maritimeforum": 257423,
 "merchantNavyrealjob": 264,
-"morehod_ru": 30999,
+"morehod_ru": 31001,
 "oceancrewjobs": 32824,
 "offshoreatsea": 25324,
 "offshorecv": 1603,
@@ -58981,7 +58981,7 @@
 "olive_crew": 2935,
 "onboard_su": 20771,
 "pervoemorskoe": 4530,
-"rekamore_su": 165171,
+"rekamore_su": 165173,
 "roster_marine": 1743,
 "seajobfinder": 42438,
 "seamenjob": 106330,
