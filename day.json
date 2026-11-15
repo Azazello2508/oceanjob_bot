@@ -63,15 +63,39 @@
 "repeat": false,
 "time": "2026-11-15T05:22:05+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "SECOND OFFICER",
+"url": "https://t.me/cvsenderseaman/16207",
+"source": "Telegram: @cvsenderseaman",
+"found": [
+"second officer"
+],
+"fp": "fp-80cdfa7f3e4a2d9c",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "LNG",
+"salary": "5000-6000 USD",
+"joining": "asap",
+"contract": "6 months",
+"email": "crew@raymarinecrewing.com",
+"company": "raymarinecrewing.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-15T07:18:28+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-4718,
-4719,
-4720,
-4721
+4722,
+4723,
+4724,
+4725
 ],
-"last_list": "2026-11-15T05:41:47.127108+00:00",
-"cleared_upto": 4717,
-"last_msg_id": 4721
+"last_list": "2026-11-15T07:20:54.277608+00:00",
+"cleared_upto": 4721,
+"last_msg_id": 4725
 }

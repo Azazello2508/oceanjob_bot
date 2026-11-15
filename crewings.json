@@ -10358,7 +10358,7 @@
 "caspiancrew@yandex.ru"
 ],
 "first": "2026-11-03",
-"last": "2026-11-14",
+"last": "2026-11-15",
 "links": {},
 "name": "",
 "off": 0,
@@ -10371,7 +10371,7 @@
 "@onboard_su"
 ],
 "telegram": [],
-"total": 7,
+"total": 8,
 "vessels": [
 "General cargo"
 ],
@@ -44977,7 +44977,7 @@
 "ukraine@uniteammarine.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-14",
+"last": "2026-11-15",
 "links": {
 "crewell": "https://crewell.net/en/companies/374687/"
 },
@@ -44994,7 +44994,7 @@
 "+380933859423",
 "+380952775851"
 ],
-"so": 18,
+"so": 19,
 "sources": [
 "@Merchant_Fleet",
 "@crewingua",
@@ -45012,7 +45012,7 @@
 "@DaniilPRayMarine",
 "@anastasiaChRayMarine"
 ],
-"total": 280,
+"total": 281,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -54919,7 +54919,7 @@
 "kateryna.ivanko@vships.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-14",
+"last": "2026-11-15",
 "links": {},
 "name": "V.Ships Marine Services",
 "off": 224,
@@ -54949,7 +54949,7 @@
 "@marinejobs"
 ],
 "telegram": [],
-"total": 341,
+"total": 342,
 "uk": 12,
 "vessels": [
 "Bulk",
@@ -59009,7 +59009,7 @@
 "crs_vacancies": 3562,
 "cruiseshipjobs": 8,
 "cvcrewcom": 12900,
-"cvsenderseaman": 16206,
+"cvsenderseaman": 16207,
 "ecrewing": 3199,
 "findseajobs": 32569,
 "galaxymaritimeua": 1250,
@@ -59023,7 +59023,7 @@
 "marinejobz": 194156,
 "marineman_ltd": 48386,
 "maritimeforum": 257423,
-"merchantNavyrealjob": 264,
+"merchantNavyrealjob": 265,
 "morehod_ru": 31003,
 "oceancrewjobs": 32824,
 "offshoreatsea": 25324,
@@ -59031,12 +59031,12 @@
 "offshorevacancies": 47275,
 "oilrigs": 778,
 "olive_crew": 2935,
-"onboard_su": 20771,
+"onboard_su": 20773,
 "pervoemorskoe": 4530,
 "rekamore_su": 165176,
 "roster_marine": 1743,
 "seajobfinder": 42439,
-"seamenjob": 106330,
+"seamenjob": 106332,
 "seamenvacancy": 1386,
 "seavacancies": 25244,
 "shipjobsindia": 420,
