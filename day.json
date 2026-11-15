@@ -627,25 +627,114 @@
 "email": "tim@yoacrew.com",
 "company": "yoacrew.com"
 },
-"new": true,
+"new": false,
 "repeat": false,
-"time": "2026-11-15T13:03:25+00:00"
+"time": "2026-11-15T13:03:25+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "VACANCIES – LNG CARRIER",
+"url": "https://t.me/andreeyVstart/1407",
+"source": "Telegram: @andreeyVstart",
+"found": [
+"chief officer"
+],
+"fp": "fp-46423d502086e87f",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "LNG",
+"salary": "22,000–24,000 USD",
+"joining": "TBA",
+"email": "ops@start-manning.com",
+"company": "start-manning.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-15T13:26:09+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "VACANCIES – LNG CARRIER",
+"url": "https://t.me/job_for_seaman/17069",
+"source": "Telegram: @job_for_seaman",
+"found": [
+"chief officer"
+],
+"fp": "fp-30872aeeeda9b82d",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "LNG",
+"salary": "22,000–24,000 USD",
+"joining": "TBA",
+"email": "ops@start-manning.com",
+"company": "start-manning.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-15T13:24:56+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "HOT JOBS | 19 OFFSHORE & MARINE OPENINGS",
+"url": "https://t.me/Sea_format/12350",
+"source": "Telegram: @Sea_format",
+"found": [
+"chief mate"
+],
+"fp": "fp-44111a9514fd3be2",
+"offshore": true,
+"info": {
+"rank": "Chief Officer / AB",
+"vessel": "AHTS, Tug",
+"contract": "s across Europe, South Am",
+"company": "HOT JOBS | 19 OFFSHORE & MARINE OPE…"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-15T13:21:53+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "New Senior Officers vacancies",
+"url": "https://t.me/seavacancies/25248",
+"source": "Telegram: @seavacancies",
+"found": [
+"chief officer"
+],
+"fp": "fp-0b3d8351920f77c5",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "VLCC, Crude oil tanker",
+"joining": "29 Nov",
+"salary": "$9,000-10,500"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-15T14:03:02+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-4755,
-4756,
-4757,
-4758,
-4759,
-4760,
-4761,
-4762,
-4763,
-4764,
-4765
+4766,
+4767,
+4768,
+4769,
+4770,
+4771,
+4772,
+4773,
+4774,
+4775,
+4776
 ],
-"last_list": "2026-11-15T12:52:06.110623+00:00",
-"cleared_upto": 4754,
-"last_msg_id": 4765
+"last_list": "2026-11-15T14:08:49.983052+00:00",
+"cleared_upto": 4765,
+"last_msg_id": 4776
 }
