@@ -167,17 +167,35 @@
 "repeat": true,
 "time": "2026-11-15T09:35:55+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "Second Officer Job on 55m+ Motor Yacht YOA Yacht Crew",
+"url": "https://maritime-union.com/job/233084",
+"source": "maritime-union.com",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"company": "Second Officer Job on 55m+ Motor Ya…"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-15T11:10:17.877185+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-4731,
-4732,
-4733,
-4734,
-4735,
-4736
+4737,
+4738,
+4739,
+4740,
+4741,
+4742,
+4743
 ],
-"last_list": "2026-11-15T10:21:40.399355+00:00",
-"cleared_upto": 4730,
-"last_msg_id": 4736
+"last_list": "2026-11-15T11:11:42.388846+00:00",
+"cleared_upto": 4736,
+"last_msg_id": 4743
 }
