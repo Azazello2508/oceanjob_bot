@@ -35845,6 +35845,32 @@
 "vessels": [],
 "website": ""
 },
+"name:trump to extend shipping": {
+"address": "",
+"city": "",
+"co": 0,
+"country": "",
+"emails": [],
+"first": "2026-11-16",
+"last": "2026-11-16",
+"links": {},
+"name": "Trump To Extend Shipping",
+"off": 0,
+"offshore_hint": false,
+"phones": [],
+"so": 0,
+"sources": [
+"@seamenjob"
+],
+"telegram": [],
+"total": 1,
+"vessels": [
+"LPG/LNG",
+"Tanker",
+"Tug"
+],
+"website": ""
+},
 "name:uab baltnautic shipping offline lithuania member since: aug 2020 no active vacancies view profile": {
 "address": "",
 "city": "",
@@ -58612,6 +58638,7 @@
 "trishika marine private": "trishikamarine.com",
 "tristarr maritime & shipping private": "tristarr-maritime.com",
 "triton schiffahrts offline germany member since: jun 2017 no active vacancies view profile": "name:triton schiffahrts offline germany member since: jun 2017 no active vacancies view profile",
+"trump to extend shipping": "name:trump to extend shipping",
 "truong phat loc shipping trading": "tplshipping.com",
 "ts agent grew": "tsagentcrew.kz",
 "tschudi ship management": "tschudishipmanagement.com",
@@ -59089,7 +59116,7 @@
 "rekamore_su": 165191,
 "roster_marine": 1743,
 "seajobfinder": 42439,
-"seamenjob": 106332,
+"seamenjob": 106333,
 "seamenvacancy": 1386,
 "seavacancies": 25250,
 "shipjobsindia": 420,
