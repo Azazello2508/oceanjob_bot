@@ -48505,7 +48505,7 @@
 "victoria@sevenseasrecruitment.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-13",
+"last": "2026-11-15",
 "links": {},
 "name": "",
 "off": 1,
@@ -48520,7 +48520,7 @@
 "@shipscreweu"
 ],
 "telegram": [],
-"total": 57,
+"total": 58,
 "vessels": [
 "Offshore",
 "Passenger"
@@ -56615,19 +56615,19 @@
 "hannah@yoacrew.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-12",
+"last": "2026-11-15",
 "links": {},
 "name": "",
 "off": 6,
 "offshore_hint": false,
 "phones": [],
-"so": 3,
+"so": 4,
 "sources": [
 "@OnlyYacht",
 "@Yacht_Vacancies"
 ],
 "telegram": [],
-"total": 51,
+"total": 52,
 "vessels": [
 "Chemical",
 "Offshore",
@@ -59006,7 +59006,7 @@
 "OffshoreFleetJob": 11080,
 "Offshore_Vacancies": 949,
 "OnlyOffshore": 39028,
-"OnlyYacht": 2324,
+"OnlyYacht": 2326,
 "SM_job_center": 2499,
 "SeaSeaWorks": 3934,
 "Sea_format": 12349,
