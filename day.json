@@ -1136,26 +1136,63 @@
 "repeat": false,
 "time": "2026-11-15T17:28:50.403143+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer — LNG Carrier",
+"url": "https://seajobs.pro/jobs/chief-officer-lng-carrier-eda72ea9-6bc3-4a8a-96cb-23178b3fb40a",
+"source": "seajobs.pro",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "LNG"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-15T19:34:52.432546+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Position publishing service was stopped for the night.",
+"url": "https://t.me/marinecareerorg/17765",
+"source": "Telegram: @marinecareerorg",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-f9354d401b2a7297",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Chemical tanker, Bulk carrier"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-15T19:00:55+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-4816,
-4817,
-4818,
-4819,
-4820,
-4821,
-4822,
-4823,
-4824,
-4825,
-4826,
-4827,
-4828,
-4829,
-4830
+4831,
+4832,
+4833,
+4834,
+4835,
+4836,
+4837,
+4838,
+4839,
+4840,
+4841,
+4842,
+4843,
+4844,
+4845
 ],
-"last_list": "2026-11-15T17:30:01.124652+00:00",
-"cleared_upto": 4815,
-"last_msg_id": 4830
+"last_list": "2026-11-15T19:35:43.081720+00:00",
+"cleared_upto": 4830,
+"last_msg_id": 4845
 }
