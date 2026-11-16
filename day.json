@@ -2367,26 +2367,767 @@
 "repeat": false,
 "time": "2026-11-16T09:33:59+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "2nd Officer on Bulk carrier",
+"url": "https://crewell.net/en/vacancies/466339/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Bulk carrier"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-16T10:37:52.221146+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer on Crude oil tanker",
+"url": "https://crewell.net/en/vacancies/466335/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Crude oil tanker"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-16T10:37:53.046931+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer on AHTS",
+"url": "https://crewell.net/en/vacancies/466337/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "AHTS"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-16T10:37:53.826223+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer on General Cargo Vessel",
+"url": "https://crewell.net/en/vacancies/466341/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-16T10:37:54.602754+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer on Oil/chemical tanker",
+"url": "https://crewell.net/en/vacancies/466345/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Chemical tanker"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-16T10:37:55.263064+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "2nd Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/370058",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-16T10:37:57.206795+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "2nd Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/370061",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-16T10:37:58.435443+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/370062",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-16T10:37:59.660366+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Patrol Vessel Chief Officer",
+"url": "https://www.seacareer.com/i36849/patrol-vessel-chief-officer/",
+"source": "seacareer.com",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-16T10:38:06.483006+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://www.seacareer.com/i36851/chief-officer/",
+"source": "seacareer.com",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-16T10:38:07.192356+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://www.seacareer.com/i36852/chief-officer/",
+"source": "seacareer.com",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-16T10:38:07.877487+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "2nd Officer Job - Panamax Bulk Carrier Melya Janwarita",
+"url": "https://maritime-union.com/job/233135",
+"source": "maritime-union.com",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Bulk carrier"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-16T10:38:31.331106+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer Job on AHTS Vessel OJ Crew",
+"url": "https://maritime-union.com/job/233145",
+"source": "maritime-union.com",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "AHTS",
+"company": "Chief Officer Job on AHTS Vessel OJ…"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-16T10:38:31.831736+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "2nd Officer Job - Aframax Tanker (Domestic) PT Soechi Lines Tbk",
+"url": "https://maritime-union.com/job/233141",
+"source": "maritime-union.com",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Aframax"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-16T10:38:32.449970+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer — General Cargo",
+"url": "https://seajobs.pro/jobs/chief-officer-general-cargo-cad1169b-931a-4c2a-ab81-bccb2608f7cc",
+"source": "seajobs.pro",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-16T10:38:52.522553+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer — Chemical/Oil Products Tanker",
+"url": "https://seajobs.pro/jobs/chief-officer-chemical-oil-products-tanker-f3ce51fc-f4ff-4a12-bd05-a863f5bfa5eb",
+"source": "seajobs.pro",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Chemical tanker"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-16T10:38:52.818630+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer — General Cargo",
+"url": "https://seajobs.pro/jobs/chief-officer-general-cargo-5c8821a1-9f11-46df-b0da-0011b6336b33",
+"source": "seajobs.pro",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-16T10:38:53.179338+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer — General Cargo/MPP",
+"url": "https://seajobs.pro/jobs/chief-officer-general-cargo-mpp-9df05d29-45ae-492d-8f31-dae29e99275b",
+"source": "seajobs.pro",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo, MPP"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-16T10:38:53.418553+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer — AHTS",
+"url": "https://seajobs.pro/jobs/chief-officer-ahts-058c4700-a1ff-4ea1-9e7a-a4ab36a817da",
+"source": "seajobs.pro",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "AHTS"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-16T10:38:53.732484+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Ice Navigation Officer on Expedition vessel January 2027",
+"url": "https://crewing.portalmorski.pl/en/sea-jobs/1st-officer-navigation-on-passegner-vessel/",
+"source": "portalmorski.pl",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {},
+"new": false,
+"repeat": false,
+"time": "2026-11-16T10:38:58.147427+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer for Jack-Up Barge",
+"url": "https://t.me/seajobfinder/42444",
+"source": "Telegram: @seajobfinder",
+"found": [
+"chief officer"
+],
+"fp": "fp-2560d7afabca4b72",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Jack-up, Barge",
+"salary": "Confirmed salary depends from…",
+"joining": "interview matter",
+"contract": "8 weeks ON / 8 weeks OFF",
+"email": "crew@goldorion.eu",
+"company": "goldorion.eu"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-16T09:49:12+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "NEW PCTC VESSEL RECRUITMENT",
+"url": "https://t.me/marinejobs/43510",
+"source": "Telegram: @marinejobs",
+"found": [
+"chief officer"
+],
+"fp": "fp-90dfe0c958685e3f",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Ro-Ro, PCTC",
+"joining": "Window",
+"email": "forcv@csm-ua.com",
+"company": "csm-ua.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-16T10:03:20+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "NEW PCTC VESSEL",
+"url": "https://t.me/marinejobs/43511",
+"source": "Telegram: @marinejobs",
+"found": [
+"chief officer"
+],
+"fp": "fp-e58458263f6ef377",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Ro-Ro, PCTC",
+"email": "forcv@csm-ua.com",
+"company": "csm-ua.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-16T10:06:07+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer – Jack-Up Barge",
+"url": "https://t.me/marinejobs/43512",
+"source": "Telegram: @marinejobs",
+"found": [
+"chief officer"
+],
+"fp": "fp-08ff002741a556e2",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Jack-up, Barge",
+"salary": "Confirmed based on interview",
+"joining": "Discussed at interview",
+"contract": "8 weeks ON / 8 weeks OFF",
+"email": "crew@goldorion.eu",
+"company": "goldorion.eu"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-16T10:08:41+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "NEW PCTC VESSEL | DUAL FUEL | SENIOR OFFICERS",
+"url": "https://t.me/seamenjob/106356",
+"source": "Telegram: @seamenjob",
+"found": [
+"chief officer"
+],
+"fp": "fp-75b0041729fc4400",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Ro-Ro, PCTC",
+"joining": "end of November 2026 -beg of D",
+"email": "forcv@csm-ua.com",
+"company": "csm-ua.com"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-16T09:50:23+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "NEW PCTC VESSEL |SENIOR OFFICERS",
+"url": "https://t.me/seamenjob/106357",
+"source": "Telegram: @seamenjob",
+"found": [
+"chief officer"
+],
+"fp": "fp-726b56e8d1abafbf",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Ro-Ro, PCTC",
+"joining": "01 December 2026 in Turkey – T",
+"email": "forcv@csm-ua.com",
+"company": "csm-ua.com"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-16T09:52:16+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Старший помощник капитана",
+"url": "https://t.me/seamenjob/106361",
+"source": "Telegram: @seamenjob",
+"found": [
+"старший помощник"
+],
+"fp": "fp-7b5ce2f45cbe36dc",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"salary": "269 000 рублей (на руки)",
+"email": "crew@donmastershipping.ru",
+"company": "donmastershipping.ru"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-16T10:30:40+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "CHIEF OFFICER – GENERAL CARGO / MPP",
+"url": "https://t.me/balticcareer/5725",
+"source": "Telegram: @balticcareer",
+"found": [
+"chief officer"
+],
+"fp": "fp-ac271b50d51de2b2",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo, MPP",
+"salary": "5719 EUR / month",
+"contract": "2-3 months"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-16T09:55:35+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "CHIEF OFFICER – GENERAL CARGO VESSEL",
+"url": "https://t.me/balticcareer/5726",
+"source": "Telegram: @balticcareer",
+"found": [
+"chief officer"
+],
+"fp": "fp-b9cdf347965a706d",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo",
+"salary": "5719 EUR / month",
+"contract": "2-3 months"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-16T10:05:26+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "3RD OFFICER – RESEARCH VESSEL",
+"url": "https://t.me/balticcareer/5729",
+"source": "Telegram: @balticcareer",
+"found": [],
+"fp": "fp-c06cf69d5f3e8f86",
+"offshore": false,
+"info": {
+"rank": "3rd Officer",
+"joining": "9 December 2026"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-16T10:16:10+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "ONLY UKRAINIAN NATIONALITY",
+"url": "https://t.me/BSMCSCUKRAINE/4388",
+"source": "Telegram: @BSMCSCUKRAINE",
+"found": [],
+"fp": "fp-639d49f71441e20a",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "LPG",
+"joining": "ASAP",
+"contract": "3 Months",
+"email": "ua-csc-ode-man@bs-shipmanagement.com",
+"company": "bs-shipmanagement.com"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-16T10:15:59+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "ONLY UKRAINIAN NATIONALITY",
+"url": "https://t.me/BSMCSCUKRAINE/4389",
+"source": "Telegram: @BSMCSCUKRAINE",
+"found": [],
+"fp": "fp-9e64a38b51897bac",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "LPG",
+"joining": "1/12",
+"contract": "3 Months",
+"email": "ua-csc-ode-man@bs-shipmanagement.com",
+"company": "bs-shipmanagement.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-16T10:19:06+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "https://jobatsea.online/job/625709/master-and-chief-officer-to-join-guard-vessel-at-tos-energy-maritime-crew/",
+"url": "https://t.me/offshorevacancies/47281",
+"source": "Telegram: @offshorevacancies",
+"found": [
+"chief officer"
+],
+"fp": "fp-1b144b26bab6a4f9",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"company": "https://jobatsea.online/job/625709/…"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-16T09:50:50+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "https://jobatsea.online/job/625774/chief-officer-for-ahts-440-usdd-at-oj-crew/",
+"url": "https://t.me/offshorevacancies/47284",
+"source": "Telegram: @offshorevacancies",
+"found": [
+"chief officer"
+],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "AHTS",
+"salary": "440 USD",
+"company": "https://jobatsea.online/job/625774/…"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-16T10:22:17+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Судоходная компания ООО «Дельта» приглашает на работу:",
+"url": "https://t.me/rekamore_su/165281",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-0c09fcb954dbff4d",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo",
+"salary": "326 000 рублей (на руки)",
+"email": "staff@delta152.ru",
+"company": "delta152.ru"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-16T09:59:04+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Компания \"Intercontinental Shipping Group\" приглашает на работу:",
+"url": "https://t.me/rekamore_su/165285",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-9ab80270140d9b09",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo",
+"salary": "своевременно, ежемесячно и без…",
+"joining": "в иностранном порту - БЛИЖАЙША",
+"email": "crew@incsgl.com",
+"company": "incsgl.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-16T10:30:03+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "SECOND ENGINEER",
+"url": "https://t.me/cvsenderseaman/16242",
+"source": "Telegram: @cvsenderseaman",
+"found": [],
+"fp": "fp-8bbe8da8aaef0db2",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "LNG",
+"salary": "18,500 USD + 500 USD per month…",
+"joining": "bonus",
+"contract": "3+/-1 months"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-16T10:17:04+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "SECOND OFFICER",
+"url": "https://t.me/cvsenderseaman/16243",
+"source": "Telegram: @cvsenderseaman",
+"found": [
+"second officer"
+],
+"fp": "fp-4e24a52f018a3a0a",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"salary": "4000 - 5000 USD",
+"joining": "End November",
+"email": "crew@armada-holding.com",
+"company": "armada-holding.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-16T10:25:04+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "CHIEF OFFICER",
+"url": "https://t.me/cvsenderseaman/16245",
+"source": "Telegram: @cvsenderseaman",
+"found": [
+"chief officer"
+],
+"fp": "fp-4360772df95a29c8",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "AHTS",
+"salary": "440 USD / day",
+"joining": "November 20",
+"contract": "8 weeks +/- 2",
+"email": "cv@ojcrew.com",
+"company": "ojcrew.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-16T10:33:05+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-4906,
-4907,
-4908,
-4909,
-4910,
-4911,
-4912,
-4913,
-4914,
-4915,
-4916,
-4917,
-4918,
-4919,
-4920
+4921,
+4922,
+4923,
+4924,
+4925,
+4926,
+4927,
+4928,
+4929,
+4930,
+4931,
+4932,
+4933,
+4934,
+4935,
+4936
 ],
-"last_list": "2026-11-16T09:49:44.827541+00:00",
-"cleared_upto": 4905,
-"last_msg_id": 4920
+"last_list": "2026-11-16T10:39:50.836507+00:00",
+"cleared_upto": 4920,
+"last_msg_id": 4936
 }
