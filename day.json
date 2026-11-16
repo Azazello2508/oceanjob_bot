@@ -115,16 +115,48 @@
 "repeat": false,
 "time": "2026-11-16T22:49:44.580271+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/370188",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-16T23:40:11.000615+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/370189",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-16T23:40:12.401906+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-5109,
-5110,
-5111,
-5112,
-5113
+5114,
+5115,
+5116,
+5117,
+5118
 ],
-"last_list": "2026-11-16T22:52:01.376768+00:00",
-"cleared_upto": 5108,
-"last_msg_id": 5113
+"last_list": "2026-11-16T23:42:45.083310+00:00",
+"cleared_upto": 5113,
+"last_msg_id": 5118
 }
