@@ -4744,7 +4744,7 @@
 "rank": "Chief Officer",
 "vessel": "Container"
 },
-"new": true,
+"new": false,
 "repeat": false,
 "time": "2026-11-16T14:25:53.210009+00:00",
 "junior_dp": false
@@ -4761,7 +4761,7 @@
 "rank": "Chief Officer",
 "vessel": "Chemical tanker"
 },
-"new": true,
+"new": false,
 "repeat": false,
 "time": "2026-11-16T14:25:53.894856+00:00",
 "junior_dp": false
@@ -4778,7 +4778,7 @@
 "rank": "Chief Officer",
 "vessel": "PCTC"
 },
-"new": true,
+"new": false,
 "repeat": false,
 "time": "2026-11-16T14:26:43.971869+00:00",
 "junior_dp": false
@@ -4794,7 +4794,7 @@
 "info": {
 "rank": "2nd Officer"
 },
-"new": true,
+"new": false,
 "repeat": false,
 "time": "2026-11-16T14:26:48.221337+00:00",
 "junior_dp": false
@@ -4811,7 +4811,7 @@
 "rank": "2nd Officer",
 "vessel": "Chemical tanker"
 },
-"new": true,
+"new": false,
 "repeat": false,
 "time": "2026-11-16T14:26:52.109339+00:00",
 "junior_dp": false
@@ -4835,7 +4835,7 @@
 "email": "info@staff-service-expert.com",
 "company": "staff-service-expert.com"
 },
-"new": true,
+"new": false,
 "repeat": true,
 "time": "2026-11-16T13:50:45+00:00",
 "junior_dp": false
@@ -4859,7 +4859,7 @@
 "email": "cv@ariesnav.com",
 "company": "ariesnav.com"
 },
-"new": true,
+"new": false,
 "repeat": false,
 "time": "2026-11-16T14:01:41+00:00",
 "junior_dp": false
@@ -4883,7 +4883,7 @@
 "email": "crew@oceanodyssey.com.ua",
 "company": "oceanodyssey.com.ua"
 },
-"new": true,
+"new": false,
 "repeat": true,
 "time": "2026-11-16T13:40:03+00:00",
 "junior_dp": false
@@ -4908,7 +4908,7 @@
 "email": "forcv@eurocrew-ua.com",
 "company": "eurocrew-ua.com"
 },
-"new": true,
+"new": false,
 "repeat": true,
 "time": "2026-11-16T14:03:57+00:00",
 "junior_dp": false
@@ -4929,7 +4929,7 @@
 "salary": "4100 USD / month",
 "contract": "4 months +/- 1 month"
 },
-"new": true,
+"new": false,
 "repeat": false,
 "time": "2026-11-16T13:52:53+00:00",
 "junior_dp": false
@@ -4952,7 +4952,7 @@
 "email": "cv@allcrew.net",
 "company": "allcrew.net"
 },
-"new": true,
+"new": false,
 "repeat": false,
 "time": "2026-11-16T14:25:17+00:00",
 "junior_dp": false
@@ -4971,7 +4971,7 @@
 "rank": "Chief Officer",
 "vessel": "DSV"
 },
-"new": true,
+"new": false,
 "repeat": false,
 "time": "2026-11-16T13:53:11+00:00",
 "junior_dp": false
@@ -4995,7 +4995,7 @@
 "email": "apply@staff-centre.com",
 "company": "staff-centre.com"
 },
-"new": true,
+"new": false,
 "repeat": false,
 "time": "2026-11-16T13:47:06+00:00",
 "junior_dp": false
@@ -5018,7 +5018,7 @@
 "email": "info@aquaracer-marine.com",
 "company": "aquaracer-marine.com"
 },
-"new": true,
+"new": false,
 "repeat": false,
 "time": "2026-11-16T14:19:47+00:00",
 "junior_dp": false
@@ -5039,36 +5039,538 @@
 "joining": "20 Nov",
 "salary": "$13,000"
 },
-"new": true,
+"new": false,
 "repeat": false,
 "time": "2026-11-16T14:03:02+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "2nd Officer on Bulk carrier",
+"url": "https://crewell.net/en/vacancies/466422/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Bulk carrier"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-16T15:16:08.998187+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer on Bulk carrier",
+"url": "https://crewell.net/en/vacancies/466423/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Bulk carrier"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-16T15:16:09.688834+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "ARGENT OPENING – LNG VESSEL",
+"url": "https://t.me/maritimeforum/257597",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer",
+"second officer"
+],
+"fp": "fp-4c73093df071dfee",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer / 3rd Officer",
+"vessel": "VLCC, LNG",
+"salary": "DETAILS – LNG",
+"email": "RossMarine.info@ukr.net"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-16T15:06:22+00:00",
+"junior_dp": false
+},
+{
+"uk": "…tly looking for AB/Crane operator for OSV ⚓️ UK permit NOT required Vessel: Offshore Supply Vessel…",
+"title": "URGENT",
+"url": "https://t.me/seajobfinder/42488",
+"source": "Telegram: @seajobfinder",
+"found": [],
+"fp": "fp-a075a1a9c5defa84",
+"offshore": true,
+"info": {
+"rank": "AB",
+"vessel": "OSV",
+"salary": "290 Euro/day gross (for Ukrain…",
+"joining": "ASAP",
+"contract": "4 +-1 weeks",
+"email": "kateryna.hadiatska@vships.com",
+"company": "vships.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-16T14:58:14+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer - DSV",
+"url": "https://t.me/seajobfinder/42489",
+"source": "Telegram: @seajobfinder",
+"found": [
+"chief officer"
+],
+"fp": "fp-0f5c232b8a6c8c82",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "DSV",
+"contract": "8 weeks + / - 2 weeks",
+"email": "aaliyah.thurkettle@selectoffshore.com",
+"company": "selectoffshore.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-16T14:58:47+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officers Required: DSV",
+"url": "https://t.me/seajobfinder/42492",
+"source": "Telegram: @seajobfinder",
+"found": [
+"chief officer"
+],
+"fp": "fp-052d6916b4b706f6",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "DSV",
+"contract": "8 weeks + / - 2 weeks",
+"email": "alfie.smart@selectoffshore.com",
+"company": "selectoffshore.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-16T15:01:28+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "HIRING: MULTIPLE CHIEF OFFICERS | PSV DP2",
+"url": "https://t.me/seajobfinder/42493",
+"source": "Telegram: @seajobfinder",
+"found": [
+"chief officer"
+],
+"fp": "fp-d002f62ab48b70d2",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "PSV",
+"email": "israa.albsaisi@selectoffshore.com",
+"company": "selectoffshore.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-16T15:02:19+00:00",
+"junior_dp": false
+},
+{
+"uk": "…project location, we can preferably consider UK or EU citizens (EU citizens will require a UK ETA prior to…",
+"title": "NEW MARINE ROLE ALERT – Chief Officer - Strong DSV experience",
+"url": "https://t.me/seajobfinder/42497",
+"source": "Telegram: @seajobfinder",
+"found": [
+"chief officer"
+],
+"fp": "fp-62a2c832e5dfeef9",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "DSV",
+"contract": "4 weeks",
+"email": "marine@etpm.co.uk",
+"company": "etpm.co.uk"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-16T15:04:44+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "На приёмку новых судов проекта RSD 59, DWT 8144",
+"url": "https://t.me/onboard_su/20789",
+"source": "Telegram: @onboard_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-bb9923aa583fc512",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"contract": "4+-1. Оплата проезда. Вак",
+"salary": "224 000 ₽",
+"email": "cv@crewmontenegro.com",
+"company": "crewmontenegro.com"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-16T14:34:23+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Срочные вакансия на газовоз LPG",
+"url": "https://t.me/onboard_su/20790",
+"source": "Telegram: @onboard_su",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-3e53e82464ac2946",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "LPG",
+"joining": "конец ноября",
+"salary": "5800$",
+"email": "novo@inok-tm.com",
+"company": "inok-tm.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-16T14:44:48+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "2ND OFFICER POSITION",
+"url": "https://t.me/marinejobs/43529",
+"source": "Telegram: @marinejobs",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-c4527c6c42e6073d",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Tanker",
+"salary": "€4,180 + €135 re-joining bonus",
+"joining": "bonus",
+"contract": "4+1 months",
+"email": "forcv@eurocrew-ua.com",
+"company": "eurocrew-ua.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-16T15:00:57+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "VLGC Vacancies",
+"url": "https://t.me/marinejobs/43532",
+"source": "Telegram: @marinejobs",
+"found": [
+"chief officer"
+],
+"fp": "fp-ee28032f5053360b",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"joining": "ASAP",
+"contract": "4 ± 1 months",
+"salary": "$4,500",
+"email": "crew@raymarinecrewing.com",
+"tg": "anastasiaChRayMarine",
+"company": "raymarinecrewing.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-16T15:07:21+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Fresh maritime vacancies for qualified seafarers!",
+"url": "https://t.me/marinejobs/43534",
+"source": "Telegram: @marinejobs",
+"found": [
+"chief officer"
+],
+"fp": "fp-7e5f4a9a3a00bf6e",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 3rd Officer",
+"vessel": "LPG, Chemical tanker",
+"salary": "$10,500–$11,500",
+"email": "cv@tbc-shipmanagement.com",
+"company": "tbc-shipmanagement.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-16T15:11:28+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "НА  GEN  CARGO  5000 DWT",
+"url": "https://t.me/crewingua/44978",
+"source": "Telegram: @crewingua",
+"found": [
+"2off",
+"choff"
+],
+"fp": "fp-6255f5a6907b138d",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer",
+"joining": "В  НОЯБРЕ / ДЕКАБРЕ",
+"salary": "€ 7500\n"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-16T15:08:03+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "НА  LPG   17000  DWT",
+"url": "https://t.me/crewingua/44979",
+"source": "Telegram: @crewingua",
+"found": [
+"choff"
+],
+"fp": "fp-520ae82902db3124",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "LPG",
+"joining": "В   КОНЦЕ  НОЯБРЯ",
+"salary": "$15000\n"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-16T15:09:04+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "FOR  AHTS  DP1",
+"url": "https://t.me/crewingua/44980",
+"source": "Telegram: @crewingua",
+"found": [
+"2off",
+"choff"
+],
+"fp": "fp-5d79a4fc753bdf5f",
+"offshore": true,
+"info": {
+"rank": "Chief Officer / 2nd Officer / 3rd Officer",
+"vessel": "AHTS",
+"contract": "S  2+1",
+"salary": "$9000\n2"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-16T15:09:06+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "СПКМ",
+"url": "https://t.me/seamenjob/106384",
+"source": "Telegram: @seamenjob",
+"found": [
+"старший помощник"
+],
+"fp": "fp-dec8e3b71cc428e5",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Tug",
+"salary": "от 230 000 руб. (на руки)",
+"contract": "4+1",
+"email": "d.n.petrovskaya@onegroup.ru",
+"company": "onegroup.ru"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-16T15:00:41+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Vacancies",
+"url": "https://t.me/job_for_seaman/17077",
+"source": "Telegram: @job_for_seaman",
+"found": [],
+"fp": "fp-8b1d86682c6bb9f8",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "LPG, Chemical tanker",
+"salary": "10.500 - 11.500 USD",
+"email": "cv@tbc-shipmanagement.com",
+"company": "tbc-shipmanagement.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-16T14:27:55+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "https://jobatsea.online/job/625801/chief-mate-to-join-an-offshore-pipelay-project-at-baltic-resourcing/",
+"url": "https://t.me/offshorevacancies/47302",
+"source": "Telegram: @offshorevacancies",
+"found": [
+"chief mate"
+],
+"fp": "fp-54cae1d26595c65d",
+"offshore": true,
+"info": {
+"rank": "Chief Officer"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-16T15:02:45+00:00",
+"junior_dp": false
+},
+{
+"uk": "…ertificate. - Valid medical fitness - AB COP UK permit not required What we can offer Offshore expe…",
+"title": "2nd ENGINEER - MRV Experience",
+"url": "https://t.me/gm_seaman_cv/2724",
+"source": "Telegram: @gm_seaman_cv",
+"found": [
+"chief officer"
+],
+"fp": "fp-a1a8180d1cdbfeca",
+"offshore": true,
+"info": {
+"rank": "Chief Officer / AB",
+"vessel": "OSV, DSV",
+"joining": "ASAP",
+"email": "shelly.mountain@crewingservices.co.uk",
+"company": "crewingservices.co.uk"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-16T14:28:24+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "CHIEF OFFICER",
+"url": "https://t.me/cvsenderseaman/16282",
+"source": "Telegram: @cvsenderseaman",
+"found": [
+"chief officer"
+],
+"fp": "fp-466736ad49d73f9c",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "DSV",
+"salary": "Negotiable",
+"joining": "16th December",
+"contract": "4 weeks",
+"email": "ruel.b@worldwide-rs.co",
+"company": "worldwide-rs.co"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-16T14:43:47+00:00",
+"junior_dp": false
+},
+{
+"uk": "…r 📋 Vacancy details OOW/JDPO Requirements: • UK work permit ✉️ isabelle.j@worldwide-rs.com #3rdOfficer #…",
+"title": "THIRD OFFICER",
+"url": "https://t.me/cvsenderseaman/16287",
+"source": "Telegram: @cvsenderseaman",
+"found": [
+"jdpo",
+"dpo",
+"jdpo"
+],
+"fp": "fp-335e43984e2f935d",
+"offshore": true,
+"info": {
+"rank": "JDPO / 3rd Officer",
+"salary": "Negotiable",
+"joining": "30",
+"contract": "5 weeks on / 5 weeks off",
+"email": "isabelle.j@worldwide-rs.com",
+"company": "worldwide-rs.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-16T15:07:47+00:00",
+"junior_dp": true
+},
+{
+"uk": "",
+"title": "CHIEF OFFICER",
+"url": "https://t.me/cvsenderseaman/16288",
+"source": "Telegram: @cvsenderseaman",
+"found": [
+"chief officer"
+],
+"fp": "fp-73b9b2ea96cd7ccb",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "VLCC",
+"salary": "11900-13100 USD / month",
+"joining": "20.12.2026",
+"contract": "4",
+"email": "job@l-stream.com.ua",
+"company": "l-stream.com.ua"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-16T15:15:47+00:00",
 "junior_dp": false
 }
 ],
 "msg_ids": [
-4976,
-4977,
-4978,
-4979,
-4980,
-4981,
-4982,
-4983,
-4984,
-4985,
-4986,
-4987,
-4988,
-4989,
-4990,
-4991,
-4992,
-4993,
-4994,
-4995,
-4996
+5007,
+5008,
+5009,
+5010,
+5011,
+5012,
+5013,
+5014,
+5015,
+5016,
+5017,
+5018,
+5019,
+5020,
+5021,
+5022,
+5023,
+5024,
+5025,
+5026,
+5027
 ],
-"last_list": "2026-11-16T13:37:42.508493+00:00",
-"cleared_upto": 4975,
-"last_msg_id": 5006
+"last_list": "2026-11-16T15:18:51.579694+00:00",
+"cleared_upto": 5006,
+"last_msg_id": 5027
 }
