@@ -13945,7 +13945,7 @@
 "sidorenkotv@eastmining.ru"
 ],
 "first": "2026-11-03",
-"last": "2026-11-12",
+"last": "2026-11-16",
 "links": {},
 "name": "ООО “Угольный морской порт Шахтерск”",
 "off": 0,
@@ -13960,7 +13960,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 14,
+"total": 15,
 "vessels": [
 "General cargo",
 "Tug"
@@ -18397,7 +18397,7 @@
 "crew@i-muromets.ru"
 ],
 "first": "2026-11-03",
-"last": "2026-11-13",
+"last": "2026-11-16",
 "links": {
 "crewell": "https://crewell.net/en/companies/302158/"
 },
@@ -18412,7 +18412,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 17,
+"total": 18,
 "vessels": [
 "Tanker"
 ],
@@ -21476,7 +21476,7 @@
 "crew2@legacymarine.ru"
 ],
 "first": "2026-11-03",
-"last": "2026-11-13",
+"last": "2026-11-16",
 "links": {},
 "name": "ООО \"Легаси Марин\"",
 "off": 0,
@@ -21493,7 +21493,7 @@
 "@vesselsea"
 ],
 "telegram": [],
-"total": 27,
+"total": 28,
 "vessels": [
 "Tanker"
 ],
@@ -44156,7 +44156,7 @@
 "info@polluks-star.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-13",
+"last": "2026-11-16",
 "links": {
 "crewell": "https://crewell.net/en/companies/161823/"
 },
@@ -44175,7 +44175,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 22,
+"total": 23,
 "vessels": [
 "General cargo"
 ],
@@ -45523,7 +45523,7 @@
 "n.gunchenko@fersol.pro"
 ],
 "first": "2026-11-03",
-"last": "2026-11-13",
+"last": "2026-11-16",
 "links": {},
 "name": "ООО \"Роктри ВГК Стивидор\"",
 "off": 0,
@@ -45535,7 +45535,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 28,
+"total": 29,
 "vessels": [
 "Bulk"
 ],
@@ -46669,7 +46669,7 @@
 "vacancy@scf-group.ru"
 ],
 "first": "2026-11-03",
-"last": "2026-11-13",
+"last": "2026-11-16",
 "links": {
 "crewell": "https://crewell.net/en/companies/264003/"
 },
@@ -46688,7 +46688,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 22,
+"total": 23,
 "vessels": [
 "LPG/LNG",
 "Tanker"
@@ -59113,16 +59113,16 @@
 "olive_crew": 2935,
 "onboard_su": 20780,
 "pervoemorskoe": 4531,
-"rekamore_su": 165191,
+"rekamore_su": 165197,
 "roster_marine": 1743,
 "seajobfinder": 42439,
-"seamenjob": 106333,
+"seamenjob": 106334,
 "seamenvacancy": 1386,
 "seavacancies": 25250,
 "shipjobsindia": 420,
 "shipscreweu": 16672,
 "sidantey": 399,
-"supermariner_ua": 3917,
+"supermariner_ua": 3918,
 "truemalina_offshore": 818,
 "ukrcrewing_official": 2385,
 "univis_crewing": 5024,
