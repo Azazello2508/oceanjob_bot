@@ -245,6 +245,107 @@
 "repeat": true,
 "time": "2026-11-16T04:59:04+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://seajobs.ru/ru/vacancy/18182/chief-officer-bulk-carrier",
+"source": "seajobs.ru",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Bulk carrier"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-16T05:38:32.895921+00:00"
+},
+{
+"uk": "",
+"title": "Компания ООО “ЕРМАК ШИППИНГ” приглашает на работу:",
+"url": "https://t.me/rekamore_su/165222",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-20cf5ba3e447abfe",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Tanker",
+"salary": "134 000 рублей + премия за кон…",
+"joining": "конец  ноября 2026г",
+"contract": "🚢",
+"email": "crewing@ermakshipping.com",
+"company": "ermakshipping.com"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-16T05:30:04+00:00"
+},
+{
+"uk": "",
+"title": "Компания ГК \"ОТЭКО\" приглашает на  работу:",
+"url": "https://t.me/rekamore_su/165224",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-105216998cd5ccaa",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Tug",
+"email": "e.davydenko@oteko.ru",
+"company": "oteko.ru"
+},
+"new": true,
+"repeat": true,
+"time": "2026-11-16T05:34:02+00:00"
+},
+{
+"uk": "",
+"title": "Компания ООО “Трэвелер Шиппинг” приглашает на работу:",
+"url": "https://t.me/rekamore_su/165227",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-42888872d2f67410",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Chemical tanker",
+"joining": "❗️",
+"email": "gavrilova_o@astonfleet.com",
+"company": "astonfleet.com"
+},
+"new": true,
+"repeat": true,
+"time": "2026-11-16T05:36:07+00:00"
+},
+{
+"uk": "",
+"title": "Компания \"Alteam Crewing\" приглашает на работу:",
+"url": "https://t.me/rekamore_su/165228",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-63f97e64c60ff626",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"salary": "3 500 $",
+"contract": "4 месяца",
+"email": "alteam@crew-alteam.com",
+"company": "crew-alteam.com"
+},
+"new": true,
+"repeat": true,
+"time": "2026-11-16T05:38:02+00:00"
 }
 ],
 "msg_ids": [
