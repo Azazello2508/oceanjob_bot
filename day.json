@@ -5918,9 +5918,10 @@
 "info": {
 "rank": "2nd Officer"
 },
-"new": true,
+"new": false,
 "repeat": false,
-"time": "2026-11-16T16:30:26.900875+00:00"
+"time": "2026-11-16T16:30:26.900875+00:00",
+"junior_dp": false
 },
 {
 "uk": "",
@@ -5939,9 +5940,10 @@
 "email": "marine@etpm.co.uk",
 "company": "etpm.co.uk"
 },
-"new": true,
+"new": false,
 "repeat": false,
-"time": "2026-11-16T16:10:38+00:00"
+"time": "2026-11-16T16:10:38+00:00",
+"junior_dp": false
 },
 {
 "uk": "",
@@ -5959,9 +5961,10 @@
 "email": "cv@allcrew.net",
 "company": "allcrew.net"
 },
-"new": true,
+"new": false,
 "repeat": false,
-"time": "2026-11-16T16:15:22+00:00"
+"time": "2026-11-16T16:15:22+00:00",
+"junior_dp": false
 },
 {
 "uk": "",
@@ -5981,9 +5984,10 @@
 "email": "cv@allcrew.net",
 "company": "allcrew.net"
 },
-"new": true,
+"new": false,
 "repeat": false,
-"time": "2026-11-16T16:18:53+00:00"
+"time": "2026-11-16T16:18:53+00:00",
+"junior_dp": false
 },
 {
 "uk": "",
@@ -6003,36 +6007,156 @@
 "email": "ua-csc-ode-man@bs-shipmanagement.com",
 "company": "bs-shipmanagement.com"
 },
-"new": true,
+"new": false,
 "repeat": false,
-"time": "2026-11-16T16:23:47+00:00"
+"time": "2026-11-16T16:23:47+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Two essential positions available on a VLGC",
+"url": "https://t.me/maritimeforum/257633",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-bf556bbc9af6e095",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"joining": "ASAP",
+"contract": "4 months (±1)",
+"salary": "$4,500\n",
+"email": "crew@raymarinecrewing.com",
+"company": "raymarinecrewing.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-16T16:55:16+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://t.me/maritimeforum/257655",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-c4bad7972812e164",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo",
+"contract": "4 +/- 1",
+"email": "apply@olivecrew.com",
+"tg": "Elyzaveta_OliveCrew",
+"company": "olivecrew.com"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-16T17:07:36+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "━━━━━━━━━━━━━━",
+"url": "https://t.me/maritimeforum/257702",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-f55fab0cc3ded930",
+"offshore": true,
+"info": {
+"rank": "Chief Officer / 2nd Officer / AB",
+"vessel": "VLCC, LPG",
+"salary": "€4 180 + €135 rejoining bonus",
+"joining": "декабрь",
+"contract": "6 недель",
+"email": "alfie.smart@selectoffshore.com",
+"company": "selectoffshore.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-16T17:15:36+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "2nd Engineer",
+"url": "https://t.me/marinejobs/43550",
+"source": "Telegram: @marinejobs",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-1d8f217dec324fbe",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Bulk carrier, General cargo",
+"joining": "21.11.2026 (4 months)",
+"salary": "9,500 $",
+"email": "office@nerey.net",
+"company": "nerey.net"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-16T16:32:52+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "SECOND OFFICER",
+"url": "https://t.me/cvsenderseaman/16302",
+"source": "Telegram: @cvsenderseaman",
+"found": [
+"second officer"
+],
+"fp": "fp-338721f7a630681d",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"salary": "Negotiable",
+"joining": "2026-12-30",
+"contract": "5 weeks",
+"email": "marine@etpm.co.uk",
+"company": "etpm.co.uk"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-16T16:59:05+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-5028,
-5029,
-5030,
-5031,
-5032,
-5033,
-5034,
-5035,
-5036,
-5037,
-5038,
-5039,
-5040,
-5041,
-5042,
-5043,
-5044,
-5045,
-5046,
-5047,
-5048,
-5049
+5050,
+5051,
+5052,
+5053,
+5054,
+5055,
+5056,
+5057,
+5058,
+5059,
+5060,
+5061,
+5062,
+5063,
+5064,
+5065,
+5066,
+5067,
+5068,
+5069,
+5070,
+5071
 ],
-"last_list": "2026-11-16T16:10:03.480562+00:00",
-"cleared_upto": 5027,
-"last_msg_id": 5049
+"last_list": "2026-11-16T17:22:39.903705+00:00",
+"cleared_upto": 5049,
+"last_msg_id": 5071
 }
