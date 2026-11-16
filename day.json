@@ -5906,6 +5906,106 @@
 "repeat": false,
 "time": "2026-11-16T15:39:47+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "2nd Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/370169",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-16T16:30:26.900875+00:00"
+},
+{
+"uk": "",
+"title": "NEW MARINE ROLE ALERT!",
+"url": "https://t.me/marinejobs/43544",
+"source": "Telegram: @marinejobs",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-5f49844f82e30a11",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"contract": "5 weeks (5/5 rotation)",
+"email": "marine@etpm.co.uk",
+"company": "etpm.co.uk"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-16T16:10:38+00:00"
+},
+{
+"uk": "",
+"title": "MASTER WANTED – EU CITIZENS ONLY",
+"url": "https://t.me/marinejobs/43546",
+"source": "Telegram: @marinejobs",
+"found": [],
+"fp": "fp-374bce9f5b683a8d",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / AB",
+"vessel": "General cargo",
+"salary": "12,500 EUR gross",
+"joining": "end of November",
+"email": "cv@allcrew.net",
+"company": "allcrew.net"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-16T16:15:22+00:00"
+},
+{
+"uk": "",
+"title": "Chief Officer Wanted — Persian Gulf",
+"url": "https://t.me/marinejobs/43547",
+"source": "Telegram: @marinejobs",
+"found": [
+"chief officer"
+],
+"fp": "fp-caf742bbf1587050",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 3rd Officer",
+"vessel": "Tug",
+"salary": "5300 USD",
+"joining": "end of November",
+"email": "cv@allcrew.net",
+"company": "allcrew.net"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-16T16:18:53+00:00"
+},
+{
+"uk": "",
+"title": "Chief Officer Wanted – Heavy Chemical Tanker",
+"url": "https://t.me/marinejobs/43549",
+"source": "Telegram: @marinejobs",
+"found": [
+"chief officer"
+],
+"fp": "fp-590a98c392378d7c",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Chemical tanker",
+"joining": "early December",
+"contract": "8 weeks",
+"email": "ua-csc-ode-man@bs-shipmanagement.com",
+"company": "bs-shipmanagement.com"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-16T16:23:47+00:00"
 }
 ],
 "msg_ids": [
