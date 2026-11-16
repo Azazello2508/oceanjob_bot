@@ -6528,7 +6528,7 @@
 "ashipping.ru": {
 "address": "",
 "city": "",
-"co": 20,
+"co": 21,
 "country": "",
 "emails": [
 "rabota@ashipping.ru"
@@ -6546,7 +6546,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 30,
+"total": 31,
 "vessels": [
 "General cargo",
 "Tanker"
@@ -8199,14 +8199,14 @@
 "balticss.com": {
 "address": "Pobeda sq. 4? office 18",
 "city": "Kaliningrad",
-"co": 16,
+"co": 17,
 "country": "Russia",
 "emails": [
 "crew@balticss.com",
 "info@balticss.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-13",
+"last": "2026-11-16",
 "links": {
 "crewell": "https://crewell.net/en/companies/262841/"
 },
@@ -8223,7 +8223,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 29,
+"total": 31,
 "vessels": [
 "Bulk"
 ],
@@ -10365,7 +10365,7 @@
 "caspiancrew@yandex.ru"
 ],
 "first": "2026-11-03",
-"last": "2026-11-15",
+"last": "2026-11-16",
 "links": {},
 "name": "",
 "off": 0,
@@ -10378,7 +10378,7 @@
 "@onboard_su"
 ],
 "telegram": [],
-"total": 8,
+"total": 9,
 "vessels": [
 "General cargo"
 ],
@@ -14576,10 +14576,11 @@
 "so": 0,
 "sources": [
 "@morehod_ru",
-"@rekamore_su"
+"@rekamore_su",
+"@seamenjob"
 ],
 "telegram": [],
-"total": 22,
+"total": 23,
 "vessels": [
 "Tanker"
 ],
@@ -18582,13 +18583,13 @@
 "imt-mgt.com": {
 "address": "",
 "city": "",
-"co": 5,
+"co": 6,
 "country": "",
 "emails": [
 "ok@imt-mgt.com"
 ],
 "first": "2026-11-05",
-"last": "2026-11-13",
+"last": "2026-11-16",
 "links": {},
 "name": "",
 "off": 0,
@@ -18603,7 +18604,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 6,
+"total": 8,
 "vessels": [
 "Tanker"
 ],
@@ -24917,7 +24918,7 @@
 "midvolga.com": {
 "address": "",
 "city": "",
-"co": 20,
+"co": 21,
 "country": "",
 "emails": [
 "kuznetsova@midvolga.com"
@@ -24937,7 +24938,7 @@
 "@seamenjob"
 ],
 "telegram": [],
-"total": 24,
+"total": 25,
 "vessels": [
 "General cargo",
 "Tanker"
@@ -40479,7 +40480,7 @@
 "crew@ncplus.ru"
 ],
 "first": "2026-11-03",
-"last": "2026-11-13",
+"last": "2026-11-16",
 "links": {},
 "name": "",
 "off": 0,
@@ -40493,7 +40494,7 @@
 "@seamenjob"
 ],
 "telegram": [],
-"total": 13,
+"total": 14,
 "vessels": [
 "Reefer"
 ],
@@ -41360,16 +41361,16 @@
 "north-alliance.com": {
 "address": "",
 "city": "",
-"co": 20,
+"co": 22,
 "country": "",
 "emails": [
 "vacancy@north-alliance.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-13",
+"last": "2026-11-16",
 "links": {},
 "name": "",
-"off": 28,
+"off": 30,
 "offshore_hint": false,
 "phones": [],
 "so": 0,
@@ -41381,7 +41382,7 @@
 "@vesselsea"
 ],
 "telegram": [],
-"total": 93,
+"total": 100,
 "vessels": [
 "Offshore",
 "Passenger",
@@ -43618,6 +43619,35 @@
 "vessels": [],
 "website": "performar.ltd"
 },
+"personacrew.com": {
+"address": "",
+"city": "",
+"co": 1,
+"country": "",
+"emails": [
+"cv@personacrew.com"
+],
+"first": "2026-11-16",
+"last": "2026-11-16",
+"links": {},
+"name": "",
+"off": 0,
+"offshore_hint": false,
+"phones": [
+"+79181122371",
+"+79885722435"
+],
+"so": 1,
+"sources": [
+"@marinejobs"
+],
+"telegram": [],
+"total": 1,
+"vessels": [
+"Tanker"
+],
+"website": ""
+},
 "petrofac.com": {
 "address": "",
 "city": "",
@@ -45152,13 +45182,13 @@
 "rechmortrans.ru": {
 "address": "",
 "city": "",
-"co": 4,
+"co": 5,
 "country": "",
 "emails": [
 "okrmt@rechmortrans.ru"
 ],
 "first": "2026-11-03",
-"last": "2026-11-13",
+"last": "2026-11-16",
 "links": {},
 "name": "",
 "off": 0,
@@ -45170,7 +45200,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 25,
+"total": 27,
 "vessels": [
 "General cargo"
 ],
@@ -45537,7 +45567,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 31,
+"total": 33,
 "vessels": [
 "Bulk"
 ],
@@ -45865,7 +45895,7 @@
 "zalikovaaa@rusgeology.ru"
 ],
 "first": "2026-11-03",
-"last": "2026-11-13",
+"last": "2026-11-16",
 "links": {
 "crewell": "https://crewell.net/en/companies/59253/"
 },
@@ -45880,7 +45910,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 19,
+"total": 20,
 "vessels": [],
 "website": "rusgeology.ru"
 },
@@ -59101,26 +59131,26 @@
 "job_for_seaman": 17069,
 "jobfor_seamen": 12737,
 "marinecareerorg": 17765,
-"marinejobs": 43484,
+"marinejobs": 43485,
 "marinejobz": 194156,
 "marineman_ltd": 48394,
 "maritimeforum": 257539,
 "merchantNavyrealjob": 265,
-"morehod_ru": 31012,
+"morehod_ru": 31013,
 "oceancrewjobs": 32825,
 "offshoreatsea": 25324,
 "offshorecv": 1604,
 "offshorevacancies": 47275,
 "oilrigs": 778,
 "olive_crew": 2935,
-"onboard_su": 20781,
+"onboard_su": 20783,
 "pervoemorskoe": 4531,
-"rekamore_su": 165228,
+"rekamore_su": 165245,
 "roster_marine": 1743,
 "seajobfinder": 42439,
-"seamenjob": 106336,
+"seamenjob": 106338,
 "seamenvacancy": 1386,
-"seavacancies": 25250,
+"seavacancies": 25251,
 "shipjobsindia": 420,
 "shipscreweu": 16672,
 "sidantey": 399,

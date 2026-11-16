@@ -258,9 +258,10 @@
 "rank": "Chief Officer",
 "vessel": "Bulk carrier"
 },
-"new": true,
+"new": false,
 "repeat": false,
-"time": "2026-11-16T05:38:32.895921+00:00"
+"time": "2026-11-16T05:38:32.895921+00:00",
+"junior_dp": false
 },
 {
 "uk": "",
@@ -281,9 +282,10 @@
 "email": "crewing@ermakshipping.com",
 "company": "ermakshipping.com"
 },
-"new": true,
+"new": false,
 "repeat": false,
-"time": "2026-11-16T05:30:04+00:00"
+"time": "2026-11-16T05:30:04+00:00",
+"junior_dp": false
 },
 {
 "uk": "",
@@ -301,9 +303,10 @@
 "email": "e.davydenko@oteko.ru",
 "company": "oteko.ru"
 },
-"new": true,
+"new": false,
 "repeat": true,
-"time": "2026-11-16T05:34:02+00:00"
+"time": "2026-11-16T05:34:02+00:00",
+"junior_dp": false
 },
 {
 "uk": "",
@@ -322,9 +325,10 @@
 "email": "gavrilova_o@astonfleet.com",
 "company": "astonfleet.com"
 },
-"new": true,
+"new": false,
 "repeat": true,
-"time": "2026-11-16T05:36:07+00:00"
+"time": "2026-11-16T05:36:07+00:00",
+"junior_dp": false
 },
 {
 "uk": "",
@@ -343,22 +347,175 @@
 "email": "alteam@crew-alteam.com",
 "company": "crew-alteam.com"
 },
-"new": true,
+"new": false,
 "repeat": true,
-"time": "2026-11-16T05:38:02+00:00"
+"time": "2026-11-16T05:38:02+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "2nd Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/370014",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-16T06:28:07.507676+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Hiring for Crude Oil Tanker",
+"url": "https://t.me/marinejobs/43485",
+"source": "Telegram: @marinejobs",
+"found": [
+"chief officer",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-ad626fcd2bad4d56",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer / 3rd Officer",
+"vessel": "Crude oil tanker",
+"salary": "USD per month",
+"joining": "port",
+"contract": "4+2 months",
+"email": "cv@personacrew.com",
+"company": "personacrew.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-16T06:01:00+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Компания \"Речмортранс\" приглашает на работу:",
+"url": "https://t.me/rekamore_su/165230",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-5f4b1ad2a4e0de2d",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo",
+"email": "okrmt@rechmortrans.ru",
+"company": "rechmortrans.ru"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-16T05:40:09+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Компания  “Инмортерминал” приглашает на работу:",
+"url": "https://t.me/rekamore_su/165232",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-f2075f0a0ec16e58",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Tanker",
+"salary": "418 252 рублей на руки, 480 99…"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-16T05:42:08+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Компания “Северный Альянс” приглашает на работу:",
+"url": "https://t.me/rekamore_su/165241",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-537df7273f2c8ade",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Tug",
+"salary": "330 750 р. (на руки)",
+"joining": "СРОЧНАЯ (переход в Марокко)",
+"email": "vacancy@north-alliance.com",
+"company": "north-alliance.com"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-16T06:19:24+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Компания “Северный Альянс” приглашает на работу:",
+"url": "https://t.me/rekamore_su/165242",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-83e520fc16825e8a",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Tug",
+"salary": "396 900 р. (на руки)",
+"joining": "СРОЧНАЯ (Китай переход во Влад",
+"email": "vacancy@north-alliance.com",
+"company": "north-alliance.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-16T06:19:27+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "ООО «Балтийская Морская Компания» ведет набор специалистов в компанию \"RIX SHIPMANAGEMENT LTD\" (CYPRUS):",
+"url": "https://t.me/rekamore_su/165244",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-13c81967d96df0a7",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"salary": "7 600 евро",
+"contract": "4 месяца (+/- 1 месяц)",
+"email": "CREW@BALTICSS.COM",
+"company": "balticss.com"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-16T06:23:04+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-4849,
-4850,
-4851,
-4852,
-4853,
-4854,
-4855,
-4856
+4859,
+4860,
+4861,
+4862,
+4863,
+4864,
+4865,
+4866,
+4867
 ],
-"last_list": "2026-11-16T05:10:03.208073+00:00",
-"cleared_upto": 4848,
-"last_msg_id": 4856
+"last_list": "2026-11-16T06:29:49.074403+00:00",
+"cleared_upto": 4858,
+"last_msg_id": 4867
 }
