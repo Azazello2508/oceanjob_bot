@@ -14805,7 +14805,7 @@
 "crewell": "https://crewell.net/en/companies/59785/"
 },
 "name": "ERSG",
-"off": 25,
+"off": 27,
 "offshore_hint": false,
 "phones": [],
 "so": 0,
@@ -14822,7 +14822,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 32,
+"total": 34,
 "vessels": [
 "Offshore"
 ],
@@ -18513,11 +18513,13 @@
 "last": "2026-11-16",
 "links": {},
 "name": "",
-"off": 10,
+"off": 12,
 "offshore_hint": false,
 "phones": [],
 "so": 0,
 "sources": [
+"@CREW_ARIA",
+"@Offshore_Vacancies",
 "@OnlyOffshore",
 "@cvsenderseaman",
 "@gm_seaman_cv",
@@ -18527,8 +18529,8 @@
 "@shipscreweu"
 ],
 "telegram": [],
-"total": 12,
-"uk": 6,
+"total": 14,
+"uk": 8,
 "vessels": [
 "Offshore"
 ],
@@ -19917,11 +19919,13 @@
 "crewell": "https://crewell.net/en/companies/142172/"
 },
 "name": "Jawar Al Khaleej Maritime L.L.C",
-"off": 2,
+"off": 4,
 "offshore_hint": false,
 "phones": [],
 "so": 2,
 "sources": [
+"@CREW_ARIA",
+"@Offshore_Vacancies",
 "@OnlyOffshore",
 "@maritimeforum",
 "@seajobfinder",
@@ -19929,8 +19933,9 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 5,
+"total": 7,
 "vessels": [
+"Offshore",
 "Tanker"
 ],
 "website": "jak.net"
@@ -23551,7 +23556,7 @@
 "crewell": "https://crewell.net/en/companies/206611/"
 },
 "name": "Polaris Maritime Services Georgia LLC",
-"off": 40,
+"off": 42,
 "offshore_hint": false,
 "phones": [],
 "so": 1,
@@ -23570,7 +23575,7 @@
 "@shipscreweu"
 ],
 "telegram": [],
-"total": 45,
+"total": 47,
 "uk": 2,
 "vessels": [
 "Dredger",
@@ -36137,6 +36142,32 @@
 ],
 "website": ""
 },
+"name:u s maritime": {
+"address": "",
+"city": "",
+"co": 0,
+"country": "",
+"emails": [],
+"first": "2026-11-16",
+"last": "2026-11-16",
+"links": {},
+"name": "U.S. Maritime",
+"off": 1,
+"offshore_hint": false,
+"phones": [],
+"so": 0,
+"sources": [
+"@seamenjob"
+],
+"telegram": [],
+"total": 1,
+"vessels": [
+"Container",
+"Tanker",
+"Tug"
+],
+"website": ""
+},
 "name:uab baltnautic shipping offline lithuania member since: aug 2020 no active vacancies view profile": {
 "address": "",
 "city": "",
@@ -42603,7 +42634,7 @@
 "crewell": "https://crewell.net/en/companies/384531/"
 },
 "name": "Offshore Operations Limited",
-"off": 100,
+"off": 102,
 "offshore_hint": false,
 "phones": [
 "+380674264056"
@@ -42624,7 +42655,7 @@
 "@seamenjob"
 ],
 "telegram": [],
-"total": 100,
+"total": 102,
 "uk": 24,
 "vessels": [
 "Dredger",
@@ -59129,6 +59160,7 @@
 "ts agent grew": "tsagentcrew.kz",
 "tschudi ship management": "tschudishipmanagement.com",
 "tsd shipmanagement": "tsd-sm.com",
+"u s maritime": "name:u s maritime",
 "uab baltnautic shipping": "baltnautic.lt",
 "uab baltnautic shipping offline lithuania member since: aug 2020 no active vacancies view profile": "name:uab baltnautic shipping offline lithuania member since: aug 2020 no active vacancies view profile",
 "ucm 5 days ago russian federation member since: oct 2024 8 active vacancies view profile": "name:ucm 5 days ago russian federation member since: oct 2024 8 active vacancies view profile",
@@ -59562,12 +59594,12 @@
 "tg_hw": {
 "ALPHACREW": 3581,
 "BSMCSCUKRAINE": 4391,
-"CREW_ARIA": 14176,
+"CREW_ARIA": 14182,
 "Crew_Radar": 3456,
 "JobForMariners": 1208,
-"Merchant_Fleet": 649,
+"Merchant_Fleet": 650,
 "OffshoreFleetJob": 11081,
-"Offshore_Vacancies": 958,
+"Offshore_Vacancies": 964,
 "OnlyOffshore": 39078,
 "OnlyYacht": 2326,
 "SM_job_center": 2503,
@@ -59595,7 +59627,7 @@
 "marinejobs": 43556,
 "marinejobz": 194156,
 "marineman_ltd": 48404,
-"maritimeforum": 257800,
+"maritimeforum": 257810,
 "merchantNavyrealjob": 265,
 "morehod_ru": 31042,
 "oceancrewjobs": 32838,
@@ -59609,7 +59641,7 @@
 "rekamore_su": 165307,
 "roster_marine": 1743,
 "seajobfinder": 42507,
-"seamenjob": 106385,
+"seamenjob": 106386,
 "seamenvacancy": 1390,
 "seavacancies": 25257,
 "shipjobsindia": 420,
