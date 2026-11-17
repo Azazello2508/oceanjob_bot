@@ -1047,7 +1047,7 @@
 "country": "",
 "emails": [],
 "first": "2026-11-03",
-"last": "2026-11-11",
+"last": "2026-11-18",
 "links": {},
 "name": "",
 "off": 0,
@@ -1060,7 +1060,7 @@
 "telegram": [
 "@tankerjobatsea"
 ],
-"total": 5,
+"total": 6,
 "vessels": [
 "Chemical",
 "LPG/LNG",
@@ -5066,13 +5066,13 @@
 "areer@orca-crew.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-17",
+"last": "2026-11-18",
 "links": {
 "crewell": "https://crewell.net/en/companies/254338/",
 "ukrcrewing": "https://ukrcrewing.com.ua/en/agency/anglo_eastern"
 },
 "name": "Advanced Marine",
-"off": 84,
+"off": 87,
 "offshore_hint": false,
 "phones": [
 "+37168688362",
@@ -5095,7 +5095,7 @@
 "@marinejobs"
 ],
 "telegram": [],
-"total": 107,
+"total": 110,
 "uk": 15,
 "vessels": [
 "Bulk",
@@ -60052,7 +60052,7 @@
 "Merchant_Fleet": 651,
 "OffshoreFleetJob": 11081,
 "Offshore_Vacancies": 971,
-"OnlyOffshore": 39107,
+"OnlyOffshore": 39108,
 "OnlyYacht": 2326,
 "SM_job_center": 2508,
 "SeaSeaWorks": 3934,
@@ -60066,7 +60066,7 @@
 "crs_vacancies": 3575,
 "cruiseshipjobs": 8,
 "cvcrewcom": 12902,
-"cvsenderseaman": 16391,
+"cvsenderseaman": 16393,
 "ecrewing": 3214,
 "findseajobs": 32570,
 "galaxymaritimeua": 1250,
@@ -60076,7 +60076,7 @@
 "job_for_seaman": 17085,
 "jobfor_seamen": 12763,
 "marinecareerorg": 17767,
-"marinejobs": 43613,
+"marinejobs": 43614,
 "marinejobz": 194156,
 "marineman_ltd": 48412,
 "maritimeforum": 258061,
@@ -60092,7 +60092,7 @@
 "pervoemorskoe": 4537,
 "rekamore_su": 165418,
 "roster_marine": 1744,
-"seajobfinder": 42550,
+"seajobfinder": 42551,
 "seamenjob": 106435,
 "seamenvacancy": 1390,
 "seavacancies": 25264,
