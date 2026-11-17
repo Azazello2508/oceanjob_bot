@@ -14120,7 +14120,7 @@
 "sidorenkotv@eastmining.ru"
 ],
 "first": "2026-11-03",
-"last": "2026-11-16",
+"last": "2026-11-17",
 "links": {},
 "name": "ООО “Угольный морской порт Шахтерск”",
 "off": 0,
@@ -14135,7 +14135,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 15,
+"total": 16,
 "vessels": [
 "General cargo",
 "Tug"
@@ -18619,7 +18619,7 @@
 "crew@i-muromets.ru"
 ],
 "first": "2026-11-03",
-"last": "2026-11-16",
+"last": "2026-11-17",
 "links": {
 "crewell": "https://crewell.net/en/companies/302158/"
 },
@@ -18634,7 +18634,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 18,
+"total": 19,
 "vessels": [
 "Tanker"
 ],
@@ -21702,14 +21702,14 @@
 "legacymarine.ru": {
 "address": "",
 "city": "",
-"co": 20,
+"co": 21,
 "country": "",
 "emails": [
 "crew.cv@legacymarine.ru",
 "crew2@legacymarine.ru"
 ],
 "first": "2026-11-03",
-"last": "2026-11-16",
+"last": "2026-11-17",
 "links": {},
 "name": "ООО \"Легаси Марин\"",
 "off": 0,
@@ -21726,7 +21726,7 @@
 "@vesselsea"
 ],
 "telegram": [],
-"total": 30,
+"total": 31,
 "vessels": [
 "Tanker"
 ],
@@ -23952,7 +23952,7 @@
 "marpocrew.com.ua": {
 "address": "",
 "city": "",
-"co": 17,
+"co": 19,
 "country": "",
 "emails": [
 "crewing@marpocrew.com.ua",
@@ -23965,19 +23965,20 @@
 "info@offshorecrew.no"
 ],
 "first": "2026-11-03",
-"last": "2026-11-16",
+"last": "2026-11-17",
 "links": {},
 "name": "MARPO Crewing",
-"off": 87,
+"off": 89,
 "offshore_hint": false,
 "phones": [
 "+380500726878",
 "+380664626399",
+"+380668409237",
 "+380950884316",
 "+380970492949",
 "+380976111329",
-"+971542112471",
-"+97154212471"
+"+971509262282",
+"+971542112471"
 ],
 "so": 7,
 "sources": [
@@ -23995,7 +23996,7 @@
 "@shipscreweu"
 ],
 "telegram": [],
-"total": 94,
+"total": 96,
 "uk": 6,
 "vessels": [
 "Dredger",
@@ -42819,7 +42820,7 @@
 "crewell": "https://crewell.net/en/companies/296784/"
 },
 "name": "OJ Crew Poland",
-"off": 108,
+"off": 110,
 "offshore_hint": false,
 "phones": [],
 "so": 11,
@@ -42838,7 +42839,7 @@
 "@offshorecv"
 ],
 "telegram": [],
-"total": 172,
+"total": 176,
 "uk": 5,
 "vessels": [
 "Bulk",
@@ -44566,7 +44567,7 @@
 "info@polluks-star.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-16",
+"last": "2026-11-17",
 "links": {
 "crewell": "https://crewell.net/en/companies/161823/"
 },
@@ -44585,7 +44586,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 23,
+"total": 24,
 "vessels": [
 "General cargo"
 ],
@@ -47080,7 +47081,7 @@
 "vacancy@scf-group.ru"
 ],
 "first": "2026-11-03",
-"last": "2026-11-16",
+"last": "2026-11-17",
 "links": {
 "crewell": "https://crewell.net/en/companies/264003/"
 },
@@ -47099,7 +47100,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 25,
+"total": 26,
 "vessels": [
 "LPG/LNG",
 "Tanker"
@@ -52659,12 +52660,12 @@
 "ben.shaw@selectoffshore.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-16",
+"last": "2026-11-17",
 "links": {
 "crewell": "https://crewell.net/en/companies/194804/"
 },
 "name": "Transport & Offshore Services Ukraine",
-"off": 169,
+"off": 171,
 "offshore_hint": false,
 "phones": [
 "+380672802995"
@@ -52685,7 +52686,7 @@
 "@maritimeforum"
 ],
 "telegram": [],
-"total": 201,
+"total": 203,
 "uk": 8,
 "vessels": [
 "Bulk",
@@ -59638,16 +59639,16 @@
 "olive_crew": 2940,
 "onboard_su": 20791,
 "pervoemorskoe": 4532,
-"rekamore_su": 165307,
+"rekamore_su": 165312,
 "roster_marine": 1743,
-"seajobfinder": 42507,
-"seamenjob": 106386,
+"seajobfinder": 42511,
+"seamenjob": 106387,
 "seamenvacancy": 1390,
 "seavacancies": 25257,
 "shipjobsindia": 420,
-"shipscreweu": 16692,
+"shipscreweu": 16696,
 "sidantey": 399,
-"supermariner_ua": 3922,
+"supermariner_ua": 3923,
 "truemalina_offshore": 823,
 "ukrcrewing_official": 2386,
 "univis_crewing": 5029,
