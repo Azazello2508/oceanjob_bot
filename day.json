@@ -5643,31 +5643,301 @@
 "repeat": false,
 "time": "2026-11-17T18:21:12+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "2nd Officer — PSV DP2",
+"url": "https://seajobs.pro/jobs/2nd-officer-psv-dp2-7743de63-6e64-4091-83dd-b2b6c65c2afe",
+"source": "seajobs.pro",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "2nd Officer",
+"vessel": "PSV"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-17T19:25:30.321358+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer — PSV DP2",
+"url": "https://seajobs.pro/jobs/chief-officer-psv-dp2-2b4428a4-2b4d-4246-b153-4c53b2aa0cbd",
+"source": "seajobs.pro",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "PSV"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-17T19:25:30.514068+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Position: 2ND-OFFICER",
+"url": "https://t.me/maritimeforum/257954",
+"source": "Telegram: @maritimeforum",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-dcf2a9a83b5da229",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Container",
+"contract": "3–5 months",
+"salary": "3700 $",
+"email": "recruitment@nordic-hamburg.com",
+"company": "nordic-hamburg.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-17T18:55:22+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Open Position",
+"url": "https://t.me/maritimeforum/257967",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-4668490070fbf5cf",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Chemical tanker, Crude oil tanker",
+"salary": "Range (USD)",
+"joining": "End of November",
+"email": "olesia@desecrew.com",
+"company": "desecrew.com"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-17T18:56:41+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "2nd Officer",
+"url": "https://t.me/maritimeforum/257983",
+"source": "Telegram: @maritimeforum",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-857798141346e0ad",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Bulk carrier",
+"contract": "6 +/- 1",
+"email": "apply@olivecrew.com",
+"tg": "Svetlana_OliveCrew",
+"company": "olivecrew.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-17T18:58:18+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "URGENTLY!!!! We have multiple openings for Officers for VLCC for a reputable Greek company.",
+"url": "https://t.me/maritimeforum/257987",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer",
+"second officer"
+],
+"fp": "fp-d3f1b2594e58b639",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer",
+"vessel": "VLCC",
+"salary": "15.000 USD plus 1500 rejoining…",
+"joining": "as per your availability",
+"contract": "4 (+/-1) months",
+"email": "info@thalpis-crs.com",
+"company": "thalpis-crs.com"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-17T18:58:40+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "URGENTLY!!!! We have multiple openings for Officers for Suezmax tankers for a reputable Greek company.",
+"url": "https://t.me/maritimeforum/257988",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer",
+"second officer"
+],
+"fp": "fp-c882c7a37c30c5a3",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer",
+"vessel": "Suezmax",
+"salary": "14.500 USD plus 1500 rejoining…",
+"joining": "as per your availability",
+"contract": "4 (+/-1) months",
+"email": "info@thalpis-crs.com",
+"company": "thalpis-crs.com"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-17T18:58:47+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "URGENTLY!!!! We have multiple openings for Officers for Aframax tankers for a reputable Greek company.",
+"url": "https://t.me/maritimeforum/257989",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer",
+"second officer"
+],
+"fp": "fp-0a17e6e7dabf5f31",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer",
+"vessel": "Aframax",
+"salary": "14.500 USD plus 2000 rejoining…",
+"joining": "as per your availability",
+"contract": "4 (+/-1) months",
+"email": "info@thalpis-crs.com",
+"company": "thalpis-crs.com"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-17T18:58:54+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "URGENTLY!!!! We have multiple openings for  officers for bulk carriers (KAMSARMAX, PANAMAX, CAPE) for a reputable Greek company.",
+"url": "https://t.me/maritimeforum/257990",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer",
+"second officer"
+],
+"fp": "fp-081f892a10dc54a2",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer",
+"vessel": "Bulk carrier",
+"salary": "9.500- 10.000 USD/month + rb 7…",
+"joining": "as per your availability",
+"contract": "4 (+/-1) months",
+"email": "info@thalpis-crs.com",
+"company": "thalpis-crs.com"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-17T18:59:00+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://t.me/maritimeforum/258047",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-7ae71cbe60635b79",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Container",
+"contract": "4 months",
+"salary": "$7,900\n",
+"email": "ktship@ktship.ee",
+"company": "ktship.ee"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-17T19:18:56+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://t.me/maritimeforum/258048",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-ced02a6782f4ab70",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "LNG",
+"contract": "3 months",
+"salary": "$16,900\n",
+"email": "office@master-crewing.com",
+"company": "master-crewing.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-17T19:19:03+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Position publishing service was stopped for the night.",
+"url": "https://t.me/marinecareerorg/17767",
+"source": "Telegram: @marinecareerorg",
+"found": [
+"chief officer"
+],
+"fp": "fp-58fa875076c6de3f",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "VLCC, LNG"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-17T19:00:05+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-5364,
-5365,
-5366,
-5367,
-5368,
-5369,
-5370,
-5371,
-5372,
-5373,
-5374,
-5375,
-5376,
-5377,
-5378,
-5379,
-5380,
-5381,
-5382,
-5383
+5384,
+5385,
+5386,
+5387,
+5388,
+5389,
+5390,
+5391,
+5392,
+5393,
+5394,
+5395,
+5396,
+5397,
+5398,
+5399,
+5400,
+5401,
+5402,
+5403
 ],
-"last_list": "2026-11-17T18:36:28.490215+00:00",
-"cleared_upto": 5363,
-"last_msg_id": 5383
+"last_list": "2026-11-17T19:26:53.061977+00:00",
+"cleared_upto": 5383,
+"last_msg_id": 5403
 }
