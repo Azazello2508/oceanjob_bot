@@ -4061,31 +4061,252 @@
 "repeat": false,
 "time": "2026-11-17T12:12:32+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "2nd Officer on Oil tanker",
+"url": "https://crewell.net/en/vacancies/466585/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Tanker"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-17T13:03:10.800210+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "2nd Officer on Tug",
+"url": "https://crewell.net/en/vacancies/466588/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Tug"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-17T13:03:11.380498+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer on OSV",
+"url": "https://crewell.net/en/vacancies/466582/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "OSV"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-17T13:03:11.912435+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer on Crude oil tanker",
+"url": "https://crewell.net/en/vacancies/466596/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Crude oil tanker"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-17T13:03:12.444833+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer on Crude oil tanker",
+"url": "https://crewell.net/en/vacancies/466602/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Crude oil tanker"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-17T13:03:12.985245+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer on General Cargo Vessel",
+"url": "https://crewell.net/en/vacancies/466607/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-17T13:03:13.536256+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://seajobs.ru/ru/vacancy/18257/chief-officer-crude-oil-tanker",
+"source": "seajobs.ru",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Crude oil tanker"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-17T13:03:21.619447+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://seajobs.ru/ru/vacancy/18260/chief-officer-crude-oil-tanker",
+"source": "seajobs.ru",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Crude oil tanker"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-17T13:03:22.203333+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "URGENT VACANCIES | LNG CARRIER",
+"url": "https://t.me/maritimeforum/257866",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-f7cc382d79ee8b05",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "LNG",
+"salary": "$22,000–24,000/month",
+"joining": "November 2026"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-17T13:01:45+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "URGENT VACANCIES | LPG",
+"url": "https://t.me/maritimeforum/257867",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-6faea61103ada71a",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "LPG",
+"salary": "$8,000–9,000/month"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-17T13:02:07+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Компания “Северный Альянс” приглашает на работу:",
+"url": "https://t.me/rekamore_su/165408",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-ef3bb5881d7ce830",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "PSV, MPSV",
+"salary": "в море 99 750 р. / дома 99 750…",
+"joining": "20.11.2026, в Турции ожидается"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-17T12:34:15+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "CHIEF OFFICER",
+"url": "https://t.me/cvsenderseaman/16354",
+"source": "Telegram: @cvsenderseaman",
+"found": [
+"chief officer"
+],
+"fp": "fp-dfe32262589c5ef7",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "PSV, AHTS",
+"salary": "Negotiable",
+"joining": "ASAP",
+"email": "mitchell.fulker@selectoffshore.com",
+"company": "selectoffshore.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-17T12:36:33+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-5246,
-5247,
-5248,
-5249,
-5250,
-5251,
-5252,
-5253,
-5254,
-5255,
-5256,
-5257,
-5258,
-5259,
-5260,
-5261,
-5262,
-5263,
-5264,
-5265
+5266,
+5267,
+5268,
+5269,
+5270,
+5271,
+5272,
+5273,
+5274,
+5275,
+5276,
+5277,
+5278,
+5279,
+5280,
+5281,
+5282,
+5283,
+5284,
+5285
 ],
-"last_list": "2026-11-17T12:15:05.112864+00:00",
-"cleared_upto": 5245,
-"last_msg_id": 5265
+"last_list": "2026-11-17T13:04:33.750312+00:00",
+"cleared_upto": 5265,
+"last_msg_id": 5285
 }
