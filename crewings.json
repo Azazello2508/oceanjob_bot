@@ -9739,7 +9739,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 489,
+"total": 490,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -10596,30 +10596,34 @@
 "caspianmarineagency.com": {
 "address": "SABAIL REGION, RASUL RZA 27, KHAGANI GARDEN BAKU AZERBAIJAN",
 "city": "BAKU",
-"co": 0,
+"co": 1,
 "country": "Azerbaijan",
 "emails": [
-"crewing@caspianmarineagency.com"
+"crewing@caspianmarineagency.com",
+"serhii.ternovoi@caspianmarineagency.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-04",
+"last": "2026-11-17",
 "links": {
 "crewell": "https://crewell.net/en/companies/279626/"
 },
 "name": "Caspian Marine Agency LLC",
-"off": 0,
+"off": 1,
 "offshore_hint": false,
 "phones": [],
 "so": 0,
 "sources": [
 "@OnlyOffshore",
+"@cvsenderseaman",
 "@marinejobs",
 "@seajobfinder",
 "crewell.net"
 ],
 "telegram": [],
-"total": 3,
-"vessels": [],
+"total": 4,
+"vessels": [
+"Offshore"
+],
 "website": "caspianmarineagency.com"
 },
 "caspiaship.com": {
@@ -17242,7 +17246,7 @@
 "crewell": "https://crewell.net/en/companies/365375/"
 },
 "name": "SIA Gold Orion LTD",
-"off": 75,
+"off": 76,
 "offshore_hint": false,
 "phones": [],
 "so": 12,
@@ -17261,7 +17265,7 @@
 "@seajobfinder"
 ],
 "telegram": [],
-"total": 77,
+"total": 78,
 "vessels": [
 "Dredger",
 "Offshore",
@@ -42878,12 +42882,12 @@
 "fin.maguire@selectoffshore.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-16",
+"last": "2026-11-17",
 "links": {
 "crewell": "https://crewell.net/en/companies/384531/"
 },
 "name": "Offshore Operations Limited",
-"off": 102,
+"off": 103,
 "offshore_hint": false,
 "phones": [
 "+380674264056"
@@ -42904,7 +42908,7 @@
 "@seamenjob"
 ],
 "telegram": [],
-"total": 102,
+"total": 103,
 "uk": 24,
 "vessels": [
 "Dredger",
@@ -43505,7 +43509,7 @@
 "info@orions-group.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-11",
+"last": "2026-11-17",
 "links": {
 "crewell": "https://crewell.net/en/companies/290552/"
 },
@@ -43520,7 +43524,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 11,
+"total": 12,
 "vessels": [
 "Bulk",
 "LPG/LNG",
@@ -46614,7 +46618,7 @@
 "crewell": "https://crewell.net/en/companies/265326/"
 },
 "name": "Ryan Ship Management Pvt. Ltd",
-"off": 131,
+"off": 132,
 "offshore_hint": true,
 "phones": [
 "+40750898682",
@@ -46639,7 +46643,7 @@
 "@shipscreweu"
 ],
 "telegram": [],
-"total": 140,
+"total": 141,
 "uk": 2,
 "vessels": [
 "Bulk",
@@ -48450,7 +48454,7 @@
 "last": "2026-11-17",
 "links": {},
 "name": "",
-"off": 43,
+"off": 44,
 "offshore_hint": false,
 "phones": [],
 "so": 1,
@@ -48468,7 +48472,7 @@
 "@shipscreweu"
 ],
 "telegram": [],
-"total": 52,
+"total": 53,
 "uk": 32,
 "vessels": [
 "Dredger",
@@ -52997,7 +53001,7 @@
 "tospeople.com": {
 "address": "33 B, SHEVCHENKO AVE., OFF, 6, ODESSA, UA",
 "city": "ODESSA",
-"co": 58,
+"co": 59,
 "country": "Ukraine",
 "emails": [
 "a.gulabyan@tospeople.com",
@@ -53015,12 +53019,12 @@
 "crewell": "https://crewell.net/en/companies/194804/"
 },
 "name": "Transport & Offshore Services Ukraine",
-"off": 195,
+"off": 196,
 "offshore_hint": false,
 "phones": [
 "+380672802995"
 ],
-"so": 34,
+"so": 35,
 "sources": [
 "@OffshoreFleetJob",
 "@Offshore_Vacancies",
@@ -53036,7 +53040,7 @@
 "@maritimeforum"
 ],
 "telegram": [],
-"total": 229,
+"total": 230,
 "uk": 10,
 "vessels": [
 "Bulk",
@@ -60026,7 +60030,7 @@
 "crs_vacancies": 3575,
 "cruiseshipjobs": 8,
 "cvcrewcom": 12902,
-"cvsenderseaman": 16384,
+"cvsenderseaman": 16391,
 "ecrewing": 3214,
 "findseajobs": 32570,
 "galaxymaritimeua": 1250,
@@ -60036,7 +60040,7 @@
 "job_for_seaman": 17085,
 "jobfor_seamen": 12763,
 "marinecareerorg": 17766,
-"marinejobs": 43612,
+"marinejobs": 43613,
 "marinejobz": 194156,
 "marineman_ltd": 48412,
 "maritimeforum": 257881,
@@ -60045,7 +60049,7 @@
 "oceancrewjobs": 32861,
 "offshoreatsea": 25338,
 "offshorecv": 1612,
-"offshorevacancies": 47330,
+"offshorevacancies": 47333,
 "oilrigs": 778,
 "olive_crew": 2943,
 "onboard_su": 20801,

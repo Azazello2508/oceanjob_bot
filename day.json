@@ -4577,7 +4577,7 @@
 "info": {
 "rank": "Chief Officer"
 },
-"new": true,
+"new": false,
 "repeat": false,
 "time": "2026-11-17T14:22:23.392191+00:00",
 "junior_dp": false
@@ -4593,7 +4593,7 @@
 "info": {
 "vessel": "Aframax"
 },
-"new": true,
+"new": false,
 "repeat": false,
 "time": "2026-11-17T14:23:27.485083+00:00",
 "junior_dp": false
@@ -4610,7 +4610,7 @@
 "rank": "Chief Officer",
 "vessel": "LPG"
 },
-"new": true,
+"new": false,
 "repeat": false,
 "time": "2026-11-17T14:23:28.370494+00:00",
 "junior_dp": false
@@ -4634,7 +4634,7 @@
 "email": "o.temireva@tospeople.com",
 "company": "tospeople.com"
 },
-"new": true,
+"new": false,
 "repeat": false,
 "time": "2026-11-17T14:06:03+00:00",
 "junior_dp": false
@@ -4659,7 +4659,7 @@
 "email": "cv@tsmexp.com",
 "company": "tsmexp.com"
 },
-"new": true,
+"new": false,
 "repeat": false,
 "time": "2026-11-17T14:04:18+00:00",
 "junior_dp": false
@@ -4684,7 +4684,7 @@
 "email": "forcv@eurocrew-ua.com",
 "company": "eurocrew-ua.com"
 },
-"new": true,
+"new": false,
 "repeat": true,
 "time": "2026-11-17T14:03:56+00:00",
 "junior_dp": false
@@ -4709,7 +4709,7 @@
 "email": "forcv@eurocrew-ua.com",
 "company": "eurocrew-ua.com"
 },
-"new": true,
+"new": false,
 "repeat": true,
 "time": "2026-11-17T14:04:27+00:00",
 "junior_dp": false
@@ -4731,7 +4731,7 @@
 "vessel": "Chemical tanker, Bulk carrier",
 "company": "https://oceancrew.org/vacancies/mer…"
 },
-"new": true,
+"new": false,
 "repeat": false,
 "time": "2026-11-17T13:57:56+00:00",
 "junior_dp": false
@@ -4753,7 +4753,7 @@
 "vessel": "PSV, AHTS",
 "company": "NEED SET CREW ONBOARD OSV"
 },
-"new": true,
+"new": false,
 "repeat": false,
 "time": "2026-11-17T13:58:02+00:00",
 "junior_dp": false
@@ -4770,7 +4770,7 @@
 "rank": "2nd Officer",
 "vessel": "Product tanker"
 },
-"new": true,
+"new": false,
 "repeat": false,
 "time": "2026-11-17T15:12:37.393200+00:00",
 "junior_dp": false
@@ -4786,7 +4786,7 @@
 "info": {
 "rank": "2nd Officer"
 },
-"new": true,
+"new": false,
 "repeat": false,
 "time": "2026-11-17T15:12:40.122387+00:00",
 "junior_dp": false
@@ -4802,7 +4802,7 @@
 "info": {
 "rank": "Chief Officer"
 },
-"new": true,
+"new": false,
 "repeat": false,
 "time": "2026-11-17T15:12:41.509336+00:00",
 "junior_dp": false
@@ -4819,7 +4819,7 @@
 "rank": "2nd Officer",
 "vessel": "LNG"
 },
-"new": true,
+"new": false,
 "repeat": false,
 "time": "2026-11-17T15:13:46.629001+00:00",
 "junior_dp": false
@@ -4843,7 +4843,7 @@
 "email": "cv@ariesnav.com",
 "company": "ariesnav.com"
 },
-"new": true,
+"new": false,
 "repeat": false,
 "time": "2026-11-17T14:48:54+00:00",
 "junior_dp": false
@@ -4864,7 +4864,7 @@
 "joining": "+ 8/8 OFFSHORE ROTATION",
 "contract": "🚢"
 },
-"new": true,
+"new": false,
 "repeat": false,
 "time": "2026-11-17T15:08:47+00:00",
 "junior_dp": false
@@ -4885,7 +4885,7 @@
 "email": "greg.livermore@seamariner.com",
 "company": "seamariner.com"
 },
-"new": true,
+"new": false,
 "repeat": false,
 "time": "2026-11-17T15:09:07+00:00",
 "junior_dp": false
@@ -4908,7 +4908,7 @@
 "email": "j.rudomyotova@marineman.eu",
 "company": "marineman.eu"
 },
-"new": true,
+"new": false,
 "repeat": false,
 "time": "2026-11-17T15:08:03+00:00",
 "junior_dp": false
@@ -4930,7 +4930,7 @@
 "email": "Haidee.HR@silvercrews.com",
 "company": "silvercrews.com"
 },
-"new": true,
+"new": false,
 "repeat": false,
 "time": "2026-11-17T15:00:40+00:00",
 "junior_dp": false
@@ -4953,7 +4953,7 @@
 "email": "forcv@csm-ua.com",
 "company": "csm-ua.com"
 },
-"new": true,
+"new": false,
 "repeat": true,
 "time": "2026-11-17T15:11:44+00:00",
 "junior_dp": false
@@ -4969,7 +4969,7 @@
 "info": {
 "rank": "Chief Officer / AB"
 },
-"new": true,
+"new": false,
 "repeat": false,
 "time": "2026-11-17T14:38:44+00:00",
 "junior_dp": false
@@ -4994,7 +4994,7 @@
 "email": "Y.Shabatura@tospeople.com",
 "company": "tospeople.com"
 },
-"new": true,
+"new": false,
 "repeat": false,
 "time": "2026-11-17T15:02:58+00:00",
 "junior_dp": false
@@ -5011,7 +5011,7 @@
 "rank": "2nd Officer",
 "vessel": "Bulk carrier"
 },
-"new": true,
+"new": false,
 "repeat": false,
 "time": "2026-11-17T16:02:54.790605+00:00",
 "junior_dp": false
@@ -5028,7 +5028,7 @@
 "rank": "Chief Officer",
 "vessel": "General cargo"
 },
-"new": true,
+"new": false,
 "repeat": false,
 "time": "2026-11-17T16:02:55.678383+00:00",
 "junior_dp": false
@@ -5045,7 +5045,7 @@
 "rank": "Chief Officer",
 "vessel": "General cargo"
 },
-"new": true,
+"new": false,
 "repeat": false,
 "time": "2026-11-17T16:02:56.787800+00:00",
 "junior_dp": false
@@ -5061,7 +5061,7 @@
 "info": {
 "rank": "2nd Officer"
 },
-"new": true,
+"new": false,
 "repeat": false,
 "time": "2026-11-17T16:02:59.487303+00:00",
 "junior_dp": false
@@ -5083,7 +5083,7 @@
 "email": "info@staff-service-expert.com",
 "company": "staff-service-expert.com"
 },
-"new": true,
+"new": false,
 "repeat": false,
 "time": "2026-11-17T15:16:44+00:00",
 "junior_dp": false
@@ -5107,7 +5107,7 @@
 "email": "cv@ariesnav.com",
 "company": "ariesnav.com"
 },
-"new": true,
+"new": false,
 "repeat": false,
 "time": "2026-11-17T15:42:34+00:00",
 "junior_dp": false
@@ -5132,7 +5132,7 @@
 "email": "ulysses.crew.agency@gmail.com",
 "company": "needed for a bulk carrier — Greek o…"
 },
-"new": true,
+"new": false,
 "repeat": false,
 "time": "2026-11-17T15:13:49+00:00",
 "junior_dp": false
@@ -5155,7 +5155,7 @@
 "email": "forcv@csm-ua.com",
 "company": "csm-ua.com"
 },
-"new": true,
+"new": false,
 "repeat": false,
 "time": "2026-11-17T15:31:34+00:00",
 "junior_dp": false
@@ -5181,7 +5181,7 @@
 "email": "cv@allcrew.net",
 "company": "allcrew.net"
 },
-"new": true,
+"new": false,
 "repeat": false,
 "time": "2026-11-17T15:46:40+00:00",
 "junior_dp": false
@@ -5202,7 +5202,7 @@
 "joining": "В   КОНЦЕ  НОЯБРЯ",
 "salary": "$15000\n"
 },
-"new": true,
+"new": false,
 "repeat": true,
 "time": "2026-11-17T15:20:06+00:00",
 "junior_dp": false
@@ -5224,7 +5224,7 @@
 "contract": "S  2+1",
 "salary": "$9000\n2"
 },
-"new": true,
+"new": false,
 "repeat": true,
 "time": "2026-11-17T15:21:09+00:00",
 "junior_dp": false
@@ -5246,7 +5246,7 @@
 "joining": "В  КОНЦЕ НОЯБРЯ / НАЧАЛЕ ДЕКАБ",
 "salary": "€ 7000\n"
 },
-"new": true,
+"new": false,
 "repeat": true,
 "time": "2026-11-17T15:21:14+00:00",
 "junior_dp": false
@@ -5266,7 +5266,7 @@
 "rank": "Chief Officer / 2nd Officer / 3rd Officer",
 "vessel": "LNG, Chemical tanker"
 },
-"new": true,
+"new": false,
 "repeat": false,
 "time": "2026-11-17T16:00:03+00:00",
 "junior_dp": false
@@ -5288,7 +5288,7 @@
 "joining": "ASAP",
 "contract": "Permanent"
 },
-"new": true,
+"new": false,
 "repeat": false,
 "time": "2026-11-17T15:52:27+00:00",
 "junior_dp": false
@@ -5306,7 +5306,7 @@
 "info": {
 "rank": "Chief Officer"
 },
-"new": true,
+"new": false,
 "repeat": true,
 "time": "2026-11-17T16:03:01+00:00",
 "junior_dp": false
@@ -5325,7 +5325,7 @@
 "salary": "8500 EUR / month",
 "joining": "December 2026"
 },
-"new": true,
+"new": false,
 "repeat": false,
 "time": "2026-11-17T15:26:33+00:00",
 "junior_dp": false
@@ -5346,7 +5346,7 @@
 "email": "recruitment@seaway-international.com",
 "company": "seaway-international.com"
 },
-"new": true,
+"new": false,
 "repeat": false,
 "time": "2026-11-17T15:26:34+00:00",
 "junior_dp": false
@@ -5370,7 +5370,7 @@
 "email": "cv@navicrew.ro",
 "company": "navicrew.ro"
 },
-"new": true,
+"new": false,
 "repeat": false,
 "time": "2026-11-17T15:50:33+00:00",
 "junior_dp": false
@@ -5391,35 +5391,129 @@
 "joining": "22 Nov",
 "salary": "$11,500-12,000"
 },
-"new": true,
+"new": false,
 "repeat": false,
 "time": "2026-11-17T16:03:04+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "https://jobatsea.online/job/625938/chief-officer-for-a-psv-dp-2-vessel-at-tos-energy-maritime-crew/",
+"url": "https://t.me/offshorevacancies/47331",
+"source": "Telegram: @offshorevacancies",
+"found": [
+"chief officer"
+],
+"fp": "fp-2727bd3d6cad4cfb",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "PSV",
+"company": "https://jobatsea.online/job/625938/…"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-17T16:09:29+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "MASTER",
+"url": "https://t.me/cvsenderseaman/16387",
+"source": "Telegram: @cvsenderseaman",
+"found": [
+"chief mate",
+"sdpo",
+"dpo"
+],
+"fp": "fp-c9b4f4460d72e856",
+"offshore": true,
+"info": {
+"rank": "Chief Officer / SDPO",
+"vessel": "PSV, AHTS",
+"salary": "USD 375–425/day",
+"joining": "ASAP",
+"contract": "3 months",
+"email": "serhii.ternovoi@caspianmarineagency.com",
+"company": "caspianmarineagency.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-17T16:22:33+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "THIRD OFFICER",
+"url": "https://t.me/cvsenderseaman/16389",
+"source": "Telegram: @cvsenderseaman",
+"found": [],
+"fp": "fp-b22c6882df06d294",
+"offshore": true,
+"info": {
+"rank": "3rd Officer",
+"salary": "276 GBP / day",
+"joining": "ASAP",
+"contract": "09/12 till 30/01",
+"email": "greg.livermore@seamariner.com",
+"company": "seamariner.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-17T16:38:33+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "MASTER, DPO, CHIEF OFFICER, SECOND OFFICER …",
+"url": "https://t.me/cvsenderseaman/16390",
+"source": "Telegram: @cvsenderseaman",
+"found": [
+"chief officer",
+"second officer",
+"sdpo",
+"dpo"
+],
+"fp": "fp-b93d2d7a539c87a6",
+"offshore": true,
+"info": {
+"rank": "Chief Officer / 2nd Officer / SDPO",
+"vessel": "PSV",
+"salary": "Negotiable",
+"joining": "05/12/2026",
+"contract": "2 months on / 2 months of",
+"email": "a.gulabyan@tospeople.com",
+"company": "tospeople.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-17T16:46:33+00:00",
 "junior_dp": false
 }
 ],
 "msg_ids": [
-5286,
-5287,
-5288,
-5289,
-5290,
-5291,
-5292,
-5293,
-5294,
-5295,
-5296,
-5297,
-5298,
-5299,
-5300,
-5301,
-5302,
-5303,
-5304,
-5305
+5324,
+5325,
+5326,
+5327,
+5328,
+5329,
+5330,
+5331,
+5332,
+5333,
+5334,
+5335,
+5336,
+5337,
+5338,
+5339,
+5340,
+5341,
+5342,
+5343
 ],
-"last_list": "2026-11-17T13:54:03.780840+00:00",
-"cleared_upto": 5285,
-"last_msg_id": 5323
+"last_list": "2026-11-17T16:55:35.078267+00:00",
+"cleared_upto": 5323,
+"last_msg_id": 5343
 }
