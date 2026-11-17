@@ -652,10 +652,10 @@
 "last": "2026-11-17",
 "links": {},
 "name": "",
-"off": 16,
+"off": 17,
 "offshore_hint": false,
 "phones": [],
-"so": 2,
+"so": 3,
 "sources": [
 "@truemalina_offshore"
 ],
@@ -665,7 +665,7 @@
 "@Sea_Helper",
 "@starlinkForSeamen"
 ],
-"total": 17,
+"total": 18,
 "uk": 2,
 "vessels": [
 "General cargo",
@@ -51580,7 +51580,7 @@
 "last": "2026-11-17",
 "links": {},
 "name": "ROMANIA SRL",
-"off": 25,
+"off": 27,
 "offshore_hint": false,
 "phones": [
 "+48502399288",
@@ -51602,7 +51602,7 @@
 "@seajobfinder"
 ],
 "telegram": [],
-"total": 38,
+"total": 40,
 "vessels": [
 "Offshore",
 "Reefer",
@@ -60046,12 +60046,12 @@
 "tg_hw": {
 "ALPHACREW": 3582,
 "BSMCSCUKRAINE": 4404,
-"CREW_ARIA": 14192,
+"CREW_ARIA": 14193,
 "Crew_Radar": 3475,
 "JobForMariners": 1209,
 "Merchant_Fleet": 651,
 "OffshoreFleetJob": 11081,
-"Offshore_Vacancies": 970,
+"Offshore_Vacancies": 971,
 "OnlyOffshore": 39107,
 "OnlyYacht": 2326,
 "SM_job_center": 2508,
@@ -60082,7 +60082,7 @@
 "maritimeforum": 258061,
 "merchantNavyrealjob": 265,
 "morehod_ru": 31075,
-"oceancrewjobs": 32861,
+"oceancrewjobs": 32866,
 "offshoreatsea": 25338,
 "offshorecv": 1614,
 "offshorevacancies": 47336,
@@ -60100,7 +60100,7 @@
 "shipscreweu": 16709,
 "sidantey": 399,
 "supermariner_ua": 3926,
-"truemalina_offshore": 825,
+"truemalina_offshore": 826,
 "ukrcrewing_official": 2387,
 "univis_crewing": 5029,
 "vesselsea": 3145,

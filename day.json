@@ -5913,6 +5913,81 @@
 "repeat": false,
 "time": "2026-11-17T19:00:05+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "2nd Officer on Oil tanker",
+"url": "https://crewell.net/en/vacancies/466657/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Tanker"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-17T19:51:13.807475+00:00"
+},
+{
+"uk": "",
+"title": "Братва, поймал себя на том, что стал тупо «крюинг на диване» А всё почему? Потому что мне не хватает времени вести контент так, как раньше. Чтобы делать обучающ…",
+"url": "https://t.me/truemalina_offshore/826",
+"source": "Telegram: @truemalina_offshore",
+"found": [
+"second officer",
+"dp basic"
+],
+"fp": "fp-bfe46c87f4788bb1",
+"offshore": true,
+"info": {
+"rank": "2nd Officer / DP Basic/Induction",
+"tg": "Malynovsky_Andriy"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-17T19:36:39+00:00"
+},
+{
+"uk": "",
+"title": "Open Positions for General Cargo Vessel",
+"url": "https://t.me/oceancrewjobs/32862",
+"source": "Telegram: @oceancrewjobs",
+"found": [
+"chief officer",
+"second officer"
+],
+"fp": "fp-faa2baa3785087eb",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer / 3rd Officer",
+"vessel": "General cargo",
+"company": "https://oceancrew.org/vacancies/mer…"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-17T19:38:19+00:00"
+},
+{
+"uk": "",
+"title": "Positions for Self-Propelled Barge",
+"url": "https://t.me/oceancrewjobs/32866",
+"source": "Telegram: @oceancrewjobs",
+"found": [
+"chief officer",
+"second officer"
+],
+"fp": "fp-c496a2c47134805b",
+"offshore": true,
+"info": {
+"rank": "Chief Officer / 2nd Officer / 3rd Officer",
+"vessel": "Barge",
+"company": "https://oceancrew.org/vacancies/off…"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-17T19:39:50+00:00"
 }
 ],
 "msg_ids": [
