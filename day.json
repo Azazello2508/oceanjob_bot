@@ -4579,7 +4579,8 @@
 },
 "new": true,
 "repeat": false,
-"time": "2026-11-17T14:22:23.392191+00:00"
+"time": "2026-11-17T14:22:23.392191+00:00",
+"junior_dp": false
 },
 {
 "uk": "",
@@ -4594,7 +4595,8 @@
 },
 "new": true,
 "repeat": false,
-"time": "2026-11-17T14:23:27.485083+00:00"
+"time": "2026-11-17T14:23:27.485083+00:00",
+"junior_dp": false
 },
 {
 "uk": "",
@@ -4610,7 +4612,8 @@
 },
 "new": true,
 "repeat": false,
-"time": "2026-11-17T14:23:28.370494+00:00"
+"time": "2026-11-17T14:23:28.370494+00:00",
+"junior_dp": false
 },
 {
 "uk": "",
@@ -4633,7 +4636,8 @@
 },
 "new": true,
 "repeat": false,
-"time": "2026-11-17T14:06:03+00:00"
+"time": "2026-11-17T14:06:03+00:00",
+"junior_dp": false
 },
 {
 "uk": "",
@@ -4657,7 +4661,8 @@
 },
 "new": true,
 "repeat": false,
-"time": "2026-11-17T14:04:18+00:00"
+"time": "2026-11-17T14:04:18+00:00",
+"junior_dp": false
 },
 {
 "uk": "",
@@ -4681,7 +4686,8 @@
 },
 "new": true,
 "repeat": true,
-"time": "2026-11-17T14:03:56+00:00"
+"time": "2026-11-17T14:03:56+00:00",
+"junior_dp": false
 },
 {
 "uk": "",
@@ -4705,7 +4711,8 @@
 },
 "new": true,
 "repeat": true,
-"time": "2026-11-17T14:04:27+00:00"
+"time": "2026-11-17T14:04:27+00:00",
+"junior_dp": false
 },
 {
 "uk": "",
@@ -4726,7 +4733,8 @@
 },
 "new": true,
 "repeat": false,
-"time": "2026-11-17T13:57:56+00:00"
+"time": "2026-11-17T13:57:56+00:00",
+"junior_dp": false
 },
 {
 "uk": "",
@@ -4747,7 +4755,249 @@
 },
 "new": true,
 "repeat": false,
-"time": "2026-11-17T13:58:02+00:00"
+"time": "2026-11-17T13:58:02+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "2nd Officer on Product tanker",
+"url": "https://crewell.net/en/vacancies/466623/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Product tanker"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-17T15:12:37.393200+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "2nd Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/370300",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-17T15:12:40.122387+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/370303",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-17T15:12:41.509336+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "2/O & 3/E FOR LNG CARRIERS",
+"url": "https://www.ainostri.ro/oferte/maritim/2-o-and-3-e-for-lng-carriers-14311",
+"source": "ainostri.ro",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "LNG"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-17T15:13:46.629001+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "OPEN POSITIONS:",
+"url": "https://t.me/maritimeforum/257877",
+"source": "Telegram: @maritimeforum",
+"found": [
+"2/o"
+],
+"fp": "fp-9496b030e645de5c",
+"offshore": false,
+"info": {
+"rank": "2nd Officer / AB",
+"vessel": "Product tanker",
+"joining": "ASAP",
+"contract": "4 Month(s)",
+"salary": "4,200 USD",
+"email": "cv@ariesnav.com",
+"company": "ariesnav.com"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-17T14:48:54+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "LNG DFDE & DSV DP3 JOBS | EARLY DECEMBER LNG JOINING + 8/8 OFFSHORE ROTATION",
+"url": "https://t.me/seajobfinder/42547",
+"source": "Telegram: @seajobfinder",
+"found": [
+"chief officer"
+],
+"fp": "fp-9c139cdc92fc0c26",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "LNG, DSV",
+"joining": "+ 8/8 OFFSHORE ROTATION",
+"contract": "🚢"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-17T15:08:47+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Position:",
+"url": "https://t.me/CREW_ARIA/14191",
+"source": "Telegram: @CREW_ARIA",
+"found": [],
+"fp": "fp-d6e35f34e218680e",
+"offshore": true,
+"info": {
+"rank": "3rd Officer",
+"salary": "GBP 276day",
+"joining": "9 December 2026",
+"contract": "Until 30 January 2027",
+"email": "greg.livermore@seamariner.com",
+"company": "seamariner.com"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-17T15:09:07+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Fresh maritime vacancies now available for qualified seafarers!",
+"url": "https://t.me/marinejobs/43595",
+"source": "Telegram: @marinejobs",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-1256c0834d01ecca",
+"offshore": false,
+"info": {
+"rank": "2nd Officer / 3rd Officer / AB",
+"vessel": "Product tanker, Bulk carrier",
+"salary": "$3,650/month",
+"email": "j.rudomyotova@marineman.eu",
+"company": "marineman.eu"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-17T15:08:03+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "CHIEF OFFICER (ROTA) – M/Y 100M+",
+"url": "https://t.me/seamenjob/106429",
+"source": "Telegram: @seamenjob",
+"found": [
+"chief officer"
+],
+"fp": "fp-522217f6213ac5c8",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"salary": "package and an equal rotation,…",
+"contract": "providing an excellent",
+"email": "Haidee.HR@silvercrews.com",
+"company": "silvercrews.com"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-17T15:00:40+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "OPEN POSITION in COLUMBIA Shipmanagement Ukraine:",
+"url": "https://t.me/seamenjob/106432",
+"source": "Telegram: @seamenjob",
+"found": [
+"chief officer"
+],
+"fp": "fp-787557a211b6cf1a",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Crude oil tanker",
+"joining": "30.11.2026",
+"contract": "4 months",
+"email": "forcv@csm-ua.com",
+"company": "csm-ua.com"
+},
+"new": true,
+"repeat": true,
+"time": "2026-11-17T15:11:44+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "https://jobatsea.online/job/625948/captainco2oabs-bosun-oilers-ce2e-3e-eto-welders-cro-with-us-b-1-visa-urgently-needed-at-petrolog-limited/",
+"url": "https://t.me/offshorevacancies/47326",
+"source": "Telegram: @offshorevacancies",
+"found": [],
+"fp": "fp-6eba3278c549aae8",
+"offshore": true,
+"info": {
+"rank": "Chief Officer / AB"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-17T14:38:44+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "WE ARE HIRING – C/E & 2/E!",
+"url": "https://t.me/gm_seaman_cv/2732",
+"source": "Telegram: @gm_seaman_cv",
+"found": [
+"ch/off",
+"ch/off"
+],
+"fp": "fp-2e78da80c7fa916b",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "AHTS",
+"salary": "5000 EUR",
+"joining": "Beginning of December",
+"contract": "2 months ON / 2 months OF",
+"email": "Y.Shabatura@tospeople.com",
+"company": "tospeople.com"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-17T15:02:58+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
