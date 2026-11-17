@@ -1250,10 +1250,10 @@
 "mavolzhan@aari.ru"
 ],
 "first": "2026-11-03",
-"last": "2026-11-06",
+"last": "2026-11-17",
 "links": {},
 "name": "",
-"off": 1,
+"off": 2,
 "offshore_hint": false,
 "phones": [
 "+78122401230",
@@ -1265,7 +1265,7 @@
 "@seamenjob"
 ],
 "telegram": [],
-"total": 13,
+"total": 14,
 "vessels": [
 "Reefer"
 ],
@@ -2258,7 +2258,7 @@
 "crewing@afalina-crew.ru"
 ],
 "first": "2026-11-03",
-"last": "2026-11-10",
+"last": "2026-11-17",
 "links": {
 "crewell": "https://crewell.net/en/companies/8354/",
 "ukrcrewing": "https://ukrcrewing.com.ua/en/agency/afalina_spb"
@@ -2279,7 +2279,7 @@
 "ukrcrewing.com.ua"
 ],
 "telegram": [],
-"total": 6,
+"total": 8,
 "vessels": [
 "Reefer"
 ],
@@ -6584,13 +6584,13 @@
 "ashipping.ru": {
 "address": "",
 "city": "",
-"co": 24,
+"co": 27,
 "country": "",
 "emails": [
 "rabota@ashipping.ru"
 ],
 "first": "2026-11-03",
-"last": "2026-11-16",
+"last": "2026-11-17",
 "links": {},
 "name": "ООО “ТК Северный проект”",
 "off": 0,
@@ -6598,11 +6598,13 @@
 "phones": [],
 "so": 0,
 "sources": [
+"@marinejobs",
 "@morehod_ru",
-"@rekamore_su"
+"@rekamore_su",
+"@seamenjob"
 ],
 "telegram": [],
-"total": 34,
+"total": 37,
 "vessels": [
 "General cargo",
 "Tanker"
@@ -8064,6 +8066,30 @@
 ],
 "website": ""
 },
+"aztf.ru": {
+"address": "",
+"city": "",
+"co": 0,
+"country": "",
+"emails": [
+"crew@aztf.ru"
+],
+"first": "2026-11-17",
+"last": "2026-11-17",
+"links": {},
+"name": "ООО “Азовторгфлот”",
+"off": 0,
+"offshore_hint": false,
+"phones": [],
+"so": 0,
+"sources": [
+"@rekamore_su"
+],
+"telegram": [],
+"total": 1,
+"vessels": [],
+"website": ""
+},
 "bahri.sa": {
 "address": "One JLT, Level 10 Jumeirah Lakes Towers",
 "city": "Dubai",
@@ -8257,14 +8283,14 @@
 "balticss.com": {
 "address": "Pobeda sq. 4? office 18",
 "city": "Kaliningrad",
-"co": 17,
+"co": 18,
 "country": "Russia",
 "emails": [
 "crew@balticss.com",
 "info@balticss.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-16",
+"last": "2026-11-17",
 "links": {
 "crewell": "https://crewell.net/en/companies/262841/"
 },
@@ -8281,7 +8307,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 31,
+"total": 33,
 "vessels": [
 "Bulk"
 ],
@@ -10439,7 +10465,7 @@
 "caspiancrew@yandex.ru"
 ],
 "first": "2026-11-03",
-"last": "2026-11-16",
+"last": "2026-11-17",
 "links": {},
 "name": "",
 "off": 0,
@@ -10452,7 +10478,7 @@
 "@onboard_su"
 ],
 "telegram": [],
-"total": 9,
+"total": 10,
 "vessels": [
 "General cargo"
 ],
@@ -13497,7 +13523,7 @@
 "ok@dilmas.ru"
 ],
 "first": "2026-11-03",
-"last": "2026-11-03",
+"last": "2026-11-17",
 "links": {},
 "name": "ООО \"Дилмас\"",
 "off": 0,
@@ -13509,7 +13535,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 3,
+"total": 5,
 "vessels": [
 "Reefer",
 "Tanker"
@@ -13748,13 +13774,13 @@
 "donmastershipping.ru": {
 "address": "",
 "city": "",
-"co": 11,
+"co": 12,
 "country": "",
 "emails": [
 "crew@donmastershipping.ru"
 ],
 "first": "2026-11-03",
-"last": "2026-11-16",
+"last": "2026-11-17",
 "links": {},
 "name": "ООО \"Донмастер\"",
 "off": 0,
@@ -13771,7 +13797,7 @@
 "@seamenjob"
 ],
 "telegram": [],
-"total": 18,
+"total": 19,
 "vessels": [
 "General cargo"
 ],
@@ -25184,13 +25210,13 @@
 "midvolga.com": {
 "address": "",
 "city": "",
-"co": 21,
+"co": 22,
 "country": "",
 "emails": [
 "kuznetsova@midvolga.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-16",
+"last": "2026-11-17",
 "links": {},
 "name": "",
 "off": 0,
@@ -25204,7 +25230,7 @@
 "@seamenjob"
 ],
 "telegram": [],
-"total": 25,
+"total": 26,
 "vessels": [
 "General cargo",
 "Tanker"
@@ -41710,16 +41736,16 @@
 "north-alliance.com": {
 "address": "",
 "city": "",
-"co": 22,
+"co": 24,
 "country": "",
 "emails": [
 "vacancy@north-alliance.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-16",
+"last": "2026-11-17",
 "links": {},
 "name": "",
-"off": 30,
+"off": 32,
 "offshore_hint": false,
 "phones": [],
 "so": 0,
@@ -41731,7 +41757,7 @@
 "@vesselsea"
 ],
 "telegram": [],
-"total": 100,
+"total": 107,
 "vessels": [
 "Offshore",
 "Passenger",
@@ -46301,7 +46327,7 @@
 "zalikovaaa@rusgeology.ru"
 ],
 "first": "2026-11-03",
-"last": "2026-11-16",
+"last": "2026-11-17",
 "links": {
 "crewell": "https://crewell.net/en/companies/59253/"
 },
@@ -46316,7 +46342,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 20,
+"total": 21,
 "vessels": [],
 "website": "rusgeology.ru"
 },
@@ -46496,13 +46522,13 @@
 "safasco.ru": {
 "address": "",
 "city": "",
-"co": 9,
+"co": 11,
 "country": "",
 "emails": [
 "office@safasco.ru"
 ],
 "first": "2026-11-03",
-"last": "2026-11-13",
+"last": "2026-11-17",
 "links": {},
 "name": "",
 "off": 0,
@@ -46514,7 +46540,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 24,
+"total": 26,
 "vessels": [
 "Tanker"
 ],
@@ -49013,22 +49039,24 @@
 "victoria@sevenseasrecruitment.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-15",
+"last": "2026-11-17",
 "links": {},
 "name": "",
 "off": 1,
 "offshore_hint": false,
 "phones": [],
-"so": 5,
+"so": 7,
 "sources": [
 "@CREW_ARIA",
 "@OnlyYacht",
 "@Yacht_Vacancies",
+"@marinejobs",
 "@seajobfinder",
+"@seamenjob",
 "@shipscreweu"
 ],
 "telegram": [],
-"total": 58,
+"total": 60,
 "vessels": [
 "Offshore",
 "Passenger"
@@ -59395,6 +59423,7 @@
 "агентство астон энтерпрайз": "aston.ru",
 "адмирал морская компания offline russian federation member since: nov 2016 no active vacancies трудоустройство моряков со знанием английского языка на иностранные суда высокие оклады короткие контракты view profile": "name:адмирал морская компания offline russian federation member since: nov 2016 no active vacancies трудоустройство моряков со знанием английского языка на иностранные суда высокие оклады короткие контракты view profile",
 "азово-черноморский филиал фгбу морская спасательная служба offline russian federation member since: jul 2025 no active vacancies view profile": "name:азово-черноморский филиал фгбу морская спасательная служба offline russian federation member since: jul 2025 no active vacancies view profile",
+"азовторгфлот": "aztf.ru",
 "азовтранстерминал offline russian federation member since: nov 2016 no active vacancies судоходная компания основана в 2001г вид деятельности: перевозка нефтепродуктов водным транспортом судовладелец нефтеналивных судов смешанного &quot;река-море&quot; плавания view profile": "name:азовтранстерминал offline russian federation member since: nov 2016 no active vacancies судоходная компания основана в 2001г вид деятельности: перевозка нефтепродуктов водным транспортом судовладелец нефтеналивных судов смешанного &quot;река-море&quot; плавания view profile",
 "акционерное общество дм-рм offline russian federation member since: may 2022 no active vacancies view profile": "name:акционерное общество дм-рм offline russian federation member since: may 2022 no active vacancies view profile",
 "алиот offline russian federation member since: sep 2018 no active vacancies мы судовая компания которая оказывает комплекс услуг для моряков учащихся морских учебных заведений для людей ищущих работу в морской отрасли постоянно требуются моряки на view profile": "name:алиот offline russian federation member since: sep 2018 no active vacancies мы судовая компания которая оказывает комплекс услуг для моряков учащихся морских учебных заведений для людей ищущих работу в морской отрасли постоянно требуются моряки на view profile",
@@ -59639,12 +59668,12 @@
 "allcrewing": 3816,
 "andreeyVstart": 1412,
 "balticcareer": 5755,
-"crewingua": 44982,
+"crewingua": 44983,
 "crs_vacancies": 3570,
 "cruiseshipjobs": 8,
 "cvcrewcom": 12901,
 "cvsenderseaman": 16303,
-"ecrewing": 3205,
+"ecrewing": 3206,
 "findseajobs": 32570,
 "galaxymaritimeua": 1250,
 "gm_seaman_cv": 2724,
@@ -59653,26 +59682,26 @@
 "job_for_seaman": 17079,
 "jobfor_seamen": 12751,
 "marinecareerorg": 17766,
-"marinejobs": 43559,
+"marinejobs": 43562,
 "marinejobz": 194156,
 "marineman_ltd": 48404,
 "maritimeforum": 257834,
 "merchantNavyrealjob": 265,
-"morehod_ru": 31045,
+"morehod_ru": 31048,
 "oceancrewjobs": 32847,
 "offshoreatsea": 25338,
 "offshorecv": 1609,
 "offshorevacancies": 47302,
 "oilrigs": 778,
 "olive_crew": 2940,
-"onboard_su": 20794,
+"onboard_su": 20796,
 "pervoemorskoe": 4534,
-"rekamore_su": 165348,
+"rekamore_su": 165365,
 "roster_marine": 1743,
 "seajobfinder": 42512,
-"seamenjob": 106389,
+"seamenjob": 106392,
 "seamenvacancy": 1390,
-"seavacancies": 25257,
+"seavacancies": 25258,
 "shipjobsindia": 420,
 "shipscreweu": 16697,
 "sidantey": 399,
