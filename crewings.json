@@ -5065,13 +5065,13 @@
 "areer@orca-crew.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-12",
+"last": "2026-11-17",
 "links": {
 "crewell": "https://crewell.net/en/companies/254338/",
 "ukrcrewing": "https://ukrcrewing.com.ua/en/agency/anglo_eastern"
 },
 "name": "Advanced Marine",
-"off": 83,
+"off": 84,
 "offshore_hint": false,
 "phones": [
 "+37168688362",
@@ -5094,7 +5094,7 @@
 "@marinejobs"
 ],
 "telegram": [],
-"total": 106,
+"total": 107,
 "uk": 15,
 "vessels": [
 "Bulk",
@@ -19728,7 +19728,7 @@
 "@maritimeforum"
 ],
 "telegram": [],
-"total": 158,
+"total": 163,
 "vessels": [
 "Bulk",
 "Container"
@@ -25696,7 +25696,7 @@
 "jevery@pg-global.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-12",
+"last": "2026-11-17",
 "links": {
 "crewell": "https://crewell.net/en/companies/179919/"
 },
@@ -25716,7 +25716,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 19,
+"total": 20,
 "uk": 4,
 "vessels": [
 "Chemical",
@@ -33655,7 +33655,7 @@
 "name:oceantrust crewing": {
 "address": "",
 "city": "",
-"co": 7,
+"co": 8,
 "country": "",
 "emails": [],
 "first": "2026-11-08",
@@ -33669,12 +33669,12 @@
 "+38097213369",
 "+380972133695"
 ],
-"so": 3,
+"so": 4,
 "sources": [
 "@maritimeforum"
 ],
 "telegram": [],
-"total": 10,
+"total": 11,
 "vessels": [
 "Chemical",
 "Container",
@@ -51547,7 +51547,7 @@
 "last": "2026-11-17",
 "links": {},
 "name": "ROMANIA SRL",
-"off": 24,
+"off": 25,
 "offshore_hint": false,
 "phones": [
 "+48502399288",
@@ -51560,16 +51560,16 @@
 "@Offshore_Vacancies",
 "@OnlyOffshore",
 "@cvsenderseaman",
+"@help_seafarers",
 "@marinejobs",
 "@maritimeforum",
 "@offshoreatsea",
 "@offshorecv",
 "@roster_marine",
-"@seajobfinder",
-"@shipscreweu"
+"@seajobfinder"
 ],
 "telegram": [],
-"total": 37,
+"total": 38,
 "vessels": [
 "Offshore",
 "Reefer",
@@ -53001,7 +53001,7 @@
 "tospeople.com": {
 "address": "33 B, SHEVCHENKO AVE., OFF, 6, ODESSA, UA",
 "city": "ODESSA",
-"co": 59,
+"co": 60,
 "country": "Ukraine",
 "emails": [
 "a.gulabyan@tospeople.com",
@@ -53019,12 +53019,12 @@
 "crewell": "https://crewell.net/en/companies/194804/"
 },
 "name": "Transport & Offshore Services Ukraine",
-"off": 196,
+"off": 197,
 "offshore_hint": false,
 "phones": [
 "+380672802995"
 ],
-"so": 35,
+"so": 36,
 "sources": [
 "@OffshoreFleetJob",
 "@Offshore_Vacancies",
@@ -53040,7 +53040,7 @@
 "@maritimeforum"
 ],
 "telegram": [],
-"total": 230,
+"total": 231,
 "uk": 10,
 "vessels": [
 "Bulk",
@@ -60035,7 +60035,7 @@
 "findseajobs": 32570,
 "galaxymaritimeua": 1250,
 "gm_seaman_cv": 2732,
-"help_seafarers": 4902,
+"help_seafarers": 4906,
 "ismira_agency": 440,
 "job_for_seaman": 17085,
 "jobfor_seamen": 12763,
@@ -60043,7 +60043,7 @@
 "marinejobs": 43613,
 "marinejobz": 194156,
 "marineman_ltd": 48412,
-"maritimeforum": 257881,
+"maritimeforum": 257902,
 "merchantNavyrealjob": 265,
 "morehod_ru": 31075,
 "oceancrewjobs": 32861,
@@ -60054,7 +60054,7 @@
 "olive_crew": 2943,
 "onboard_su": 20801,
 "pervoemorskoe": 4537,
-"rekamore_su": 165417,
+"rekamore_su": 165418,
 "roster_marine": 1744,
 "seajobfinder": 42550,
 "seamenjob": 106434,

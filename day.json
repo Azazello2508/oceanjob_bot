@@ -5489,31 +5489,130 @@
 "repeat": false,
 "time": "2026-11-17T16:46:33+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/370330",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-17T17:43:46.903930+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer Vacancy on Product Fleet CoShip Marine Solutions",
+"url": "https://maritime-union.com/job/233235",
+"source": "maritime-union.com",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"company": "Chief Officer Vacancy on Product Fl…"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-17T17:44:20.406219+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "2nd Officer Job on Scientific Research Vessel in Qatar KEYSTONE CONSULT LIMITED",
+"url": "https://maritime-union.com/job/233240",
+"source": "maritime-union.com",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-17T17:44:21.166608+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "URGENT HIRING | LNG Takeover",
+"url": "https://t.me/maritimeforum/257902",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-5c1072e6f8b87cdc",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer / 3rd Officer",
+"vessel": "LNG",
+"joining": "ASAP",
+"salary": "$23,000–23,500\n"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-17T17:29:13+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "WE ARE HIRING | PSV DP2 | WEST AFRICA",
+"url": "https://t.me/help_seafarers/4905",
+"source": "Telegram: @help_seafarers",
+"found": [
+"chief officer",
+"2nd officer",
+"sdpo",
+"dpo",
+"2nd off"
+],
+"fp": "fp-742e8772c1eb34a4",
+"offshore": true,
+"info": {
+"rank": "Chief Officer / 2nd Officer / SDPO",
+"vessel": "PSV",
+"joining": "5 December",
+"contract": "8 weeks on/off fixed rota",
+"email": "n.kudaieva@tospeople.com",
+"company": "tospeople.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-17T17:30:38+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-5324,
-5325,
-5326,
-5327,
-5328,
-5329,
-5330,
-5331,
-5332,
-5333,
-5334,
-5335,
-5336,
-5337,
-5338,
-5339,
-5340,
-5341,
-5342,
-5343
+5344,
+5345,
+5346,
+5347,
+5348,
+5349,
+5350,
+5351,
+5352,
+5353,
+5354,
+5355,
+5356,
+5357,
+5358,
+5359,
+5360,
+5361,
+5362,
+5363
 ],
-"last_list": "2026-11-17T16:55:35.078267+00:00",
-"cleared_upto": 5323,
-"last_msg_id": 5343
+"last_list": "2026-11-17T17:46:05.943474+00:00",
+"cleared_upto": 5343,
+"last_msg_id": 5363
 }
