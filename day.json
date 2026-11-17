@@ -4282,31 +4282,314 @@
 "repeat": false,
 "time": "2026-11-17T12:36:33+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/370280",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-17T13:52:41.520931+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "3rd Mate/DPO on DSV DP2 (Norway)",
+"url": "https://oceancrew.org/vacancies/offshore/3rd-officer/3rd-matedpo-on-dsv-dp2-2nd-officerdpo-in-norway_17-11-2026",
+"source": "oceancrew.org",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "2nd Officer / 3rd Officer / DPO",
+"vessel": "DSV"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-17T13:52:56.202260+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "CHEMICAL/OIL PRODUCTS TANKER",
+"url": "https://t.me/maritimeforum/257869",
+"source": "Telegram: @maritimeforum",
+"found": [
+"second officer"
+],
+"fp": "fp-868131fd6cd49d2c",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Chemical tanker",
+"joining": "end of November",
+"contract": "4 months",
+"salary": "5000 USD",
+"email": "fairwind@te.net.ua",
+"company": "te.net.ua"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-17T13:11:21+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "CHEMICAL/OIL PRODUCTS TANKER (IMO 3 experience)",
+"url": "https://t.me/maritimeforum/257874",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-ac95d5badfef240b",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Chemical tanker",
+"joining": "ASAP",
+"contract": "4 months",
+"salary": "11400 USD",
+"email": "fairwind@te.net.ua",
+"company": "te.net.ua"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-17T13:14:59+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "We are hiring offshore 2nd Officer and 3rd officer",
+"url": "https://t.me/seajobfinder/42523",
+"source": "Telegram: @seajobfinder",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-2202d752ff9c9229",
+"offshore": true,
+"info": {
+"rank": "2nd Officer / 3rd Officer",
+"contract": "6 weeks",
+"email": "recruitment@csmlv.com",
+"company": "csmlv.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-17T13:21:34+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Vacancy code 02.4",
+"url": "https://t.me/seajobfinder/42525",
+"source": "Telegram: @seajobfinder",
+"found": [
+"dpo",
+"2nd off"
+],
+"fp": "fp-de2de361bc4d4b6b",
+"offshore": true,
+"info": {
+"rank": "2nd Officer / 3rd Officer / DPO",
+"vessel": "PSV, MPSV",
+"salary": "s – Negotiable",
+"joining": "18th of November",
+"contract": "4 weeks",
+"email": "crew@navis.eu",
+"company": "navis.eu"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-17T13:35:12+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "3/O requirement -  Research",
+"url": "https://t.me/seajobfinder/42527",
+"source": "Telegram: @seajobfinder",
+"found": [],
+"fp": "fp-d19ac274bdaf0f1b",
+"offshore": true,
+"info": {
+"rank": "3rd Officer",
+"email": "greg.livermore@seamariner.com",
+"company": "seamariner.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-17T13:35:49+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "We are currently looking for crew for a PSV DP-2 vessel",
+"url": "https://t.me/seajobfinder/42531",
+"source": "Telegram: @seajobfinder",
+"found": [
+"chief officer",
+"second officer",
+"sdpo",
+"dpo"
+],
+"fp": "fp-c5580ca304b90bff",
+"offshore": true,
+"info": {
+"rank": "Chief Officer / 2nd Officer / SDPO",
+"vessel": "PSV",
+"joining": "05/12/2026",
+"contract": "2 months on / 2 months of",
+"email": "a.gulabyan@tospeople.com",
+"company": "tospeople.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-17T13:43:33+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "CREWING COMPANY SEA LANE",
+"url": "https://t.me/crewingua/45002",
+"source": "Telegram: @crewingua",
+"found": [
+"ch.off"
+],
+"fp": "fp-147a216477cd9035",
+"offshore": false,
+"info": {
+"vessel": "General cargo",
+"salary": "3800 EUR",
+"joining": "‼️",
+"email": "crewing@sealane.net",
+"company": "sealane.net"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-17T13:04:03+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "NEW PCTC VESSEL | DUAL FUEL | SENIOR OFFICERS",
+"url": "https://t.me/seamenjob/106421",
+"source": "Telegram: @seamenjob",
+"found": [
+"chief officer"
+],
+"fp": "fp-75b0041729fc4400",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Ro-Ro, PCTC",
+"joining": "end of November 2026 -beg of D",
+"email": "forcv@csm-ua.com",
+"company": "csm-ua.com"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-17T13:19:37+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "CHIEF OFFICER – GENERAL CARGO",
+"url": "https://t.me/balticcareer/5797",
+"source": "Telegram: @balticcareer",
+"found": [
+"chief officer"
+],
+"fp": "fp-c88c40f09a95eb0c",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo",
+"salary": "€7,442",
+"joining": "24 November 2026 (ASAP)",
+"contract": "2 Months"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-17T13:51:34+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "https://jobatsea.online/job/625923/3rd-matedpo-on-dsv-dp2-2nd-officerdpo-in-norway-at-navis-ship-management/",
+"url": "https://t.me/offshorevacancies/47321",
+"source": "Telegram: @offshorevacancies",
+"found": [
+"2nd officer",
+"dpo",
+"2nd off"
+],
+"fp": "fp-4c04613a2d843b64",
+"offshore": true,
+"info": {
+"rank": "2nd Officer / 3rd Officer / DPO",
+"vessel": "DSV",
+"company": "https://jobatsea.online/job/625923/…"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-17T13:20:00+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "OPEN POSITIONS",
+"url": "https://t.me/cvsenderseaman/16363",
+"source": "Telegram: @cvsenderseaman",
+"found": [
+"chief officer",
+"second officer"
+],
+"fp": "fp-d8fe942feef204f6",
+"offshore": true,
+"info": {
+"rank": "Chief Officer / 2nd Officer",
+"vessel": "PSV",
+"joining": "05.12.2026",
+"email": "a.gulabyan@tospeople.com",
+"company": "tospeople.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-17T13:33:13+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-5266,
-5267,
-5268,
-5269,
-5270,
-5271,
-5272,
-5273,
-5274,
-5275,
-5276,
-5277,
-5278,
-5279,
-5280,
-5281,
-5282,
-5283,
-5284,
-5285
+5286,
+5287,
+5288,
+5289,
+5290,
+5291,
+5292,
+5293,
+5294,
+5295,
+5296,
+5297,
+5298,
+5299,
+5300,
+5301,
+5302,
+5303,
+5304,
+5305
 ],
-"last_list": "2026-11-17T13:04:33.750312+00:00",
-"cleared_upto": 5265,
-"last_msg_id": 5285
+"last_list": "2026-11-17T13:54:03.780840+00:00",
+"cleared_upto": 5285,
+"last_msg_id": 5305
 }
