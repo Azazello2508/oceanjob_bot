@@ -402,23 +402,175 @@
 "repeat": true,
 "time": "2026-11-17T04:59:02+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "В судоходную компанию на постоянной основе требуются:",
+"url": "https://t.me/rekamore_su/165338",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-b7e9ebdcaea866e8",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Tanker",
+"salary": "от 380 000 рублей",
+"contract": "4 месяца",
+"email": "Hr-flot@yandex.ru"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-17T05:19:02+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Компания ООО “ЕРМАК ШИППИНГ” приглашает на работу:",
+"url": "https://t.me/rekamore_su/165339",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-20cf5ba3e447abfe",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Tanker",
+"salary": "134 000 рублей + премия за кон…",
+"joining": "конец  ноября 2026г",
+"contract": "🚢",
+"email": "crewing@ermakshipping.com",
+"company": "ermakshipping.com"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-17T05:30:04+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Компания ГК \"ОТЭКО\" приглашает на  работу:",
+"url": "https://t.me/rekamore_su/165340",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-105216998cd5ccaa",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Tug",
+"email": "e.davydenko@oteko.ru",
+"company": "oteko.ru"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-17T05:34:03+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Компания ООО “Трэвелер Шиппинг” приглашает на работу:",
+"url": "https://t.me/rekamore_su/165343",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-42888872d2f67410",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Chemical tanker",
+"joining": "❗️",
+"email": "gavrilova_o@astonfleet.com",
+"company": "astonfleet.com"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-17T05:36:08+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Компания \"Alteam Crewing\" приглашает на работу:",
+"url": "https://t.me/rekamore_su/165344",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-63f97e64c60ff626",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"salary": "3 500 $",
+"contract": "4 месяца",
+"email": "alteam@crew-alteam.com",
+"company": "crew-alteam.com"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-17T05:38:03+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Компания \"Речмортранс\" приглашает на работу:",
+"url": "https://t.me/rekamore_su/165346",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-5f4b1ad2a4e0de2d",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo",
+"email": "okrmt@rechmortrans.ru",
+"company": "rechmortrans.ru"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-17T05:40:08+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Компания  “Инмортерминал” приглашает на работу:",
+"url": "https://t.me/rekamore_su/165348",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-f2075f0a0ec16e58",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Tanker",
+"salary": "418 252 рублей на руки, 480 99…"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-17T05:42:06+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-5126,
-5127,
-5128,
-5129,
-5130,
-5131,
-5132,
-5133,
-5134,
-5135,
-5136,
-5137
+5138,
+5139,
+5140,
+5141,
+5142,
+5143,
+5144,
+5145,
+5146,
+5147,
+5148,
+5149
 ],
-"last_list": "2026-11-17T05:10:09.312838+00:00",
-"cleared_upto": 5125,
-"last_msg_id": 5137
+"last_list": "2026-11-17T06:00:19.352414+00:00",
+"cleared_upto": 5137,
+"last_msg_id": 5149
 }
