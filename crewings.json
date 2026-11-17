@@ -7636,7 +7636,7 @@
 "@seajobfinder"
 ],
 "telegram": [],
-"total": 119,
+"total": 120,
 "uk": 8,
 "vessels": [
 "Dredger",
@@ -9739,7 +9739,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 490,
+"total": 503,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -12633,7 +12633,7 @@
 "csm-ua.com": {
 "address": "3 Sabanskiy Lane, Office 11n",
 "city": "Odessa",
-"co": 93,
+"co": 98,
 "country": "Ukraine",
 "emails": [
 "cv@csm-idn.com",
@@ -12649,7 +12649,7 @@
 "crewell": "https://crewell.net/en/companies/262765/"
 },
 "name": "COLUMBIA Shipmanagement",
-"off": 54,
+"off": 55,
 "offshore_hint": true,
 "phones": [
 "+380503241376",
@@ -12679,7 +12679,7 @@
 "telegram": [
 "@sitelia_world"
 ],
-"total": 235,
+"total": 241,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -20410,7 +20410,7 @@
 "last": "2026-11-17",
 "links": {},
 "name": "Northern Marine Manning Services",
-"off": 31,
+"off": 32,
 "offshore_hint": false,
 "phones": [],
 "so": 0,
@@ -20418,7 +20418,7 @@
 "@Crew_Radar"
 ],
 "telegram": [],
-"total": 48,
+"total": 49,
 "vessels": [
 "Chemical",
 "LPG/LNG",
@@ -25701,11 +25701,12 @@
 "crewell": "https://crewell.net/en/companies/179919/"
 },
 "name": "MNR Ltd",
-"off": 18,
+"off": 20,
 "offshore_hint": false,
 "phones": [],
 "so": 4,
 "sources": [
+"@CREW_ARIA",
 "@Offshore_Vacancies",
 "@OnlyOffshore",
 "@cvcrewcom",
@@ -25716,7 +25717,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 20,
+"total": 22,
 "uk": 4,
 "vessels": [
 "Chemical",
@@ -53019,7 +53020,7 @@
 "crewell": "https://crewell.net/en/companies/194804/"
 },
 "name": "Transport & Offshore Services Ukraine",
-"off": 197,
+"off": 198,
 "offshore_hint": false,
 "phones": [
 "+380672802995"
@@ -53040,7 +53041,7 @@
 "@maritimeforum"
 ],
 "telegram": [],
-"total": 231,
+"total": 232,
 "uk": 10,
 "vessels": [
 "Bulk",
@@ -60010,12 +60011,12 @@
 "tg_hw": {
 "ALPHACREW": 3582,
 "BSMCSCUKRAINE": 4404,
-"CREW_ARIA": 14191,
-"Crew_Radar": 3466,
+"CREW_ARIA": 14192,
+"Crew_Radar": 3474,
 "JobForMariners": 1209,
 "Merchant_Fleet": 651,
 "OffshoreFleetJob": 11081,
-"Offshore_Vacancies": 969,
+"Offshore_Vacancies": 970,
 "OnlyOffshore": 39107,
 "OnlyYacht": 2326,
 "SM_job_center": 2507,
@@ -60025,7 +60026,7 @@
 "Yacht_Vacancies": 290,
 "allcrewing": 3820,
 "andreeyVstart": 1416,
-"balticcareer": 5808,
+"balticcareer": 5809,
 "crewingua": 45011,
 "crs_vacancies": 3575,
 "cruiseshipjobs": 8,
@@ -60035,7 +60036,7 @@
 "findseajobs": 32570,
 "galaxymaritimeua": 1250,
 "gm_seaman_cv": 2732,
-"help_seafarers": 4906,
+"help_seafarers": 4908,
 "ismira_agency": 440,
 "job_for_seaman": 17085,
 "jobfor_seamen": 12763,
@@ -60043,13 +60044,13 @@
 "marinejobs": 43613,
 "marinejobz": 194156,
 "marineman_ltd": 48412,
-"maritimeforum": 257902,
+"maritimeforum": 257921,
 "merchantNavyrealjob": 265,
 "morehod_ru": 31075,
 "oceancrewjobs": 32861,
 "offshoreatsea": 25338,
-"offshorecv": 1612,
-"offshorevacancies": 47333,
+"offshorecv": 1614,
+"offshorevacancies": 47336,
 "oilrigs": 778,
 "olive_crew": 2943,
 "onboard_su": 20801,
@@ -60059,7 +60060,7 @@
 "seajobfinder": 42550,
 "seamenjob": 106434,
 "seamenvacancy": 1390,
-"seavacancies": 25263,
+"seavacancies": 25264,
 "shipjobsindia": 420,
 "shipscreweu": 16709,
 "sidantey": 399,

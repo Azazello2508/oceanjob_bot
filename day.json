@@ -5588,31 +5588,86 @@
 "repeat": false,
 "time": "2026-11-17T17:30:38+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "2nd Officer on LPG",
+"url": "https://crewell.net/en/vacancies/466649/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "LPG"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-17T18:34:15.267257+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "COLUMBIA Shipmanagement Ukraine are seeking to",
+"url": "https://t.me/maritimeforum/257906",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-d9314c2b4e7db23b",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"joining": "01.02.2027",
+"contract": "4+/-1 months",
+"email": "forcv@csm-ua.com",
+"company": "csm-ua.com"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-17T18:19:04+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "https://jobatsea.online/job/625954/ab-eligible-for-work-in-the-uk-at-atlas-nextwave/",
+"url": "https://t.me/offshorevacancies/47336",
+"source": "Telegram: @offshorevacancies",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "AB"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-17T18:21:12+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-5344,
-5345,
-5346,
-5347,
-5348,
-5349,
-5350,
-5351,
-5352,
-5353,
-5354,
-5355,
-5356,
-5357,
-5358,
-5359,
-5360,
-5361,
-5362,
-5363
+5364,
+5365,
+5366,
+5367,
+5368,
+5369,
+5370,
+5371,
+5372,
+5373,
+5374,
+5375,
+5376,
+5377,
+5378,
+5379,
+5380,
+5381,
+5382,
+5383
 ],
-"last_list": "2026-11-17T17:46:05.943474+00:00",
-"cleared_upto": 5343,
-"last_msg_id": 5363
+"last_list": "2026-11-17T18:36:28.490215+00:00",
+"cleared_upto": 5363,
+"last_msg_id": 5383
 }
