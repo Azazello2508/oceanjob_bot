@@ -1743,6 +1743,214 @@
 "repeat": false,
 "time": "2026-11-17T07:48:32+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer for Offshore Vessel (KSA)",
+"url": "https://oceancrew.org/vacancies/offshore/chief-officer/chief-officer-for-offshore-vessel-ksa_17-11-2026",
+"source": "oceancrew.org",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "Chief Officer"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-17T08:55:52.747376+00:00"
+},
+{
+"uk": "",
+"title": "CHIEF OFFICER",
+"url": "https://t.me/maritimeforum/257837",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-5a63ed3d5a1174c2",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer / 3rd Officer",
+"vessel": "Container, PCTC",
+"salary": "Discussable",
+"joining": "Beginning of January"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-17T08:32:42+00:00"
+},
+{
+"uk": "",
+"title": "CHIEF OFFICER",
+"url": "https://t.me/maritimeforum/257838",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-07cdd73063280c7d",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Bulk carrier",
+"salary": "7800 - 8000",
+"joining": "20 November – Urgent"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-17T08:56:02+00:00"
+},
+{
+"uk": "",
+"title": "VITA MARITIME LTD .",
+"url": "https://t.me/crewingua/44993",
+"source": "Telegram: @crewingua",
+"found": [
+"chief officer",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-cba82878e00b6236",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer / 3rd Officer",
+"vessel": "Container, PCTC",
+"salary": "Discussable",
+"joining": "Beginning of January",
+"company": "VITA MARITIME LTD"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-17T08:31:20+00:00"
+},
+{
+"uk": "",
+"title": "ONLY UKRAINIAN NATIONALITY",
+"url": "https://t.me/BSMCSCUKRAINE/4395",
+"source": "Telegram: @BSMCSCUKRAINE",
+"found": [],
+"fp": "fp-639d49f71441e20a",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "LPG",
+"joining": "ASAP",
+"contract": "3 Months",
+"email": "ua-csc-ode-man@bs-shipmanagement.com",
+"company": "bs-shipmanagement.com"
+},
+"new": true,
+"repeat": true,
+"time": "2026-11-17T08:50:00+00:00"
+},
+{
+"uk": "",
+"title": "ONLY UKRAINIAN NATIONALITY",
+"url": "https://t.me/BSMCSCUKRAINE/4396",
+"source": "Telegram: @BSMCSCUKRAINE",
+"found": [],
+"fp": "fp-9e64a38b51897bac",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "LPG",
+"joining": "1/12",
+"contract": "3 Months",
+"email": "ua-csc-ode-man@bs-shipmanagement.com",
+"company": "bs-shipmanagement.com"
+},
+"new": true,
+"repeat": true,
+"time": "2026-11-17T08:50:14+00:00"
+},
+{
+"uk": "",
+"title": "Свежие вакансии!",
+"url": "https://t.me/cvcrewcom/12902",
+"source": "Telegram: @cvcrewcom",
+"found": [
+"chief officer",
+"2off",
+"2nd off"
+],
+"fp": "fp-232b1ed6981af3ef",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer",
+"vessel": "LNG, Chemical tanker",
+"salary": "4600 USD",
+"contract": "5 - 6 months",
+"email": "info@gretimybe.lt",
+"company": "gretimybe.lt"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-17T08:39:24+00:00"
+},
+{
+"uk": "",
+"title": "CRANE OPERATOR",
+"url": "https://t.me/cvsenderseaman/16322",
+"source": "Telegram: @cvsenderseaman",
+"found": [],
+"fp": "fp-4357937d2e8facf2",
+"offshore": true,
+"info": {
+"vessel": "Jack-up",
+"salary": "Negotiable",
+"joining": "24 November",
+"contract": "2 weeks",
+"email": "mhart@pg-global.com",
+"company": "pg-global.com"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-17T08:44:32+00:00"
+},
+{
+"uk": "",
+"title": "Open Positions for Bulk Carrier Vessel",
+"url": "https://t.me/oceancrewjobs/32851",
+"source": "Telegram: @oceancrewjobs",
+"found": [
+"chief mate",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-66e0871bdcbaeb28",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer / 3rd Officer",
+"vessel": "Bulk carrier",
+"company": "https://oceancrew.org/vacancies/mer…"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-17T08:41:40+00:00"
+},
+{
+"uk": "",
+"title": "Need Candidates for AHTS Vessels",
+"url": "https://t.me/oceancrewjobs/32854",
+"source": "Telegram: @oceancrewjobs",
+"found": [
+"chief officer",
+"2nd officer",
+"sdpo",
+"dpo",
+"2nd off"
+],
+"fp": "fp-f0755f76da0f51f3",
+"offshore": true,
+"info": {
+"rank": "Chief Officer / 2nd Officer / SDPO",
+"vessel": "AHTS",
+"company": "https://oceancrew.org/vacancies/off…"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-17T08:42:45+00:00"
 }
 ],
 "msg_ids": [
