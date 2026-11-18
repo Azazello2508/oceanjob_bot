@@ -65,14 +65,178 @@
 "repeat": false,
 "time": "2026-11-18T04:19:14+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "Offshore. Job selection for 18/11/2026",
+"url": "https://t.me/SM_job_center/2509",
+"source": "Telegram: @SM_job_center",
+"found": [
+"chief officer",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-729108d5d8fdb7f2",
+"offshore": true,
+"info": {
+"rank": "Chief Officer / 2nd Officer / 3rd Officer",
+"vessel": "DSV, Tug",
+"salary": "$6,000-$6,100/month",
+"email": "application@elvictor.com.ua",
+"company": "elvictor.com.ua"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-18T05:05:02+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Компания ООО \"Белозерское пароходство\" приглашает на работу:",
+"url": "https://t.me/rekamore_su/165432",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-375650b643c1ccff",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Tug",
+"email": "k.vasileva@karelkamen.ru",
+"company": "karelkamen.ru"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-18T04:49:03+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Компания ООО НП «Балтийское Морское Пароходство» приглашает на работу:",
+"url": "https://t.me/rekamore_su/165435",
+"source": "Telegram: @rekamore_su",
+"found": [
+"2off"
+],
+"fp": "fp-28143510deb0fa58",
+"offshore": true,
+"info": {
+"vessel": "Tanker",
+"salary": "3500-4500 USD",
+"joining": "ASAP -  KFK // Strait of Hormu",
+"company": "ООО НП «Балтийское Морское Пароходс…"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-18T04:53:02+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Компания ООО НП «Балтийское Морское Пароходство» приглашает на работу:",
+"url": "https://t.me/rekamore_su/165436",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-53cb10282b74dc9f",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Reefer",
+"salary": "5 500 USD",
+"joining": "СРОЧНАЯ в Санкт-Петербурге",
+"contract": "4+1",
+"company": "ООО НП «Балтийское Морское Пароходс…"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-18T04:53:06+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Судоходная компания \"Eco Shipping\" приглашает на работу:",
+"url": "https://t.me/rekamore_su/165438",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-3e2be08a86d4c374",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo",
+"salary": "365 000 рублей",
+"joining": "ноябрь- декабрь",
+"contract": "5/5 ( +/-1)",
+"email": "e.kievskaya@ecoshp.ru",
+"company": "ecoshp.ru"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-18T04:55:07+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Компания ООО \"Доннефтетранс\" приглашает на работу:",
+"url": "https://t.me/rekamore_su/165439",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-254de359d95f7e69",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Chemical tanker",
+"salary": "ЗП обсуждается с кандидатом",
+"joining": "конец ноября в Астрахани",
+"email": "crew@donneftetrans.ru",
+"company": "donneftetrans.ru"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-18T04:57:04+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Компания ООО \"НК-Флот\" приглашает на работу:",
+"url": "https://t.me/rekamore_su/165440",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-948de087b34a7e8f",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Tug",
+"salary": "от 60 000 рублей (на руки)",
+"joining": "1-10 декабря",
+"contract": "2/2 месяца",
+"company": "ООО \"НК-Флот\""
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-18T04:59:03+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-5408,
-5409,
-5410
+5411,
+5412,
+5413,
+5414,
+5415,
+5416,
+5417,
+5418
 ],
-"last_list": "2026-11-18T04:40:38.950823+00:00",
-"cleared_upto": 5407,
-"last_msg_id": 5410
+"last_list": "2026-11-18T05:30:21.734180+00:00",
+"cleared_upto": 5410,
+"last_msg_id": 5418
 }
