@@ -5087,31 +5087,96 @@
 "repeat": false,
 "time": "2026-11-18T18:03:02+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "URGENT",
+"url": "https://t.me/marinejobs/43644",
+"source": "Telegram: @marinejobs",
+"found": [
+"chief officer"
+],
+"fp": "fp-153fd66f4ae03e5c",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "AHTS",
+"email": "forcv@csm-ua.com",
+"company": "csm-ua.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-18T19:01:10+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "2nd Officer Opportunity",
+"url": "https://t.me/marinejobs/43645",
+"source": "Telegram: @marinejobs",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-899d3c424a410f9e",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Tanker",
+"salary": "€4,180 + €135 re-joining bonus",
+"joining": "bonus",
+"contract": "4+1 months",
+"email": "forcv@eurocrew-ua.com",
+"company": "eurocrew-ua.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-18T19:03:45+00:00",
+"junior_dp": false
+},
+{
+"uk": "…Requirements: Candidates from the UK or with UK right to work OPITO BOSIET/HUET/FOET High Voltage certific…",
+"title": "2E for Semi-submersible heavy lift DP2",
+"url": "https://t.me/roster_marine/1745",
+"source": "Telegram: @roster_marine",
+"found": [],
+"fp": "fp-2357be62e14ef737",
+"offshore": true,
+"info": {
+"salary": "432.60£ p/d subject to UK PAYE…",
+"contract": "5 weeks on / 5 weeks off",
+"email": "anna.zhuchenko@etpm.co.uk",
+"company": "etpm.co.uk"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-18T12:44:47+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-5633,
-5634,
-5635,
-5636,
-5637,
-5638,
-5639,
-5640,
-5641,
-5642,
-5643,
-5644,
-5645,
-5646,
-5647,
-5648,
-5649,
-5650,
-5651,
-5652
+5653,
+5654,
+5655,
+5656,
+5657,
+5658,
+5659,
+5660,
+5661,
+5662,
+5663,
+5664,
+5665,
+5666,
+5667,
+5668,
+5669,
+5670,
+5671,
+5672
 ],
-"last_list": "2026-11-18T18:34:44.142833+00:00",
-"cleared_upto": 5632,
-"last_msg_id": 5652
+"last_list": "2026-11-18T19:24:31.096052+00:00",
+"cleared_upto": 5652,
+"last_msg_id": 5672
 }

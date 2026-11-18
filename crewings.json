@@ -4037,7 +4037,7 @@
 "ukrcrewing": "https://ukrcrewing.com.ua/en/agency/alpha_crew"
 },
 "name": "AlphaCrew Maritime",
-"off": 571,
+"off": 572,
 "offshore_hint": true,
 "phones": [
 "+35726000899",
@@ -4072,7 +4072,7 @@
 "@Olga_Alpha_Crew",
 "@irina_alpha"
 ],
-"total": 611,
+"total": 612,
 "uk": 24,
 "vessels": [
 "Bulk",
@@ -11070,10 +11070,11 @@
 "phones": [],
 "so": 0,
 "sources": [
+"@marinejobs",
 "@seamenjob"
 ],
 "telegram": [],
-"total": 1,
+"total": 2,
 "vessels": [],
 "website": ""
 },
@@ -12749,7 +12750,7 @@
 "csm-ua.com": {
 "address": "3 Sabanskiy Lane, Office 11n",
 "city": "Odessa",
-"co": 108,
+"co": 109,
 "country": "Ukraine",
 "emails": [
 "cv@csm-idn.com",
@@ -12765,7 +12766,7 @@
 "crewell": "https://crewell.net/en/companies/262765/"
 },
 "name": "COLUMBIA Shipmanagement",
-"off": 61,
+"off": 62,
 "offshore_hint": true,
 "phones": [
 "+380503241376",
@@ -12795,7 +12796,7 @@
 "telegram": [
 "@sitelia_world"
 ],
-"total": 261,
+"total": 262,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -15237,7 +15238,7 @@
 "phones": [
 "+380672977620"
 ],
-"so": 38,
+"so": 39,
 "sources": [
 "@OffshoreFleetJob",
 "@Offshore_Vacancies",
@@ -15253,7 +15254,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 205,
+"total": 206,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -20177,7 +20178,7 @@
 "info@islayachtgroup.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-11",
+"last": "2026-11-18",
 "links": {},
 "name": "",
 "off": 5,
@@ -20190,7 +20191,7 @@
 "@Yacht_Vacancies"
 ],
 "telegram": [],
-"total": 34,
+"total": 35,
 "vessels": [
 "Offshore"
 ],
@@ -43486,7 +43487,7 @@
 "@Sofia_OliveCrew",
 "@Svetlana_OliveCrew"
 ],
-"total": 365,
+"total": 367,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -49511,7 +49512,7 @@
 "crewell": "https://crewell.net/en/companies/64960/"
 },
 "name": "Advance Global Recruitment Ltd",
-"off": 561,
+"off": 562,
 "offshore_hint": false,
 "phones": [],
 "so": 63,
@@ -49532,7 +49533,7 @@
 "telegram": [
 "@cvpro_mailing"
 ],
-"total": 562,
+"total": 563,
 "uk": 79,
 "vessels": [
 "Bulk",
@@ -49664,7 +49665,7 @@
 "victoria@sevenseasrecruitment.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-17",
+"last": "2026-11-18",
 "links": {},
 "name": "",
 "off": 1,
@@ -49681,7 +49682,7 @@
 "@shipscreweu"
 ],
 "telegram": [],
-"total": 61,
+"total": 62,
 "vessels": [
 "Offshore",
 "Passenger"
@@ -51561,7 +51562,7 @@
 "@maritimeforum"
 ],
 "telegram": [],
-"total": 273,
+"total": 274,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -60527,8 +60528,8 @@
 "OffshoreFleetJob": 11087,
 "Offshore_Vacancies": 978,
 "OnlyOffshore": 39139,
-"OnlyYacht": 2330,
-"SM_job_center": 2512,
+"OnlyYacht": 2333,
+"SM_job_center": 2513,
 "SeaSeaWorks": 3934,
 "Sea_format": 12354,
 "TSMexp": 867,
@@ -60550,7 +60551,7 @@
 "job_for_seaman": 17095,
 "jobfor_seamen": 12765,
 "marinecareerorg": 17767,
-"marinejobs": 43643,
+"marinejobs": 43652,
 "marinejobz": 194156,
 "marineman_ltd": 48421,
 "maritimeforum": 258393,
@@ -60573,7 +60574,7 @@
 "shipjobsindia": 420,
 "shipscreweu": 16712,
 "sidantey": 399,
-"supermariner_ua": 3930,
+"supermariner_ua": 3931,
 "truemalina_offshore": 830,
 "ukrcrewing_official": 2392,
 "univis_crewing": 5034,
