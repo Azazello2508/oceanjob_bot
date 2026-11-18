@@ -17,13 +17,62 @@
 "repeat": false,
 "time": "2026-11-17T20:41:57.875836+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "Компания ООО \"Легаси Марин\" приглашает на работу:",
+"url": "https://t.me/rekamore_su/165421",
+"source": "Telegram: @rekamore_su",
+"found": [
+"chief officer",
+"старший помощник"
+],
+"fp": "fp-98ef58528bbf6300",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / AB",
+"vessel": "Aframax",
+"salary": "11 300 USD",
+"joining": "в ближайшее время",
+"contract": "4 + 1 месяц",
+"email": "crew.cv@legacymarine.ru",
+"company": "legacymarine.ru"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-18T04:12:03+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "ROLES FOR OSV",
+"url": "https://t.me/oceancrewjobs/32869",
+"source": "Telegram: @oceancrewjobs",
+"found": [
+"2nd officer",
+"2/o",
+"dpo",
+"2nd off"
+],
+"fp": "fp-4714cb314ae1140f",
+"offshore": true,
+"info": {
+"rank": "2nd Officer / DPO",
+"vessel": "OSV",
+"company": "https://oceancrew.org/vacancies/off…"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-18T04:19:14+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-5406,
-5407
+5408,
+5409,
+5410
 ],
-"last_list": "2026-11-17T21:32:31.791292+00:00",
-"cleared_upto": 5405,
-"last_msg_id": 5407
+"last_list": "2026-11-18T04:40:38.950823+00:00",
+"cleared_upto": 5407,
+"last_msg_id": 5410
 }
