@@ -43815,11 +43815,13 @@
 "last": "2026-11-18",
 "links": {},
 "name": "",
-"off": 7,
+"off": 9,
 "offshore_hint": false,
 "phones": [],
-"so": 7,
+"so": 9,
 "sources": [
+"@CREW_ARIA",
+"@Offshore_Vacancies",
 "@OnlyOffshore",
 "@job_for_seaman",
 "@maritimeforum",
@@ -43827,7 +43829,7 @@
 "@shipscreweu"
 ],
 "telegram": [],
-"total": 7,
+"total": 9,
 "vessels": [
 "Offshore"
 ],
@@ -45820,6 +45822,34 @@
 "total": 0,
 "vessels": [],
 "website": "qshipmaritime.com"
+},
+"qsmglobal.net": {
+"address": "",
+"city": "",
+"co": 0,
+"country": "",
+"emails": [
+"application@qsmglobal.net",
+"𝐚𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧@𝐪𝐬𝐦𝐠𝐥𝐨𝐛𝐚𝐥.𝐧𝐞𝐭"
+],
+"first": "2026-11-18",
+"last": "2026-11-18",
+"links": {},
+"name": "",
+"off": 2,
+"offshore_hint": false,
+"phones": [],
+"so": 0,
+"sources": [
+"@CREW_ARIA",
+"@Offshore_Vacancies"
+],
+"telegram": [],
+"total": 2,
+"vessels": [
+"Offshore"
+],
+"website": ""
 },
 "quantum-sourcing.com": {
 "address": "",
@@ -60490,12 +60520,12 @@
 "tg_hw": {
 "ALPHACREW": 3585,
 "BSMCSCUKRAINE": 4409,
-"CREW_ARIA": 14199,
+"CREW_ARIA": 14202,
 "Crew_Radar": 3485,
 "JobForMariners": 1209,
 "Merchant_Fleet": 652,
 "OffshoreFleetJob": 11087,
-"Offshore_Vacancies": 975,
+"Offshore_Vacancies": 978,
 "OnlyOffshore": 39139,
 "OnlyYacht": 2330,
 "SM_job_center": 2512,
@@ -60523,7 +60553,7 @@
 "marinejobs": 43643,
 "marinejobz": 194156,
 "marineman_ltd": 48421,
-"maritimeforum": 258388,
+"maritimeforum": 258393,
 "merchantNavyrealjob": 265,
 "morehod_ru": 31111,
 "oceancrewjobs": 32880,
@@ -60539,7 +60569,7 @@
 "seajobfinder": 42585,
 "seamenjob": 106494,
 "seamenvacancy": 1390,
-"seavacancies": 25270,
+"seavacancies": 25271,
 "shipjobsindia": 420,
 "shipscreweu": 16712,
 "sidantey": 399,

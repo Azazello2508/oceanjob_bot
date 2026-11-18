@@ -5028,31 +5028,90 @@
 "repeat": false,
 "time": "2026-11-18T16:37:19+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/370475",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-18T18:32:39.934421+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Position:",
+"url": "https://t.me/CREW_ARIA/14202",
+"source": "Telegram: @CREW_ARIA",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-14badcd0db869dc5",
+"offshore": true,
+"info": {
+"rank": "2nd Officer",
+"contract": "Long-term project",
+"email": "HR.executive@orioncapitaldxb.com",
+"company": "orioncapitaldxb.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-18T17:58:04+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "New Senior Officers vacancies",
+"url": "https://t.me/seavacancies/25271",
+"source": "Telegram: @seavacancies",
+"found": [
+"chief officer"
+],
+"fp": "fp-cd9cc7e2b755f8a0",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "LPG, Chemical tanker",
+"joining": "30 Nov",
+"salary": "$11,000-11,500"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-18T18:03:02+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-5613,
-5614,
-5615,
-5616,
-5617,
-5618,
-5619,
-5620,
-5621,
-5622,
-5623,
-5624,
-5625,
-5626,
-5627,
-5628,
-5629,
-5630,
-5631,
-5632
+5633,
+5634,
+5635,
+5636,
+5637,
+5638,
+5639,
+5640,
+5641,
+5642,
+5643,
+5644,
+5645,
+5646,
+5647,
+5648,
+5649,
+5650,
+5651,
+5652
 ],
-"last_list": "2026-11-18T17:18:24.910574+00:00",
-"cleared_upto": 5612,
-"last_msg_id": 5632
+"last_list": "2026-11-18T18:34:44.142833+00:00",
+"cleared_upto": 5632,
+"last_msg_id": 5652
 }
