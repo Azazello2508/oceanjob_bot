@@ -1,10 +1,219 @@
 {
 "date": "2026-11-19",
-"jobs": [],
-"msg_ids": [
-5673
+"jobs": [
+{
+"uk": "",
+"title": "Chief Mate Vacancy on Guard Vessel ORCA Crew Services",
+"url": "https://maritime-union.com/job/233331",
+"source": "maritime-union.com",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"company": "Chief Mate Vacancy on Guard Vessel…"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-18T21:52:27.297558+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer Vacancy on Bunker Tanker TOS PEOPLE",
+"url": "https://maritime-union.com/job/233329",
+"source": "maritime-union.com",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Tanker"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-18T21:52:28.656467+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "2nd Officer / Marine Operator Job on FPSO in Tunisia Offres d’Emploi",
+"url": "https://maritime-union.com/job/233338",
+"source": "maritime-union.com",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "2nd Officer",
+"company": "2nd Officer / Marine Operator Job o…"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-18T21:52:29.872098+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "2nd Officer / Marine Operator Job on FPSO in Tunisia IMMEDIATE OFFSHORE RECRUITMENT | TUNISIA",
+"url": "https://maritime-union.com/job/233337",
+"source": "maritime-union.com",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "2nd Officer",
+"company": "2nd Officer / Marine Operator Job o…"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-18T21:52:30.771811+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer Job on Bulk Carrier Find Sea Jobs",
+"url": "https://maritime-union.com/job/233335",
+"source": "maritime-union.com",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Bulk carrier"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-18T21:52:32.122190+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer Vacancy on VLCC Find Sea Jobs",
+"url": "https://maritime-union.com/job/233334",
+"source": "maritime-union.com",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "VLCC"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-18T21:52:33.348294+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Offshore Vacancies: Master, Chief Officer, Engineers on Tugs & Supply Vessels Aavishka Shipping Private Limited",
+"url": "https://maritime-union.com/job/233348",
+"source": "maritime-union.com",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Tug",
+"company": "Offshore Vacancies: Master, Chief O…"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-18T21:52:34.245121+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer Job - AHTS Offshore Vessel Aavishka Shipping",
+"url": "https://maritime-union.com/job/233346",
+"source": "maritime-union.com",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "AHTS",
+"company": "Chief Officer Job - AHTS Offshore V…"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-18T21:52:34.987878+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "OPEN POSITIONS ONBOARD CRUISE LINER",
+"url": "https://t.me/oceancrewjobs/32881",
+"source": "Telegram: @oceancrewjobs",
+"found": [
+"chief officer"
 ],
-"last_list": "2026-11-18T20:14:16.857808+00:00",
-"cleared_upto": 5672,
-"last_msg_id": 5673
+"fp": "fp-2b2f6a144b4203d4",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 3rd Officer / AB",
+"vessel": "Bulk carrier, AHTS",
+"company": "https://oceancrew.org/vacancies/cru…"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-18T21:43:25+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "NEED CREW FOR CONTAINER CARRIER VESSEL",
+"url": "https://t.me/oceancrewjobs/32882",
+"source": "Telegram: @oceancrewjobs",
+"found": [
+"chief officer",
+"second officer"
+],
+"fp": "fp-b9bd2736847d7acf",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer / 3rd Officer",
+"vessel": "Bulk carrier, Container",
+"company": "NEED CREW FOR CONTAINER CARRIER VES…"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-18T21:43:31+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "WE ARE HIRING ALL RANKS ON CSOV",
+"url": "https://t.me/oceancrewjobs/32883",
+"source": "Telegram: @oceancrewjobs",
+"found": [
+"chief officer",
+"2nd officer",
+"dpo",
+"2nd off"
+],
+"fp": "fp-f59d3efb24c36449",
+"offshore": true,
+"info": {
+"rank": "Chief Officer / 2nd Officer / 3rd Officer",
+"vessel": "PSV, AHTS",
+"company": "https://oceancrew.org/vacancies/off…"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-18T21:43:37+00:00",
+"junior_dp": false
+}
+],
+"msg_ids": [
+5674,
+5675,
+5676,
+5677,
+5678,
+5679,
+5680
+],
+"last_list": "2026-11-18T21:53:45.066479+00:00",
+"cleared_upto": 5673,
+"last_msg_id": 5680
 }
