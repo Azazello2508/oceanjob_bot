@@ -3567,14 +3567,14 @@
 "allcrew.net": {
 "address": "Dm. Donskogo 17, office 3, floor 3",
 "city": "Kaliningrad",
-"co": 58,
+"co": 59,
 "country": "Russia",
 "emails": [
 "cv@allcrew.net",
 "info@allcrew.net"
 ],
 "first": "2026-11-03",
-"last": "2026-11-18",
+"last": "2026-11-19",
 "links": {
 "crewell": "https://crewell.net/en/companies/149331/"
 },
@@ -3598,7 +3598,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 205,
+"total": 206,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -9773,12 +9773,12 @@
 "ua-csc-ode-man@bs-shipmanagement.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-18",
+"last": "2026-11-19",
 "links": {
 "crewell": "https://crewell.net/en/companies/283223/"
 },
 "name": "BSM Crewing",
-"off": 5,
+"off": 7,
 "offshore_hint": false,
 "phones": [
 "+380500169777",
@@ -9786,7 +9786,7 @@
 "+380503977776",
 "+78617308398"
 ],
-"so": 7,
+"so": 8,
 "sources": [
 "@BSMCSCUKRAINE",
 "@cvsenderseaman",
@@ -9797,7 +9797,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 515,
+"total": 519,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -30017,6 +30017,34 @@
 "vessels": [],
 "website": ""
 },
+"name:cssc shipping": {
+"address": "",
+"city": "",
+"co": 0,
+"country": "",
+"emails": [],
+"first": "2026-11-19",
+"last": "2026-11-19",
+"links": {},
+"name": "CSSC Shipping",
+"off": 1,
+"offshore_hint": false,
+"phones": [],
+"so": 0,
+"sources": [
+"@seamenjob"
+],
+"telegram": [],
+"total": 1,
+"vessels": [
+"Bulk",
+"LPG/LNG",
+"Offshore",
+"Passenger",
+"Tanker"
+],
+"website": ""
+},
 "name:cts coating": {
 "address": "Oborishte str.No;28 lev 1",
 "city": "Varna",
@@ -30373,6 +30401,37 @@
 "telegram": [],
 "total": 0,
 "vessels": [],
+"website": ""
+},
+"name:engineer position siberian maritime agency": {
+"address": "",
+"city": "",
+"co": 0,
+"country": "",
+"emails": [],
+"first": "2026-11-19",
+"last": "2026-11-19",
+"links": {},
+"name": "Engineer Position Siberian Maritime Agency",
+"off": 0,
+"offshore_hint": false,
+"phones": [
+"+79230352261",
+"+79230476167",
+"+79236747271",
+"+79236747473",
+"+79960742915",
+"+79994592707"
+],
+"so": 0,
+"sources": [
+"@marinejobs"
+],
+"telegram": [],
+"total": 1,
+"vessels": [
+"Tanker"
+],
 "website": ""
 },
 "name:equator offline russian federation member since: nov 2016 no active vacancies трудоустройство моряков на суда под российским и иностранным флагом круинговый менеджмент судов доставка судового оборудования/снабжения судовладельцам перевозка грузов employ view profile": {
@@ -44279,7 +44338,7 @@
 "wazup@partner-dv.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-18",
+"last": "2026-11-19",
 "links": {
 "crewell": "https://crewell.net/en/companies/284191/"
 },
@@ -44296,7 +44355,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 163,
+"total": 164,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -50512,14 +50571,14 @@
 "smacrewing.com": {
 "address": "Karla Marksa 3, office 305",
 "city": "Omsk, Novorossiysk",
-"co": 4,
+"co": 6,
 "country": "Russia",
 "emails": [
 "crewing@smacrewing.com",
 "cv@smacrewing.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-18",
+"last": "2026-11-19",
 "links": {
 "crewell": "https://crewell.net/en/companies/165163/"
 },
@@ -50536,14 +50595,14 @@
 "+79236747473",
 "+79960742915"
 ],
-"so": 1,
+"so": 2,
 "sources": [
 "@marinejobs",
 "@maritimeforum",
 "crewell.net"
 ],
 "telegram": [],
-"total": 28,
+"total": 32,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -57684,6 +57743,30 @@
 ],
 "website": ""
 },
+"yachtcrew.uk": {
+"address": "",
+"city": "",
+"co": 0,
+"country": "",
+"emails": [
+"steph@yachtcrew.uk"
+],
+"first": "2026-11-19",
+"last": "2026-11-19",
+"links": {},
+"name": "",
+"off": 0,
+"offshore_hint": false,
+"phones": [],
+"so": 0,
+"sources": [
+"@CREW_ARIA"
+],
+"telegram": [],
+"total": 1,
+"vessels": [],
+"website": ""
+},
 "yachtcrewinternational.com": {
 "address": "",
 "city": "",
@@ -58900,6 +58983,7 @@
 "csm baltija": "csmlv.com",
 "csm baltija 09 07 2026 latvia member since: nov 2024 5 active vacancies we at csm baltija are committed to continuously satisfy our principals by ensuring quality manning services which are focused on customers’ requirements with aim of enhan view profile": "name:csm baltija 09 07 2026 latvia member since: nov 2024 5 active vacancies we at csm baltija are committed to continuously satisfy our principals by ensuring quality manning services which are focused on customers’ requirements with aim of enhan view profile",
 "csm-ua": "csm-ua.com",
+"cssc shipping": "name:cssc shipping",
 "cts coating": "name:cts coating",
 "ctv able seaman at offshore operations": "jobatsea.online",
 "ctv orca crew services": "orca-crew.com",
@@ -58988,6 +59072,7 @@
 "engine offline russian federation member since: jan 2018 no active vacancies view profile": "name:engine offline russian federation member since: jan 2018 no active vacancies view profile",
 "engine wartsila ray marine": "raymarinecrewing.com",
 "engineer bosun able seaman marine": "oceancrew.org",
+"engineer position siberian maritime agency": "name:engineer position siberian maritime agency",
 "engineer required mcneill marine": "ipspowerfulpeople.com",
 "engineers vsp tug at offshore operations": "jobatsea.online",
 "epsilon": "epsilonhellas.com",
@@ -60521,8 +60606,8 @@
 "tg_hw": {
 "ALPHACREW": 3585,
 "BSMCSCUKRAINE": 4409,
-"CREW_ARIA": 14202,
-"Crew_Radar": 3485,
+"CREW_ARIA": 14203,
+"Crew_Radar": 3486,
 "JobForMariners": 1209,
 "Merchant_Fleet": 652,
 "OffshoreFleetJob": 11087,
@@ -60551,7 +60636,7 @@
 "job_for_seaman": 17095,
 "jobfor_seamen": 12765,
 "marinecareerorg": 17767,
-"marinejobs": 43652,
+"marinejobs": 43663,
 "marinejobz": 194156,
 "marineman_ltd": 48421,
 "maritimeforum": 258393,
@@ -60563,12 +60648,12 @@
 "offshorevacancies": 47368,
 "oilrigs": 778,
 "olive_crew": 2950,
-"onboard_su": 20810,
+"onboard_su": 20812,
 "pervoemorskoe": 4538,
 "rekamore_su": 165536,
 "roster_marine": 1745,
 "seajobfinder": 42585,
-"seamenjob": 106494,
+"seamenjob": 106495,
 "seamenvacancy": 1390,
 "seavacancies": 25271,
 "shipjobsindia": 420,
