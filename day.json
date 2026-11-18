@@ -4960,31 +4960,99 @@
 "repeat": false,
 "time": "2026-11-18T16:06:39+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "2nd Officer",
+"url": "https://t.me/maritimeforum/258349",
+"source": "Telegram: @maritimeforum",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-6d51b129aa733b5d",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "LNG",
+"contract": "4 months",
+"email": "crew@hncrewing.com",
+"company": "hncrewing.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-18T16:36:03+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://t.me/maritimeforum/258355",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-a745a3d6e7003a91",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Product tanker",
+"contract": "3 months",
+"salary": "$11,637\n",
+"email": "crewing@balticshipping.pl",
+"company": "balticshipping.pl"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-18T16:36:42+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://t.me/maritimeforum/258361",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-959fcd97fda836e4",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"contract": "3 months",
+"salary": "$8,805\n",
+"email": "crewing@balticshipping.pl",
+"company": "balticshipping.pl"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-18T16:37:19+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-5593,
-5594,
-5595,
-5596,
-5597,
-5598,
-5599,
-5600,
-5601,
-5602,
-5603,
-5604,
-5605,
-5606,
-5607,
-5608,
-5609,
-5610,
-5611,
-5612
+5613,
+5614,
+5615,
+5616,
+5617,
+5618,
+5619,
+5620,
+5621,
+5622,
+5623,
+5624,
+5625,
+5626,
+5627,
+5628,
+5629,
+5630,
+5631,
+5632
 ],
-"last_list": "2026-11-18T16:28:20.573717+00:00",
-"cleared_upto": 5592,
-"last_msg_id": 5612
+"last_list": "2026-11-18T17:18:24.910574+00:00",
+"cleared_upto": 5612,
+"last_msg_id": 5632
 }
