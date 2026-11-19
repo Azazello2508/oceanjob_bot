@@ -19924,7 +19924,7 @@
 "n.kudaieva@tospeople.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-19",
+"last": "2026-11-20",
 "links": {
 "crewell": "https://crewell.net/en/companies/231409/"
 },
@@ -19950,7 +19950,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 155,
+"total": 156,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -50927,7 +50927,7 @@
 "cv@smacrewing.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-19",
+"last": "2026-11-20",
 "links": {
 "crewell": "https://crewell.net/en/companies/165163/"
 },
@@ -50951,11 +50951,12 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 33,
+"total": 34,
 "vessels": [
 "Bulk",
 "Chemical",
 "Container",
+"General cargo",
 "Tanker"
 ],
 "website": "smacrewing.com"
@@ -61006,7 +61007,7 @@
 "ALPHACREW": 3587,
 "BSMCSCUKRAINE": 4422,
 "CREW_ARIA": 14227,
-"Crew_Radar": 3512,
+"Crew_Radar": 3513,
 "JobForMariners": 1210,
 "Merchant_Fleet": 658,
 "OffshoreFleetJob": 11087,
@@ -61035,7 +61036,7 @@
 "job_for_seaman": 17106,
 "jobfor_seamen": 12772,
 "marinecareerorg": 17768,
-"marinejobs": 43741,
+"marinejobs": 43744,
 "marinejobz": 194156,
 "marineman_ltd": 48428,
 "maritimeforum": 258776,
