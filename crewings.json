@@ -2717,7 +2717,7 @@
 "ai.mwship.ru": {
 "address": "",
 "city": "",
-"co": 23,
+"co": 24,
 "country": "",
 "emails": [
 "resume@ai.mwship.ru"
@@ -2726,21 +2726,22 @@
 "last": "2026-11-19",
 "links": {},
 "name": "",
-"off": 24,
+"off": 25,
 "offshore_hint": false,
 "phones": [
 "+79654521698",
 "+79687254891",
 "+79687254894"
 ],
-"so": 0,
+"so": 1,
 "sources": [
+"@marinejobs",
 "@morehod_ru",
 "@rekamore_su",
 "@seamenjob"
 ],
 "telegram": [],
-"total": 25,
+"total": 26,
 "vessels": [
 "Offshore",
 "Tug"
@@ -9880,7 +9881,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 553,
+"total": 557,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -13688,7 +13689,7 @@
 "desecrew.com": {
 "address": "Atamana Golovatogo 92",
 "city": "Odesa",
-"co": 19,
+"co": 20,
 "country": "Ukraine",
 "emails": [
 "anna.k@desecrew.com",
@@ -13706,7 +13707,7 @@
 "crewell": "https://crewell.net/en/companies/204752/"
 },
 "name": "DESE Crew Management",
-"off": 55,
+"off": 58,
 "offshore_hint": false,
 "phones": [
 "+380509821218",
@@ -13734,7 +13735,7 @@
 "@offshoreatsea"
 ],
 "telegram": [],
-"total": 121,
+"total": 124,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -15666,7 +15667,7 @@
 "last": "2026-11-19",
 "links": {},
 "name": "Fair Spirit Shipping Ltd",
-"off": 6,
+"off": 7,
 "offshore_hint": false,
 "phones": [],
 "so": 0,
@@ -15674,7 +15675,7 @@
 "@cvsenderseaman"
 ],
 "telegram": [],
-"total": 6,
+"total": 7,
 "vessels": [
 "Offshore",
 "Tug"
@@ -19944,7 +19945,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 153,
+"total": 155,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -23677,7 +23678,7 @@
 "@marinemanapply",
 "@rudomyotova"
 ],
-"total": 177,
+"total": 179,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -24845,12 +24846,12 @@
 "+380639322004",
 "+380956009777"
 ],
-"so": 12,
+"so": 13,
 "sources": [
 "@maritimeforum"
 ],
 "telegram": [],
-"total": 23,
+"total": 24,
 "vessels": [
 "LPG/LNG",
 "Tanker"
@@ -43812,7 +43813,7 @@
 "@Sofia_OliveCrew",
 "@Svetlana_OliveCrew"
 ],
-"total": 387,
+"total": 388,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -49584,24 +49585,24 @@
 "seatrustcrewing@ukr.net": {
 "address": "",
 "city": "",
-"co": 2,
+"co": 4,
 "country": "",
 "emails": [
 "seatrustcrewing@ukr.net"
 ],
 "first": "2026-11-17",
-"last": "2026-11-18",
+"last": "2026-11-19",
 "links": {},
 "name": "",
 "off": 0,
 "offshore_hint": false,
 "phones": [],
-"so": 1,
+"so": 2,
 "sources": [
 "@maritimeforum"
 ],
 "telegram": [],
-"total": 3,
+"total": 6,
 "vessels": [
 "Chemical",
 "LPG/LNG",
@@ -51561,7 +51562,7 @@
 "last": "2026-11-19",
 "links": {},
 "name": "",
-"off": 48,
+"off": 49,
 "offshore_hint": false,
 "phones": [
 "+380937800894",
@@ -51579,7 +51580,7 @@
 "@supermariner_ua"
 ],
 "telegram": [],
-"total": 324,
+"total": 326,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -51986,7 +51987,7 @@
 "status@statusconstanta.ro"
 ],
 "first": "2026-11-03",
-"last": "2026-11-17",
+"last": "2026-11-19",
 "links": {},
 "name": "Status Marine Services",
 "off": 0,
@@ -51999,7 +52000,7 @@
 "@maritimeforum"
 ],
 "telegram": [],
-"total": 11,
+"total": 12,
 "vessels": [
 "Container",
 "LPG/LNG",
@@ -56958,10 +56959,10 @@
 "country": "",
 "emails": [],
 "first": "2026-11-03",
-"last": "2026-11-17",
+"last": "2026-11-19",
 "links": {},
 "name": "Company Aba Crewing",
-"off": 6,
+"off": 7,
 "offshore_hint": false,
 "phones": [],
 "so": 2,
@@ -56971,7 +56972,7 @@
 "telegram": [
 "@tankerjobatsea"
 ],
-"total": 15,
+"total": 16,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -57865,7 +57866,7 @@
 "crewell": "https://crewell.net/en/companies/54631/"
 },
 "name": "Worldwide Recruitment Solutions",
-"off": 173,
+"off": 174,
 "offshore_hint": false,
 "phones": [],
 "so": 13,
@@ -57884,7 +57885,7 @@
 "@maritimeforum"
 ],
 "telegram": [],
-"total": 256,
+"total": 257,
 "uk": 44,
 "vessels": [
 "Dredger",
@@ -58911,6 +58912,7 @@
 "agp international services chennai": "name:agp international services chennai",
 "agricore shipping": "agricorehk.com",
 "agw maritime": "agw.od.ua",
+"ahts non-dp dese crew management": "desecrew.com",
 "aida cruises": "aida.de",
 "aielym maritime group": "aielym.com",
 "aielym maritime group 07 09 2026 hong kong member since: jul 2026 no active vacancies view profile": "name:aielym maritime group 07 09 2026 hong kong member since: jul 2026 no active vacancies view profile",
@@ -60652,6 +60654,7 @@
 "vessel jack-up navis crew management": "navis.eu",
 "vessel psv dese crew management": "desecrew.com",
 "vessel psv marpo crewing": "marpocrew.com.ua",
+"vessel psv navis crew management": "wayatsea.com",
 "vessel psv pelican marine": "pelicanmarine.ch",
 "vessel psv ryan shipmanagement": "ryanship.com",
 "vessel psv viridian maritime": "viridianmaritime.com",
@@ -60991,7 +60994,7 @@
 "queue": [],
 "tg_hw": {
 "ALPHACREW": 3587,
-"BSMCSCUKRAINE": 4418,
+"BSMCSCUKRAINE": 4422,
 "CREW_ARIA": 14227,
 "Crew_Radar": 3512,
 "JobForMariners": 1210,
@@ -61008,11 +61011,11 @@
 "allcrewing": 3822,
 "andreeyVstart": 1421,
 "balticcareer": 5913,
-"crewingua": 45051,
+"crewingua": 45056,
 "crs_vacancies": 3583,
 "cruiseshipjobs": 8,
 "cvcrewcom": 12904,
-"cvsenderseaman": 16565,
+"cvsenderseaman": 16574,
 "ecrewing": 3220,
 "findseajobs": 32570,
 "galaxymaritimeua": 1250,
@@ -61022,25 +61025,25 @@
 "job_for_seaman": 17106,
 "jobfor_seamen": 12772,
 "marinecareerorg": 17767,
-"marinejobs": 43731,
+"marinejobs": 43733,
 "marinejobz": 194156,
-"marineman_ltd": 48421,
-"maritimeforum": 258658,
+"marineman_ltd": 48428,
+"maritimeforum": 258664,
 "merchantNavyrealjob": 265,
-"morehod_ru": 31141,
-"oceancrewjobs": 32888,
+"morehod_ru": 31144,
+"oceancrewjobs": 32890,
 "offshoreatsea": 25338,
 "offshorecv": 1614,
-"offshorevacancies": 47385,
+"offshorevacancies": 47387,
 "oilrigs": 778,
 "olive_crew": 2956,
 "onboard_su": 20827,
 "pervoemorskoe": 4539,
-"rekamore_su": 165662,
+"rekamore_su": 165664,
 "roster_marine": 1746,
 "seajobfinder": 42616,
 "seamenjob": 106536,
-"seamenvacancy": 1391,
+"seamenvacancy": 1393,
 "seavacancies": 25275,
 "shipjobsindia": 420,
 "shipscreweu": 16713,
