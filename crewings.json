@@ -13307,7 +13307,7 @@
 "dandcrewing@gmail.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-13",
+"last": "2026-11-19",
 "links": {},
 "name": "",
 "off": 1,
@@ -13326,7 +13326,7 @@
 "@marinejobs"
 ],
 "telegram": [],
-"total": 8,
+"total": 9,
 "vessels": [
 "Bulk",
 "General cargo",
@@ -13988,7 +13988,7 @@
 "dmmashish@gmail.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-18",
+"last": "2026-11-19",
 "links": {},
 "name": "",
 "off": 0,
@@ -14001,7 +14001,7 @@
 "@marinejobs"
 ],
 "telegram": [],
-"total": 6,
+"total": 7,
 "vessels": [
 "Container",
 "Tanker"
@@ -20778,11 +20778,11 @@
 "jobatsea.online": {
 "address": "",
 "city": "Odesa",
-"co": 6,
+"co": 7,
 "country": "Ukraine",
 "emails": [],
 "first": "2026-11-03",
-"last": "2026-11-18",
+"last": "2026-11-19",
 "links": {
 "ukrcrewing": "https://ukrcrewing.com.ua/en/agency/alpha_crew"
 },
@@ -20796,7 +20796,7 @@
 "ukrcrewing.com.ua"
 ],
 "telegram": [],
-"total": 116,
+"total": 117,
 "uk": 1,
 "vessels": [
 "Dredger",
@@ -34214,11 +34214,11 @@
 "name:oceantrust crewing": {
 "address": "",
 "city": "",
-"co": 8,
+"co": 9,
 "country": "",
 "emails": [],
 "first": "2026-11-08",
-"last": "2026-11-18",
+"last": "2026-11-19",
 "links": {},
 "name": "OceanTrust Crewing",
 "off": 0,
@@ -34228,12 +34228,12 @@
 "+38097213369",
 "+380972133695"
 ],
-"so": 4,
+"so": 5,
 "sources": [
 "@maritimeforum"
 ],
 "telegram": [],
-"total": 12,
+"total": 13,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -41397,7 +41397,7 @@
 "crewell": "https://crewell.net/en/companies/58901/"
 },
 "name": "Navis Crew Management",
-"off": 134,
+"off": 135,
 "offshore_hint": false,
 "phones": [
 "+380507055005",
@@ -41405,7 +41405,7 @@
 "+380735343112",
 "+380735343113"
 ],
-"so": 44,
+"so": 45,
 "sources": [
 "@CREW_ARIA",
 "@Merchant_Fleet",
@@ -41421,7 +41421,7 @@
 "@seamenjob"
 ],
 "telegram": [],
-"total": 136,
+"total": 137,
 "uk": 3,
 "vessels": [
 "Bulk",
@@ -61033,16 +61033,16 @@
 "job_for_seaman": 17106,
 "jobfor_seamen": 12772,
 "marinecareerorg": 17767,
-"marinejobs": 43733,
+"marinejobs": 43736,
 "marinejobz": 194156,
 "marineman_ltd": 48428,
-"maritimeforum": 258748,
+"maritimeforum": 258771,
 "merchantNavyrealjob": 265,
 "morehod_ru": 31144,
 "oceancrewjobs": 32890,
 "offshoreatsea": 25338,
 "offshorecv": 1614,
-"offshorevacancies": 47388,
+"offshorevacancies": 47389,
 "oilrigs": 778,
 "olive_crew": 2956,
 "onboard_su": 20827,

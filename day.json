@@ -6355,33 +6355,120 @@
 "repeat": false,
 "time": "2026-11-19T16:53:24+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "URGENT VACANCIES | LPG TANKER",
+"url": "https://t.me/maritimeforum/258771",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-9a09c5ee3120ff11",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer / 3rd Officer",
+"vessel": "LPG",
+"joining": "Port: Sri Lanka",
+"contract": "4±1 months",
+"salary": "$16,000–16,500\n"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-19T17:48:47+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "OPEN VACANCIES:",
+"url": "https://t.me/marinejobs/43734",
+"source": "Telegram: @marinejobs",
+"found": [],
+"fp": "fp-d66974af4025bd3f",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / AB",
+"vessel": "Bulk carrier",
+"joining": "January/February",
+"salary": "10500 $",
+"email": "dandcrewing@gmail.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-19T17:20:27+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Vacancy code 06",
+"url": "https://t.me/marinejobs/43736",
+"source": "Telegram: @marinejobs",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-de1cbfc2b694545d",
+"offshore": true,
+"info": {
+"rank": "2nd Officer / AB",
+"salary": "s – Negotiable",
+"joining": "ASAP",
+"contract": "45 days",
+"email": "crew@navis.eu",
+"company": "navis.eu"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-19T17:21:45+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "https://jobatsea.online/job/626095/chief-mate-to-join-a-pipe-laying-barge-project-at-sailinga-crewing/",
+"url": "https://t.me/offshorevacancies/47389",
+"source": "Telegram: @offshorevacancies",
+"found": [
+"chief mate"
+],
+"fp": "fp-31204ba302db7497",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Barge"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-19T17:23:38+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-5927,
-5928,
-5929,
-5930,
-5931,
-5932,
-5933,
-5934,
-5935,
-5936,
-5937,
-5938,
-5939,
-5940,
-5941,
-5942,
-5943,
-5944,
-5945,
-5946,
-5947,
-5948
+5949,
+5950,
+5951,
+5952,
+5953,
+5954,
+5955,
+5956,
+5957,
+5958,
+5959,
+5960,
+5961,
+5962,
+5963,
+5964,
+5965,
+5966,
+5967,
+5968,
+5969,
+5970
 ],
-"last_list": "2026-11-19T17:12:38.856423+00:00",
-"cleared_upto": 5926,
-"last_msg_id": 5948
+"last_list": "2026-11-19T18:03:46.678054+00:00",
+"cleared_upto": 5948,
+"last_msg_id": 5970
 }
