@@ -6089,7 +6089,7 @@
 "crew@arjunamaritime.id"
 ],
 "first": "2026-11-07",
-"last": "2026-11-07",
+"last": "2026-11-19",
 "links": {},
 "name": "",
 "off": 0,
@@ -6100,12 +6100,14 @@
 "so": 0,
 "sources": [
 "@seajobfinder",
+"@seamenjob",
 "@shipscreweu"
 ],
 "telegram": [],
-"total": 2,
+"total": 3,
 "vessels": [
 "Chemical",
+"LPG/LNG",
 "Tanker"
 ],
 "website": ""
@@ -15661,10 +15663,10 @@
 "office@fairspirit.ro"
 ],
 "first": "2026-11-13",
-"last": "2026-11-13",
+"last": "2026-11-19",
 "links": {},
 "name": "Fair Spirit Shipping Ltd",
-"off": 5,
+"off": 6,
 "offshore_hint": false,
 "phones": [],
 "so": 0,
@@ -15672,7 +15674,7 @@
 "@cvsenderseaman"
 ],
 "telegram": [],
-"total": 5,
+"total": 6,
 "vessels": [
 "Offshore",
 "Tug"
@@ -18014,7 +18016,7 @@
 "crewell": "https://crewell.net/en/companies/59377/"
 },
 "name": "Gretimybe LTD",
-"off": 17,
+"off": 18,
 "offshore_hint": false,
 "phones": [
 "+37046380288",
@@ -18035,7 +18037,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 50,
+"total": 51,
 "uk": 1,
 "vessels": [
 "Chemical",
@@ -20741,25 +20743,28 @@
 "co": 0,
 "country": "",
 "emails": [
+"cv@jobatsea.com",
 "pca@jobatsea.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-13",
+"last": "2026-11-19",
 "links": {},
 "name": "",
-"off": 0,
+"off": 4,
 "offshore_hint": false,
 "phones": [
 "+380674858702"
 ],
-"so": 0,
+"so": 2,
 "sources": [
 "@CREW_ARIA",
+"@Offshore_Vacancies",
 "@Yacht_Vacancies"
 ],
 "telegram": [],
-"total": 44,
+"total": 48,
 "vessels": [
+"Offshore",
 "Passenger",
 "Ro-Ro/PCTC"
 ],
@@ -44043,7 +44048,7 @@
 "crewell": "https://crewell.net/en/companies/168202/"
 },
 "name": "ORCA Crew Services",
-"off": 135,
+"off": 136,
 "offshore_hint": false,
 "phones": [
 "+38551336497"
@@ -44064,7 +44069,7 @@
 "@seajobfinder"
 ],
 "telegram": [],
-"total": 232,
+"total": 234,
 "uk": 13,
 "vessels": [
 "Dredger",
@@ -44181,7 +44186,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 15,
+"total": 16,
 "vessels": [
 "Bulk",
 "LPG/LNG",
@@ -49906,7 +49911,7 @@
 "crewell": "https://crewell.net/en/companies/64960/"
 },
 "name": "Advance Global Recruitment Ltd",
-"off": 580,
+"off": 581,
 "offshore_hint": false,
 "phones": [],
 "so": 65,
@@ -49927,8 +49932,8 @@
 "telegram": [
 "@cvpro_mailing"
 ],
-"total": 581,
-"uk": 84,
+"total": 582,
+"uk": 85,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -57879,7 +57884,7 @@
 "@maritimeforum"
 ],
 "telegram": [],
-"total": 255,
+"total": 256,
 "uk": 44,
 "vessels": [
 "Dredger",
@@ -60987,12 +60992,12 @@
 "tg_hw": {
 "ALPHACREW": 3587,
 "BSMCSCUKRAINE": 4418,
-"CREW_ARIA": 14225,
+"CREW_ARIA": 14227,
 "Crew_Radar": 3512,
-"JobForMariners": 1209,
+"JobForMariners": 1210,
 "Merchant_Fleet": 658,
 "OffshoreFleetJob": 11087,
-"Offshore_Vacancies": 988,
+"Offshore_Vacancies": 990,
 "OnlyOffshore": 39170,
 "OnlyYacht": 2333,
 "SM_job_center": 2516,
@@ -61007,17 +61012,17 @@
 "crs_vacancies": 3583,
 "cruiseshipjobs": 8,
 "cvcrewcom": 12904,
-"cvsenderseaman": 16562,
+"cvsenderseaman": 16565,
 "ecrewing": 3220,
 "findseajobs": 32570,
 "galaxymaritimeua": 1250,
 "gm_seaman_cv": 2744,
-"help_seafarers": 4909,
+"help_seafarers": 4910,
 "ismira_agency": 440,
 "job_for_seaman": 17106,
 "jobfor_seamen": 12772,
 "marinecareerorg": 17767,
-"marinejobs": 43728,
+"marinejobs": 43731,
 "marinejobz": 194156,
 "marineman_ltd": 48421,
 "maritimeforum": 258658,
@@ -61026,15 +61031,15 @@
 "oceancrewjobs": 32888,
 "offshoreatsea": 25338,
 "offshorecv": 1614,
-"offshorevacancies": 47384,
+"offshorevacancies": 47385,
 "oilrigs": 778,
 "olive_crew": 2956,
 "onboard_su": 20827,
-"pervoemorskoe": 4538,
+"pervoemorskoe": 4539,
 "rekamore_su": 165662,
 "roster_marine": 1746,
 "seajobfinder": 42616,
-"seamenjob": 106535,
+"seamenjob": 106536,
 "seamenvacancy": 1391,
 "seavacancies": 25275,
 "shipjobsindia": 420,
