@@ -6102,13 +6102,14 @@
 ],
 "so": 0,
 "sources": [
+"@marinejobs",
 "@maritimeforum",
 "@seajobfinder",
 "@seamenjob",
 "@shipscreweu"
 ],
 "telegram": [],
-"total": 4,
+"total": 5,
 "vessels": [
 "Chemical",
 "LPG/LNG",
@@ -9884,7 +9885,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 561,
+"total": 564,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -22684,7 +22685,7 @@
 "admin@lighthouse-careers.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-18",
+"last": "2026-11-19",
 "links": {},
 "name": "",
 "off": 0,
@@ -22695,7 +22696,7 @@
 "@OnlyYacht"
 ],
 "telegram": [],
-"total": 6,
+"total": 7,
 "vessels": [],
 "website": ""
 },
@@ -50088,7 +50089,7 @@
 "@shipscreweu"
 ],
 "telegram": [],
-"total": 64,
+"total": 67,
 "vessels": [
 "Offshore",
 "Passenger"
@@ -58516,7 +58517,7 @@
 "hannah@yoacrew.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-18",
+"last": "2026-11-19",
 "links": {},
 "name": "",
 "off": 6,
@@ -58529,7 +58530,7 @@
 "@Yacht_Vacancies"
 ],
 "telegram": [],
-"total": 55,
+"total": 56,
 "vessels": [
 "Chemical",
 "Offshore",
@@ -59343,6 +59344,7 @@
 "concord crewing": "concord.od.ua",
 "concord shipping & trading agencies": "name:concord shipping & trading agencies",
 "concordmarine": "concordmarine.com",
+"contact our crewing": "bs-shipmanagement.com",
 "container fleet dese crew management": "desecrew.com",
 "container ship armada marine services": "armada-holding.com",
 "container ship jenmar crewing agency": "jenmar-crewing.com",
@@ -61010,8 +61012,8 @@
 "OffshoreFleetJob": 11087,
 "Offshore_Vacancies": 990,
 "OnlyOffshore": 39170,
-"OnlyYacht": 2333,
-"SM_job_center": 2516,
+"OnlyYacht": 2338,
+"SM_job_center": 2517,
 "SeaSeaWorks": 3934,
 "Sea_format": 12355,
 "TSMexp": 869,
@@ -61032,8 +61034,8 @@
 "ismira_agency": 440,
 "job_for_seaman": 17106,
 "jobfor_seamen": 12772,
-"marinecareerorg": 17767,
-"marinejobs": 43736,
+"marinecareerorg": 17768,
+"marinejobs": 43741,
 "marinejobz": 194156,
 "marineman_ltd": 48428,
 "maritimeforum": 258776,
@@ -61042,7 +61044,7 @@
 "oceancrewjobs": 32890,
 "offshoreatsea": 25338,
 "offshorecv": 1614,
-"offshorevacancies": 47389,
+"offshorevacancies": 47390,
 "oilrigs": 778,
 "olive_crew": 2956,
 "onboard_su": 20827,
@@ -61056,7 +61058,7 @@
 "shipjobsindia": 420,
 "shipscreweu": 16713,
 "sidantey": 399,
-"supermariner_ua": 3939,
+"supermariner_ua": 3940,
 "truemalina_offshore": 836,
 "ukrcrewing_official": 2394,
 "univis_crewing": 5037,
