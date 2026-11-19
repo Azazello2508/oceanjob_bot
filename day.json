@@ -253,18 +253,110 @@
 "repeat": false,
 "time": "2026-11-19T00:51:10.013639+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "Компания ООО \"Легаси Марин\" приглашает на работу:",
+"url": "https://t.me/rekamore_su/165539",
+"source": "Telegram: @rekamore_su",
+"found": [
+"chief officer",
+"старший помощник"
+],
+"fp": "fp-82a802bf84e95cda",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 3rd Officer / AB",
+"vessel": "Aframax",
+"salary": "11 300 USD",
+"contract": "4 + 1 месяц",
+"company": "ООО \"Легаси Марин\""
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-19T04:12:04+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Компания ООО «Смарт Шиппинг» приглашает на работу:",
+"url": "https://t.me/rekamore_su/165543",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-711cb496830ef3f0",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Tanker",
+"salary": "180 000 рублей",
+"joining": "в Темрюке в начале декабря",
+"email": "anastasya_afanaseva@mail.ru",
+"company": "ООО «Смарт Шиппинг»"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-19T04:20:08+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Компания ООО «Смарт Шиппинг» приглашает на работу:",
+"url": "https://t.me/rekamore_su/165544",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-55fe3d367ae78973",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Tanker",
+"salary": "300 000 рублей + 35% за район…",
+"joining": "в Темрюке в начале декабря",
+"email": "anastasya_afanaseva@mail.ru",
+"company": "ООО «Смарт Шиппинг»"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-19T04:20:11+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Компания ООО «Борская судоходная компания» приглашает на работу:",
+"url": "https://t.me/rekamore_su/165545",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-76b298ce208cae85",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"salary": "обсуждается при собеседовании",
+"joining": "СРОЧНАЯ , г. Городец, Нижегоро",
+"contract": "4 месяца",
+"email": "kadry@bsklogistic.ru",
+"company": "bsklogistic.ru"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-19T04:22:03+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-5681,
-5682,
-5683,
-5684,
-5685,
-5686,
-5687
+5688,
+5689,
+5690,
+5691,
+5692,
+5693,
+5694
 ],
-"last_list": "2026-11-19T00:52:20.595044+00:00",
-"cleared_upto": 5680,
-"last_msg_id": 5687
+"last_list": "2026-11-19T04:39:49.905407+00:00",
+"cleared_upto": 5687,
+"last_msg_id": 5694
 }
