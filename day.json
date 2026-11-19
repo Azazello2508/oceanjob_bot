@@ -202,18 +202,69 @@
 "repeat": false,
 "time": "2026-11-18T21:43:37+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "2nd Officer",
+"url": "https://seajobs.ru/ru/vacancy/18288/2nd-officer-crude-oil-tanker",
+"source": "seajobs.ru",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Crude oil tanker"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-19T00:51:08.859764+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "2nd Officer",
+"url": "https://seajobs.ru/ru/vacancy/18285/2nd-officer-chemicaloil-products-tanker",
+"source": "seajobs.ru",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Chemical tanker"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-19T00:51:09.422227+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "2nd Officer",
+"url": "https://seajobs.ru/ru/vacancy/18286/2nd-officer-crude-oil-tanker",
+"source": "seajobs.ru",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Crude oil tanker"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-19T00:51:10.013639+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-5674,
-5675,
-5676,
-5677,
-5678,
-5679,
-5680
+5681,
+5682,
+5683,
+5684,
+5685,
+5686,
+5687
 ],
-"last_list": "2026-11-18T21:53:45.066479+00:00",
-"cleared_upto": 5673,
-"last_msg_id": 5680
+"last_list": "2026-11-19T00:52:20.595044+00:00",
+"cleared_upto": 5680,
+"last_msg_id": 5687
 }
