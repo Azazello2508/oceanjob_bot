@@ -12075,20 +12075,21 @@
 "info@crew-tide.com"
 ],
 "first": "2026-11-20",
-"last": "2026-11-20",
+"last": "2026-11-21",
 "links": {},
 "name": "CrewTide Maritime",
-"off": 3,
+"off": 4,
 "offshore_hint": false,
 "phones": [],
 "so": 0,
 "sources": [
 "@OnlyOffshore",
+"@marinejobs",
 "@maritimeforum",
 "@seajobfinder"
 ],
 "telegram": [],
-"total": 3,
+"total": 4,
 "vessels": [
 "Offshore"
 ],
@@ -56366,7 +56367,7 @@
 "info@veratamaglobalmandiri.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-20",
+"last": "2026-11-21",
 "links": {
 "crewell": "https://crewell.net/en/companies/203612/"
 },
@@ -56376,15 +56377,17 @@
 "phones": [],
 "so": 0,
 "sources": [
+"@cvsenderseaman",
 "@marinejobs",
 "@maritimeforum",
 "@seamenjob",
 "crewell.net"
 ],
 "telegram": [],
-"total": 9,
+"total": 10,
 "vessels": [
 "Chemical",
+"General cargo",
 "LPG/LNG",
 "Tanker"
 ],
@@ -61520,7 +61523,7 @@
 "crs_vacancies": 3588,
 "cruiseshipjobs": 8,
 "cvcrewcom": 12904,
-"cvsenderseaman": 16699,
+"cvsenderseaman": 16700,
 "ecrewing": 3227,
 "findseajobs": 32570,
 "galaxymaritimeua": 1250,
@@ -61530,10 +61533,10 @@
 "job_for_seaman": 17115,
 "jobfor_seamen": 12783,
 "marinecareerorg": 17769,
-"marinejobs": 43828,
+"marinejobs": 43829,
 "marinejobz": 194156,
 "marineman_ltd": 48435,
-"maritimeforum": 259063,
+"maritimeforum": 259073,
 "merchantNavyrealjob": 265,
 "morehod_ru": 31168,
 "oceancrewjobs": 32921,
@@ -61554,7 +61557,7 @@
 "shipscreweu": 16721,
 "sidantey": 399,
 "supermariner_ua": 3944,
-"truemalina_offshore": 839,
+"truemalina_offshore": 840,
 "ukrcrewing_official": 2395,
 "univis_crewing": 5041,
 "vesselsea": 3158,
