@@ -12916,7 +12916,7 @@
 "csm-ua.com": {
 "address": "3 Sabanskiy Lane, Office 11n",
 "city": "Odessa",
-"co": 131,
+"co": 133,
 "country": "Ukraine",
 "emails": [
 "cv@csm-idn.com",
@@ -12927,7 +12927,7 @@
 "t.kobzar@csm-ua.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-20",
+"last": "2026-11-21",
 "links": {
 "crewell": "https://crewell.net/en/companies/262765/"
 },
@@ -12962,7 +12962,7 @@
 "telegram": [
 "@sitelia_world"
 ],
-"total": 307,
+"total": 309,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -13807,14 +13807,14 @@
 "anna.k@desecrew.com",
 "annatasya@desecrew.com",
 "application@trident-maritime.com",
+"baris.tatar@desecrew.com",
 "crew@navis.eu",
 "cv@alphacrew.com",
 "cv@desecrew.com",
-"cv@ojcrew.com",
-"cv@swanmarineservices.com"
+"cv@ojcrew.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-20",
+"last": "2026-11-21",
 "links": {
 "crewell": "https://crewell.net/en/companies/204752/"
 },
@@ -13847,7 +13847,7 @@
 "@offshoreatsea"
 ],
 "telegram": [],
-"total": 133,
+"total": 134,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -36712,6 +36712,32 @@
 "vessels": [],
 "website": ""
 },
+"name:support us maritime": {
+"address": "",
+"city": "",
+"co": 0,
+"country": "",
+"emails": [],
+"first": "2026-11-21",
+"last": "2026-11-21",
+"links": {},
+"name": "Support US Maritime",
+"off": 1,
+"offshore_hint": false,
+"phones": [],
+"so": 0,
+"sources": [
+"@seamenjob"
+],
+"telegram": [],
+"total": 1,
+"vessels": [
+"Bulk",
+"Offshore",
+"Tanker"
+],
+"website": ""
+},
 "name:swan marine": {
 "address": "",
 "city": "",
@@ -43815,12 +43841,12 @@
 "fin.maguire@selectoffshore.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-20",
+"last": "2026-11-21",
 "links": {
 "crewell": "https://crewell.net/en/companies/384531/"
 },
 "name": "Offshore Operations Limited",
-"off": 105,
+"off": 106,
 "offshore_hint": false,
 "phones": [
 "+380674264056"
@@ -43841,7 +43867,7 @@
 "@seamenjob"
 ],
 "telegram": [],
-"total": 105,
+"total": 106,
 "uk": 24,
 "vessels": [
 "Dredger",
@@ -48295,9 +48321,11 @@
 "city": "Portsaid",
 "co": 0,
 "country": "Egypt",
-"emails": [],
+"emails": [
+"crewing@saratoga-eg.com"
+],
 "first": "2026-11-03",
-"last": "",
+"last": "2026-11-21",
 "links": {
 "crewell": "https://crewell.net/en/companies/191988/"
 },
@@ -48307,11 +48335,14 @@
 "phones": [],
 "so": 0,
 "sources": [
+"@cvsenderseaman",
 "crewell.net"
 ],
 "telegram": [],
-"total": 0,
-"vessels": [],
+"total": 2,
+"vessels": [
+"Container"
+],
 "website": "saratoga-eg.com"
 },
 "sbmmarineservices.com": {
@@ -60938,6 +60969,7 @@
 "sumaser international joint stock": "sumaser.vn",
 "suntech ship managment india private": "suntech-maritime.com",
 "supply vessel 12256 eur at gretimybe": "jobatsea.online",
+"support us maritime": "name:support us maritime",
 "support vessel orca crew services": "orca-crew.com",
 "support vessel stargate crewing agency": "stargate-agency.ro",
 "survey vessel navis crew management": "navis.eu",
@@ -61488,7 +61520,7 @@
 "crs_vacancies": 3588,
 "cruiseshipjobs": 8,
 "cvcrewcom": 12904,
-"cvsenderseaman": 16695,
+"cvsenderseaman": 16699,
 "ecrewing": 3227,
 "findseajobs": 32570,
 "galaxymaritimeua": 1250,
@@ -61498,13 +61530,13 @@
 "job_for_seaman": 17115,
 "jobfor_seamen": 12783,
 "marinecareerorg": 17769,
-"marinejobs": 43823,
+"marinejobs": 43828,
 "marinejobz": 194156,
 "marineman_ltd": 48435,
 "maritimeforum": 259063,
 "merchantNavyrealjob": 265,
 "morehod_ru": 31168,
-"oceancrewjobs": 32917,
+"oceancrewjobs": 32921,
 "offshoreatsea": 25338,
 "offshorecv": 1616,
 "offshorevacancies": 47403,
@@ -61515,7 +61547,7 @@
 "rekamore_su": 165783,
 "roster_marine": 1746,
 "seajobfinder": 42644,
-"seamenjob": 106579,
+"seamenjob": 106580,
 "seamenvacancy": 1393,
 "seavacancies": 25275,
 "shipjobsindia": 420,
