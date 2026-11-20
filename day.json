@@ -5064,31 +5064,489 @@
 "repeat": false,
 "time": "2026-11-20T16:20:59+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer on Bulk carrier",
+"url": "https://crewell.net/en/vacancies/467213/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Bulk carrier"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-20T17:25:51.904946+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/370750",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-20T17:25:54.562320+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/370751",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-20T17:25:55.910790+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "2nd Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/370752",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-20T17:25:57.334794+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer — TSM",
+"url": "https://seajobs.pro/jobs/chief-officer-tsm-0e6c6b1d-ef9e-4793-b982-01d372da48ae",
+"source": "seajobs.pro",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-20T17:27:01.239316+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "3rd Officer / DPO — DSV DP2",
+"url": "https://seajobs.pro/jobs/3rd-officer-dpo-dsv-dp2-8d34deb3-3cfc-4e73-b1ef-f485d656ba8b",
+"source": "seajobs.pro",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "3rd Officer / DPO",
+"vessel": "DSV"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-20T17:27:01.596755+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "COLUMBIA Shipmanagement Ukraine are seeking to",
+"url": "https://t.me/maritimeforum/259012",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-d9314c2b4e7db23b",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"joining": "01.02.2027",
+"contract": "4+/-1 months",
+"email": "forcv@csm-ua.com",
+"company": "csm-ua.com"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-20T16:50:43+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "OPEN POSITION in COLUMBIA Shipmanagement Ukraine:",
+"url": "https://t.me/maritimeforum/259014",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-921d9ac0767b28a5",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Bulk carrier",
+"joining": "15.01.2027",
+"contract": "4+/-1 months",
+"email": "forcv@csm-ua.com",
+"company": "csm-ua.com"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-20T16:58:09+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://t.me/maritimeforum/259015",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-58536275c6560c36",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Crude oil tanker",
+"contract": "3 months",
+"salary": "$12,600\n",
+"email": "applications@mw-maritime.com",
+"company": "mw-maritime.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-20T17:09:04+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "2nd Officer",
+"url": "https://t.me/maritimeforum/259019",
+"source": "Telegram: @maritimeforum",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-85ced9bba1316bf1",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Chemical tanker",
+"contract": "5 months",
+"salary": "$4,000–4,600\n",
+"email": "applications@vitamaritime.com.ua",
+"company": "vitamaritime.com.ua"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-20T17:09:31+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://t.me/maritimeforum/259026",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-223a6a3e8ab59332",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"contract": "4 months",
+"salary": "$7,900–9,331\n",
+"email": "shippinginfo@chipolbrok.com.pl",
+"company": "chipolbrok.com.pl"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-20T17:10:24+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://t.me/maritimeforum/259030",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-8860ec58175abe92",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo",
+"contract": "6 months",
+"salary": "$5,700\n",
+"email": "crew@mscrewing.com",
+"company": "mscrewing.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-20T17:10:49+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "2nd Officer",
+"url": "https://t.me/maritimeforum/259033",
+"source": "Telegram: @maritimeforum",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-ca071fb6481409de",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Container",
+"contract": "4 months",
+"salary": "$3,700\n",
+"email": "crew@poseidonagency.com",
+"company": "poseidonagency.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-20T17:11:10+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://t.me/maritimeforum/259040",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-de16f6d24663db54",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Bulk carrier",
+"contract": "5 months",
+"salary": "$7,000–7,700\n",
+"email": "job@l-stream.com.ua",
+"company": "l-stream.com.ua"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-20T17:11:53+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://t.me/maritimeforum/259044",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-d79976316e20b462",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "MPP",
+"contract": "3–4 months",
+"email": "info@oceanlink.com.ua",
+"company": "oceanlink.com.ua"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-20T17:12:19+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://t.me/maritimeforum/259047",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-ee999011bc56fdeb",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Bulk carrier",
+"contract": "4 months",
+"email": "crew.odessa@wilhelmsen.com",
+"company": "wilhelmsen.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-20T17:12:38+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://t.me/maritimeforum/259050",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-c6c89b7271e31c79",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Container",
+"contract": "4 months",
+"email": "cv@bims.lv",
+"company": "bims.lv"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-20T17:12:58+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "OPEN VACANCIES:",
+"url": "https://t.me/marinejobs/43821",
+"source": "Telegram: @marinejobs",
+"found": [],
+"fp": "fp-2f2313dec7076cdb",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / AB",
+"vessel": "Bulk carrier, PCTC",
+"joining": "03.12 in Shanghai",
+"salary": "7200 EUR",
+"email": "dandcrewing@gmail.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-20T17:21:13+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "NEW PCTC VESSEL | DUAL FUEL | SENIOR OFFICERS",
+"url": "https://t.me/seamenjob/106576",
+"source": "Telegram: @seamenjob",
+"found": [
+"chief officer"
+],
+"fp": "fp-75b0041729fc4400",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Ro-Ro, PCTC",
+"joining": "end of November 2026 -beg of D",
+"email": "forcv@csm-ua.com",
+"company": "csm-ua.com"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-20T16:44:35+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "NEW PCTC VESSEL |SENIOR OFFICERS",
+"url": "https://t.me/seamenjob/106577",
+"source": "Telegram: @seamenjob",
+"found": [
+"chief officer"
+],
+"fp": "fp-726b56e8d1abafbf",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Ro-Ro, PCTC",
+"joining": "01 December 2026 in Turkey – T",
+"email": "forcv@csm-ua.com",
+"company": "csm-ua.com"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-20T16:46:08+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "𝗔𝗟𝗣𝗛𝗔 𝗖𝗥𝗘𝗪 𝗚𝗥𝗢𝗨𝗣 𝗜𝗦 𝗟𝗢𝗢𝗞𝗜𝗡𝗚 𝗙𝗢𝗥:",
+"url": "https://t.me/ALPHACREW/3590",
+"source": "Telegram: @ALPHACREW",
+"found": [
+"sdpo",
+"dpo"
+],
+"fp": "fp-e469c0f755ed8481",
+"offshore": true,
+"info": {
+"rank": "Chief Officer / SDPO / AB",
+"joining": "IN JANUARY 2027",
+"contract": "TBA",
+"email": "cv@alphacrew.com",
+"company": "alphacrew.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-20T17:04:01+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "OPEN POSITIONS",
+"url": "https://t.me/cvsenderseaman/16692",
+"source": "Telegram: @cvsenderseaman",
+"found": [
+"chief officer",
+"second officer"
+],
+"fp": "fp-3323a34a142f3bf6",
+"offshore": true,
+"info": {
+"rank": "Chief Officer / 2nd Officer",
+"vessel": "Crew boat",
+"joining": "ASAP",
+"email": "jobs@hightiideship.com",
+"company": "hightiideship.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-20T16:50:59+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-6216,
-6217,
-6218,
-6219,
-6220,
-6221,
-6222,
-6223,
-6224,
-6225,
-6226,
-6227,
-6228,
-6229,
-6230,
-6231,
-6232,
-6233,
-6234,
-6235
+6236,
+6237,
+6238,
+6239,
+6240,
+6241,
+6242,
+6243,
+6244,
+6245,
+6246,
+6247,
+6248,
+6249,
+6250,
+6251,
+6252,
+6253,
+6254,
+6255
 ],
-"last_list": "2026-11-20T16:37:43.431722+00:00",
-"cleared_upto": 6215,
-"last_msg_id": 6235
+"last_list": "2026-11-20T17:28:19.056149+00:00",
+"cleared_upto": 6235,
+"last_msg_id": 6255
 }
