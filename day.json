@@ -5594,31 +5594,68 @@
 "repeat": false,
 "time": "2026-11-20T18:17:41+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/370760",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-20T19:29:14.300046+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Position publishing service was stopped for the night.",
+"url": "https://t.me/marinecareerorg/17769",
+"source": "Telegram: @marinecareerorg",
+"found": [
+"chief officer",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-1357f2ae91665759",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer / AB",
+"vessel": "LPG, Bulk carrier"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-20T19:00:58+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-6256,
-6257,
-6258,
-6259,
-6260,
-6261,
-6262,
-6263,
-6264,
-6265,
-6266,
-6267,
-6268,
-6269,
-6270,
-6271,
-6272,
-6273,
-6274,
-6275
+6276,
+6277,
+6278,
+6279,
+6280,
+6281,
+6282,
+6283,
+6284,
+6285,
+6286,
+6287,
+6288,
+6289,
+6290,
+6291,
+6292,
+6293,
+6294,
+6295
 ],
-"last_list": "2026-11-20T18:41:03.953171+00:00",
-"cleared_upto": 6255,
-"last_msg_id": 6275
+"last_list": "2026-11-20T19:31:24.282422+00:00",
+"cleared_upto": 6275,
+"last_msg_id": 6295
 }
