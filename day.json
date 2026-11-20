@@ -1191,6 +1191,207 @@
 "repeat": false,
 "time": "2026-11-20T07:16:40+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "2nd Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/370649",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-20T07:53:48.468415+00:00"
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://seajobs.ru/ru/vacancy/18344/chief-officer-chemicaloil-products-tanker",
+"source": "seajobs.ru",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Chemical tanker"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-20T07:54:02.022137+00:00"
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://seajobs.ru/ru/vacancy/18345/chief-officer-chemicaloil-products-tanker",
+"source": "seajobs.ru",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Chemical tanker"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-20T07:54:03.229667+00:00"
+},
+{
+"uk": "",
+"title": "2nd Officer for Jack-Up Barge / PSV / AHTS Vessels",
+"url": "https://oceancrew.org/vacancies/offshore/2nd-officer/2nd-officer-for-jack-up-barge-psv-ahts-vessels_20-11-2026",
+"source": "oceancrew.org",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "2nd Officer",
+"vessel": "PSV, AHTS"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-20T07:54:17.565340+00:00"
+},
+{
+"uk": "",
+"title": "2nd Officer / SDPO for Jack-Up Barge / PSV / AHTS Vessels",
+"url": "https://oceancrew.org/vacancies/offshore/sdpo/2nd-officer-sdpo-for-jack-up-barge-psv-ahts-vessels_20-11-2026",
+"source": "oceancrew.org",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "2nd Officer / SDPO",
+"vessel": "PSV, AHTS"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-20T07:54:19.464043+00:00"
+},
+{
+"uk": "",
+"title": "Chief Officer for Jack-Up Barge / PSV / AHTS Vessels",
+"url": "https://oceancrew.org/vacancies/offshore/chief-officer/chief-officer-for-jack-up-barge-psv-ahts-vessels_20-11-2026",
+"source": "oceancrew.org",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "PSV, AHTS"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-20T07:54:21.277544+00:00"
+},
+{
+"uk": "",
+"title": "WE URGENTLY NEED",
+"url": "https://t.me/maritimeforum/258801",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-4d4d2391a09ec4e9",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "LNG",
+"email": "companyUkraine@ukr.net"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-20T07:52:15+00:00"
+},
+{
+"uk": "",
+"title": "PACIFIC GAS | LNG • VLGC • LEG",
+"url": "https://t.me/maritimeforum/258802",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-239e98170480858b",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "LNG",
+"joining": "НАПРИКІНЦІ ЛИСТОПАДА",
+"salary": "$18,500",
+"email": "companyUkraine@ukr.net"
+},
+"new": true,
+"repeat": true,
+"time": "2026-11-20T07:52:15+00:00"
+},
+{
+"uk": "",
+"title": "Anglo-Eastern",
+"url": "https://t.me/marinejobs/43752",
+"source": "Telegram: @marinejobs",
+"found": [
+"chief officer",
+"2nd mate",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-1b6ffb9307889347",
+"offshore": true,
+"info": {
+"rank": "Chief Officer / 2nd Officer / AB",
+"vessel": "OSV, Tug",
+"email": "recruitmentmnl@angloeastern.com",
+"company": "angloeastern.com"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-20T07:31:03+00:00"
+},
+{
+"uk": "",
+"title": "CHIEF OFFICER",
+"url": "https://t.me/cvsenderseaman/16592",
+"source": "Telegram: @cvsenderseaman",
+"found": [
+"chief officer"
+],
+"fp": "fp-a002fb4d518f6ac1",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Chemical tanker",
+"salary": "Negotiable",
+"joining": "ASAP",
+"contract": "3 months",
+"email": "crew@tmk-romania.com",
+"company": "tmk-romania.com"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-20T07:48:40+00:00"
+},
+{
+"uk": "",
+"title": "Crew Required for Self-Propelled Barge",
+"url": "https://t.me/oceancrewjobs/32902",
+"source": "Telegram: @oceancrewjobs",
+"found": [
+"chief officer",
+"second officer"
+],
+"fp": "fp-c8927bf020a8d57b",
+"offshore": true,
+"info": {
+"rank": "Chief Officer / 2nd Officer / 3rd Officer",
+"vessel": "Barge",
+"company": "Crew Required for Self-Propelled Ba…"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-20T07:47:31+00:00"
 }
 ],
 "msg_ids": [
