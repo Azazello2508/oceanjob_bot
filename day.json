@@ -3761,29 +3761,256 @@
 "repeat": false,
 "time": "2026-11-20T12:44:58+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer on Crude oil tanker",
+"url": "https://crewell.net/en/vacancies/467192/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Crude oil tanker"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-20T14:04:01.654977+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/370714",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-20T14:04:04.116988+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "2nd Officer - Container vessels",
+"url": "https://seajobs.pro/jobs/2nd-officer-container-vessels-f0e8f6a2-c520-45cf-8754-9a9b3cf6b879",
+"source": "seajobs.pro",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Container"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-20T14:04:59.383192+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "2nd Officer — LPG Carrier",
+"url": "https://seajobs.pro/jobs/2nd-officer-lpg-carrier-bc1cce90-551e-429e-9534-87728b3f8188",
+"source": "seajobs.pro",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "LPG"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-20T14:04:59.730913+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer – Container Vessels",
+"url": "https://seajobs.pro/jobs/chief-officer-container-vessels-3ec12109-b526-441a-b889-2c3275580033",
+"source": "seajobs.pro",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Container"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-20T14:05:00.015433+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "SECOND OFFICER (2/O)Chemical tanker - November ASAP",
+"url": "https://crewing.portalmorski.pl/en/sea-jobs/second-officer-2-ochemical-tanker-november-asap/",
+"source": "portalmorski.pl",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Chemical tanker"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-20T14:05:05.527508+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "2/O – CHEMICAL TANKER",
+"url": "https://t.me/balticcareer/5957",
+"source": "Telegram: @balticcareer",
+"found": [
+"2/o"
+],
+"fp": "fp-c745a7556fb808f8",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Chemical tanker",
+"salary": "5200 USD / month",
+"contract": "4 months"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-20T13:29:01+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "2/O – OIL TANKER",
+"url": "https://t.me/balticcareer/5961",
+"source": "Telegram: @balticcareer",
+"found": [
+"2/o"
+],
+"fp": "fp-3d70c506913148bf",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Tanker",
+"salary": "2825 GBP / month",
+"contract": "6 weeks on/off (+ 5-6 day"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-20T13:51:39+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "https://jobatsea.online/job/626154/second-officer-dpo-to-join-a-diving-support-vessel-dsv-at-viridian-maritime/",
+"url": "https://t.me/offshorevacancies/47397",
+"source": "Telegram: @offshorevacancies",
+"found": [
+"second officer",
+"dpo"
+],
+"fp": "fp-6ca2c003e94000e4",
+"offshore": true,
+"info": {
+"rank": "2nd Officer / DPO",
+"vessel": "DSV",
+"company": "https://jobatsea.online/job/626154/…"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-20T13:53:36+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "https://jobatsea.online/job/626152/oiler-for-ahts-dp2-at-atlas-nexwave/",
+"url": "https://t.me/offshorevacancies/47398",
+"source": "Telegram: @offshorevacancies",
+"found": [
+"2/o"
+],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "2nd Officer",
+"vessel": "AHTS"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-20T14:03:06+00:00",
+"junior_dp": false
+},
+{
+"uk": "…UK, Danish & Polish crew mix Requirements: • UK & EU right to work • GWO – Working at Height & Sea Survival • V…",
+"title": "Crane Op./AB/Gangway/ form 10th Dec, 2026, ideally for the entire lenght of the project which is about 2 months.",
+"url": "https://t.me/gm_seaman_cv/2751",
+"source": "Telegram: @gm_seaman_cv",
+"found": [],
+"fp": "fp-957efa4b8504c413",
+"offshore": true,
+"info": {
+"rank": "AB",
+"vessel": "Jack-up",
+"joining": "location",
+"email": "info@offshorecrew.no",
+"company": "offshorecrew.no"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-20T13:18:55+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "SECOND OFFICER",
+"url": "https://t.me/cvsenderseaman/16659",
+"source": "Telegram: @cvsenderseaman",
+"found": [
+"second officer"
+],
+"fp": "fp-5ba657cd40834c20",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Container",
+"salary": "Negotiable",
+"joining": "ASAP",
+"email": "career@fastramarine.ro",
+"company": "fastramarine.ro"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-20T13:56:58+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-6140,
-6141,
-6142,
-6143,
-6144,
-6145,
-6146,
-6147,
-6148,
-6149,
-6150,
-6151,
-6152,
-6153,
-6154,
-6155,
-6156,
-6157
+6158,
+6159,
+6160,
+6161,
+6162,
+6163,
+6164,
+6165,
+6166,
+6167,
+6168,
+6169,
+6170,
+6171,
+6172,
+6173,
+6174,
+6175,
+6176
 ],
-"last_list": "2026-11-20T13:15:52.372503+00:00",
-"cleared_upto": 6139,
-"last_msg_id": 6157
+"last_list": "2026-11-20T14:06:20.489644+00:00",
+"cleared_upto": 6157,
+"last_msg_id": 6176
 }
