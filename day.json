@@ -4170,30 +4170,423 @@
 "repeat": false,
 "time": "2026-11-20T14:50:59+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/370726",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-20T15:44:55.639766+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/370727",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-20T15:44:56.912313+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "2nd Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/370729",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-20T15:44:58.338029+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "VLGC FLEET",
+"url": "https://t.me/maritimeforum/258851",
+"source": "Telegram: @maritimeforum",
+"found": [
+"2nd off"
+],
+"fp": "fp-07c8fe8fe28f9ab0",
+"offshore": false,
+"info": {
+"rank": "2nd Officer / 3rd Officer / AB",
+"salary": "+ Bonus + HRA !!!",
+"joining": "Port: Singapore / South Korea",
+"email": "office@seamanwork.com",
+"company": "seamanwork.com"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-20T15:08:52+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Container Ship",
+"url": "https://t.me/maritimeforum/258852",
+"source": "Telegram: @maritimeforum",
+"found": [
+"2nd off"
+],
+"fp": "fp-f9c7dcb5dabc2221",
+"offshore": false,
+"info": {
+"rank": "2nd Officer / 3rd Officer",
+"vessel": "Container",
+"joining": "Port: Port Everglades, USA",
+"salary": "7 500 – 8 000 $",
+"email": "office@seamanwork.com",
+"company": "seamanwork.com"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-20T15:09:00+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "CRUDE OIL TANKER",
+"url": "https://t.me/maritimeforum/258853",
+"source": "Telegram: @maritimeforum",
+"found": [
+"2nd off"
+],
+"fp": "fp-44bc38dd75378b37",
+"offshore": false,
+"info": {
+"rank": "2nd Officer / 3rd Officer / AB",
+"vessel": "Crude oil tanker",
+"salary": "+ Bonus + HRA !!!",
+"email": "office@seamanwork.com",
+"company": "seamanwork.com"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-20T15:09:08+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Flag: Malta",
+"url": "https://t.me/maritimeforum/258854",
+"source": "Telegram: @maritimeforum",
+"found": [
+"c/o"
+],
+"fp": "fp-7979493d5198f1b3",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "LNG",
+"joining": "TBA",
+"salary": "22 000 - 24 000 $",
+"email": "office@seamanwork.com",
+"company": "seamanwork.com"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-20T15:09:16+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "OPEN VACANCY – 2nd Officer / DPO (DP Advanced)",
+"url": "https://t.me/seajobfinder/42641",
+"source": "Telegram: @seajobfinder",
+"found": [
+"2nd officer",
+"dpo",
+"dp basic",
+"2nd off"
+],
+"fp": "fp-7cfbc23a50362997",
+"offshore": true,
+"info": {
+"rank": "2nd Officer / DPO / DP Basic/Induction",
+"vessel": "Bulk carrier, PSV",
+"salary": "€7,400 gross per month",
+"joining": "Around 3 - 4 December 2026 for",
+"contract": "5 weeks on / 5 weeks off",
+"email": "crewing@sailinga.lt",
+"company": "sailinga.lt"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-20T15:33:59+00:00",
+"junior_dp": true
+},
+{
+"uk": "",
+"title": "We have below urgent requirement:",
+"url": "https://t.me/seajobfinder/42642",
+"source": "Telegram: @seajobfinder",
+"found": [
+"dpo"
+],
+"fp": "fp-c0d86650667064ec",
+"offshore": true,
+"info": {
+"rank": "DPO",
+"vessel": "Crew boat",
+"email": "applications@ryanship.com",
+"company": "ryanship.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-20T15:35:02+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Position:",
+"url": "https://t.me/CREW_ARIA/14235",
+"source": "Telegram: @CREW_ARIA",
+"found": [
+"second officer",
+"dpo"
+],
+"fp": "fp-39977f8358311949",
+"offshore": true,
+"info": {
+"rank": "2nd Officer / DPO",
+"vessel": "PSV, AHTS",
+"joining": "07.12.2026",
+"contract": "6 weeks",
+"email": "hr.vacancies@tdw.com",
+"company": "tdw.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-20T15:37:19+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Position:",
+"url": "https://t.me/CREW_ARIA/14236",
+"source": "Telegram: @CREW_ARIA",
+"found": [
+"2nd officer",
+"dpo",
+"dp basic",
+"2nd off"
+],
+"fp": "fp-2295c2366921e625",
+"offshore": true,
+"info": {
+"rank": "2nd Officer / DPO / DP Basic/Induction",
+"vessel": "Bulk carrier, PSV",
+"salary": "€7,400 gross per month",
+"joining": "Around 3 - 4 December 2026 for",
+"contract": "5 weeks on  5 weeks off",
+"email": "crewing@sailinga.lt",
+"company": "sailinga.lt"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-20T15:39:17+00:00",
+"junior_dp": true
+},
+{
+"uk": "",
+"title": "Position:",
+"url": "https://t.me/CREW_ARIA/14238",
+"source": "Telegram: @CREW_ARIA",
+"found": [
+"second officer"
+],
+"fp": "fp-a1ac140d73a021e7",
+"offshore": true,
+"info": {
+"rank": "2nd Officer",
+"vessel": "PSV",
+"email": "andri@ptkrb.com",
+"company": "ptkrb.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-20T15:43:43+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Mate – Guard Vessel",
+"url": "https://t.me/marinejobs/43809",
+"source": "Telegram: @marinejobs",
+"found": [
+"chief officer"
+],
+"fp": "fp-001178dede46e099",
+"offshore": true,
+"info": {
+"rank": "Chief Officer / AB",
+"salary": "EUR 190 /day NET (negotiable)",
+"joining": "26‑27 Nov 2026",
+"contract": "1‑2 months (flexible)",
+"email": "cv@ojcrew.com",
+"company": "ojcrew.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-20T15:09:06+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "SIA Astor Shipmanagement (part of Scorpio Group) is hiring!",
+"url": "https://t.me/crewingua/45075",
+"source": "Telegram: @crewingua",
+"found": [
+"2off"
+],
+"fp": "fp-6e6bba080096c052",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Chemical tanker, Crude oil tanker",
+"email": "crewapplication@astorship.com",
+"company": "astorship.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-20T15:16:02+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "НА  ПЕРЕГОН  СУДНА  ЧЕРЕЗ  АТЛАНТИКУ",
+"url": "https://t.me/JobForMariners/1212",
+"source": "Telegram: @JobForMariners",
+"found": [
+"2off",
+"choff"
+],
+"fp": "fp-ce2bdbab224c3f10",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer / AB",
+"joining": "В  НАЧАЛЕ  ДЕКАБРЯ",
+"salary": "€ 8000\n"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-20T15:23:29+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Bulkers. Job selection for 20/11/2026",
+"url": "https://t.me/SM_job_center/2520",
+"source": "Telegram: @SM_job_center",
+"found": [
+"chief officer"
+],
+"fp": "fp-7deba83ded74fc24",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 3rd Officer / AB",
+"vessel": "Bulk carrier",
+"salary": "$4,000/month",
+"email": "apply@olivecrew.com",
+"company": "olivecrew.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-20T15:03:00+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "https://jobatsea.online/job/626150/3rd-matedpo-on-dsv-dp2-2nd-officerdpo-in-norway-%e2%80%93-250-eur-per-day-at-navis-ship-management/",
+"url": "https://t.me/offshorevacancies/47402",
+"source": "Telegram: @offshorevacancies",
+"found": [
+"2nd officer",
+"dpo",
+"2nd off"
+],
+"fp": "fp-9875c68e057b8d71",
+"offshore": true,
+"info": {
+"rank": "2nd Officer / 3rd Officer / DPO",
+"vessel": "DSV",
+"salary": "250 EUR per day",
+"company": "https://jobatsea.online/job/626150/…"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-20T15:11:21+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "SECOND OFFICER",
+"url": "https://t.me/cvsenderseaman/16677",
+"source": "Telegram: @cvsenderseaman",
+"found": [
+"2nd mate",
+"second officer"
+],
+"fp": "fp-472cf35210c24acf",
+"offshore": true,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Jack-up, Barge",
+"salary": "Negotiable",
+"joining": "ASAP",
+"email": "crewing@mariniaqatar.com",
+"company": "mariniaqatar.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-20T15:38:59+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-6177,
-6178,
-6179,
-6180,
-6181,
-6182,
-6183,
-6184,
-6185,
-6186,
-6187,
-6188,
-6189,
-6190,
-6191,
-6192,
-6193,
-6194,
-6195
+6196,
+6197,
+6198,
+6199,
+6200,
+6201,
+6202,
+6203,
+6204,
+6205,
+6206,
+6207,
+6208,
+6209,
+6210,
+6211,
+6212,
+6213,
+6214,
+6215
 ],
-"last_list": "2026-11-20T14:56:45.374124+00:00",
-"cleared_upto": 6176,
-"last_msg_id": 6195
+"last_list": "2026-11-20T15:47:09.706496+00:00",
+"cleared_upto": 6195,
+"last_msg_id": 6215
 }
