@@ -3325,6 +3325,69 @@
 "repeat": false,
 "time": "2026-11-20T12:05:07+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "THIRD OFFICER",
+"url": "https://t.me/cvsenderseaman/16640",
+"source": "Telegram: @cvsenderseaman",
+"found": [],
+"fp": "fp-948946a00129c8ef",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 3rd Officer",
+"vessel": "Ro-Ro",
+"salary": "3,750 USD/month",
+"joining": "ASAP",
+"contract": "3 +/- 1 months",
+"email": "recruitment@seaway-international.com",
+"company": "seaway-international.com"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-20T12:08:58+00:00"
+},
+{
+"uk": "",
+"title": "COOK",
+"url": "https://t.me/cvsenderseaman/16642",
+"source": "Telegram: @cvsenderseaman",
+"found": [
+"chief officer"
+],
+"fp": "fp-77311a6e98280753",
+"offshore": true,
+"info": {
+"rank": "Chief Officer / AB",
+"salary": "EUR 190/day NET (negotiable)",
+"joining": "ASAP",
+"contract": "1 or 2",
+"email": "cv@ojcrew.com",
+"company": "ojcrew.com"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-20T12:20:58+00:00"
+},
+{
+"uk": "",
+"title": "WE ARE HIRING FULL CREW ON JACK UP BARGE",
+"url": "https://t.me/oceancrewjobs/32917",
+"source": "Telegram: @oceancrewjobs",
+"found": [
+"chief officer",
+"second officer"
+],
+"fp": "fp-56971fad21fb92f7",
+"offshore": true,
+"info": {
+"rank": "Chief Officer / 2nd Officer / 3rd Officer",
+"vessel": "PSV, AHTS",
+"company": "WE ARE HIRING FULL CREW ON JACK UP…"
+},
+"new": true,
+"repeat": false,
+"time": "2026-11-20T12:08:02+00:00"
 }
 ],
 "msg_ids": [

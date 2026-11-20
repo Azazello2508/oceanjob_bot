@@ -4083,7 +4083,7 @@
 "ukrcrewing": "https://ukrcrewing.com.ua/en/agency/alpha_crew"
 },
 "name": "AlphaCrew Maritime",
-"off": 596,
+"off": 597,
 "offshore_hint": true,
 "phones": [
 "+35726000899",
@@ -4118,7 +4118,7 @@
 "@Olga_Alpha_Crew",
 "@irina_alpha"
 ],
-"total": 641,
+"total": 642,
 "uk": 25,
 "vessels": [
 "Bulk",
@@ -6151,7 +6151,7 @@
 "@seamenjob"
 ],
 "telegram": [],
-"total": 55,
+"total": 57,
 "vessels": [
 "General cargo",
 "Offshore",
@@ -9431,7 +9431,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 35,
+"total": 36,
 "vessels": [
 "Tanker"
 ],
@@ -20908,12 +20908,12 @@
 "country": "Ukraine",
 "emails": [],
 "first": "2026-11-03",
-"last": "2026-11-19",
+"last": "2026-11-20",
 "links": {
 "ukrcrewing": "https://ukrcrewing.com.ua/en/agency/alpha_crew"
 },
 "name": "Subsea Vessel. at OffshoreCrew AS",
-"off": 69,
+"off": 70,
 "offshore_hint": false,
 "phones": [],
 "so": 2,
@@ -20922,7 +20922,7 @@
 "ukrcrewing.com.ua"
 ],
 "telegram": [],
-"total": 117,
+"total": 118,
 "uk": 1,
 "vessels": [
 "Dredger",
@@ -42225,7 +42225,7 @@
 "@seamenjob"
 ],
 "telegram": [],
-"total": 36,
+"total": 38,
 "vessels": [
 "Tanker",
 "Tug"
@@ -43839,7 +43839,7 @@
 "ojcrew.com": {
 "address": "PANIEŃSKA 17/4",
 "city": "SZCZECIN",
-"co": 18,
+"co": 19,
 "country": "Poland",
 "emails": [
 "cv@ojcrew.com",
@@ -43857,7 +43857,7 @@
 "crewell": "https://crewell.net/en/companies/296784/"
 },
 "name": "OJ Crew Poland",
-"off": 136,
+"off": 137,
 "offshore_hint": false,
 "phones": [],
 "so": 11,
@@ -43876,7 +43876,7 @@
 "@offshorecv"
 ],
 "telegram": [],
-"total": 211,
+"total": 212,
 "uk": 10,
 "vessels": [
 "Bulk",
@@ -49920,7 +49920,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 17,
+"total": 18,
 "vessels": [
 "Chemical",
 "LPG/LNG",
@@ -54670,7 +54670,7 @@
 "crewell": "https://crewell.net/en/companies/59670/"
 },
 "name": "Total Ship Management",
-"off": 268,
+"off": 269,
 "offshore_hint": false,
 "phones": [
 "+380504924364",
@@ -54696,7 +54696,7 @@
 "@seajobfinder"
 ],
 "telegram": [],
-"total": 337,
+"total": 338,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -60752,6 +60752,7 @@
 "success services": "success-services.ru",
 "sumaser international joint stock": "sumaser.vn",
 "suntech ship managment india private": "suntech-maritime.com",
+"supply vessel 12256 eur at gretimybe": "jobatsea.online",
 "support vessel orca crew services": "orca-crew.com",
 "support vessel stargate crewing agency": "stargate-agency.ro",
 "survey vessel navis crew management": "navis.eu",
@@ -61289,7 +61290,7 @@
 "SM_job_center": 2519,
 "SeaSeaWorks": 3934,
 "Sea_format": 12355,
-"TSMexp": 869,
+"TSMexp": 870,
 "Yacht_Vacancies": 290,
 "allcrewing": 3823,
 "andreeyVstart": 1423,
@@ -61298,7 +61299,7 @@
 "crs_vacancies": 3588,
 "cruiseshipjobs": 8,
 "cvcrewcom": 12904,
-"cvsenderseaman": 16639,
+"cvsenderseaman": 16642,
 "ecrewing": 3225,
 "findseajobs": 32570,
 "galaxymaritimeua": 1250,
@@ -61311,18 +61312,18 @@
 "marinejobs": 43791,
 "marinejobz": 194156,
 "marineman_ltd": 48428,
-"maritimeforum": 258841,
+"maritimeforum": 258842,
 "merchantNavyrealjob": 265,
-"morehod_ru": 31161,
-"oceancrewjobs": 32914,
+"morehod_ru": 31162,
+"oceancrewjobs": 32917,
 "offshoreatsea": 25338,
 "offshorecv": 1616,
-"offshorevacancies": 47390,
+"offshorevacancies": 47392,
 "oilrigs": 778,
 "olive_crew": 2959,
-"onboard_su": 20833,
+"onboard_su": 20834,
 "pervoemorskoe": 4539,
-"rekamore_su": 165770,
+"rekamore_su": 165774,
 "roster_marine": 1746,
 "seajobfinder": 42626,
 "seamenjob": 106562,
