@@ -4080,13 +4080,13 @@
 "cv@ojcrew.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-20",
+"last": "2026-11-21",
 "links": {
 "crewell": "https://crewell.net/en/companies/64276/",
 "ukrcrewing": "https://ukrcrewing.com.ua/en/agency/alpha_crew"
 },
 "name": "AlphaCrew Maritime",
-"off": 601,
+"off": 603,
 "offshore_hint": true,
 "phones": [
 "+35726000899",
@@ -4121,7 +4121,7 @@
 "@Olga_Alpha_Crew",
 "@irina_alpha"
 ],
-"total": 646,
+"total": 648,
 "uk": 25,
 "vessels": [
 "Bulk",
@@ -61509,7 +61509,7 @@
 "Merchant_Fleet": 658,
 "OffshoreFleetJob": 11097,
 "Offshore_Vacancies": 997,
-"OnlyOffshore": 39193,
+"OnlyOffshore": 39194,
 "OnlyYacht": 2338,
 "SM_job_center": 2521,
 "SeaSeaWorks": 3934,
@@ -61549,7 +61549,7 @@
 "pervoemorskoe": 4539,
 "rekamore_su": 165783,
 "roster_marine": 1747,
-"seajobfinder": 42644,
+"seajobfinder": 42645,
 "seamenjob": 106580,
 "seamenvacancy": 1393,
 "seavacancies": 25275,
