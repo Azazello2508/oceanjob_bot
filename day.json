@@ -5534,34 +5534,91 @@
 "info": {
 "rank": "Chief Officer"
 },
-"new": true,
+"new": false,
 "repeat": false,
-"time": "2026-11-20T17:48:39.497491+00:00"
+"time": "2026-11-20T17:48:39.497491+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "2nd Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/370757",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-20T18:38:51.238488+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "2nd Officer / DPO — PSV DP2",
+"url": "https://seajobs.pro/jobs/2nd-officer-dpo-psv-dp2-f442fed8-5411-439f-9e5a-02b98b9eb224",
+"source": "seajobs.pro",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "2nd Officer / DPO",
+"vessel": "PSV"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-20T18:39:47.554866+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://t.me/maritimeforum/259060",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-0919abe853de8696",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "LPG",
+"contract": "3 months",
+"salary": "$12,700–13,500\n",
+"email": "crewing@balticshipping.pl",
+"company": "balticshipping.pl"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-20T18:17:41+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-6236,
-6237,
-6238,
-6239,
-6240,
-6241,
-6242,
-6243,
-6244,
-6245,
-6246,
-6247,
-6248,
-6249,
-6250,
-6251,
-6252,
-6253,
-6254,
-6255
+6256,
+6257,
+6258,
+6259,
+6260,
+6261,
+6262,
+6263,
+6264,
+6265,
+6266,
+6267,
+6268,
+6269,
+6270,
+6271,
+6272,
+6273,
+6274,
+6275
 ],
-"last_list": "2026-11-20T17:28:19.056149+00:00",
-"cleared_upto": 6235,
-"last_msg_id": 6255
+"last_list": "2026-11-20T18:41:03.953171+00:00",
+"cleared_upto": 6255,
+"last_msg_id": 6275
 }

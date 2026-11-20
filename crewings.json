@@ -7377,7 +7377,7 @@
 "ysavchenko@astrallimited.pl"
 ],
 "first": "2026-11-03",
-"last": "2026-11-19",
+"last": "2026-11-20",
 "links": {
 "crewell": "https://crewell.net/en/companies/311443/",
 "ukrcrewing": "https://ukrcrewing.com.ua/en/agency/astrallimited"
@@ -7395,7 +7395,7 @@
 "ukrcrewing.com.ua"
 ],
 "telegram": [],
-"total": 3,
+"total": 4,
 "vessels": [
 "Passenger"
 ],
@@ -8490,7 +8490,7 @@
 "balticshipping.pl": {
 "address": "",
 "city": "",
-"co": 13,
+"co": 14,
 "country": "",
 "emails": [
 "crewing@balticshipping.pl"
@@ -8507,7 +8507,7 @@
 "@maritimeforum"
 ],
 "telegram": [],
-"total": 136,
+"total": 139,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -12078,16 +12078,17 @@
 "last": "2026-11-20",
 "links": {},
 "name": "CrewTide Maritime",
-"off": 2,
+"off": 3,
 "offshore_hint": false,
 "phones": [],
 "so": 0,
 "sources": [
 "@OnlyOffshore",
+"@maritimeforum",
 "@seajobfinder"
 ],
 "telegram": [],
-"total": 2,
+"total": 3,
 "vessels": [
 "Offshore"
 ],
@@ -18233,7 +18234,7 @@
 "@roster_marine"
 ],
 "telegram": [],
-"total": 64,
+"total": 65,
 "uk": 1,
 "vessels": [
 "Chemical",
@@ -26852,7 +26853,7 @@
 "@maritimeforum"
 ],
 "telegram": [],
-"total": 11,
+"total": 12,
 "vessels": [
 "Bulk",
 "General cargo",
@@ -55097,7 +55098,7 @@
 "@maritimeforum"
 ],
 "telegram": [],
-"total": 40,
+"total": 42,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -57776,7 +57777,7 @@
 "@truemalina_offshore"
 ],
 "telegram": [],
-"total": 41,
+"total": 42,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -61500,7 +61501,7 @@
 "marinejobs": 43823,
 "marinejobz": 194156,
 "marineman_ltd": 48435,
-"maritimeforum": 259052,
+"maritimeforum": 259063,
 "merchantNavyrealjob": 265,
 "morehod_ru": 31168,
 "oceancrewjobs": 32917,
