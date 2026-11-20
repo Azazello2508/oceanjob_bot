@@ -2712,29 +2712,183 @@
 "repeat": false,
 "time": "2026-11-20T10:20:41+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer on VLCC",
+"url": "https://crewell.net/en/vacancies/467146/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "VLCC"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-20T11:15:31.890842+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Bulk Carrier",
+"url": "https://t.me/maritimeforum/258837",
+"source": "Telegram: @maritimeforum",
+"found": [],
+"fp": "fp-42b5820c5bf08cfd",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Bulk carrier",
+"joining": "ASAP, November 2026",
+"contract": "4 months on/ 4 months off",
+"salary": "9300 USD",
+"email": "fairwind@te.net.ua",
+"company": "te.net.ua"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-20T10:41:19+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "URGENT HIRING — AHTS DP2 CREW NEEDED",
+"url": "https://t.me/marinejobs/43776",
+"source": "Telegram: @marinejobs",
+"found": [
+"chief officer"
+],
+"fp": "fp-0d94a2b0aaf83cf1",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "AHTS",
+"email": "forcv@csm-ua.com",
+"company": "csm-ua.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-20T10:30:57+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer Wanted",
+"url": "https://t.me/marinejobs/43781",
+"source": "Telegram: @marinejobs",
+"found": [
+"chief officer",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-cba3d8af6457fe55",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer",
+"vessel": "General cargo",
+"salary": "6500  USD / month",
+"joining": "25  Nov in Egypt",
+"contract": "4 months",
+"email": "cv@allcrew.net",
+"company": "allcrew.net"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-20T10:41:16+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "CHIEF OFFICER – CAR CARRIER",
+"url": "https://t.me/balticcareer/5942",
+"source": "Telegram: @balticcareer",
+"found": [
+"chief officer"
+],
+"fp": "fp-34ba04d418480619",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Ro-Ro, PCTC",
+"salary": "7200 EUR / month",
+"contract": "4 months +/- 1 month"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-20T11:16:40+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Компания ООО \"Легаси Марин\" приглашает на работу:",
+"url": "https://t.me/rekamore_su/165764",
+"source": "Telegram: @rekamore_su",
+"found": [
+"chief officer",
+"старший помощник"
+],
+"fp": "fp-04cff8f8196405d5",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 3rd Officer / AB",
+"vessel": "Aframax",
+"salary": "11 300 USD",
+"contract": "4 + 1 месяц",
+"email": "crew.cv@legacymarine.ru",
+"company": "legacymarine.ru"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-20T10:43:02+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Master for a Multicat in Denmark!",
+"url": "https://t.me/gm_seaman_cv/2748",
+"source": "Telegram: @gm_seaman_cv",
+"found": [
+"chief officer"
+],
+"fp": "fp-ec86c68f109f19f0",
+"offshore": true,
+"info": {
+"rank": "Chief Officer / AB",
+"vessel": "PSV, AHTS",
+"joining": "mid/end of December",
+"contract": "27 November – 29 December",
+"email": "yulia.metliuk@iqrewing.com",
+"company": "iqrewing.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-20T11:08:13+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-6086,
-6087,
-6088,
-6089,
-6090,
-6091,
-6092,
-6093,
-6094,
-6095,
-6096,
-6097,
-6098,
-6099,
-6100,
-6101,
-6102,
-6103
+6104,
+6105,
+6106,
+6107,
+6108,
+6109,
+6110,
+6111,
+6112,
+6113,
+6114,
+6115,
+6116,
+6117,
+6118,
+6119,
+6120,
+6121
 ],
-"last_list": "2026-11-20T10:27:23.045775+00:00",
-"cleared_upto": 6085,
-"last_msg_id": 6103
+"last_list": "2026-11-20T11:17:45.245251+00:00",
+"cleared_upto": 6103,
+"last_msg_id": 6121
 }
