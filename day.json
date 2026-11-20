@@ -333,22 +333,269 @@
 "repeat": false,
 "time": "2026-11-20T04:15:28+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "We are looking for an experienced EU MASTERs for an Offshore TUG/ Supply vessel.",
+"url": "https://t.me/seajobfinder/42619",
+"source": "Telegram: @seajobfinder",
+"found": [
+"choff"
+],
+"fp": "fp-1401ce07246077fa",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "FSV, Crew boat",
+"salary": "12256 EUR/month on board",
+"joining": "beg. of December",
+"contract": "28 days on / off (+/- 6 m",
+"email": "info@gretimybe.lt",
+"company": "gretimybe.lt"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-20T05:37:01+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Offshore. Job selection for 20/11/2026",
+"url": "https://t.me/SM_job_center/2518",
+"source": "Telegram: @SM_job_center",
+"found": [
+"chief officer",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-23228b281bb50820",
+"offshore": true,
+"info": {
+"rank": "Chief Officer / 2nd Officer",
+"vessel": "PSV, AHTS",
+"salary": "$10,645-$11,145/month",
+"email": "j.rudomyotova@marineman.eu",
+"company": "marineman.eu"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-20T05:00:08+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Судоходная компания \"Eco Shipping\" приглашает на работу:",
+"url": "https://t.me/rekamore_su/165698",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-3e2be08a86d4c374",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo",
+"salary": "365 000 рублей",
+"joining": "ноябрь- декабрь",
+"contract": "5/5 ( +/-1)",
+"email": "e.kievskaya@ecoshp.ru",
+"company": "ecoshp.ru"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-20T04:55:10+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Компания ООО \"Доннефтетранс\" приглашает на работу:",
+"url": "https://t.me/rekamore_su/165699",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-254de359d95f7e69",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Chemical tanker",
+"salary": "ЗП обсуждается с кандидатом",
+"joining": "конец ноября в Астрахани",
+"email": "crew@donneftetrans.ru",
+"company": "donneftetrans.ru"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-20T04:57:04+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Компания ООО “Азовторгфлот” приглашает на работу:",
+"url": "https://t.me/rekamore_su/165702",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-47c19d0320aae91c",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo",
+"salary": "250 000 рублей (на руки)",
+"email": "crew@aztf.ru",
+"company": "aztf.ru"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-20T05:03:03+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Компания ООО “ЕРМАК ШИППИНГ” приглашает на работу:",
+"url": "https://t.me/rekamore_su/165706",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-20cf5ba3e447abfe",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Tanker",
+"salary": "134 000 рублей + премия за кон…",
+"joining": "конец  ноября 2026г",
+"contract": "🚢",
+"email": "crewing@ermakshipping.com",
+"company": "ermakshipping.com"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-20T05:30:05+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Компания ГК \"ОТЭКО\" приглашает на  работу:",
+"url": "https://t.me/rekamore_su/165708",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-105216998cd5ccaa",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Tug",
+"email": "e.davydenko@oteko.ru",
+"company": "oteko.ru"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-20T05:34:03+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Компания ООО “Трэвелер Шиппинг” приглашает на работу:",
+"url": "https://t.me/rekamore_su/165711",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-f73df8b5d80918f0",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Chemical tanker",
+"joining": "декабрь 2026г",
+"email": "gavrilova_o@astonfleet.com",
+"company": "astonfleet.com"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-20T05:36:08+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Компания \"Речмортранс\" приглашает на работу:",
+"url": "https://t.me/rekamore_su/165713",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-5f4b1ad2a4e0de2d",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo",
+"email": "okrmt@rechmortrans.ru",
+"company": "rechmortrans.ru"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-20T05:40:09+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Компания  “Инмортерминал” приглашает на работу:",
+"url": "https://t.me/rekamore_su/165715",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-f2075f0a0ec16e58",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Tanker",
+"salary": "418 252 рублей на руки, 480 99…"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-20T05:42:07+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "HIRING FULL CREW FOR OIL TANKER VESSEL",
+"url": "https://t.me/oceancrewjobs/32893",
+"source": "Telegram: @oceancrewjobs",
+"found": [
+"chief officer",
+"second officer"
+],
+"fp": "fp-536f12c00a7296fb",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer / 3rd Officer",
+"vessel": "Bulk carrier, Cruise",
+"company": "HIRING FULL CREW FOR OIL TANKER VES…"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-20T05:32:12+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-6004,
-6005,
-6006,
-6007,
-6008,
-6009,
-6010,
-6011,
-6012,
-6013,
-6014
+6015,
+6016,
+6017,
+6018,
+6019,
+6020,
+6021,
+6022,
+6023,
+6024,
+6025,
+6026
 ],
-"last_list": "2026-11-20T04:55:44.802726+00:00",
-"cleared_upto": 6003,
-"last_msg_id": 6014
+"last_list": "2026-11-20T05:45:35.131468+00:00",
+"cleared_upto": 6014,
+"last_msg_id": 6026
 }
