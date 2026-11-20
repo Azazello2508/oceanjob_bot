@@ -3987,30 +3987,213 @@
 "repeat": false,
 "time": "2026-11-20T13:56:58+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "We are currently seeking experienced candidates for the following positions for AHTS DP2 & PSV DP2 vessels.",
+"url": "https://t.me/seajobfinder/42629",
+"source": "Telegram: @seajobfinder",
+"found": [
+"chief officer",
+"second officer"
+],
+"fp": "fp-ec62ea846277e6df",
+"offshore": true,
+"info": {
+"rank": "Chief Officer / 2nd Officer",
+"vessel": "PSV, AHTS",
+"email": "sourcingoffshore@columbiaaurus.com",
+"company": "columbiaaurus.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-20T14:35:05+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "We’re Hiring",
+"url": "https://t.me/seajobfinder/42632",
+"source": "Telegram: @seajobfinder",
+"found": [
+"2nd officer",
+"dpo",
+"2nd off"
+],
+"fp": "fp-c0e65b4f82e9d87a",
+"offshore": true,
+"info": {
+"rank": "2nd Officer / DPO",
+"email": "crewcv@treasg.com",
+"company": "treasg.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-20T14:38:14+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "https://jobatsea.online/job/626171/2nd-officer-dpo-with-dp-advanced-certification-to-join-a-psv-dp2-operating-in-the-north-sea-at-sailinga-crewing/",
+"url": "https://t.me/offshorevacancies/47400",
+"source": "Telegram: @offshorevacancies",
+"found": [
+"2nd officer",
+"dpo",
+"2nd off"
+],
+"fp": "fp-16c792e7c3c7538e",
+"offshore": true,
+"info": {
+"rank": "2nd Officer / DPO",
+"vessel": "PSV"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-20T14:48:47+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Dear Seafarers,",
+"url": "https://t.me/OnlyOffshore/39180",
+"source": "Telegram: @OnlyOffshore",
+"found": [
+"second officer"
+],
+"fp": "fp-2c225cf4c7b90fa6",
+"offshore": true,
+"info": {
+"rank": "2nd Officer",
+"vessel": "PSV, AHTS",
+"joining": "07.12.2026",
+"contract": "6 weeks",
+"email": "hr.vacancies@tdw.com",
+"company": "tdw.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-20T14:39:09+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "| MATE – GUARD VESSEL |",
+"url": "https://t.me/OnlyOffshore/39181",
+"source": "Telegram: @OnlyOffshore",
+"found": [
+"chief officer"
+],
+"fp": "fp-016cc83c7fabea0e",
+"offshore": true,
+"info": {
+"rank": "Chief Officer / AB",
+"salary": "EUR 190/day NET (Negotiable)",
+"joining": "26-27 November 2026",
+"contract": "1 or 2 Months (Negotiable",
+"email": "cv@ojcrew.com",
+"company": "ojcrew.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-20T14:39:31+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Vessel",
+"url": "https://t.me/cvsenderseaman/16662",
+"source": "Telegram: @cvsenderseaman",
+"found": [
+"2off"
+],
+"fp": "fp-9be4b0339a461e6b",
+"offshore": false,
+"info": {
+"rank": "2nd Officer / 3rd Officer",
+"vessel": "Chemical tanker",
+"salary": "Negotiable",
+"joining": "ASAP",
+"contract": "s are accepted",
+"email": "ua-csc-ode-man@bs-shipmanagement.com",
+"company": "bs-shipmanagement.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-20T14:14:59+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "OPEN POSITIONS",
+"url": "https://t.me/cvsenderseaman/16666",
+"source": "Telegram: @cvsenderseaman",
+"found": [
+"chief officer",
+"second officer",
+"2nd officer",
+"sdpo",
+"dpo",
+"2nd off"
+],
+"fp": "fp-c7cb4b4663c09288",
+"offshore": true,
+"info": {
+"rank": "Chief Officer / 2nd Officer / SDPO",
+"vessel": "AHTS",
+"joining": "ASAP",
+"email": "rina.ruiz@marsol.co.uk",
+"company": "marsol.co.uk"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-20T14:38:59+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "CHIEF OFFICER, THIRD OFFICER, SECOND OFFICER, SECOND ENGINEER",
+"url": "https://t.me/cvsenderseaman/16668",
+"source": "Telegram: @cvsenderseaman",
+"found": [
+"chief officer",
+"second officer"
+],
+"fp": "fp-b09911b111170535",
+"offshore": true,
+"info": {
+"rank": "Chief Officer / 2nd Officer / 3rd Officer",
+"salary": "Negotiable",
+"joining": "ASAP"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-20T14:50:59+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-6158,
-6159,
-6160,
-6161,
-6162,
-6163,
-6164,
-6165,
-6166,
-6167,
-6168,
-6169,
-6170,
-6171,
-6172,
-6173,
-6174,
-6175,
-6176
+6177,
+6178,
+6179,
+6180,
+6181,
+6182,
+6183,
+6184,
+6185,
+6186,
+6187,
+6188,
+6189,
+6190,
+6191,
+6192,
+6193,
+6194,
+6195
 ],
-"last_list": "2026-11-20T14:06:20.489644+00:00",
-"cleared_upto": 6157,
-"last_msg_id": 6176
+"last_list": "2026-11-20T14:56:45.374124+00:00",
+"cleared_upto": 6176,
+"last_msg_id": 6195
 }
