@@ -5476,27 +5476,32 @@
 "apexcreweg.com": {
 "address": "",
 "city": "",
-"co": 3,
+"co": 5,
 "country": "",
 "emails": [
+"crew2@apexcrew-eg.com",
+"info@apexcrew-eg.com",
 "info@apexcreweg.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-04",
+"last": "2026-11-20",
 "links": {},
 "name": "Apex Crew Management",
 "off": 6,
 "offshore_hint": false,
 "phones": [],
-"so": 0,
+"so": 2,
 "sources": [
 "@cvsenderseaman",
+"@marinejobs",
 "@offshoreatsea",
+"@seamenjob",
 "@shipscreweu"
 ],
 "telegram": [],
-"total": 6,
+"total": 8,
 "vessels": [
+"Container",
 "Offshore"
 ],
 "website": ""
@@ -6141,7 +6146,7 @@
 "@seamenjob"
 ],
 "telegram": [],
-"total": 54,
+"total": 55,
 "vessels": [
 "General cargo",
 "Offshore",
@@ -6734,13 +6739,13 @@
 "ashipping.ru": {
 "address": "",
 "city": "",
-"co": 30,
+"co": 31,
 "country": "",
 "emails": [
 "rabota@ashipping.ru"
 ],
 "first": "2026-11-03",
-"last": "2026-11-19",
+"last": "2026-11-20",
 "links": {},
 "name": "ООО “ТК Северный проект”",
 "off": 0,
@@ -6754,7 +6759,7 @@
 "@seamenjob"
 ],
 "telegram": [],
-"total": 41,
+"total": 43,
 "vessels": [
 "General cargo",
 "Tanker"
@@ -8278,7 +8283,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 23,
+"total": 24,
 "vessels": [
 "General cargo"
 ],
@@ -8504,14 +8509,14 @@
 "balticss.com": {
 "address": "Pobeda sq. 4? office 18",
 "city": "Kaliningrad",
-"co": 22,
+"co": 23,
 "country": "Russia",
 "emails": [
 "crew@balticss.com",
 "info@balticss.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-19",
+"last": "2026-11-20",
 "links": {
 "crewell": "https://crewell.net/en/companies/262841/"
 },
@@ -8528,7 +8533,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 39,
+"total": 41,
 "vessels": [
 "Bulk"
 ],
@@ -10722,7 +10727,7 @@
 "caspiancrew@yandex.ru"
 ],
 "first": "2026-11-03",
-"last": "2026-11-19",
+"last": "2026-11-20",
 "links": {},
 "name": "",
 "off": 0,
@@ -10735,7 +10740,7 @@
 "@onboard_su"
 ],
 "telegram": [],
-"total": 12,
+"total": 13,
 "vessels": [
 "General cargo"
 ],
@@ -12555,7 +12560,7 @@
 "crewmontenegro.com": {
 "address": "Vladimira Rolovich F2",
 "city": "Bar",
-"co": 15,
+"co": 16,
 "country": "Montenegro",
 "emails": [
 "cv@crewmontenegro.com",
@@ -12564,7 +12569,7 @@
 "vicky.ganguly@bs-shipmanagement.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-19",
+"last": "2026-11-20",
 "links": {
 "crewell": "https://crewell.net/en/companies/272756/"
 },
@@ -12580,7 +12585,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 49,
+"total": 50,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -14153,7 +14158,7 @@
 "crew@donmastershipping.ru"
 ],
 "first": "2026-11-03",
-"last": "2026-11-19",
+"last": "2026-11-20",
 "links": {},
 "name": "ООО \"Донмастер\"",
 "off": 0,
@@ -14170,7 +14175,7 @@
 "@seamenjob"
 ],
 "telegram": [],
-"total": 22,
+"total": 23,
 "vessels": [
 "General cargo"
 ],
@@ -25844,13 +25849,13 @@
 "midvolga.com": {
 "address": "",
 "city": "",
-"co": 29,
+"co": 30,
 "country": "",
 "emails": [
 "kuznetsova@midvolga.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-19",
+"last": "2026-11-20",
 "links": {},
 "name": "",
 "off": 0,
@@ -25864,7 +25869,7 @@
 "@seamenjob"
 ],
 "telegram": [],
-"total": 33,
+"total": 34,
 "vessels": [
 "General cargo",
 "Tanker"
@@ -39288,7 +39293,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 13,
+"total": 15,
 "vessels": [
 "General cargo"
 ],
@@ -41666,7 +41671,7 @@
 "crew@ncplus.ru"
 ],
 "first": "2026-11-03",
-"last": "2026-11-19",
+"last": "2026-11-20",
 "links": {},
 "name": "",
 "off": 0,
@@ -41680,7 +41685,7 @@
 "@seamenjob"
 ],
 "telegram": [],
-"total": 26,
+"total": 28,
 "vessels": [
 "Reefer"
 ],
@@ -42588,13 +42593,13 @@
 "north-alliance.com": {
 "address": "",
 "city": "",
-"co": 34,
+"co": 36,
 "country": "",
 "emails": [
 "vacancy@north-alliance.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-19",
+"last": "2026-11-20",
 "links": {},
 "name": "",
 "off": 36,
@@ -42609,7 +42614,7 @@
 "@vesselsea"
 ],
 "telegram": [],
-"total": 131,
+"total": 137,
 "vessels": [
 "Offshore",
 "Passenger",
@@ -47315,7 +47320,7 @@
 "zalikovaaa@rusgeology.ru"
 ],
 "first": "2026-11-03",
-"last": "2026-11-19",
+"last": "2026-11-20",
 "links": {
 "crewell": "https://crewell.net/en/companies/266347/"
 },
@@ -47330,7 +47335,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 25,
+"total": 26,
 "vessels": [],
 "website": "rusgeology.ru"
 },
@@ -55502,7 +55507,7 @@
 "crewsupport@uplines.net"
 ],
 "first": "2026-11-17",
-"last": "2026-11-19",
+"last": "2026-11-20",
 "links": {},
 "name": "Other Positions Front Desk Attendants GPA SA",
 "off": 0,
@@ -55515,7 +55520,7 @@
 "@seamenjob"
 ],
 "telegram": [],
-"total": 13,
+"total": 14,
 "vessels": [
 "Passenger"
 ],
@@ -61092,24 +61097,24 @@
 "job_for_seaman": 17107,
 "jobfor_seamen": 12772,
 "marinecareerorg": 17768,
-"marinejobs": 43748,
+"marinejobs": 43750,
 "marinejobz": 194156,
 "marineman_ltd": 48428,
 "maritimeforum": 258800,
 "merchantNavyrealjob": 265,
-"morehod_ru": 31146,
-"oceancrewjobs": 32894,
+"morehod_ru": 31147,
+"oceancrewjobs": 32899,
 "offshoreatsea": 25338,
 "offshorecv": 1614,
 "offshorevacancies": 47390,
 "oilrigs": 778,
 "olive_crew": 2956,
-"onboard_su": 20828,
+"onboard_su": 20830,
 "pervoemorskoe": 4539,
-"rekamore_su": 165715,
+"rekamore_su": 165731,
 "roster_marine": 1746,
 "seajobfinder": 42619,
-"seamenjob": 106539,
+"seamenjob": 106542,
 "seamenvacancy": 1393,
 "seavacancies": 25275,
 "shipjobsindia": 420,

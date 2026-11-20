@@ -579,23 +579,286 @@
 "repeat": false,
 "time": "2026-11-20T05:32:12+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "Master DPO for DP2 Fast Supply Intervention Vessel / Crew Boat",
+"url": "https://www.seacareer.com/i36879/master-dpo-for-dp2-fast-supply-intervention-vessel-crew-boat/",
+"source": "seacareer.com",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "DPO",
+"vessel": "Crew boat",
+"company": "Master DPO for DP2 Fast Supply Inte…"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-20T06:33:50.510209+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "На приёмку новых судов проекта RSD 59, DWT 8144",
+"url": "https://t.me/onboard_su/20830",
+"source": "Telegram: @onboard_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-179013203a4db1e2",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"contract": "4+-1. Оплата проезда. Вак",
+"salary": "433000 ₽",
+"email": "cv@crewmontenegro.com",
+"company": "crewmontenegro.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-20T06:11:56+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Egyptian Seafarers Wanted",
+"url": "https://t.me/marinejobs/43749",
+"source": "Telegram: @marinejobs",
+"found": [
+"chief officer",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-db5255803deb8282",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer / 3rd Officer",
+"vessel": "Container",
+"email": "info@apexcrew-eg.com",
+"company": "apexcrew-eg.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-20T06:31:06+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "currently seeking qualified and experienced Egypt Crew to join container vessels.",
+"url": "https://t.me/seamenjob/106540",
+"source": "Telegram: @seamenjob",
+"found": [
+"chief officer",
+"second officer"
+],
+"fp": "fp-3efc760341f4030d",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer / 3rd Officer",
+"vessel": "Container",
+"email": "info@apexcrew-eg.com",
+"company": "apexcrew-eg.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-20T06:00:41+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Компания ООО “ТК Северный проект” приглашает на работу:",
+"url": "https://t.me/rekamore_su/165717",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-ebeb13f3c616dd74",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo",
+"salary": "360 000 рублей ежемесячно + от…",
+"joining": "срочная",
+"contract": "4 месяца",
+"email": "rabota@ashipping.ru",
+"company": "ashipping.ru"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-20T06:15:09+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Судоходная компания приглашает на работу:",
+"url": "https://t.me/rekamore_su/165718",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-5dfd3ef2b0bb7a0f",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Chemical tanker",
+"joining": "Санкт-Петербург",
+"email": "kuznetsova@midvolga.com",
+"company": "midvolga.com"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-20T06:17:03+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Компания “Северный Альянс” приглашает на работу:",
+"url": "https://t.me/rekamore_su/165722",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-d04e511e47412fcb",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Tug",
+"salary": "396 900 р. (на руки)",
+"joining": "СРОЧНАЯ (переход в Марокко)",
+"email": "vacancy@north-alliance.com",
+"company": "north-alliance.com"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-20T06:19:15+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Компания “Северный Альянс” приглашает на работу:",
+"url": "https://t.me/rekamore_su/165723",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-83e520fc16825e8a",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / AB",
+"vessel": "Tug",
+"salary": "396 900 р. (на руки)",
+"joining": "СРОЧНАЯ (Китай переход во Влад",
+"email": "vacancy@north-alliance.com",
+"company": "north-alliance.com"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-20T06:19:19+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "ООО «Балтийская Морская Компания» ведет набор специалистов в компанию \"RIX SHIPMANAGEMENT LTD\" (CYPRUS):",
+"url": "https://t.me/rekamore_su/165728",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-13c81967d96df0a7",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"salary": "7 600 евро",
+"contract": "4 месяца (+/- 1 месяц)",
+"email": "CREW@BALTICSS.COM",
+"company": "balticss.com"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-20T06:23:02+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Hiring for Offshore Drilling Project (KSA)",
+"url": "https://t.me/oceancrewjobs/32895",
+"source": "Telegram: @oceancrewjobs",
+"found": [
+"dp operator"
+],
+"fp": "fp-40362b9f1441e173",
+"offshore": true,
+"info": {
+"rank": "DPO",
+"company": "https://oceancrew.org/vacancies/dri…"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-20T06:27:19+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Need Candidates for CSOV",
+"url": "https://t.me/oceancrewjobs/32897",
+"source": "Telegram: @oceancrewjobs",
+"found": [
+"chief officer",
+"2nd officer",
+"dpo",
+"2nd off"
+],
+"fp": "fp-ed8a8f8de722137b",
+"offshore": true,
+"info": {
+"rank": "Chief Officer / 2nd Officer / 3rd Officer",
+"company": "https://oceancrew.org/vacancies/off…"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-20T06:27:59+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Need Candidates for Motor Yachts (WW)",
+"url": "https://t.me/oceancrewjobs/32899",
+"source": "Telegram: @oceancrewjobs",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-657bd2a3da15af2f",
+"offshore": true,
+"info": {
+"rank": "2nd Officer",
+"vessel": "AHTS, Cruise",
+"salary": "€7000\n2",
+"company": "https://oceancrew.org/vacancies/cru…"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-20T06:30:27+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-6015,
-6016,
-6017,
-6018,
-6019,
-6020,
-6021,
-6022,
-6023,
-6024,
-6025,
-6026
+6027,
+6028,
+6029,
+6030,
+6031,
+6032,
+6033,
+6034,
+6035,
+6036,
+6037,
+6038,
+6039
 ],
-"last_list": "2026-11-20T05:45:35.131468+00:00",
-"cleared_upto": 6014,
-"last_msg_id": 6026
+"last_list": "2026-11-20T06:35:26.881155+00:00",
+"cleared_upto": 6026,
+"last_msg_id": 6039
 }
