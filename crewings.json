@@ -48028,15 +48028,15 @@
 "info.poland@tospeople.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-20",
+"last": "2026-11-21",
 "links": {
 "crewell": "https://crewell.net/en/companies/47322/"
 },
 "name": "Valid Maritime",
-"off": 44,
+"off": 45,
 "offshore_hint": false,
 "phones": [],
-"so": 20,
+"so": 21,
 "sources": [
 "@CREW_ARIA",
 "@Merchant_Fleet",
@@ -48052,7 +48052,7 @@
 "@offshoreatsea"
 ],
 "telegram": [],
-"total": 46,
+"total": 47,
 "uk": 4,
 "vessels": [
 "Bulk",
@@ -61548,7 +61548,7 @@
 "onboard_su": 20835,
 "pervoemorskoe": 4539,
 "rekamore_su": 165783,
-"roster_marine": 1746,
+"roster_marine": 1747,
 "seajobfinder": 42644,
 "seamenjob": 106580,
 "seamenvacancy": 1393,

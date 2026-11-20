@@ -291,22 +291,47 @@
 "repeat": false,
 "time": "2026-11-20T21:12:48.256647+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "2O/DPO for PSV DP2",
+"url": "https://t.me/roster_marine/1747",
+"source": "Telegram: @roster_marine",
+"found": [
+"dpo",
+"2o/dpo"
+],
+"fp": "fp-75961c081f44d314",
+"offshore": true,
+"info": {
+"rank": "2nd Officer / DPO",
+"vessel": "PSV",
+"salary": "7400€ p/m",
+"contract": "5 weeks on / 5 weeks off",
+"email": "crewing@sailinga.lt",
+"company": "sailinga.lt"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-20T22:03:22+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-6303,
-6304,
-6305,
-6306,
-6307,
-6308,
-6309,
-6310,
-6311,
-6312
+6313,
+6314,
+6315,
+6316,
+6317,
+6318,
+6319,
+6320,
+6321,
+6322,
+6323
 ],
-"last_list": "2026-11-20T21:14:09.966501+00:00",
-"cleared_upto": 6302,
+"last_list": "2026-11-20T22:04:23.839563+00:00",
+"cleared_upto": 6312,
 "force": true,
-"last_msg_id": 6312
+"last_msg_id": 6323
 }
