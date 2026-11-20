@@ -33,14 +33,32 @@
 "repeat": false,
 "time": "2026-11-20T01:08:50.464995+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "2nd Officer on Bulk carrier",
+"url": "https://crewell.net/en/vacancies/467050/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Bulk carrier"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-20T01:58:53.325438+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-5997,
-5998,
-5999
+6000,
+6001,
+6002,
+6003
 ],
-"last_list": "2026-11-20T01:10:47.010742+00:00",
-"cleared_upto": 5996,
-"last_msg_id": 5999
+"last_list": "2026-11-20T02:00:23.112693+00:00",
+"cleared_upto": 5999,
+"last_msg_id": 6003
 }

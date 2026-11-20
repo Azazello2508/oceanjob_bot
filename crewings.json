@@ -13084,6 +13084,36 @@
 ],
 "website": ""
 },
+"cv-sender.com": {
+"address": "",
+"city": "",
+"co": 0,
+"country": "",
+"emails": [
+"application@cv-sender.com"
+],
+"first": "2026-11-20",
+"last": "2026-11-20",
+"links": {},
+"name": "",
+"off": 1,
+"offshore_hint": false,
+"phones": [
+"+380958451262"
+],
+"so": 0,
+"sources": [
+"@cvsenderseaman"
+],
+"telegram": [],
+"total": 1,
+"vessels": [
+"Container",
+"Offshore",
+"Tanker"
+],
+"website": ""
+},
 "cvseajobs@gmail.com": {
 "address": "",
 "city": "",
@@ -61026,7 +61056,7 @@
 "crs_vacancies": 3583,
 "cruiseshipjobs": 8,
 "cvcrewcom": 12904,
-"cvsenderseaman": 16579,
+"cvsenderseaman": 16582,
 "ecrewing": 3220,
 "findseajobs": 32570,
 "galaxymaritimeua": 1250,
