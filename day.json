@@ -841,24 +841,374 @@
 "repeat": false,
 "time": "2026-11-20T06:30:27+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "2nd Officer on Crude oil tanker",
+"url": "https://crewell.net/en/vacancies/467073/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Crude oil tanker"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-20T07:23:34.635563+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer on Crude oil tanker",
+"url": "https://crewell.net/en/vacancies/467072/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Crude oil tanker"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-20T07:23:35.299031+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer on Oil/chemical tanker",
+"url": "https://crewell.net/en/vacancies/467086/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Chemical tanker"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-20T07:23:36.123461+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer on Oil/chemical tanker",
+"url": "https://crewell.net/en/vacancies/467087/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Chemical tanker"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-20T07:23:36.949613+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer on Oil/chemical tanker",
+"url": "https://crewell.net/en/vacancies/467091/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Chemical tanker"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-20T07:23:37.926075+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/370648",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-20T07:23:40.377895+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://seajobs.ru/ru/vacancy/18330/chief-officer-crude-oil-tanker",
+"source": "seajobs.ru",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Crude oil tanker"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-20T07:23:53.458210+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "2nd Officer",
+"url": "https://seajobs.ru/ru/vacancy/18331/2nd-officer-crude-oil-tanker",
+"source": "seajobs.ru",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Crude oil tanker"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-20T07:23:54.571412+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Master DPO for DP2 Fast Supply Intervention Vessel / Crew Boat Ryan Ship Management Pvt Ltd",
+"url": "https://maritime-union.com/job/233431",
+"source": "maritime-union.com",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "DPO",
+"vessel": "Crew boat",
+"company": "Master DPO for DP2 Fast Supply Inte…"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-20T07:24:10.127310+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "C/O for GENERAL CARGO",
+"url": "https://seajobs.pro/jobs/c-o-for-general-cargo-562e2a1f-5e3c-4792-bb78-3399c856ebd7",
+"source": "seajobs.pro",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-20T07:24:31.098793+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "We are currently looking for Accomodation PSV DP ll Vessel take over from Malaysia first week of December",
+"url": "https://t.me/seajobfinder/42620",
+"source": "Telegram: @seajobfinder",
+"found": [
+"second officer"
+],
+"fp": "fp-fa338f940cf57757",
+"offshore": true,
+"info": {
+"rank": "2nd Officer",
+"vessel": "PSV",
+"email": "andri@ptkrb.com",
+"company": "ptkrb.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-20T06:59:42+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Columbia Shipmanagement St. Petersburg",
+"url": "https://t.me/onboard_su/20832",
+"source": "Telegram: @onboard_su",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-2e3647c373f5972f",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Chemical tanker",
+"salary": "Negotiable",
+"joining": "ASAP",
+"contract": "4 +/-1 months",
+"email": "cv_csm_spb@mail.ru"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-20T06:51:41+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Open Roles for Long Distance Tug Boat & OSV",
+"url": "https://t.me/seamenjob/106543",
+"source": "Telegram: @seamenjob",
+"found": [
+"chief officer",
+"2nd mate",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-0f9d10fed370d6b2",
+"offshore": true,
+"info": {
+"rank": "Chief Officer / 2nd Officer / AB",
+"vessel": "OSV, Tug",
+"email": "recruitmentmnl@angloeastern.com",
+"company": "angloeastern.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-20T07:00:42+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Компания ООО “ТК Северный проект” приглашает на работу:",
+"url": "https://t.me/rekamore_su/165732",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-a4ebaf7097dca32e",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo",
+"salary": "165 000 рублей ежемесячно + от…",
+"joining": "срочная в Санкт-Петербурге",
+"contract": "4 месяца",
+"email": "rabota@ashipping.ru",
+"company": "ashipping.ru"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-20T06:51:08+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Компания \"Речмортранс\" приглашает на работу:",
+"url": "https://t.me/rekamore_su/165734",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-af0d9660fe976f23",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo",
+"email": "okrmt@rechmortrans.ru",
+"company": "rechmortrans.ru"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-20T07:14:30+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Компания ООО \"ОСС\" приглашает на работу:",
+"url": "https://t.me/rekamore_su/165735",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-3845a314ca7d19c7",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"salary": "320 000 рублей",
+"joining": "Астрахань",
+"email": "crew@oss-tm.com",
+"company": "oss-tm.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-20T07:19:02+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Vessel",
+"url": "https://t.me/cvsenderseaman/16587",
+"source": "Telegram: @cvsenderseaman",
+"found": [],
+"fp": "fp-bb86ac3f331f49c4",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Container",
+"salary": "7000 - 7500$",
+"joining": "ASAP",
+"contract": "4 +-1",
+"email": "crew@armada-holding.com",
+"company": "armada-holding.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-20T07:08:40+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "THIRD OFFICER",
+"url": "https://t.me/cvsenderseaman/16588",
+"source": "Telegram: @cvsenderseaman",
+"found": [],
+"fp": "fp-d40180b5d87b5609",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 3rd Officer",
+"vessel": "LPG, LNG",
+"salary": "4,750 USD",
+"joining": "ASAP",
+"contract": "4 +/-1, salary 4,750 USD",
+"email": "recruitment@seaway-international.com",
+"company": "seaway-international.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-20T07:16:40+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-6027,
-6028,
-6029,
-6030,
-6031,
-6032,
-6033,
-6034,
-6035,
-6036,
-6037,
-6038,
-6039
+6040,
+6041,
+6042,
+6043,
+6044,
+6045,
+6046,
+6047,
+6048,
+6049,
+6050,
+6051,
+6052
 ],
-"last_list": "2026-11-20T06:35:26.881155+00:00",
-"cleared_upto": 6026,
-"last_msg_id": 6039
+"last_list": "2026-11-20T07:25:28.615406+00:00",
+"cleared_upto": 6039,
+"last_msg_id": 6052
 }
