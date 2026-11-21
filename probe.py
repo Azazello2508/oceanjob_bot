@@ -1,16 +1,13 @@
 import re, collections, requests
 from bs4 import BeautifulSoup
 H = {"User-Agent": "Mozilla/5.0 (oceanjob_bot; personal job alerts)"}
-URLS = """https://findseajobs.com/tags/jdpo/
-https://findseajobs.com/
-https://rigzone.org/vacancies/offshore/dpo/
-https://rigzone.org/vacancies/offshore/
-https://ojcrew.com/vacancies/
-https://deltamarinecrewing.nl/en/vacancies/
-https://marine-zone.com/jobs/
-https://crewdata.com/jobs.php?lang=eng&for=Junior+DPO
-https://crewbase.pro/
-https://www.maritimejobs.com/jobs/?search=DPO""".split()
+URLS = """https://findseajobs.com/seajobs/
+https://findseajobs.com/seajobs/4/
+https://ojcrew.com/all-vacancies/
+https://deltamarinecrewing.nl/en/category/vacatures-en/
+https://crewbase.pro/jobs
+https://marine-zone.com/second-officer-second-mate-jobs/
+https://marine-zone.com/?feed=job_feed""".split()
 KW = re.compile(r"officer|mate|dpo|master|seaman|trainee|vacanc|job", re.I)
 for u in URLS:
     try:
@@ -29,6 +26,13 @@ for u in URLS:
         if KW.search(t) and len(ex.setdefault(s, [])) < 3:
             ex[s].append((t, h[:110]))
     print(f"\n### {u}\n  status {r.status_code} final {r.url[:90]} bytes {len(r.text)} links {len(links)}")
+    if "findseajobs.com/seajobs/" in u and u.endswith("/seajobs/"):
+        cats = {}
+        for a in links:
+            m = re.search(r"/seajobs/(\d+)/$", a["href"]); t = a.get_text(" ", strip=True)
+            if m and re.search(r"officer|dpo|mate|dp |trainee|master", t, re.I): cats[m.group(1)] = t[:40]
+        print("  CATS:", cats)
+        print("  TAGS:", sorted({a["href"] for a in links if "/tags/" in a["href"]})[:40])
     seen_c = set()
     for a in links:
         h = a["href"]
