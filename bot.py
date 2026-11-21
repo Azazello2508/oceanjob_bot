@@ -332,6 +332,32 @@ SITES = {
         "skip_titles": ["view job"],
         "offshore": True,
     },
+    # --- площадки, где встречаются JDPO / DP Trainee (добавлены 21.11.2026) ---
+    "findseajobs.com": {          # агрегатор; есть 3rd/2nd Officer/JDPO на PSV, SOV, CLV
+        "pages": ["https://findseajobs.com/seajobs/"] + [f"https://findseajobs.com/seajobs/{n}/"
+                                                          for n in (4, 5, 8, 73, 69, 80)],
+        "pattern": r"/seajobs/(\d+)\.html",
+        "base": "https://findseajobs.com",
+        "clean": r"^[A-Z0-9] (?=[A-Z0-9])",   # перед названием стоит буква-значок компании
+    },
+    "marine-zone.com": {          # доска вакансий, много Second Officer / DPO на PSV
+        "pages": ["https://marine-zone.com/jobs/", "https://marine-zone.com/second-officer-second-mate-jobs/",
+                  "https://marine-zone.com/chief-officer-chief-mate-jobs/", "https://marine-zone.com/third-officer-jobs/"],
+        "pattern": r"marine-zone\.com/jobs/([\w-]+)/?$",
+        "base": "https://marine-zone.com",
+    },
+    "ojcrew.com": {               # OJ Crew (Литва): оффшор, W2W, AHTS; бывают 2nd Officer JDPO
+        "pages": ["https://ojcrew.com/all-vacancies/"],
+        "pattern": r"ojcrew\.com/vacancies/([\w-]+)/?$",
+        "base": "https://ojcrew.com",
+        "slug_title": True,       # в ссылке написано «Apply now», название берём из адреса
+    },
+    "deltamarinecrewing.nl": {    # Delta Marine Crewing (Нидерланды): оффшор, CTV, 3rd Officer/JDPO
+        "pages": ["https://deltamarinecrewing.nl/en/category/vacatures-en/"],
+        "pattern": r"deltamarinecrewing\.nl/en/([a-z0-9-]{12,})/?$",
+        "base": "https://deltamarinecrewing.nl",
+        "offshore": True,
+    },
     "huntukvisasponsors.com": {   # вакансии от компаний с лицензией спонсора виз UK
         "pages": ["https://huntukvisasponsors.com/uk-visa-occupation-eligibility/3512-ship-and-hovercraft-officers"],
         "pattern": r"/job/([\w-]+)/?$",   # страница профессии «офицеры судов» — вакансии там уже морские
@@ -351,7 +377,8 @@ JUNK_TITLES = {"details & apply", "details", "apply", "view", "view & apply »",
 # На этих сайтах у вакансий номера идут по порядку: новая вакансия = номер больше прежних
 SEQUENTIAL = {"crewell", "ukrcrewing", "seajobs.ru", "seacareer.com", "maritime-union.com",
               "crewlinker.com", "rigzone.com", "seafarerjobs.com", "findajob.dwp.gov.uk",
-              "northstarshipping.co.uk", "osmthome.com", "ainostri.ro"}
+              "northstarshipping.co.uk", "osmthome.com", "ainostri.ro", "findseajobs.com",
+              "bourbonoffshore.com", "kuokmaritime.com"}
 
 
 def get_site(name):
@@ -363,6 +390,10 @@ def get_site(name):
         for a in BeautifulSoup(html, "html.parser").find_all("a", href=True):
             m = re.search(site["pattern"], a["href"])
             title = a.get_text(" ", strip=True)
+            if m and site.get("slug_title"):
+                title = m.group(1).replace("-", " ").strip().title()
+            if site.get("clean"):
+                title = re.sub(site["clean"], "", title)
             if (not m or not title or title.lower() in JUNK_TITLES
                     or title.lower() in site.get("skip_titles", ()) or title.lower().startswith("read more about")):
                 continue
