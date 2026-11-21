@@ -34622,6 +34622,33 @@
 "vessels": [],
 "website": ""
 },
+"name:norwegian cruise line holdings": {
+"address": "",
+"city": "",
+"co": 0,
+"country": "",
+"emails": [],
+"first": "2026-11-22",
+"last": "2026-11-22",
+"li": 1,
+"links": {
+"linkedin": "https://www.linkedin.com/company/norwegian-cruise-line-holdings"
+},
+"name": "Norwegian Cruise Line Holdings Ltd.",
+"off": 0,
+"offshore_hint": false,
+"phones": [],
+"so": 0,
+"sources": [
+"LinkedIn"
+],
+"telegram": [],
+"total": 0,
+"vessels": [
+"Passenger"
+],
+"website": ""
+},
 "name:novikontas kaliningrad 05 08 2026 russian federation member since: nov 2016 no active vacancies view profile": {
 "address": "",
 "city": "",
@@ -45297,7 +45324,7 @@
 "wazup@partner-dv.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-21",
+"last": "2026-11-22",
 "links": {
 "crewell": "https://crewell.net/en/companies/284191/"
 },
@@ -45314,7 +45341,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 191,
+"total": 192,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -59782,7 +59809,8 @@
 "4485475425",
 "4493216520",
 "4475751051",
-"4468296601"
+"4468296601",
+"4485618583"
 ],
 "names": {
 "-tech solutions": "as-tech.pl",
@@ -60993,6 +61021,7 @@
 "northern marine manning services": "jobs.nmms.co.uk",
 "northern shipping": "ansc.ru",
 "norway area navis crew management": "wayatsea.com",
+"norwegian cruise line holdings": "name:norwegian cruise line holdings",
 "nova maris": "novamaris.eu",
 "nova maris crewing": "novamaris.eu",
 "novelty shipmanagement": "noveltysm.com",
@@ -62004,7 +62033,7 @@
 "offshorevacancies": 47406,
 "oilrigs": 778,
 "olive_crew": 2964,
-"onboard_su": 20840,
+"onboard_su": 20842,
 "pervoemorskoe": 4539,
 "rekamore_su": 165826,
 "roster_marine": 1747,

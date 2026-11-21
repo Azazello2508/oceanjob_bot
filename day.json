@@ -1,10 +1,71 @@
 {
 "date": "2026-11-22",
-"jobs": [],
-"msg_ids": [
-6581
+"jobs": [
+{
+"uk": "",
+"title": "2nd Officer on Oil tanker",
+"url": "https://crewell.net/en/vacancies/467269/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Tanker"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-21T23:37:05.665261+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer on Oil tanker",
+"url": "https://crewell.net/en/vacancies/467268/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Tanker"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-21T23:37:06.563614+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "1st Officer Navigation · Norwegian Cruise Line Holdings Ltd. · Miami, FL",
+"url": "https://www.linkedin.com/jobs/view/4485618583",
+"source": "LinkedIn",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Cruise",
+"company": "1st Officer Navigation · Norwegian…"
+},
+"company": "Norwegian Cruise Line Holdings Ltd.",
+"place": "Miami, FL",
+"new": false,
+"repeat": false,
+"time": "2026-11-21T23:39:21.035713+00:00",
+"junior_dp": false
+}
 ],
-"last_list": "2026-11-21T20:43:56.815713+00:00",
-"cleared_upto": 6580,
-"last_msg_id": 6581
+"msg_ids": [
+6582,
+6583,
+6584
+],
+"last_list": "2026-11-21T23:40:06.358306+00:00",
+"cleared_upto": 6581,
+"last_msg_id": 6584
 }
