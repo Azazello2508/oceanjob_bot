@@ -11527,7 +11527,7 @@
 "columbiaaurus.com": {
 "address": "",
 "city": "",
-"co": 6,
+"co": 8,
 "country": "",
 "emails": [
 "anshu@columbiaaurus.com",
@@ -11542,13 +11542,13 @@
 "last": "2026-11-21",
 "links": {},
 "name": "Columbia Aurus Ship Management",
-"off": 22,
+"off": 35,
 "offshore_hint": false,
 "phones": [
 "+918076989049",
 "+918100594643"
 ],
-"so": 9,
+"so": 11,
 "sources": [
 "@CREW_ARIA",
 "@Offshore_Vacancies",
@@ -11562,7 +11562,7 @@
 "@shipscreweu"
 ],
 "telegram": [],
-"total": 33,
+"total": 46,
 "vessels": [
 "Offshore",
 "Tanker"
@@ -24369,7 +24369,7 @@
 "soikher.n@marinetec.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-19",
+"last": "2026-11-21",
 "links": {},
 "name": "",
 "off": 0,
@@ -24385,7 +24385,7 @@
 "@seamenjob"
 ],
 "telegram": [],
-"total": 17,
+"total": 18,
 "vessels": [
 "General cargo"
 ],
@@ -52356,7 +52356,7 @@
 "+380937800894",
 "+380979435590"
 ],
-"so": 61,
+"so": 62,
 "sources": [
 "@CREW_ARIA",
 "@Merchant_Fleet",
@@ -52368,7 +52368,7 @@
 "@supermariner_ua"
 ],
 "telegram": [],
-"total": 339,
+"total": 341,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -60247,6 +60247,7 @@
 "csm baltija": "csmlv.com",
 "csm baltija 09 07 2026 latvia member since: nov 2024 5 active vacancies we at csm baltija are committed to continuously satisfy our principals by ensuring quality manning services which are focused on customers’ requirements with aim of enhan view profile": "name:csm baltija 09 07 2026 latvia member since: nov 2024 5 active vacancies we at csm baltija are committed to continuously satisfy our principals by ensuring quality manning services which are focused on customers’ requirements with aim of enhan view profile",
 "csm-ua": "csm-ua.com",
+"csov columbia aurus ship management": "columbiaaurus.com",
 "cssc shipping": "name:cssc shipping",
 "cts coating": "name:cts coating",
 "ctv able seaman at offshore operations": "jobatsea.online",
@@ -61924,7 +61925,7 @@
 "crs_vacancies": 3590,
 "cruiseshipjobs": 8,
 "cvcrewcom": 12904,
-"cvsenderseaman": 16758,
+"cvsenderseaman": 16763,
 "ecrewing": 3228,
 "findseajobs": 32570,
 "galaxymaritimeua": 1250,
@@ -61937,18 +61938,18 @@
 "marinejobs": 43834,
 "marinejobz": 194156,
 "marineman_ltd": 48435,
-"maritimeforum": 259126,
+"maritimeforum": 259128,
 "merchantNavyrealjob": 265,
-"morehod_ru": 31175,
+"morehod_ru": 31177,
 "oceancrewjobs": 32929,
-"offshoreatsea": 25614,
+"offshoreatsea": 25622,
 "offshorecv": 1616,
 "offshorevacancies": 47406,
 "oilrigs": 778,
 "olive_crew": 2964,
 "onboard_su": 20840,
 "pervoemorskoe": 4539,
-"rekamore_su": 165814,
+"rekamore_su": 165821,
 "roster_marine": 1747,
 "seajobfinder": 42645,
 "seamenjob": 106580,
@@ -61957,7 +61958,7 @@
 "shipjobsindia": 420,
 "shipscreweu": 16721,
 "sidantey": 399,
-"supermariner_ua": 3946,
+"supermariner_ua": 3947,
 "truemalina_offshore": 842,
 "ukrcrewing_official": 2395,
 "univis_crewing": 5041,

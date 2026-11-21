@@ -1341,26 +1341,126 @@
 "repeat": true,
 "time": "2026-11-21T13:24:00+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "WE NEED",
+"url": "https://t.me/maritimeforum/259128",
+"source": "Telegram: @maritimeforum",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-8d49068c2fedadd8",
+"offshore": false,
+"info": {
+"rank": "2nd Officer / 3rd Officer / AB",
+"joining": "ASAP",
+"contract": "s are accepted",
+"salary": "4800 USD",
+"email": "info@staff-service-expert.com",
+"company": "staff-service-expert.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-21T14:14:06+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "2nd Officer DPO",
+"url": "https://t.me/offshoreatsea/25620",
+"source": "Telegram: @offshoreatsea",
+"found": [
+"2nd officer",
+"dpo",
+"2nd off"
+],
+"fp": "fp-9fe6e8a113e120a5",
+"offshore": true,
+"info": {
+"rank": "2nd Officer / DPO",
+"joining": "location China",
+"contract": "3 months",
+"email": "moumita@columbiaaurus.com",
+"company": "columbiaaurus.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-21T13:33:33+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://t.me/offshoreatsea/25621",
+"source": "Telegram: @offshoreatsea",
+"found": [
+"chief officer"
+],
+"fp": "fp-ee6b86496b2fd1a0",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"joining": "location China",
+"contract": "3 months",
+"email": "moumita@columbiaaurus.com",
+"company": "columbiaaurus.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-21T13:33:35+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "OPEN POSITIONS",
+"url": "https://t.me/cvsenderseaman/16760",
+"source": "Telegram: @cvsenderseaman",
+"found": [
+"chief officer",
+"second officer"
+],
+"fp": "fp-be2372b2775a30a4",
+"offshore": true,
+"info": {
+"rank": "Chief Officer / 2nd Officer",
+"joining": "ASAP",
+"email": "moumita@columbiaaurus.com",
+"company": "columbiaaurus.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-21T13:49:19+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-6505,
-6506,
-6507,
-6508,
-6509,
-6510,
-6511,
-6512,
-6513,
-6514,
-6515,
-6516,
-6517,
-6518,
-6519
+6520,
+6521,
+6522,
+6523,
+6524,
+6525,
+6526,
+6527,
+6528,
+6529,
+6530,
+6531,
+6532,
+6533,
+6534
 ],
-"last_list": "2026-11-21T13:31:36.162618+00:00",
-"cleared_upto": 6504,
-"last_msg_id": 6519
+"last_list": "2026-11-21T14:22:55.986203+00:00",
+"cleared_upto": 6519,
+"last_msg_id": 6534
 }
