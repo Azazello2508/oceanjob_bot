@@ -10767,7 +10767,7 @@
 "caspiancrew@yandex.ru"
 ],
 "first": "2026-11-03",
-"last": "2026-11-20",
+"last": "2026-11-21",
 "links": {},
 "name": "",
 "off": 0,
@@ -10780,7 +10780,7 @@
 "@onboard_su"
 ],
 "telegram": [],
-"total": 13,
+"total": 14,
 "vessels": [
 "General cargo"
 ],
@@ -40791,7 +40791,7 @@
 "transoptimalng@mail.ru"
 ],
 "first": "2026-11-03",
-"last": "2026-11-20",
+"last": "2026-11-21",
 "links": {},
 "name": "ООО “Трансоптимал СПБ”",
 "off": 0,
@@ -40803,7 +40803,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 25,
+"total": 26,
 "vessels": [
 "General cargo",
 "LPG/LNG"
@@ -44997,7 +44997,7 @@
 "wazup@partner-dv.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-19",
+"last": "2026-11-21",
 "links": {
 "crewell": "https://crewell.net/en/companies/284191/"
 },
@@ -45014,7 +45014,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 179,
+"total": 182,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -61624,16 +61624,16 @@
 "marineman_ltd": 48435,
 "maritimeforum": 259102,
 "merchantNavyrealjob": 265,
-"morehod_ru": 31168,
+"morehod_ru": 31170,
 "oceancrewjobs": 32921,
 "offshoreatsea": 25338,
 "offshorecv": 1616,
 "offshorevacancies": 47403,
 "oilrigs": 778,
 "olive_crew": 2961,
-"onboard_su": 20835,
+"onboard_su": 20838,
 "pervoemorskoe": 4539,
-"rekamore_su": 165797,
+"rekamore_su": 165799,
 "roster_marine": 1747,
 "seajobfinder": 42645,
 "seamenjob": 106580,
@@ -61643,7 +61643,7 @@
 "shipscreweu": 16721,
 "sidantey": 399,
 "supermariner_ua": 3945,
-"truemalina_offshore": 840,
+"truemalina_offshore": 841,
 "ukrcrewing_official": 2395,
 "univis_crewing": 5041,
 "vesselsea": 3158,
