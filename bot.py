@@ -342,7 +342,29 @@ def get_site(name):
 # LinkedIn может не отвечать серверам GitHub — тогда источник просто пропускается.
 LINKEDIN_URL = "https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search"
 LINKEDIN_QUERIES = ["Chief Mate", "Dynamic Positioning Operator", "DPO offshore vessel", "JDPO",
-                    "Second Officer vessel"]
+                    "Second Officer vessel", "Junior DPO", "DP Trainee", "DP Basic", "DP Induction"]
+# DP Basic / Induction / Trainee часто написаны не в названии, а внутри вакансии. Поэтому у палубных
+# вакансий с неподходящим названием бот открывает описание и ищет там эти слова (понемногу за проверку).
+LINKEDIN_JOB_URL = "https://www.linkedin.com/jobs-guest/jobs/api/jobPosting/"
+LINKEDIN_DECK_RE = re.compile(r"officer|\bmate\b|\bdeck|\bdp\b|dynamic pos|trainee|cadet|navigat|offshore|vessel|"
+                              r"seafarer|marine crew", re.I)
+LINKEDIN_CHECKED_FILE = Path("linkedin_checked.json")   # какие описания уже открывали (пишет сам бот)
+LINKEDIN_DEEP_PER_RUN = 8
+
+
+def linkedin_deep(job_id, state):
+    """Открывает описание вакансии и возвращает найденное слово («dp basic», «dp induction»...) или ''."""
+    if job_id in state["checked"] or state["left"] <= 0:
+        return ""
+    state["left"] -= 1
+    time.sleep(2)
+    r = requests.get(LINKEDIN_JOB_URL + job_id, headers=HEADERS, timeout=30)
+    if r.status_code != 200:
+        state["left"] = 0    # LinkedIn не отдаёт описания — в эту проверку больше не пробуем
+        return ""
+    state["checked"].append(job_id)
+    low = BeautifulSoup(r.text, "html.parser").get_text(" ", strip=True).lower()
+    return next((w for w in JUNIOR_DP_WORDS if w in low), "")
 # «DPO» на LinkedIn — чаще всего Data Protection Officer, такие вакансии отбрасываем
 LINKEDIN_SKIP_RE = re.compile(r"data protection|privacy|gdpr|datenschutz|donn[ée]es|legal|compliance|lawyer"
                               r"|airline|aircraft|aviation|pilot|flight|airbus|boeing", re.I)   # и лётные «First/Second Officer»
@@ -357,6 +379,11 @@ def get_linkedin():
     """Вакансии LinkedIn: [{'id', 'title', 'url', 'company', 'place'}]."""
     jobs, ids, errors = [], set(), []
     LINKEDIN_CARDS.clear()
+    try:
+        checked = json.loads(LINKEDIN_CHECKED_FILE.read_text())
+    except Exception:
+        checked = []
+    state = {"checked": checked, "left": LINKEDIN_DEEP_PER_RUN}
     for n, q in enumerate(LINKEDIN_QUERIES):
         if n:
             time.sleep(2)   # не частим
@@ -379,12 +406,23 @@ def get_linkedin():
             where = (title + " " + company).lower()
             if job_id in ids or not title or LINKEDIN_SKIP_RE.search(where):
                 continue
-            if not wanted(title):
-                continue
             if LINKEDIN_SDPO_RE.search(title) and not any(w in title.lower() for w in CO_WORDS + SO_WORDS):
                 continue
+            if not wanted(title):
+                # Название не подошло — у палубных вакансий смотрим описание: нет ли там DP Basic / Induction / Trainee
+                if not LINKEDIN_DECK_RE.search(where) or NON_DECK_RE.search(title):
+                    continue
+                try:
+                    hit = linkedin_deep(m.group(1), state)
+                except Exception as e:
+                    print(f"LinkedIn: не открылось описание {m.group(1)}: {e}")
+                    hit = ""
+                if not hit:
+                    continue
+                title += f" ({hit.upper().replace('BASIC', 'Basic').replace('INDUCTION', 'Induction').replace('TRAINEE', 'Trainee')} — в описании)"
             # Должность названа неоднозначно (просто «DPO», «CO») — берём, только если рядом есть морское слово
-            if not any(w in title.lower() for w in LINKEDIN_SURE) and not any(w in where for w in MARINE_WORDS):
+            elif not any(w in title.lower() for w in LINKEDIN_SURE + JUNIOR_DP_WORDS) \
+                    and not any(w in where for w in MARINE_WORDS):
                 continue
             # В справочник крюингов идут компании только с нужными должностями — теми же, что в списке
             if company:
@@ -396,6 +434,10 @@ def get_linkedin():
             jobs.append({"id": job_id, "title": " · ".join(x for x in [title, company, place] if x),
                          "url": "https://www.linkedin.com/jobs/view/" + m.group(1),
                          "company": company, "place": place})
+    try:
+        LINKEDIN_CHECKED_FILE.write_text(json.dumps(state["checked"][-3000:]))
+    except Exception as e:
+        print(f"LinkedIn: не сохранил список проверенных описаний: {e}")
     if len(errors) == len(LINKEDIN_QUERIES):
         raise RuntimeError("LinkedIn не отвечает, коды: " + ", ".join(errors))
     return jobs
