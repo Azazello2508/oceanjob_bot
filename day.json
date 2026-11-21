@@ -1441,26 +1441,68 @@
 "repeat": false,
 "time": "2026-11-21T13:49:19+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "DECK OFFICERS (48)",
+"url": "https://t.me/marineman_ltd/48437",
+"source": "Telegram: @marineman_ltd",
+"found": [
+"chief officer",
+"second officer"
+],
+"fp": "fp-3804b53ad47285f7",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer / 3rd Officer",
+"vessel": "LNG, Chemical tanker"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-21T16:00:01+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Список закрытых каналов в",
+"url": "https://t.me/rekamore_su/165825",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-de84ab9948b9e3a9",
+"offshore": false,
+"info": {
+"rank": "Chief Officer"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": true,
+"time": "2026-11-21T16:03:01+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-6520,
-6521,
-6522,
-6523,
-6524,
-6525,
-6526,
-6527,
-6528,
-6529,
-6530,
-6531,
-6532,
-6533,
-6534
+6535,
+6536,
+6537,
+6538,
+6539,
+6540,
+6541,
+6542,
+6543,
+6544,
+6545,
+6546,
+6547,
+6548,
+6549
 ],
-"last_list": "2026-11-21T14:22:55.986203+00:00",
-"cleared_upto": 6519,
-"last_msg_id": 6534
+"last_list": "2026-11-21T16:31:15.679589+00:00",
+"cleared_upto": 6534,
+"last_msg_id": 6549
 }

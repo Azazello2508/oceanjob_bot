@@ -11566,7 +11566,7 @@
 "last": "2026-11-21",
 "links": {},
 "name": "Columbia Aurus Ship Management",
-"off": 35,
+"off": 37,
 "offshore_hint": false,
 "phones": [
 "+918076989049",
@@ -11586,7 +11586,7 @@
 "@shipscreweu"
 ],
 "telegram": [],
-"total": 46,
+"total": 48,
 "vessels": [
 "Offshore",
 "Tanker"
@@ -24157,7 +24157,7 @@
 "@marinemanapply",
 "@rudomyotova"
 ],
-"total": 191,
+"total": 193,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -48272,6 +48272,32 @@
 "vessels": [],
 "website": "safcrewmarine.com"
 },
+"safeensubsea.com": {
+"address": "",
+"city": "",
+"co": 0,
+"country": "",
+"emails": [
+"careers@safeensubsea.com"
+],
+"first": "2026-11-21",
+"last": "2026-11-21",
+"links": {},
+"name": "",
+"off": 1,
+"offshore_hint": false,
+"phones": [],
+"so": 0,
+"sources": [
+"@offshoreatsea"
+],
+"telegram": [],
+"total": 1,
+"vessels": [
+"Offshore"
+],
+"website": ""
+},
 "safemarineship.com": {
 "address": "103,Mohd .Saleh Al Gurg Bldg, Souk al kabeer.",
 "city": "Dubai",
@@ -61949,7 +61975,7 @@
 "crs_vacancies": 3590,
 "cruiseshipjobs": 8,
 "cvcrewcom": 12904,
-"cvsenderseaman": 16764,
+"cvsenderseaman": 16765,
 "ecrewing": 3229,
 "findseajobs": 32570,
 "galaxymaritimeua": 1250,
@@ -61961,19 +61987,19 @@
 "marinecareerorg": 17769,
 "marinejobs": 43834,
 "marinejobz": 194156,
-"marineman_ltd": 48435,
+"marineman_ltd": 48442,
 "maritimeforum": 259128,
 "merchantNavyrealjob": 265,
-"morehod_ru": 31179,
+"morehod_ru": 31183,
 "oceancrewjobs": 32929,
-"offshoreatsea": 25622,
+"offshoreatsea": 25624,
 "offshorecv": 1616,
 "offshorevacancies": 47406,
 "oilrigs": 778,
 "olive_crew": 2964,
 "onboard_su": 20840,
 "pervoemorskoe": 4539,
-"rekamore_su": 165822,
+"rekamore_su": 165825,
 "roster_marine": 1747,
 "seajobfinder": 42645,
 "seamenjob": 106580,
