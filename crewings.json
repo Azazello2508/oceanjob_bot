@@ -13690,6 +13690,34 @@
 "vessels": [],
 "website": "deltamarinecrewing.nl"
 },
+"deltareco.com": {
+"address": "",
+"city": "",
+"co": 1,
+"country": "",
+"emails": [
+"manning@deltareco.com"
+],
+"first": "2026-11-21",
+"last": "2026-11-21",
+"links": {},
+"name": "",
+"off": 1,
+"offshore_hint": false,
+"phones": [
+"+918855011561"
+],
+"so": 0,
+"sources": [
+"@offshoreatsea"
+],
+"telegram": [],
+"total": 1,
+"vessels": [
+"Offshore"
+],
+"website": ""
+},
 "deltarecruitmentconsultants.com": {
 "address": "210 211 Dattani Prism1 IT Park",
 "city": "Mumbai",
@@ -19063,22 +19091,26 @@
 "co": 0,
 "country": "",
 "emails": [
+"komal@hirerightt.com",
 "srividhya@hirerightt.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-03",
+"last": "2026-11-21",
 "links": {},
 "name": "",
-"off": 1,
+"off": 2,
 "offshore_hint": false,
 "phones": [],
 "so": 0,
 "sources": [
+"@offshoreatsea",
 "@oilrigs"
 ],
 "telegram": [],
-"total": 1,
-"vessels": [],
+"total": 2,
+"vessels": [
+"Offshore"
+],
 "website": ""
 },
 "hmm.lv": {
@@ -20431,12 +20463,12 @@
 "crewing@sailinga.lt"
 ],
 "first": "2026-11-03",
-"last": "2026-11-20",
+"last": "2026-11-21",
 "links": {
 "crewell": "https://crewell.net/en/companies/198396/"
 },
 "name": "Advanced Marine",
-"off": 91,
+"off": 92,
 "offshore_hint": false,
 "phones": [],
 "so": 10,
@@ -20455,7 +20487,7 @@
 "@seajobfinder"
 ],
 "telegram": [],
-"total": 105,
+"total": 106,
 "uk": 13,
 "vessels": [
 "Dredger",
@@ -44038,7 +44070,7 @@
 "crewell": "https://crewell.net/en/companies/384531/"
 },
 "name": "Offshore Operations Limited",
-"off": 107,
+"off": 109,
 "offshore_hint": false,
 "phones": [
 "+380674264056"
@@ -44059,7 +44091,7 @@
 "@seamenjob"
 ],
 "telegram": [],
-"total": 107,
+"total": 109,
 "uk": 24,
 "vessels": [
 "Dredger",
@@ -45175,7 +45207,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 189,
+"total": 191,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -48279,10 +48311,10 @@
 "crewell": "https://crewell.net/en/companies/47322/"
 },
 "name": "Valid Maritime",
-"off": 45,
+"off": 46,
 "offshore_hint": false,
 "phones": [],
-"so": 21,
+"so": 22,
 "sources": [
 "@CREW_ARIA",
 "@Merchant_Fleet",
@@ -48298,7 +48330,7 @@
 "@offshoreatsea"
 ],
 "telegram": [],
-"total": 47,
+"total": 48,
 "uk": 4,
 "vessels": [
 "Bulk",
@@ -50566,7 +50598,7 @@
 "selectoffshore.com": {
 "address": "68 Lombard Street",
 "city": "London",
-"co": 109,
+"co": 110,
 "country": "United Kingdom",
 "emails": [
 "aaliyah.thurkettle@selectoffshore.com",
@@ -50584,7 +50616,7 @@
 "crewell": "https://crewell.net/en/companies/64960/"
 },
 "name": "Advance Global Recruitment Ltd",
-"off": 617,
+"off": 618,
 "offshore_hint": false,
 "phones": [],
 "so": 65,
@@ -50605,7 +50637,7 @@
 "telegram": [
 "@cvpro_mailing"
 ],
-"total": 618,
+"total": 619,
 "uk": 88,
 "vessels": [
 "Bulk",
@@ -59319,6 +59351,32 @@
 ],
 "website": "zabrama.ae"
 },
+"zatama-connect.com": {
+"address": "",
+"city": "",
+"co": 0,
+"country": "",
+"emails": [
+"office@zatama-connect.com"
+],
+"first": "2026-11-21",
+"last": "2026-11-21",
+"links": {},
+"name": "",
+"off": 1,
+"offshore_hint": false,
+"phones": [],
+"so": 0,
+"sources": [
+"@offshoreatsea"
+],
+"telegram": [],
+"total": 1,
+"vessels": [
+"Offshore"
+],
+"website": ""
+},
 "zeelinemarine.co.id": {
 "address": "jl. swasembada barat 1",
 "city": "jakarta",
@@ -61784,7 +61842,7 @@
 "crs_vacancies": 3590,
 "cruiseshipjobs": 8,
 "cvcrewcom": 12904,
-"cvsenderseaman": 16748,
+"cvsenderseaman": 16751,
 "ecrewing": 3227,
 "findseajobs": 32570,
 "galaxymaritimeua": 1250,
@@ -61799,16 +61857,16 @@
 "marineman_ltd": 48435,
 "maritimeforum": 259120,
 "merchantNavyrealjob": 265,
-"morehod_ru": 31174,
+"morehod_ru": 31175,
 "oceancrewjobs": 32929,
-"offshoreatsea": 25607,
+"offshoreatsea": 25614,
 "offshorecv": 1616,
 "offshorevacancies": 47403,
 "oilrigs": 778,
 "olive_crew": 2963,
 "onboard_su": 20840,
 "pervoemorskoe": 4539,
-"rekamore_su": 165813,
+"rekamore_su": 165814,
 "roster_marine": 1747,
 "seajobfinder": 42645,
 "seamenjob": 106580,
@@ -61818,7 +61876,7 @@
 "shipscreweu": 16721,
 "sidantey": 399,
 "supermariner_ua": 3946,
-"truemalina_offshore": 841,
+"truemalina_offshore": 842,
 "ukrcrewing_official": 2395,
 "univis_crewing": 5041,
 "vesselsea": 3158,
