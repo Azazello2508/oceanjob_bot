@@ -27178,13 +27178,13 @@
 "mwshipco.com": {
 "address": "",
 "city": "",
-"co": 1,
+"co": 2,
 "country": "",
 "emails": [
 "resume@mwshipco.com"
 ],
 "first": "2026-11-18",
-"last": "2026-11-18",
+"last": "2026-11-21",
 "links": {},
 "name": "",
 "off": 0,
@@ -27197,7 +27197,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 1,
+"total": 2,
 "vessels": [
 "Tug"
 ],
@@ -61633,7 +61633,7 @@
 "olive_crew": 2961,
 "onboard_su": 20835,
 "pervoemorskoe": 4539,
-"rekamore_su": 165783,
+"rekamore_su": 165789,
 "roster_marine": 1747,
 "seajobfinder": 42645,
 "seamenjob": 106580,

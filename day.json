@@ -360,22 +360,45 @@
 "repeat": false,
 "time": "2026-11-21T00:18:20+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "Приветствуем, уважаемые коллеги!",
+"url": "https://t.me/rekamore_su/165789",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-c8c0feef16079ee3",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Tug",
+"joining": "срочная, г.Астрахань",
+"email": "resume@mwshipco.com",
+"company": "mwshipco.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-21T03:19:38+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-6346,
-6347,
-6348,
-6349,
-6350,
-6351,
-6352,
-6353,
-6354,
-6355,
-6356
+6357,
+6358,
+6359,
+6360,
+6361,
+6362,
+6363,
+6364,
+6365,
+6366,
+6367,
+6368
 ],
-"last_list": "2026-11-21T00:57:09.077121+00:00",
-"cleared_upto": 6345,
-"last_msg_id": 6356
+"last_list": "2026-11-21T03:27:20.177775+00:00",
+"cleared_upto": 6356,
+"last_msg_id": 6368
 }
