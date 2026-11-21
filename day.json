@@ -591,23 +591,196 @@
 "repeat": false,
 "time": "2026-11-21T07:12:38+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "2nd Officer Job - Aframax Tanker (Domestic) PT Soechi Lines Tbk",
+"url": "https://maritime-union.com/job/233477",
+"source": "maritime-union.com",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Aframax"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-21T08:01:52.031231+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "CRUDE OIL TANKER",
+"url": "https://t.me/maritimeforum/259106",
+"source": "Telegram: @maritimeforum",
+"found": [
+"2nd off"
+],
+"fp": "fp-44bc38dd75378b37",
+"offshore": false,
+"info": {
+"rank": "2nd Officer / 3rd Officer / AB",
+"vessel": "Crude oil tanker",
+"salary": "+ Bonus + HRA !!!",
+"email": "office@seamanwork.com",
+"company": "seamanwork.com"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-21T07:18:05+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Container Ship",
+"url": "https://t.me/maritimeforum/259107",
+"source": "Telegram: @maritimeforum",
+"found": [
+"2nd off"
+],
+"fp": "fp-f9c7dcb5dabc2221",
+"offshore": false,
+"info": {
+"rank": "2nd Officer / 3rd Officer",
+"vessel": "Container",
+"joining": "Port: Port Everglades, USA",
+"salary": "7 500 – 8 000 $",
+"email": "office@seamanwork.com",
+"company": "seamanwork.com"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-21T07:18:15+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "VLGC FLEET",
+"url": "https://t.me/maritimeforum/259108",
+"source": "Telegram: @maritimeforum",
+"found": [
+"2nd off"
+],
+"fp": "fp-07c8fe8fe28f9ab0",
+"offshore": false,
+"info": {
+"rank": "2nd Officer / 3rd Officer / AB",
+"salary": "+ Bonus + HRA !!!",
+"joining": "Port: Singapore / South Korea",
+"email": "office@seamanwork.com",
+"company": "seamanwork.com"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-21T07:18:23+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Bulk Carrier",
+"url": "https://t.me/maritimeforum/259110",
+"source": "Telegram: @maritimeforum",
+"found": [
+"2nd off"
+],
+"fp": "fp-c8ca49b5d0db01fa",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Bulk carrier",
+"joining": "ASAP",
+"contract": "6 ± 1 months",
+"salary": "3 500 - 3 800 $",
+"email": "office@seamanwork.com",
+"company": "seamanwork.com"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-21T07:18:48+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Need Candidates for LNG  Vessel",
+"url": "https://t.me/oceancrewjobs/32923",
+"source": "Telegram: @oceancrewjobs",
+"found": [
+"chief officer",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-d9ee9c570ede0bb7",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer / 3rd Officer",
+"vessel": "LNG",
+"company": "https://oceancrew.org/vacancies/mer…"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-21T07:52:15+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Need Candidates for Tug Boat",
+"url": "https://t.me/oceancrewjobs/32925",
+"source": "Telegram: @oceancrewjobs",
+"found": [
+"chief officer"
+],
+"fp": "fp-f6f74c26f3deecbc",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Tug",
+"company": "https://oceancrew.org/vacancies/off…"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-21T07:52:53+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Open Positions for OSV",
+"url": "https://t.me/oceancrewjobs/32926",
+"source": "Telegram: @oceancrewjobs",
+"found": [
+"2nd officer",
+"dpo",
+"2nd off"
+],
+"fp": "fp-0f54b64a316a0c10",
+"offshore": true,
+"info": {
+"rank": "2nd Officer / DPO",
+"vessel": "OSV",
+"company": "https://oceancrew.org/vacancies/off…"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-21T07:53:13+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-6393,
-6394,
-6395,
-6396,
-6397,
-6398,
-6399,
-6400,
-6401,
-6402,
-6403,
-6404
+6405,
+6406,
+6407,
+6408,
+6409,
+6410,
+6411,
+6412,
+6413,
+6414,
+6415,
+6416,
+6417
 ],
-"last_list": "2026-11-21T07:13:12.141108+00:00",
-"cleared_upto": 6392,
-"last_msg_id": 6404
+"last_list": "2026-11-21T08:03:15.869872+00:00",
+"cleared_upto": 6404,
+"last_msg_id": 6417
 }

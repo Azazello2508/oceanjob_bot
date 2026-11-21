@@ -2611,22 +2611,22 @@
 "co": 3,
 "country": "United Arab Emirates",
 "emails": [
+"anthony.howden@agrl.co.uk",
 "ben.methven@agrl.co.uk",
 "colin.callachan@agrl.co.uk",
 "cv@ojcrew.com",
 "cv@tsmexp.com",
 "dr@offshore-operations.com",
 "drillingcv@global-resources.co.uk",
-"elbek.juraev@selectoffshore.com",
-"engineering@seamariner.com"
+"elbek.juraev@selectoffshore.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-19",
+"last": "2026-11-21",
 "links": {
 "ukrcrewing": "https://ukrcrewing.com.ua/en/agency/agrl"
 },
 "name": "Advance Global Recruitment Ltd",
-"off": 14,
+"off": 15,
 "offshore_hint": false,
 "phones": [
 "+4401315543454"
@@ -2645,7 +2645,7 @@
 "ukrcrewing.com.ua"
 ],
 "telegram": [],
-"total": 17,
+"total": 18,
 "uk": 5,
 "vessels": [
 "Dredger",
@@ -13848,7 +13848,7 @@
 "crewell": "https://crewell.net/en/companies/204752/"
 },
 "name": "DESE Crew Management",
-"off": 58,
+"off": 60,
 "offshore_hint": false,
 "phones": [
 "+380509821218",
@@ -13876,7 +13876,7 @@
 "@offshoreatsea"
 ],
 "telegram": [],
-"total": 137,
+"total": 139,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -22036,9 +22036,11 @@
 "city": "Constanta",
 "co": 0,
 "country": "Romania",
-"emails": [],
+"emails": [
+"office@krumaritime.ro"
+],
 "first": "2026-11-03",
-"last": "",
+"last": "2026-11-21",
 "links": {
 "crewell": "https://crewell.net/en/companies/91733/"
 },
@@ -22048,11 +22050,14 @@
 "phones": [],
 "so": 0,
 "sources": [
+"@cvsenderseaman",
 "crewell.net"
 ],
 "telegram": [],
-"total": 0,
-"vessels": [],
+"total": 1,
+"vessels": [
+"Bulk"
+],
 "website": "krumaritime.ro"
 },
 "ksfshipping.com": {
@@ -44045,7 +44050,7 @@
 "ojcrew.com": {
 "address": "PANIEŃSKA 17/4",
 "city": "SZCZECIN",
-"co": 21,
+"co": 22,
 "country": "Poland",
 "emails": [
 "cv@ojcrew.com",
@@ -44058,12 +44063,12 @@
 "info.poland@tospeople.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-20",
+"last": "2026-11-21",
 "links": {
 "crewell": "https://crewell.net/en/companies/296784/"
 },
 "name": "OJ Crew Poland",
-"off": 140,
+"off": 146,
 "offshore_hint": false,
 "phones": [],
 "so": 11,
@@ -44082,7 +44087,7 @@
 "@offshorecv"
 ],
 "telegram": [],
-"total": 216,
+"total": 222,
 "uk": 10,
 "vessels": [
 "Bulk",
@@ -49652,7 +49657,7 @@
 "office@seamanwork.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-20",
+"last": "2026-11-21",
 "links": {},
 "name": "",
 "off": 0,
@@ -49661,13 +49666,13 @@
 "+380982840100",
 "+40799627444"
 ],
-"so": 35,
+"so": 39,
 "sources": [
 "@SM_job_center",
 "@maritimeforum"
 ],
 "telegram": [],
-"total": 97,
+"total": 103,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -49698,7 +49703,7 @@
 "last": "2026-11-21",
 "links": {},
 "name": "",
-"off": 48,
+"off": 49,
 "offshore_hint": false,
 "phones": [],
 "so": 1,
@@ -49716,8 +49721,8 @@
 "@shipscreweu"
 ],
 "telegram": [],
-"total": 57,
-"uk": 34,
+"total": 58,
+"uk": 35,
 "vessels": [
 "Dredger",
 "Offshore",
@@ -50418,12 +50423,12 @@
 "anna.wegner-radunska@vships.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-20",
+"last": "2026-11-21",
 "links": {
 "crewell": "https://crewell.net/en/companies/64960/"
 },
 "name": "Advance Global Recruitment Ltd",
-"off": 596,
+"off": 611,
 "offshore_hint": false,
 "phones": [],
 "so": 65,
@@ -50444,8 +50449,8 @@
 "telegram": [
 "@cvpro_mailing"
 ],
-"total": 597,
-"uk": 86,
+"total": 612,
+"uk": 87,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -52074,7 +52079,7 @@
 "vinfo@staff-service-expert.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-20",
+"last": "2026-11-21",
 "links": {},
 "name": "",
 "off": 51,
@@ -52095,7 +52100,7 @@
 "@supermariner_ua"
 ],
 "telegram": [],
-"total": 333,
+"total": 334,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -61609,7 +61614,7 @@
 "crs_vacancies": 3588,
 "cruiseshipjobs": 8,
 "cvcrewcom": 12904,
-"cvsenderseaman": 16717,
+"cvsenderseaman": 16726,
 "ecrewing": 3227,
 "findseajobs": 32570,
 "galaxymaritimeua": 1250,
@@ -61622,11 +61627,11 @@
 "marinejobs": 43831,
 "marinejobz": 194156,
 "marineman_ltd": 48435,
-"maritimeforum": 259105,
+"maritimeforum": 259112,
 "merchantNavyrealjob": 265,
 "morehod_ru": 31172,
-"oceancrewjobs": 32921,
-"offshoreatsea": 25338,
+"oceancrewjobs": 32928,
+"offshoreatsea": 25607,
 "offshorecv": 1616,
 "offshorevacancies": 47403,
 "oilrigs": 778,
