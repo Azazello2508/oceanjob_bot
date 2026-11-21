@@ -344,7 +344,7 @@ LINKEDIN_URL = "https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/
 LINKEDIN_QUERIES = ["Chief Mate", "Dynamic Positioning Operator", "DPO offshore vessel", "JDPO"]
 # «DPO» на LinkedIn — чаще всего Data Protection Officer, такие вакансии отбрасываем
 LINKEDIN_SKIP_RE = re.compile(r"data protection|privacy|gdpr|datenschutz|donn[ée]es|legal|compliance|lawyer", re.I)
-LINKEDIN_CARDS = []   # все морские вакансии LinkedIn за проверку — для справочника крюингов
+LINKEDIN_CARDS = []   # вакансии LinkedIn с нужными должностями за проверку — для справочника крюингов
 LINKEDIN_SURE = ["chief mate", "chief officer", "first mate", "1st mate", "second mate", "2nd mate",
                  "second officer", "2nd officer", "jdpo", "sdpo", "dynamic position", "dp operator"]
 
@@ -375,17 +375,17 @@ def get_linkedin():
             where = (title + " " + company).lower()
             if job_id in ids or not title or LINKEDIN_SKIP_RE.search(where):
                 continue
-            # В справочник крюингов идут компании с любыми морскими вакансиями, не только с нужными должностями
-            if company and (any(w in title.lower() for w in LINKEDIN_SURE) or any(w in where for w in MARINE_WORDS)):
-                h4 = card.find("h4", class_=re.compile("subtitle"))
-                link = h4.find("a", href=True) if h4 else None
-                LINKEDIN_CARDS.append({"id": m.group(1), "company": company, "title": title, "place": place,
-                                       "link": link["href"].split("?")[0] if link else ""})
             if not wanted(title):
                 continue
             # Должность названа неоднозначно (просто «DPO», «CO») — берём, только если рядом есть морское слово
             if not any(w in title.lower() for w in LINKEDIN_SURE) and not any(w in where for w in MARINE_WORDS):
                 continue
+            # В справочник крюингов идут компании только с нужными должностями — теми же, что в списке
+            if company:
+                h4 = card.find("h4", class_=re.compile("subtitle"))
+                link = h4.find("a", href=True) if h4 else None
+                LINKEDIN_CARDS.append({"id": m.group(1), "company": company, "title": title, "place": place,
+                                       "link": link["href"].split("?")[0] if link else ""})
             ids.add(job_id)
             jobs.append({"id": job_id, "title": " · ".join(x for x in [title, company, place] if x),
                          "url": "https://www.linkedin.com/jobs/view/" + m.group(1),
