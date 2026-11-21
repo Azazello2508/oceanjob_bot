@@ -689,6 +689,30 @@
 "vessels": [],
 "website": ""
 },
+"@isaenko_psy": {
+"address": "",
+"city": "",
+"co": 0,
+"country": "",
+"emails": [],
+"first": "2026-11-21",
+"last": "2026-11-21",
+"links": {},
+"name": "",
+"off": 0,
+"offshore_hint": false,
+"phones": [],
+"so": 0,
+"sources": [
+"@ecrewing"
+],
+"telegram": [
+"@isaenko_psy"
+],
+"total": 1,
+"vessels": [],
+"website": ""
+},
 "@m8most": {
 "address": "",
 "city": "",
@@ -61925,8 +61949,8 @@
 "crs_vacancies": 3590,
 "cruiseshipjobs": 8,
 "cvcrewcom": 12904,
-"cvsenderseaman": 16763,
-"ecrewing": 3228,
+"cvsenderseaman": 16764,
+"ecrewing": 3229,
 "findseajobs": 32570,
 "galaxymaritimeua": 1250,
 "gm_seaman_cv": 2751,
@@ -61940,7 +61964,7 @@
 "marineman_ltd": 48435,
 "maritimeforum": 259128,
 "merchantNavyrealjob": 265,
-"morehod_ru": 31177,
+"morehod_ru": 31179,
 "oceancrewjobs": 32929,
 "offshoreatsea": 25622,
 "offshorecv": 1616,
@@ -61949,7 +61973,7 @@
 "olive_crew": 2964,
 "onboard_su": 20840,
 "pervoemorskoe": 4539,
-"rekamore_su": 165821,
+"rekamore_su": 165822,
 "roster_marine": 1747,
 "seajobfinder": 42645,
 "seamenjob": 106580,
