@@ -11516,7 +11516,7 @@
 "last": "2026-11-21",
 "links": {},
 "name": "Columbia Aurus Ship Management",
-"off": 20,
+"off": 21,
 "offshore_hint": false,
 "phones": [
 "+918076989049",
@@ -11536,7 +11536,7 @@
 "@shipscreweu"
 ],
 "telegram": [],
-"total": 31,
+"total": 32,
 "vessels": [
 "Offshore",
 "Tanker"
@@ -17229,7 +17229,7 @@
 "sea1967@ukr.net"
 ],
 "first": "2026-11-03",
-"last": "2026-11-20",
+"last": "2026-11-21",
 "links": {},
 "name": "",
 "off": 0,
@@ -17244,7 +17244,7 @@
 "@marinejobs"
 ],
 "telegram": [],
-"total": 35,
+"total": 36,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -44210,7 +44210,7 @@
 "@Sofia_OliveCrew",
 "@Svetlana_OliveCrew"
 ],
-"total": 402,
+"total": 403,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -45047,7 +45047,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 186,
+"total": 188,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -58457,22 +58457,22 @@
 "co": 10,
 "country": "United Kingdom",
 "emails": [
+"brad.h@worldwide-rs.com",
 "denis.l@worldwide-rs.com",
 "fin.maguire@selectoffshore.com",
 "isabelle.j@worldwide-rs.com",
 "james.m@worldwide-rs.com",
 "jkirusova@atlasnextwave.com",
 "joel.dihan@selectoffshore.com",
-"m@worldwide-rs.com",
-"max.os@worldwide-rs.com"
+"m@worldwide-rs.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-20",
+"last": "2026-11-21",
 "links": {
 "crewell": "https://crewell.net/en/companies/54631/"
 },
 "name": "Worldwide Recruitment Solutions",
-"off": 175,
+"off": 177,
 "offshore_hint": false,
 "phones": [],
 "so": 13,
@@ -58491,7 +58491,7 @@
 "@maritimeforum"
 ],
 "telegram": [],
-"total": 266,
+"total": 268,
 "uk": 44,
 "vessels": [
 "Dredger",
@@ -60023,6 +60023,7 @@
 "doncrew offline russian federation member since: nov 2022 no active vacancies view profile": "name:doncrew offline russian federation member since: nov 2022 no active vacancies view profile",
 "donmaster": "donmastershipping.ru",
 "doo montenegro maritime": "crewmontenegro.com",
+"dp columbia aurus ship management": "columbiaaurus.com",
 "dp2 ahts ryan shipmanagement": "ryanship.com",
 "dp2 columbia aurus ship management": "columbiaaurus.com",
 "dp2 grt navis crew management": "navis.eu",
@@ -61644,7 +61645,7 @@
 "crs_vacancies": 3590,
 "cruiseshipjobs": 8,
 "cvcrewcom": 12904,
-"cvsenderseaman": 16736,
+"cvsenderseaman": 16739,
 "ecrewing": 3227,
 "findseajobs": 32570,
 "galaxymaritimeua": 1250,
@@ -61654,21 +61655,21 @@
 "job_for_seaman": 17115,
 "jobfor_seamen": 12783,
 "marinecareerorg": 17769,
-"marinejobs": 43831,
+"marinejobs": 43833,
 "marinejobz": 194156,
 "marineman_ltd": 48435,
 "maritimeforum": 259119,
 "merchantNavyrealjob": 265,
-"morehod_ru": 31173,
+"morehod_ru": 31174,
 "oceancrewjobs": 32929,
 "offshoreatsea": 25607,
 "offshorecv": 1616,
 "offshorevacancies": 47403,
 "oilrigs": 778,
-"olive_crew": 2962,
+"olive_crew": 2963,
 "onboard_su": 20838,
 "pervoemorskoe": 4539,
-"rekamore_su": 165812,
+"rekamore_su": 165813,
 "roster_marine": 1747,
 "seajobfinder": 42645,
 "seamenjob": 106580,
