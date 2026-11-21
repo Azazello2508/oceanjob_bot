@@ -763,24 +763,115 @@
 "repeat": false,
 "time": "2026-11-21T07:53:13+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "ОТКРЫТЫЕ ВАКАНСИИ НА LPG TANKER (VLGC)",
+"url": "https://t.me/maritimeforum/259115",
+"source": "Telegram: @maritimeforum",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-05c04ebe53601cac",
+"offshore": false,
+"info": {
+"rank": "2nd Officer / 3rd Officer",
+"vessel": "LPG",
+"salary": "ы",
+"contract": "а"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-21T08:25:50+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "HOT OFFSHORE JOBS — FULL CREW RECRUITMENT!",
+"url": "https://t.me/Sea_format/12357",
+"source": "Telegram: @Sea_format",
+"found": [
+"chief officer",
+"2nd officer",
+"dpo",
+"2nd off"
+],
+"fp": "fp-fec846f66d02d1ad",
+"offshore": true,
+"info": {
+"rank": "Chief Officer / 2nd Officer / 3rd Officer",
+"vessel": "PSV, AHTS",
+"joining": "Upcoming / TBC",
+"contract": "? Check today’s opportuni",
+"company": "HOT OFFSHORE JOBS — FULL CREW RECRU…"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-21T08:40:56+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Vessel",
+"url": "https://t.me/cvsenderseaman/16732",
+"source": "Telegram: @cvsenderseaman",
+"found": [],
+"fp": "fp-01242e10af8e5522",
+"offshore": true,
+"info": {
+"rank": "AB",
+"vessel": "Dredger",
+"salary": "Negotiable",
+"joining": "ASAP",
+"contract": "4 weeks",
+"email": "career@orca-crew.com",
+"company": "orca-crew.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-21T08:36:38+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "OPEN POSITIONS",
+"url": "https://t.me/cvsenderseaman/16733",
+"source": "Telegram: @cvsenderseaman",
+"found": [
+"chief officer"
+],
+"fp": "fp-b5fe12952c8f6ec9",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "PSV, AHTS",
+"joining": "ASAP",
+"email": "sourcingoffshore@columbiaaurus.com",
+"company": "columbiaaurus.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-21T08:42:38+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-6405,
-6406,
-6407,
-6408,
-6409,
-6410,
-6411,
-6412,
-6413,
-6414,
-6415,
-6416,
-6417
+6418,
+6419,
+6420,
+6421,
+6422,
+6423,
+6424,
+6425,
+6426,
+6427,
+6428,
+6429,
+6430
 ],
-"last_list": "2026-11-21T08:03:15.869872+00:00",
-"cleared_upto": 6404,
-"last_msg_id": 6417
+"last_list": "2026-11-21T08:53:15.754148+00:00",
+"cleared_upto": 6417,
+"last_msg_id": 6430
 }
