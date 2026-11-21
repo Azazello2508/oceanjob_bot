@@ -43877,7 +43877,7 @@
 "crewell": "https://crewell.net/en/companies/384531/"
 },
 "name": "Offshore Operations Limited",
-"off": 106,
+"off": 107,
 "offshore_hint": false,
 "phones": [
 "+380674264056"
@@ -43898,7 +43898,7 @@
 "@seamenjob"
 ],
 "telegram": [],
-"total": 106,
+"total": 107,
 "uk": 24,
 "vessels": [
 "Dredger",
@@ -44530,13 +44530,13 @@
 "orions-group.com": {
 "address": "6A Vasi Alekseeva, 511 Office",
 "city": "St Petersburg",
-"co": 2,
+"co": 3,
 "country": "Russia",
 "emails": [
 "info@orions-group.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-20",
+"last": "2026-11-21",
 "links": {
 "crewell": "https://crewell.net/en/companies/290552/"
 },
@@ -44551,7 +44551,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 17,
+"total": 18,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -45014,7 +45014,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 182,
+"total": 184,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -49695,10 +49695,10 @@
 "operations@oakoffshore.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-20",
+"last": "2026-11-21",
 "links": {},
 "name": "",
-"off": 47,
+"off": 48,
 "offshore_hint": false,
 "phones": [],
 "so": 1,
@@ -49716,8 +49716,8 @@
 "@shipscreweu"
 ],
 "telegram": [],
-"total": 56,
-"uk": 33,
+"total": 57,
+"uk": 34,
 "vessels": [
 "Dredger",
 "Offshore",
@@ -50096,24 +50096,24 @@
 "seatrustcrewing@ukr.net": {
 "address": "",
 "city": "",
-"co": 6,
+"co": 8,
 "country": "",
 "emails": [
 "seatrustcrewing@ukr.net"
 ],
 "first": "2026-11-17",
-"last": "2026-11-20",
+"last": "2026-11-21",
 "links": {},
 "name": "",
 "off": 0,
 "offshore_hint": false,
 "phones": [],
-"so": 3,
+"so": 4,
 "sources": [
 "@maritimeforum"
 ],
 "telegram": [],
-"total": 9,
+"total": 12,
 "vessels": [
 "Chemical",
 "LPG/LNG",
@@ -61609,7 +61609,7 @@
 "crs_vacancies": 3588,
 "cruiseshipjobs": 8,
 "cvcrewcom": 12904,
-"cvsenderseaman": 16713,
+"cvsenderseaman": 16717,
 "ecrewing": 3227,
 "findseajobs": 32570,
 "galaxymaritimeua": 1250,
@@ -61622,9 +61622,9 @@
 "marinejobs": 43831,
 "marinejobz": 194156,
 "marineman_ltd": 48435,
-"maritimeforum": 259102,
+"maritimeforum": 259105,
 "merchantNavyrealjob": 265,
-"morehod_ru": 31170,
+"morehod_ru": 31172,
 "oceancrewjobs": 32921,
 "offshoreatsea": 25338,
 "offshorecv": 1616,
@@ -61633,7 +61633,7 @@
 "olive_crew": 2961,
 "onboard_su": 20838,
 "pervoemorskoe": 4539,
-"rekamore_su": 165799,
+"rekamore_su": 165801,
 "roster_marine": 1747,
 "seajobfinder": 42645,
 "seamenjob": 106580,
