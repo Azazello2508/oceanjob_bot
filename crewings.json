@@ -3613,19 +3613,19 @@
 "allcrew.net": {
 "address": "Dm. Donskogo 17, office 3, floor 3",
 "city": "Kaliningrad",
-"co": 64,
+"co": 65,
 "country": "Russia",
 "emails": [
 "cv@allcrew.net",
 "info@allcrew.net"
 ],
 "first": "2026-11-03",
-"last": "2026-11-20",
+"last": "2026-11-21",
 "links": {
 "crewell": "https://crewell.net/en/companies/149331/"
 },
 "name": "All Crew LLC",
-"off": 13,
+"off": 14,
 "offshore_hint": false,
 "phones": [
 "+79062160667",
@@ -3643,10 +3643,11 @@
 "@marinejobs",
 "@maritimeforum",
 "@seamenjob",
+"@supermariner_ua",
 "crewell.net"
 ],
 "telegram": [],
-"total": 219,
+"total": 220,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -4086,7 +4087,7 @@
 "ukrcrewing": "https://ukrcrewing.com.ua/en/agency/alpha_crew"
 },
 "name": "AlphaCrew Maritime",
-"off": 603,
+"off": 604,
 "offshore_hint": true,
 "phones": [
 "+35726000899",
@@ -4121,7 +4122,7 @@
 "@Olga_Alpha_Crew",
 "@irina_alpha"
 ],
-"total": 649,
+"total": 650,
 "uk": 25,
 "vessels": [
 "Bulk",
@@ -11506,6 +11507,7 @@
 "country": "",
 "emails": [
 "anshu@columbiaaurus.com",
+"bhavana@columbiaaurus.com",
 "moumita@columbiaaurus.com",
 "ogd@columbiaaurus.com",
 "priyanka@columbiaaurus.com",
@@ -11516,13 +11518,13 @@
 "last": "2026-11-21",
 "links": {},
 "name": "Columbia Aurus Ship Management",
-"off": 21,
+"off": 22,
 "offshore_hint": false,
 "phones": [
 "+918076989049",
 "+918100594643"
 ],
-"so": 8,
+"so": 9,
 "sources": [
 "@CREW_ARIA",
 "@Offshore_Vacancies",
@@ -11536,7 +11538,7 @@
 "@shipscreweu"
 ],
 "telegram": [],
-"total": 32,
+"total": 33,
 "vessels": [
 "Offshore",
 "Tanker"
@@ -13878,7 +13880,7 @@
 "@offshoreatsea"
 ],
 "telegram": [],
-"total": 141,
+"total": 142,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -15054,10 +15056,10 @@
 "crew@emescrewing.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-20",
+"last": "2026-11-21",
 "links": {},
 "name": "EMES Crewing Agency",
-"off": 39,
+"off": 40,
 "offshore_hint": false,
 "phones": [],
 "so": 2,
@@ -15069,7 +15071,7 @@
 "@supermariner_ua"
 ],
 "telegram": [],
-"total": 73,
+"total": 74,
 "vessels": [
 "Bulk",
 "Container",
@@ -18317,10 +18319,10 @@
 "suzanne.laing@grndrilling.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-16",
+"last": "2026-11-21",
 "links": {},
 "name": "",
-"off": 35,
+"off": 36,
 "offshore_hint": false,
 "phones": [],
 "so": 0,
@@ -18336,7 +18338,7 @@
 "@seamenjob"
 ],
 "telegram": [],
-"total": 35,
+"total": 36,
 "uk": 1,
 "vessels": [
 "Offshore"
@@ -20521,6 +20523,30 @@
 "Tug"
 ],
 "website": "iqrewing.com"
+},
+"ires.az": {
+"address": "",
+"city": "",
+"co": 0,
+"country": "",
+"emails": [
+"aliya.abbasova@ires.az"
+],
+"first": "2026-11-21",
+"last": "2026-11-21",
+"links": {},
+"name": "",
+"off": 0,
+"offshore_hint": false,
+"phones": [],
+"so": 0,
+"sources": [
+"@cvsenderseaman"
+],
+"telegram": [],
+"total": 1,
+"vessels": [],
+"website": ""
 },
 "iresshipmanagement.com": {
 "address": "",
@@ -23993,16 +24019,16 @@
 "o.kotoban@marineman.eu"
 ],
 "first": "2026-11-03",
-"last": "2026-11-20",
+"last": "2026-11-21",
 "links": {},
 "name": "Why Marine",
-"off": 7,
+"off": 9,
 "offshore_hint": false,
 "phones": [
 "+380504944082",
 "+380992201708"
 ],
-"so": 8,
+"so": 9,
 "sources": [
 "@SM_job_center",
 "@cvsenderseaman",
@@ -24020,7 +24046,7 @@
 "@marinemanapply",
 "@rudomyotova"
 ],
-"total": 189,
+"total": 191,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -30347,6 +30373,33 @@
 "vessels": [],
 "website": ""
 },
+"name:centerline logistics corporation": {
+"address": "",
+"city": "",
+"co": 0,
+"country": "",
+"emails": [],
+"first": "2026-11-21",
+"last": "2026-11-21",
+"li": 1,
+"links": {
+"linkedin": "https://www.linkedin.com/company/centerlinelogistics"
+},
+"name": "Centerline Logistics Corporation",
+"off": 1,
+"offshore_hint": false,
+"phones": [],
+"so": 0,
+"sources": [
+"LinkedIn"
+],
+"telegram": [],
+"total": 0,
+"vessels": [
+"Offshore"
+],
+"website": ""
+},
 "name:china oilfield services": {
 "address": "",
 "city": "",
@@ -35573,6 +35626,31 @@
 "vessels": [],
 "website": ""
 },
+"name:royal caribbean group": {
+"address": "",
+"city": "",
+"co": 0,
+"country": "",
+"emails": [],
+"first": "2026-11-21",
+"last": "2026-11-21",
+"li": 1,
+"links": {
+"linkedin": "https://www.linkedin.com/company/royal-caribbean-group"
+},
+"name": "Royal Caribbean Group",
+"off": 0,
+"offshore_hint": false,
+"phones": [],
+"so": 1,
+"sources": [
+"LinkedIn"
+],
+"telegram": [],
+"total": 0,
+"vessels": [],
+"website": ""
+},
 "name:royal sea offline russian federation member since: nov 2016 no active vacancies view profile": {
 "address": "",
 "city": "",
@@ -36394,6 +36472,31 @@
 "vessels": [],
 "website": ""
 },
+"name:sinclus": {
+"address": "",
+"city": "",
+"co": 0,
+"country": "",
+"emails": [],
+"first": "2026-11-21",
+"last": "2026-11-21",
+"li": 1,
+"links": {
+"linkedin": "https://in.linkedin.com/company/sinclus"
+},
+"name": "SINCLUS",
+"off": 0,
+"offshore_hint": false,
+"phones": [],
+"so": 1,
+"sources": [
+"LinkedIn"
+],
+"telegram": [],
+"total": 0,
+"vessels": [],
+"website": ""
+},
 "name:sinorum 1 day ago russian federation member since: oct 2026 2 active vacancies здравствуйте уважаемые моряки!!! компания представляет китайского оператора танкерного флота на российском рынке морских услуг под управлением находится 68 танкеров разного типа view profile": {
 "address": "",
 "city": "",
@@ -36800,6 +36903,31 @@
 "Offshore",
 "Tanker"
 ],
+"website": ""
+},
+"name:svitzer": {
+"address": "",
+"city": "",
+"co": 1,
+"country": "",
+"emails": [],
+"first": "2026-11-21",
+"last": "2026-11-21",
+"li": 1,
+"links": {
+"linkedin": "https://dk.linkedin.com/company/svitzer"
+},
+"name": "Svitzer",
+"off": 0,
+"offshore_hint": false,
+"phones": [],
+"so": 0,
+"sources": [
+"LinkedIn"
+],
+"telegram": [],
+"total": 0,
+"vessels": [],
 "website": ""
 },
 "name:swan marine": {
@@ -45047,7 +45175,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 188,
+"total": 189,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -45506,12 +45634,12 @@
 "joel.dihan@selectoffshore.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-18",
+"last": "2026-11-21",
 "links": {
 "crewell": "https://crewell.net/en/companies/37890/"
 },
 "name": "PG Global Ltd",
-"off": 62,
+"off": 63,
 "offshore_hint": false,
 "phones": [],
 "so": 5,
@@ -45530,7 +45658,7 @@
 "@shipscreweu"
 ],
 "telegram": [],
-"total": 71,
+"total": 72,
 "vessels": [
 "Offshore"
 ],
@@ -50456,7 +50584,7 @@
 "crewell": "https://crewell.net/en/companies/64960/"
 },
 "name": "Advance Global Recruitment Ltd",
-"off": 613,
+"off": 617,
 "offshore_hint": false,
 "phones": [],
 "so": 65,
@@ -50477,7 +50605,7 @@
 "telegram": [
 "@cvpro_mailing"
 ],
-"total": 614,
+"total": 618,
 "uk": 88,
 "vessels": [
 "Bulk",
@@ -52128,7 +52256,7 @@
 "@supermariner_ua"
 ],
 "telegram": [],
-"total": 335,
+"total": 336,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -59455,6 +59583,12 @@
 },
 "file_msg": 4857,
 "last_file": "2026-47",
+"li_seen": [
+"4492302285",
+"4485475425",
+"4493216520",
+"4475751051"
+],
 "names": {
 "-tech solutions": "as-tech.pl",
 "5 seas offline russian federation member since: may 2017 no active vacancies официальное представительство компании &quot;5 морей&quot; в калининграде комиссии не взымаем view profile": "name:5 seas offline russian federation member since: may 2017 no active vacancies официальное представительство компании &quot;5 морей&quot; в калининграде комиссии не взымаем view profile",
@@ -59910,6 +60044,7 @@
 "cast-a-way": "cast-a-way.com",
 "caterpillar motoren": "iqrewing.com",
 "cement carrier nerey maritime agency": "nerey.net",
+"centerline logistics corporation": "name:centerline logistics corporation",
 "centinal maritime recruitment pvt": "cmvpl.com",
 "centrum ship management": "centrum-sm.com",
 "chahar & chahar shipping pvt": "chaharshippingco.in",
@@ -60886,6 +61021,7 @@
 "romor phu crewing agency": "romor.pl",
 "rosewood shipping offline russian federation member since: nov 2016 no active vacancies view profile": "name:rosewood shipping offline russian federation member since: nov 2016 no active vacancies view profile",
 "rosnefteflot offline russian federation member since: apr 2017 no active vacancies view profile": "name:rosnefteflot offline russian federation member since: apr 2017 no active vacancies view profile",
+"royal caribbean group": "name:royal caribbean group",
 "royal sea offline russian federation member since: nov 2016 no active vacancies view profile": "name:royal sea offline russian federation member since: nov 2016 no active vacancies view profile",
 "rtc offline russian federation member since: nov 2016 no active vacancies shipowner view profile": "name:rtc offline russian federation member since: nov 2016 no active vacancies shipowner view profile",
 "running on waves offline russian federation member since: nov 2016 no active vacancies судовладельческая компания 88 parsec парусный пассажирский корабль running on waves view profile": "name:running on waves offline russian federation member since: nov 2016 no active vacancies судовладельческая компания 88 parsec парусный пассажирский корабль running on waves view profile",
@@ -60986,6 +61122,7 @@
 "seawhale": "seawhale-co.com",
 "seawhale offline russian federation member since: jan 2026 no active vacancies view profile": "name:seawhale offline russian federation member since: jan 2026 no active vacancies view profile",
 "seaworks": "seaworks.net",
+"second engineer dese crew management": "desecrew.com",
 "second term amid shipping": "name:second term amid shipping",
 "select offshore": "selectoffshore.com",
 "semco maritime": "name:semco maritime",
@@ -61022,6 +61159,7 @@
 "sigma operasyon ve lojistik anonim sirketi": "sigmalojistic.com",
 "silverburn group": "silverburngroup.com",
 "silversail logistics 23 08 2026 united arab emirates member since: jul 2025 no active vacancies our selects qualified crew and provides jobs for sailors on various types of vessels view profile": "name:silversail logistics 23 08 2026 united arab emirates member since: jul 2025 no active vacancies our selects qualified crew and provides jobs for sailors on various types of vessels view profile",
+"sinclus": "name:sinclus",
 "singapore maritime services": "singaporemaritime.com.sg",
 "singh marine management": "singhmarine.com",
 "sinorum 1 day ago russian federation member since: oct 2026 2 active vacancies здравствуйте уважаемые моряки!!! компания представляет китайского оператора танкерного флота на российском рынке морских услуг под управлением находится 68 танкеров разного типа view profile": "name:sinorum 1 day ago russian federation member since: oct 2026 2 active vacancies здравствуйте уважаемые моряки!!! компания представляет китайского оператора танкерного флота на российском рынке морских услуг под управлением находится 68 танкеров разного типа view profile",
@@ -61098,6 +61236,7 @@
 "support vessel orca crew services": "orca-crew.com",
 "support vessel stargate crewing agency": "stargate-agency.ro",
 "survey vessel navis crew management": "navis.eu",
+"svitzer": "name:svitzer",
 "svs management": "svs.net.ua",
 "swan marine": "name:swan marine",
 "swan marine services": "crewell.net",
@@ -61645,7 +61784,7 @@
 "crs_vacancies": 3590,
 "cruiseshipjobs": 8,
 "cvcrewcom": 12904,
-"cvsenderseaman": 16739,
+"cvsenderseaman": 16748,
 "ecrewing": 3227,
 "findseajobs": 32570,
 "galaxymaritimeua": 1250,
@@ -61658,7 +61797,7 @@
 "marinejobs": 43833,
 "marinejobz": 194156,
 "marineman_ltd": 48435,
-"maritimeforum": 259119,
+"maritimeforum": 259120,
 "merchantNavyrealjob": 265,
 "morehod_ru": 31174,
 "oceancrewjobs": 32929,
@@ -61667,7 +61806,7 @@
 "offshorevacancies": 47403,
 "oilrigs": 778,
 "olive_crew": 2963,
-"onboard_su": 20838,
+"onboard_su": 20840,
 "pervoemorskoe": 4539,
 "rekamore_su": 165813,
 "roster_marine": 1747,
@@ -61678,7 +61817,7 @@
 "shipjobsindia": 420,
 "shipscreweu": 16721,
 "sidantey": 399,
-"supermariner_ua": 3945,
+"supermariner_ua": 3946,
 "truemalina_offshore": 841,
 "ukrcrewing_official": 2395,
 "univis_crewing": 5041,

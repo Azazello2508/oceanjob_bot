@@ -854,25 +854,128 @@
 "repeat": false,
 "time": "2026-11-21T08:42:38+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "Second Mate (ATB) Offshore · Centerline Logistics Corporation · Bayonne, NJ",
+"url": "https://www.linkedin.com/jobs/view/4493216520",
+"source": "LinkedIn",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {},
+"company": "Centerline Logistics Corporation",
+"place": "Bayonne, NJ",
+"new": false,
+"repeat": false,
+"time": "2026-11-21T09:57:14.863686+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "2nd officer - Shipboard · Royal Caribbean Group · EMEA",
+"url": "https://www.linkedin.com/jobs/view/4485475425",
+"source": "LinkedIn",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer"
+},
+"company": "Royal Caribbean Group",
+"place": "EMEA",
+"new": false,
+"repeat": false,
+"time": "2026-11-21T09:57:14.864954+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Second Officer · SINCLUS · Bihar, India",
+"url": "https://www.linkedin.com/jobs/view/4492302285",
+"source": "LinkedIn",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer"
+},
+"company": "SINCLUS",
+"place": "Bihar, India",
+"new": false,
+"repeat": false,
+"time": "2026-11-21T09:57:14.865547+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Offshore. Job selection for 20/11/2026",
+"url": "https://t.me/supermariner_ua/3946",
+"source": "Telegram: @supermariner_ua",
+"found": [
+"chief officer",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-23228b281bb50820",
+"offshore": true,
+"info": {
+"rank": "Chief Officer / 2nd Officer",
+"vessel": "PSV, AHTS",
+"salary": "$10,645-$11,145/month",
+"email": "j.rudomyotova@marineman.eu",
+"company": "marineman.eu"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": true,
+"time": "2026-11-21T09:07:37+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "SECOND OFFICER",
+"url": "https://t.me/cvsenderseaman/16740",
+"source": "Telegram: @cvsenderseaman",
+"found": [
+"second officer"
+],
+"fp": "fp-1482c261f9f96cae",
+"offshore": true,
+"info": {
+"rank": "2nd Officer",
+"vessel": "DSV",
+"salary": "Negotiable",
+"joining": "ASAP",
+"email": "bhavana@columbiaaurus.com",
+"company": "columbiaaurus.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-21T09:12:39+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-6431,
-6432,
-6433,
-6434,
-6435,
-6436,
-6437,
-6438,
-6439,
-6440,
-6441,
-6442,
-6443,
-6444
+6445,
+6446,
+6447,
+6448,
+6449,
+6450,
+6451,
+6452,
+6453,
+6454,
+6455,
+6456,
+6457,
+6458
 ],
-"last_list": "2026-11-21T09:07:10.617184+00:00",
-"cleared_upto": 6430,
-"last_msg_id": 6444
+"last_list": "2026-11-21T09:57:59.439238+00:00",
+"cleared_upto": 6444,
+"last_msg_id": 6458
 }
