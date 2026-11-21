@@ -1186,27 +1186,69 @@
 "repeat": false,
 "time": "2026-11-21T10:18:39+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/370970",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-21T11:47:33.167099+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "WE NEED",
+"url": "https://t.me/maritimeforum/259123",
+"source": "Telegram: @maritimeforum",
+"found": [
+"2nd off"
+],
+"fp": "fp-4e80137080f5d1ba",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "LPG",
+"joining": "ASAP",
+"salary": "4000 USD",
+"email": "info@staff-service-expert.com",
+"company": "staff-service-expert.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-21T11:05:30+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-6459,
-6460,
-6461,
-6462,
-6463,
-6464,
-6465,
-6466,
-6467,
-6468,
-6469,
-6470,
-6471,
-6472,
-6473,
-6474
+6475,
+6476,
+6477,
+6478,
+6479,
+6480,
+6481,
+6482,
+6483,
+6484,
+6485,
+6486,
+6487,
+6488,
+6489
 ],
-"last_list": "2026-11-21T10:59:24.549295+00:00",
-"cleared_upto": 6458,
-"last_msg_id": 6474
+"last_list": "2026-11-21T11:50:11.364243+00:00",
+"cleared_upto": 6474,
+"last_msg_id": 6489
 }

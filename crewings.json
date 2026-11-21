@@ -641,6 +641,30 @@
 "vessels": [],
 "website": ""
 },
+"@inga_falk": {
+"address": "",
+"city": "",
+"co": 0,
+"country": "",
+"emails": [],
+"first": "2026-11-21",
+"last": "2026-11-21",
+"links": {},
+"name": "",
+"off": 0,
+"offshore_hint": false,
+"phones": [],
+"so": 0,
+"sources": [
+"@ecrewing"
+],
+"telegram": [
+"@inga_falk"
+],
+"total": 1,
+"vessels": [],
+"website": ""
+},
 "@irina_stepas": {
 "address": "",
 "city": "",
@@ -29835,7 +29859,7 @@
 "country": "",
 "emails": [],
 "first": "2026-11-04",
-"last": "2026-11-20",
+"last": "2026-11-21",
 "links": {},
 "name": "Bermuda Maritime",
 "off": 0,
@@ -29850,7 +29874,7 @@
 "telegram": [
 "@AndreyVStart"
 ],
-"total": 16,
+"total": 17,
 "vessels": [],
 "website": ""
 },
@@ -52277,7 +52301,7 @@
 "+380937800894",
 "+380979435590"
 ],
-"so": 59,
+"so": 60,
 "sources": [
 "@CREW_ARIA",
 "@Merchant_Fleet",
@@ -52289,7 +52313,7 @@
 "@supermariner_ua"
 ],
 "telegram": [],
-"total": 336,
+"total": 338,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -61839,12 +61863,12 @@
 "allcrewing": 3825,
 "andreeyVstart": 1423,
 "balticcareer": 5963,
-"crewingua": 45082,
+"crewingua": 45083,
 "crs_vacancies": 3590,
 "cruiseshipjobs": 8,
 "cvcrewcom": 12904,
-"cvsenderseaman": 16754,
-"ecrewing": 3227,
+"cvsenderseaman": 16756,
+"ecrewing": 3228,
 "findseajobs": 32570,
 "galaxymaritimeua": 1250,
 "gm_seaman_cv": 2751,
@@ -61856,7 +61880,7 @@
 "marinejobs": 43833,
 "marinejobz": 194156,
 "marineman_ltd": 48435,
-"maritimeforum": 259121,
+"maritimeforum": 259123,
 "merchantNavyrealjob": 265,
 "morehod_ru": 31175,
 "oceancrewjobs": 32929,
