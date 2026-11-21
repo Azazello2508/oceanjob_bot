@@ -729,6 +729,23 @@ def uk_permit(text):
 
 
 DEEP_BUDGET = 30   # сколько страниц вакансий с сайтов открываем за один запуск
+PAGE_TEXT = {}     # тексты уже открытых страниц вакансий
+# Слова в ОПИСАНИИ вакансии, по которым оффшорная офицерская вакансия попадает в раздел JDPO / DP:
+# значит, берут с начальным DP-курсом. «JDPO» и «trainee» здесь не ищем — они встречаются
+# в блоках «похожие вакансии» на тех же страницах и давали бы ложные срабатывания.
+DEEP_DP_WORDS = ["dp induction", "induction dp", "dp basic", "basic dp", "dp limited", "dp familiari"]
+DEEP_RANK_RE = re.compile(r"officer|\bmate\b|\boow\b|\bdpo\b|2/o|3/o", re.I)
+
+
+def deep_dp_note(job, key):
+    """Если в описании вакансии сайта упомянут DP Induction / DP Basic — возвращает пометку для названия."""
+    text = PAGE_TEXT.get(job["url"], "").lower()
+    where = job["title"] + " " + job["url"].replace("-", " ")
+    if (not text or is_junior_dp(job["title"]) or not DEEP_RANK_RE.search(job["title"])
+            or not (is_offshore(where) or SITES.get(key, {}).get("offshore"))):
+        return ""
+    hit = next((w for w in DEEP_DP_WORDS if w in text), "")
+    return f" ({hit.replace('dp', 'DP').replace('induction', 'Induction').replace('basic', 'Basic')} — в описании)" if hit else ""
 
 
 def deep_uk_check(url):
@@ -740,7 +757,9 @@ def deep_uk_check(url):
     DEEP_BUDGET -= 1
     try:
         page = requests.get(url, headers=HEADERS, timeout=15).text
-        return uk_permit(BeautifulSoup(page, "html.parser").get_text(" ", strip=True))
+        text = BeautifulSoup(page, "html.parser").get_text(" ", strip=True)
+        PAGE_TEXT[url] = text      # тот же текст потом смотрим на «DP Induction / DP Basic»
+        return uk_permit(text)
     except Exception as e:
         print(f"Не открылась страница вакансии {url}: {e}")
         return ""
@@ -1136,6 +1155,8 @@ def main():
                   or (deep_uk_check(job["url"]) if not is_channel and not known and key != "linkedin" else "")
                   or ("" if is_channel else SITES.get(key, {}).get("uk_note", ""))
                   or ("UK в названии вакансии" if not is_channel and UK_WORD_RE.search(job["title"]) else ""))
+            if not is_channel:
+                job["title"] += deep_dp_note(job, key)
             day["jobs"].append({
                 "uk": uk,
                 "title": short(job["title"]), "url": job["url"], "source": label,
