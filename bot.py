@@ -439,14 +439,38 @@ def linkedin_deep(job_id, state):
     state["checked"].append(job_id)
     low = BeautifulSoup(r.text, "html.parser").get_text(" ", strip=True).lower()
     return next((w for w in JUNIOR_DP_WORDS if w in low), "")
+
+
+# «Second Officer», «Chief Officer» бывают и не морскими (охрана, банки, авиация). Если в названии
+# и компании нет морских слов — открываем описание и проверяем, что вакансия действительно на судно.
+LINKEDIN_MARINE_RE = re.compile(r"stcw|vessel|\bships?\b|shipboard|seafar|\bcoc\b|certificate of competenc|offshore|"
+                                r"maritime|\bmarine\b|nautical|bridge watch|\bdp[123]?\b|tanker|bulk carrier|cargo", re.I)
+
+
+def linkedin_is_marine(job_id, state):
+    """True/False — морская ли вакансия по описанию; None — проверить сейчас не удалось (попробуем позже)."""
+    if job_id in state["marine"]:
+        return state["marine"][job_id]
+    if state["left"] <= 0:
+        return None
+    state["left"] -= 1
+    time.sleep(2)
+    r = requests.get(LINKEDIN_JOB_URL + job_id, headers=HEADERS, timeout=30)
+    if r.status_code != 200:
+        state["left"] = 0
+        return None
+    text = BeautifulSoup(r.text, "html.parser").get_text(" ", strip=True)
+    state["marine"][job_id] = bool(LINKEDIN_MARINE_RE.search(text))
+    return state["marine"][job_id]
 # «DPO» на LinkedIn — чаще всего Data Protection Officer, такие вакансии отбрасываем
 LINKEDIN_SKIP_RE = re.compile(r"data protection|privacy|gdpr|datenschutz|donn[ée]es|legal|compliance|lawyer"
                               r"|airline|aircraft|aviation|pilot|flight|airbus|boeing", re.I)   # и лётные «First/Second Officer»
 # SDPO в разделе LinkedIn не нужен (кроме случаев, когда это вакансия старпома или 2-го помощника: «CO/SDPO»)
 LINKEDIN_SDPO_RE = re.compile(r"sdpo|senior dp", re.I)
 LINKEDIN_CARDS = []   # вакансии LinkedIn с нужными должностями за проверку — для справочника крюингов
-LINKEDIN_SURE = ["chief mate", "chief officer", "first mate", "1st mate", "second mate", "2nd mate",
-                 "second officer", "2nd officer", "jdpo", "dynamic position", "dp operator"]
+# Названия, которые бывают только морскими. «Second/Chief Officer» сюда не входят — их проверяем отдельно.
+LINKEDIN_SURE = ["chief mate", "first mate", "1st mate", "second mate", "2nd mate",
+                 "jdpo", "dynamic position", "dp operator"]
 
 
 def get_linkedin():
@@ -454,10 +478,12 @@ def get_linkedin():
     jobs, ids, errors = [], set(), []
     LINKEDIN_CARDS.clear()
     try:
-        checked = json.loads(LINKEDIN_CHECKED_FILE.read_text())
+        saved = json.loads(LINKEDIN_CHECKED_FILE.read_text())
     except Exception:
-        checked = []
-    state = {"checked": checked, "left": LINKEDIN_DEEP_PER_RUN}
+        saved = []
+    if isinstance(saved, list):          # старый формат файла — просто список
+        saved = {"checked": saved, "marine": {}}
+    state = {"checked": saved.get("checked", []), "marine": saved.get("marine", {}), "left": LINKEDIN_DEEP_PER_RUN}
     for n, q in enumerate(LINKEDIN_QUERIES):
         if n:
             time.sleep(2)   # не частим
@@ -497,7 +523,15 @@ def get_linkedin():
             # Должность названа неоднозначно (просто «DPO», «CO») — берём, только если рядом есть морское слово
             elif not any(w in title.lower() for w in LINKEDIN_SURE + JUNIOR_DP_WORDS) \
                     and not any(w in where for w in MARINE_WORDS):
-                continue
+                if "dpo" in title.lower() and not re.search(r"officer|mate", title, re.I):
+                    continue                     # голое «DPO» без морских слов — почти всегда защита данных
+                try:
+                    marine = linkedin_is_marine(m.group(1), state)
+                except Exception as e:
+                    print(f"LinkedIn: не открылось описание {m.group(1)}: {e}")
+                    marine = None
+                if not marine:
+                    continue
             # В справочник крюингов идут компании только с нужными должностями — теми же, что в списке
             if company:
                 h4 = card.find("h4", class_=re.compile("subtitle"))
@@ -509,7 +543,9 @@ def get_linkedin():
                          "url": "https://www.linkedin.com/jobs/view/" + m.group(1),
                          "company": company, "place": place})
     try:
-        LINKEDIN_CHECKED_FILE.write_text(json.dumps(state["checked"][-3000:]))
+        LINKEDIN_CHECKED_FILE.write_text(json.dumps({
+            "checked": state["checked"][-3000:],
+            "marine": dict(list(state["marine"].items())[-3000:])}))
     except Exception as e:
         print(f"LinkedIn: не сохранил список проверенных описаний: {e}")
     if len(errors) == len(LINKEDIN_QUERIES):
