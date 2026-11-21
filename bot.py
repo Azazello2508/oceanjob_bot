@@ -2,6 +2,7 @@
 
 import hashlib
 import sys
+import time
 import html
 import json
 import os
@@ -333,6 +334,54 @@ def get_site(name):
             ids.add(job_id)
             url = a["href"] if a["href"].startswith("http") else site["base"] + a["href"]
             jobs.append({"id": job_id, "title": title, "url": url})
+    return jobs
+
+
+# ---------- LinkedIn ----------
+# Открытая страница поиска вакансий LinkedIn (без входа в аккаунт), вакансии за последние сутки, весь мир.
+# LinkedIn может не отвечать серверам GitHub — тогда источник просто пропускается.
+LINKEDIN_URL = "https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search"
+LINKEDIN_QUERIES = ["Chief Mate", "Dynamic Positioning Operator", "DPO offshore vessel", "JDPO"]
+# «DPO» на LinkedIn — чаще всего Data Protection Officer, такие вакансии отбрасываем
+LINKEDIN_SKIP_RE = re.compile(r"data protection|privacy|gdpr|datenschutz|donn[ée]es|legal|compliance|lawyer", re.I)
+LINKEDIN_SURE = ["chief mate", "chief officer", "first mate", "1st mate", "second mate", "2nd mate",
+                 "second officer", "2nd officer", "jdpo", "sdpo", "dynamic position", "dp operator"]
+
+
+def get_linkedin():
+    """Вакансии LinkedIn: [{'id', 'title', 'url', 'company', 'place'}]."""
+    jobs, ids, errors = [], set(), []
+    for n, q in enumerate(LINKEDIN_QUERIES):
+        if n:
+            time.sleep(2)   # не частим
+        r = requests.get(LINKEDIN_URL, headers=HEADERS, timeout=30,
+                         params={"keywords": q, "location": "Worldwide", "geoId": "92000000",
+                                 "f_TPR": "r86400", "start": 0})
+        if r.status_code != 200:
+            errors.append(str(r.status_code))
+            continue
+        for card in BeautifulSoup(r.text, "html.parser").find_all("li"):
+            a = card.find("a", href=re.compile(r"/jobs/view/"))
+            m = re.search(r"/jobs/view/(?:[^/?]*-)?(\d+)", a["href"]) if a else None
+            if not m:
+                continue
+            text = lambda tag, cls: (lambda x: x.get_text(" ", strip=True) if x else "")(
+                card.find(tag, class_=re.compile(cls)))
+            title = text("h3", "title") or a.get_text(" ", strip=True)
+            company, place = text("h4", "subtitle"), text("span", "location")
+            job_id = "linkedin-" + m.group(1)
+            where = (title + " " + company).lower()
+            if job_id in ids or not title or LINKEDIN_SKIP_RE.search(where) or not wanted(title):
+                continue
+            # Должность названа неоднозначно (просто «DPO», «CO») — берём, только если рядом есть морское слово
+            if not any(w in title.lower() for w in LINKEDIN_SURE) and not any(w in where for w in MARINE_WORDS):
+                continue
+            ids.add(job_id)
+            jobs.append({"id": job_id, "title": " · ".join(x for x in [title, company, place] if x),
+                         "url": "https://www.linkedin.com/jobs/view/" + m.group(1),
+                         "company": company, "place": place})
+    if len(errors) == len(LINKEDIN_QUERIES):
+        raise RuntimeError("LinkedIn не отвечает, коды: " + ", ".join(errors))
     return jobs
 
 
@@ -742,8 +791,10 @@ def render(day):
     for j in day["jobs"]:
         j["junior_dp"] = is_junior_dp(j["title"] + " " + " ".join(j.get("found") or []) + " "
                                       + (j.get("info") or {}).get("rank", ""))
-    uk = sorted([j for j in day["jobs"] if j.get("uk")], key=order)
-    plain = [j for j in day["jobs"] if not j.get("uk")]   # UK-вакансии показываем отдельным разделом
+    lin = sorted([j for j in day["jobs"] if j["source"] == "LinkedIn"], key=order)   # LinkedIn — отдельный раздел
+    others = [j for j in day["jobs"] if j["source"] != "LinkedIn"]
+    uk = sorted([j for j in others if j.get("uk")], key=order)
+    plain = [j for j in others if not j.get("uk")]   # UK-вакансии показываем отдельным разделом
     jdp = sorted([j for j in plain if j["junior_dp"]], key=order)
     off = sorted([j for j in plain if j["offshore"] and not j["junior_dp"]], key=order)
     rest = sorted([j for j in plain if not j["offshore"] and not j["junior_dp"]], key=order)
@@ -752,6 +803,7 @@ def render(day):
             f"Всего: <b>{len(day['jobs'])}</b>" + (f" · 🆕 новых: <b>{n_new}</b>" if n_new else "") + "\n"
             + (f"🇬🇧 UK Work Permit: {len(uk)} · " if uk else "")
             + (f"🎓 JDPO / DP: {len(jdp)} · " if jdp else "")
+            + (f"🔗 LinkedIn: {len(lin)} · " if lin else "")
             + f"🛢 Оффшор: {len(off)} · 🚢 Торговый флот: {len(rest)}\n"
             f"(обновлено в {datetime.now(LOCAL_TZ):%H:%M})\n")
 
@@ -765,14 +817,16 @@ def render(day):
         what = f"<b>{rank}</b>" + (f" — {e(i['vessel'])}" if i.get("vessel") else "")
         extra = [f"💰 {e(i['salary'])}" if i.get("salary") else "",
                  f"📅 {e(i['joining'])}" if i.get("joining") else "",
-                 f"⏳ {e(i['contract'])}" if i.get("contract") else ""]
+                 f"⏳ {e(i['contract'])}" if i.get("contract") else "",
+                 f"📍 {e(j['place'][:40])}" if j.get("place") else ""]
         extra = " · ".join(x for x in extra if x)
         if not i.get("vessel") and not extra:   # ничего не разобрали — покажем начало текста
             extra = f"<i>{e(j['title'][:70])}</i>"
         line1 = f"{mark}{when} {what}" + (f"\n{extra}" if extra else "")
         if j.get("uk"):   # цитата из вакансии про UK permit
             line1 += f"\n🇬🇧 <i>{e(j['uk'])}</i>"
-        company = f"{e(i['company'][:30])} · " if i.get("company") else ""
+        company = j.get("company") or i.get("company")
+        company = f"{e(company[:30])} · " if company else ""
         return (f"{line1}\n{company}{e(j['source'].replace('Telegram: ', ''))} · "
                 f"<a href=\"{e(j['url'])}\">открыть</a>{gmail_link(j, i)}")
 
@@ -789,6 +843,8 @@ def render(day):
         sections.append(("🇬🇧 UK WORK PERMIT / ВИЗА UK", uk))
     if jdp:
         sections.append(("🎓 JDPO / DP TRAINEE / DP BASIC", jdp))
+    if lin:
+        sections.append(("🔗 LINKEDIN", lin))
     if off:
         sub = {}
         for j in off:
@@ -884,6 +940,7 @@ def main():
     sources = [("crewell", "crewell.net", get_crewell, "crewell-"),
                ("ukrcrewing", "ukrcrewing.com.ua", get_ukrcrewing, "ukrcrewing-")]
     sources += [(n, n, lambda n=n: get_site(n), f"{n}-") for n in SITES]
+    sources += [("linkedin", "LinkedIn", get_linkedin, "linkedin-")]
     sources += [(f"tg:{c}", f"Telegram: @{c}", lambda c=c: get_channel(c), f"tg-{c}/")
                 for c in CHANNELS]
 
@@ -944,7 +1001,7 @@ def main():
                           and is_channel and not known)
             # UK Work Permit: в постах каналов весь текст уже есть, на сайтах догружаем страницу
             uk = (uk_permit(job["title"])
-                  or (deep_uk_check(job["url"]) if not is_channel and not known else "")
+                  or (deep_uk_check(job["url"]) if not is_channel and not known and key != "linkedin" else "")
                   or ("" if is_channel else SITES.get(key, {}).get("uk_note", ""))
                   or ("UK в названии вакансии" if not is_channel and UK_WORD_RE.search(job["title"]) else ""))
             day["jobs"].append({
@@ -953,6 +1010,7 @@ def main():
                 "found": job.get("found") or [], "fp": fp,
                 "offshore": is_offshore(job["title"] + " " + job["url"].replace("-", " ")),
                 "info": summarize(job["title"] + " " + job["url"].split("/")[-1].replace("-", " ")),
+                "company": job.get("company", ""), "place": job.get("place", ""),
                 "new": not known, "repeat": repeat,
                 "time": when.astimezone(timezone.utc).isoformat(),
             })
