@@ -382,23 +382,45 @@
 "repeat": false,
 "time": "2026-11-21T03:19:38+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "Приветствуем, уважаемые коллеги!",
+"url": "https://t.me/rekamore_su/165790",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-42c1630478aa2b60",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Tug",
+"joining": "срочная",
+"email": "resume@mwshipco.com",
+"company": "mwshipco.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-21T03:35:59+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-6357,
-6358,
-6359,
-6360,
-6361,
-6362,
-6363,
-6364,
-6365,
-6366,
-6367,
-6368
+6369,
+6370,
+6371,
+6372,
+6373,
+6374,
+6375,
+6376,
+6377,
+6378,
+6379,
+6380
 ],
-"last_list": "2026-11-21T03:27:20.177775+00:00",
-"cleared_upto": 6356,
-"last_msg_id": 6368
+"last_list": "2026-11-21T04:17:36.328130+00:00",
+"cleared_upto": 6368,
+"last_msg_id": 6380
 }

@@ -27178,7 +27178,7 @@
 "mwshipco.com": {
 "address": "",
 "city": "",
-"co": 2,
+"co": 3,
 "country": "",
 "emails": [
 "resume@mwshipco.com"
@@ -27197,7 +27197,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 2,
+"total": 3,
 "vessels": [
 "Tug"
 ],
@@ -48231,7 +48231,7 @@
 "hr@sakhpasflot.ru"
 ],
 "first": "2026-11-19",
-"last": "2026-11-20",
+"last": "2026-11-21",
 "links": {},
 "name": "АО “СахПасФлот”",
 "off": 0,
@@ -48243,7 +48243,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 4,
+"total": 5,
 "vessels": [],
 "website": ""
 },
@@ -61609,7 +61609,7 @@
 "crs_vacancies": 3588,
 "cruiseshipjobs": 8,
 "cvcrewcom": 12904,
-"cvsenderseaman": 16712,
+"cvsenderseaman": 16713,
 "ecrewing": 3227,
 "findseajobs": 32570,
 "galaxymaritimeua": 1250,
@@ -61633,7 +61633,7 @@
 "olive_crew": 2961,
 "onboard_su": 20835,
 "pervoemorskoe": 4539,
-"rekamore_su": 165789,
+"rekamore_su": 165791,
 "roster_marine": 1747,
 "seajobfinder": 42645,
 "seamenjob": 106580,
@@ -61642,7 +61642,7 @@
 "shipjobsindia": 420,
 "shipscreweu": 16721,
 "sidantey": 399,
-"supermariner_ua": 3944,
+"supermariner_ua": 3945,
 "truemalina_offshore": 840,
 "ukrcrewing_official": 2395,
 "univis_crewing": 5041,
