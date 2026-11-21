@@ -1,42 +1,33 @@
 import re, collections, requests
 from bs4 import BeautifulSoup
 H = {"User-Agent": "Mozilla/5.0 (oceanjob_bot; personal job alerts)"}
-URLS = """https://atlasprofessionals.com/jobs
-https://atlasprofessionals.com/marine
-https://careers.vanoord.com/vacancies
-https://careers.boskalis.com/vacancies
-https://bourbon-career.talent-soft.com/job/list-of-jobs.aspx
-https://dof.com/vacancies
-https://esvagt.easycruit.com/
-https://esvagt.com/career/list-of-jobs/
+URLS = """https://www.atlasprofessionals.com/jobs
+https://www.atlasprofessionals.com/marine
+http://jobs.atlasprofessionals.com
+https://careers.vanoord.com/vacancies?n=100
+https://bourbon-career.talent-soft.com/job/list-of-all-jobs.aspx?all=1&mode=layer
+https://ipspowerfulpeople.com/vacancies/expertises-renewables-offshore/
+https://ipspowerfulpeople.com/vacancies/expertises-towage/
+https://www.halcyonrecruitment.com/vacancies/vacancy-search-results.aspx
+https://www.allseas.com/en/careers
+https://www.selectoffshore.com/job-search/
+https://jobs.worldwide-rs.com/jobs/?keywords=vessel
+https://www.worldwide-rs.com/our-industries/offshore-and-maritime/
+https://maersksupplyservice.com
+https://eddawind.com
+https://www.tdw.com
+https://www.sea1offshore.com
+https://www.islandoffshore.com
+https://www.vroon.nl
+https://www.havila.no
+https://www.jandenul.com
+https://www.olympic.no
+https://ostensjo.no
+https://www.bibbymarine.com
 https://www.solstad.com/opportunities
-https://ipspowerfulpeople.com/vacancies
-https://kuokmaritimegroup.teamtailor.com/jobs
-https://www.airswift.com/candidates/maritime-jobs
-https://www.allseas.com/en/careers/offshore
-https://www.spinnaker-global.com/jobs
-https://www.halcyonrecruitment.com/jobs
-https://www.tdw.com/careers/
-https://www.jandenul.com/jobs
-https://www.deme-group.com/jobs
-https://www.islandoffshore.com/careers
-https://www.sea1offshore.com/careers
-https://www.vroon.nl/careers
-https://www.maersksupplyservice.com/careers
-https://www.eddawind.com/careers
-https://www.seamariner.com/jobs
-https://www.selectoffshore.com/jobs
-https://www.energyjobline.com/jobs?keywords=DPO
-https://www.nesfircroft.com/jobs?keywords=DPO
-https://www.worldwide-rs.com/jobs
-https://www.subsea7.com/en/careers.html
-https://www.acta-marine.com/careers
-https://www.bibbymarine.com/careers
-https://www.havila.no/en/career
-https://jooble.org/jobs-dpo-offshore
-https://www.rem-offshore.no/careers
-https://www.olympic.no/careers
-https://www.ostensjo.no/careers""".split()
+https://www.dof.com/vacancies
+https://spinnaker-global.com/jobseekers/
+https://esvagt.com/career/list-of-jobs/""".split()
 KW = re.compile(r"officer|mate|dpo|master|engineer|seaman|deck|vacanc|job|crew|captain", re.I)
 for u in URLS:
     try:
@@ -55,6 +46,13 @@ for u in URLS:
         if KW.search(t) and len(ex.setdefault(s, [])) < 3:
             ex[s].append((t, h[:110]))
     print(f"\n### {u}\n  status {r.status_code} final {r.url[:90]} bytes {len(r.text)} links {len(links)}")
+    seen_c = set()
+    for a in links:
+        h = a["href"]
+        if re.search(r"career|vacanc|job|join|karriere|stilling|recruit|easycruit|teamtailor|workday|talent|hr-manager|webcruiter|jobylon|reachmee", h, re.I) and h not in seen_c and len(seen_c) < 8:
+            seen_c.add(h); print("  C:", a.get_text(" ", strip=True)[:40], "->", h[:120])
+    for m in set(re.findall(r"https?://[\w.-]*(?:easycruit|teamtailor|workday|talent-soft|hr-manager|webcruiter|jobylon|reachmee|recman|varbi|successfactors|avature|smartrecruiters|greenhouse|lever)[\w./-]*", r.text))[:5] if False else list(set(re.findall(r"https?://[\w.-]*(?:easycruit|teamtailor|workday|talent-soft|hr-manager|webcruiter|jobylon|reachmee|recman|varbi|successfactors|avature|smartrecruiters)[\w./?=&-]*", r.text)))[:5]:
+        print("  ATS:", m[:140])
     for s, n in shapes.most_common(40):
         if n >= 3 and s in ex:
             print(f"  {n:3d} x {s}")
