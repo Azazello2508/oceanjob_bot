@@ -1483,26 +1483,47 @@
 "repeat": true,
 "time": "2026-11-21T16:03:01+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "Position publishing service was stopped for the night.",
+"url": "https://t.me/marinecareerorg/17770",
+"source": "Telegram: @marinecareerorg",
+"found": [
+"chief officer"
+],
+"fp": "fp-7a4298aa4763c69c",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 3rd Officer",
+"vessel": "LPG, LNG"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-21T19:00:44+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-6535,
-6536,
-6537,
-6538,
-6539,
-6540,
-6541,
-6542,
-6543,
-6544,
-6545,
-6546,
-6547,
-6548,
-6549
+6550,
+6551,
+6552,
+6553,
+6554,
+6555,
+6556,
+6557,
+6558,
+6559,
+6560,
+6561,
+6562,
+6563,
+6564
 ],
-"last_list": "2026-11-21T16:31:15.679589+00:00",
-"cleared_upto": 6534,
-"last_msg_id": 6549
+"last_list": "2026-11-21T19:02:36.399300+00:00",
+"cleared_upto": 6549,
+"last_msg_id": 6564
 }
