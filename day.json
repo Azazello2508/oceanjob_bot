@@ -1504,26 +1504,145 @@
 "repeat": false,
 "time": "2026-11-21T19:00:44+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer on Ro-Ro",
+"url": "https://crewell.net/en/vacancies/467262/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Ro-Ro"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-21T19:50:42.155088+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "HIRING: Chief Officer – AHTS Vessel",
+"url": "https://t.me/maritimeforum/259132",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-8fd1ca04bc372248",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "AHTS",
+"email": "israa.albsaisi@selectoffshore.com",
+"company": "selectoffshore.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-21T19:21:54+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "BULK CARRIER (SUPRAMAX)",
+"url": "https://t.me/maritimeforum/259135",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-32d42638fd8b9b3c",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Bulk carrier",
+"salary": "7500$",
+"joining": "ASAP   26-27.11.2026",
+"contract": "6  MONTHS",
+"email": "natalia@desecrew.com",
+"company": "desecrew.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-21T19:22:23+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://t.me/maritimeforum/259179",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-14ec365a37ad9d72",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo",
+"contract": "3 months",
+"salary": "€6,000\n",
+"email": "crewing@smacrewing.com",
+"company": "smacrewing.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-21T19:32:21+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://t.me/maritimeforum/259184",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-655ecf09d192cc39",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Chemical tanker",
+"contract": "3 months",
+"salary": "$11,200–11,400\n",
+"email": "info@iqrewing.com",
+"company": "iqrewing.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-21T19:32:52+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-6550,
-6551,
-6552,
-6553,
-6554,
-6555,
-6556,
-6557,
-6558,
-6559,
-6560,
-6561,
-6562,
-6563,
-6564
+6565,
+6566,
+6567,
+6568,
+6569,
+6570,
+6571,
+6572,
+6573,
+6574,
+6575,
+6576,
+6577,
+6578,
+6579,
+6580
 ],
-"last_list": "2026-11-21T19:02:36.399300+00:00",
-"cleared_upto": 6549,
-"last_msg_id": 6564
+"last_list": "2026-11-21T19:53:17.000567+00:00",
+"cleared_upto": 6564,
+"last_msg_id": 6580
 }
