@@ -290,6 +290,48 @@ SITES = {
         "base": "https://www.faststream.com",
         "uk_note": "Faststream (UK): проверь условия по праву работать в UK",
     },
+    # --- оффшорные судовладельцы и агентства (добавлены 21.11.2026) ---
+    "vanoord.com": {              # Van Oord: камнеукладчики, кабелеукладчики, jack-up, земснаряды (DP)
+        "pages": ["https://careers.vanoord.com/vacancies?n=100"],
+        "pattern": r"/vacancies/([\w-]+-\d+(?:en|nl)?)/?$",
+        "base": "https://careers.vanoord.com",
+        "offshore": True,
+    },
+    "bourbonoffshore.com": {      # Bourbon: PSV, AHTS, crew boats
+        "pages": [f"https://bourbon-career.talent-soft.com/job/list-of-all-jobs.aspx?page={n}&LCID=2057"
+                  for n in range(1, 7)],
+        "pattern": r"/job/job-[\w-]+_(\d+)\.aspx",
+        "base": "https://bourbon-career.talent-soft.com",
+        "offshore": True,
+    },
+    "kuokmaritime.com": {         # Kuok Maritime Group (POSH): AHTS, PSV, MUV
+        "pages": ["https://kuokmaritimegroup.teamtailor.com/jobs"],
+        "pattern": r"/jobs/(\d+)-[\w-]+",
+        "base": "https://kuokmaritimegroup.teamtailor.com",
+        "offshore": True,
+    },
+    "ipspowerfulpeople.com": {    # IPS: агентство — оффшор, ветропарки, дноуглубление, буксиры
+        "pages": ["https://ipspowerfulpeople.com/vacancies/",
+                  "https://ipspowerfulpeople.com/vacancies/expertises-renewables-offshore/",
+                  "https://ipspowerfulpeople.com/vacancies/expertises-oil-gas/",
+                  "https://ipspowerfulpeople.com/vacancies/expertises-dredging-or-towage/"],
+        "pattern": r"/vacancies/[\w-]+/(\d{4}-\d+)/[\w-]+/?$",
+        "base": "https://ipspowerfulpeople.com",
+        "offshore": True,
+    },
+    "jandenul.com": {             # Jan De Nul: оффшорные установочные суда и земснаряды
+        "pages": [f"https://jobs.jandenul.com/jobs?page={n}" for n in range(1, 5)],
+        "pattern": r"^/jobs/([a-z0-9][a-z0-9-]{7,})$",
+        "base": "https://jobs.jandenul.com",
+        "offshore": True,
+    },
+    "worldwide-rs.com": {         # WRS: агентство, раздел Maritime (оффшорные суда, баржи, ROV)
+        "pages": ["https://jobs.worldwide-rs.com/marine/"],
+        "pattern": r"/jobs/[\w-]+-(\d+)/?$",
+        "base": "https://jobs.worldwide-rs.com",
+        "skip_titles": ["view job"],
+        "offshore": True,
+    },
     "huntukvisasponsors.com": {   # вакансии от компаний с лицензией спонсора виз UK
         "pages": ["https://huntukvisasponsors.com/uk-visa-occupation-eligibility/3512-ship-and-hovercraft-officers"],
         "pattern": r"/job/([\w-]+)/?$",   # страница профессии «офицеры судов» — вакансии там уже морские
@@ -321,7 +363,8 @@ def get_site(name):
         for a in BeautifulSoup(html, "html.parser").find_all("a", href=True):
             m = re.search(site["pattern"], a["href"])
             title = a.get_text(" ", strip=True)
-            if not m or not title or title.lower() in JUNK_TITLES:
+            if (not m or not title or title.lower() in JUNK_TITLES
+                    or title.lower() in site.get("skip_titles", ()) or title.lower().startswith("read more about")):
                 continue
             job_id = f"{name}-{m.group(1)}"
             # Ищем слова и в тексте ссылки, и в самом адресе (там часто есть должность)
@@ -1066,7 +1109,8 @@ def main():
                 "uk": uk,
                 "title": short(job["title"]), "url": job["url"], "source": label,
                 "found": job.get("found") or [], "fp": fp,
-                "offshore": is_offshore(job["title"] + " " + job["url"].replace("-", " ")),
+                "offshore": bool(is_offshore(job["title"] + " " + job["url"].replace("-", " "))
+                                 or SITES.get(key, {}).get("offshore")),
                 "info": summarize(job["title"] + " " + job["url"].split("/")[-1].replace("-", " ")),
                 "company": job.get("company", ""), "place": job.get("place", ""),
                 "new": not known, "repeat": repeat,
