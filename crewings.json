@@ -8332,13 +8332,13 @@
 "aztf.ru": {
 "address": "",
 "city": "",
-"co": 3,
+"co": 4,
 "country": "",
 "emails": [
 "crew@aztf.ru"
 ],
 "first": "2026-11-17",
-"last": "2026-11-20",
+"last": "2026-11-21",
 "links": {},
 "name": "ООО “Азовторгфлот”",
 "off": 0,
@@ -8350,7 +8350,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 9,
+"total": 10,
 "vessels": [
 "General cargo"
 ],
@@ -46907,7 +46907,7 @@
 "hr@rechflot.ru"
 ],
 "first": "2026-11-03",
-"last": "2026-11-20",
+"last": "2026-11-21",
 "links": {},
 "name": "ООО \"Речфлот\"",
 "off": 0,
@@ -46920,7 +46920,7 @@
 "@seamenjob"
 ],
 "telegram": [],
-"total": 27,
+"total": 28,
 "vessels": [
 "Passenger"
 ],
@@ -48486,13 +48486,13 @@
 "sc-astrol.ru": {
 "address": "",
 "city": "",
-"co": 49,
+"co": 51,
 "country": "",
 "emails": [
 "personal@sc-astrol.ru"
 ],
 "first": "2026-11-03",
-"last": "2026-11-20",
+"last": "2026-11-21",
 "links": {},
 "name": "ООО \"СК \"",
 "off": 0,
@@ -48504,7 +48504,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 75,
+"total": 78,
 "vessels": [
 "General cargo",
 "Tanker"
@@ -61633,7 +61633,7 @@
 "olive_crew": 2961,
 "onboard_su": 20835,
 "pervoemorskoe": 4539,
-"rekamore_su": 165792,
+"rekamore_su": 165797,
 "roster_marine": 1747,
 "seajobfinder": 42645,
 "seamenjob": 106580,

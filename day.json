@@ -404,23 +404,92 @@
 "repeat": false,
 "time": "2026-11-21T03:35:59+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "Компания ООО \"СК \"АСТРОЛ\" приглашает на работу:",
+"url": "https://t.me/rekamore_su/165793",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-a0d8031f249e1c65",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo",
+"salary": "297 000 рублей (на руки)",
+"joining": "в Астрахани",
+"email": "personal@sc-astrol.ru",
+"company": "sc-astrol.ru"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-21T04:47:03+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Компания ООО \"БСК\" приглашает на работу:",
+"url": "https://t.me/rekamore_su/165794",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-5f044aa29c8983b4",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo",
+"salary": "352 000 рублей (на руки)",
+"joining": "первая половина декабря в Турц",
+"contract": "4 месяца",
+"email": "personal@sc-astrol.ru",
+"company": "sc-astrol.ru"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-21T04:47:06+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Компания ООО “Азовторгфлот” приглашает на работу:",
+"url": "https://t.me/rekamore_su/165796",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-47c19d0320aae91c",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo",
+"salary": "250 000 рублей (на руки)",
+"email": "crew@aztf.ru",
+"company": "aztf.ru"
+},
+"new": false,
+"repeat": true,
+"time": "2026-11-21T05:03:04+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-6369,
-6370,
-6371,
-6372,
-6373,
-6374,
-6375,
-6376,
-6377,
-6378,
-6379,
-6380
+6381,
+6382,
+6383,
+6384,
+6385,
+6386,
+6387,
+6388,
+6389,
+6390,
+6391,
+6392
 ],
-"last_list": "2026-11-21T04:17:36.328130+00:00",
-"cleared_upto": 6368,
-"last_msg_id": 6380
+"last_list": "2026-11-21T05:33:24.480021+00:00",
+"cleared_upto": 6380,
+"last_msg_id": 6392
 }
