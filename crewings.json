@@ -5481,6 +5481,33 @@
 "vessels": [],
 "website": ""
 },
+"apexcrew-eg.com": {
+"address": "",
+"city": "",
+"co": 0,
+"country": "",
+"emails": [
+"crew2@apexcrew-eg.com",
+"info@apexcrew-eg.com"
+],
+"first": "2026-11-21",
+"last": "2026-11-21",
+"links": {},
+"name": "",
+"off": 0,
+"offshore_hint": false,
+"phones": [],
+"so": 0,
+"sources": [
+"@cvsenderseaman"
+],
+"telegram": [],
+"total": 2,
+"vessels": [
+"Container"
+],
+"website": ""
+},
 "apexcreweg.com": {
 "address": "",
 "city": "",
@@ -12867,7 +12894,7 @@
 "cv@csm-idn.com"
 ],
 "first": "2026-11-09",
-"last": "2026-11-16",
+"last": "2026-11-21",
 "links": {},
 "name": "",
 "off": 0,
@@ -12875,12 +12902,13 @@
 "phones": [],
 "so": 4,
 "sources": [
+"@cvsenderseaman",
 "@marinejobs",
 "@maritimeforum",
 "@seamenjob"
 ],
 "telegram": [],
-"total": 7,
+"total": 8,
 "vessels": [
 "Bulk"
 ],
@@ -13848,7 +13876,7 @@
 "@offshoreatsea"
 ],
 "telegram": [],
-"total": 134,
+"total": 137,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -21564,7 +21592,7 @@
 "manningall@keylines.co.in"
 ],
 "first": "2026-11-03",
-"last": "2026-11-03",
+"last": "2026-11-21",
 "links": {},
 "name": "",
 "off": 1,
@@ -21572,11 +21600,13 @@
 "phones": [],
 "so": 0,
 "sources": [
+"@cvsenderseaman",
 "@findseajobs"
 ],
 "telegram": [],
-"total": 1,
+"total": 2,
 "vessels": [
+"Bulk",
 "Offshore"
 ],
 "website": ""
@@ -46971,6 +47001,32 @@
 "vessels": [],
 "website": ""
 },
+"resurgenceship.com": {
+"address": "",
+"city": "",
+"co": 0,
+"country": "",
+"emails": [
+"crewing@resurgenceship.com"
+],
+"first": "2026-11-21",
+"last": "2026-11-21",
+"links": {},
+"name": "",
+"off": 0,
+"offshore_hint": false,
+"phones": [],
+"so": 0,
+"sources": [
+"@cvsenderseaman"
+],
+"telegram": [],
+"total": 1,
+"vessels": [
+"Container"
+],
+"website": ""
+},
 "reyktal.ee": {
 "address": "",
 "city": "",
@@ -47554,6 +47610,35 @@
 "vessels": [
 "LPG/LNG",
 "Tanker"
+],
+"website": ""
+},
+"royalatlasmarine.com": {
+"address": "",
+"city": "",
+"co": 1,
+"country": "",
+"emails": [
+"info@royalatlasmarine.com"
+],
+"first": "2026-11-21",
+"last": "2026-11-21",
+"links": {},
+"name": "",
+"off": 0,
+"offshore_hint": false,
+"phones": [
+"+971545498293",
+"+971585637900"
+],
+"so": 0,
+"sources": [
+"@cvsenderseaman"
+],
+"telegram": [],
+"total": 1,
+"vessels": [
+"Container"
 ],
 "website": ""
 },
@@ -48340,7 +48425,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 2,
+"total": 3,
 "vessels": [
 "Container"
 ],
@@ -50491,7 +50576,7 @@
 "victoria@sevenseasrecruitment.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-20",
+"last": "2026-11-21",
 "links": {},
 "name": "",
 "off": 1,
@@ -50502,13 +50587,14 @@
 "@CREW_ARIA",
 "@OnlyYacht",
 "@Yacht_Vacancies",
+"@cvsenderseaman",
 "@marinejobs",
 "@seajobfinder",
 "@seamenjob",
 "@shipscreweu"
 ],
 "telegram": [],
-"total": 68,
+"total": 69,
 "vessels": [
 "Offshore",
 "Passenger"
@@ -56384,7 +56470,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 10,
+"total": 11,
 "vessels": [
 "Chemical",
 "General cargo",
@@ -61523,7 +61609,7 @@
 "crs_vacancies": 3588,
 "cruiseshipjobs": 8,
 "cvcrewcom": 12904,
-"cvsenderseaman": 16700,
+"cvsenderseaman": 16712,
 "ecrewing": 3227,
 "findseajobs": 32570,
 "galaxymaritimeua": 1250,

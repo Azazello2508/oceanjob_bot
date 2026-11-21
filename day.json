@@ -338,22 +338,44 @@
 "repeat": true,
 "time": "2026-11-20T22:08:44+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://t.me/cvsenderseaman/16712",
+"source": "Telegram: @cvsenderseaman",
+"found": [
+"chief officer"
+],
+"fp": "fp-f4e7471f84059ea6",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Container",
+"salary": "USD 6,000",
+"email": "info@royalatlasmarine.com",
+"company": "royalatlasmarine.com"
+},
+"new": false,
+"repeat": false,
+"time": "2026-11-21T00:18:20+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-6335,
-6336,
-6337,
-6338,
-6339,
-6340,
-6341,
-6342,
-6343,
-6344,
-6345
+6346,
+6347,
+6348,
+6349,
+6350,
+6351,
+6352,
+6353,
+6354,
+6355,
+6356
 ],
-"last_list": "2026-11-20T23:16:57.304664+00:00",
-"cleared_upto": 6334,
-"last_msg_id": 6345
+"last_list": "2026-11-21T00:57:09.077121+00:00",
+"cleared_upto": 6345,
+"last_msg_id": 6356
 }
