@@ -341,12 +341,16 @@ def get_site(name):
 # Открытая страница поиска вакансий LinkedIn (без входа в аккаунт), вакансии за последние сутки, весь мир.
 # LinkedIn может не отвечать серверам GitHub — тогда источник просто пропускается.
 LINKEDIN_URL = "https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search"
-LINKEDIN_QUERIES = ["Chief Mate", "Dynamic Positioning Operator", "DPO offshore vessel", "JDPO"]
+LINKEDIN_QUERIES = ["Chief Mate", "Dynamic Positioning Operator", "DPO offshore vessel", "JDPO",
+                    "Second Officer vessel"]
 # «DPO» на LinkedIn — чаще всего Data Protection Officer, такие вакансии отбрасываем
-LINKEDIN_SKIP_RE = re.compile(r"data protection|privacy|gdpr|datenschutz|donn[ée]es|legal|compliance|lawyer", re.I)
+LINKEDIN_SKIP_RE = re.compile(r"data protection|privacy|gdpr|datenschutz|donn[ée]es|legal|compliance|lawyer"
+                              r"|airline|aircraft|aviation|pilot|flight|airbus|boeing", re.I)   # и лётные «First/Second Officer»
+# SDPO в разделе LinkedIn не нужен (кроме случаев, когда это вакансия старпома или 2-го помощника: «CO/SDPO»)
+LINKEDIN_SDPO_RE = re.compile(r"sdpo|senior dp", re.I)
 LINKEDIN_CARDS = []   # вакансии LinkedIn с нужными должностями за проверку — для справочника крюингов
 LINKEDIN_SURE = ["chief mate", "chief officer", "first mate", "1st mate", "second mate", "2nd mate",
-                 "second officer", "2nd officer", "jdpo", "sdpo", "dynamic position", "dp operator"]
+                 "second officer", "2nd officer", "jdpo", "dynamic position", "dp operator"]
 
 
 def get_linkedin():
@@ -376,6 +380,8 @@ def get_linkedin():
             if job_id in ids or not title or LINKEDIN_SKIP_RE.search(where):
                 continue
             if not wanted(title):
+                continue
+            if LINKEDIN_SDPO_RE.search(title) and not any(w in title.lower() for w in CO_WORDS + SO_WORDS):
                 continue
             # Должность названа неоднозначно (просто «DPO», «CO») — берём, только если рядом есть морское слово
             if not any(w in title.lower() for w in LINKEDIN_SURE) and not any(w in where for w in MARINE_WORDS):
