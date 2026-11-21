@@ -1294,26 +1294,73 @@
 "repeat": false,
 "time": "2026-11-21T12:24:55+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": ",,Золотой Штурвал ,,:",
+"url": "https://t.me/maritimeforum/259125",
+"source": "Telegram: @maritimeforum",
+"found": [
+"старпом"
+],
+"fp": "fp-1a735a85c7c5e4a2",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Chemical tanker, Bulk carrier",
+"salary": "2500$-3000$ Судовладельцы Грек…",
+"joining": "В ЕВРОПЕ СРОЧНО НУЖЕН НА КОНТЕ"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": true,
+"time": "2026-11-21T13:24:00+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "ПО,АДКА В ЕВРОПЕ",
+"url": "https://t.me/maritimeforum/259126",
+"source": "Telegram: @maritimeforum",
+"found": [
+"старпом"
+],
+"fp": "fp-5cc0c0f2dbb380bf",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / AB",
+"vessel": "Chemical tanker, Bulk carrier",
+"salary": "3000$ , МОТОРИСТ 1100$.СУДНО…",
+"joining": "В ИЗМАИЛЕ ВСЕ УКРАИНЦЫ. ЗВОНИТ",
+"contract": "3 month)"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": true,
+"time": "2026-11-21T13:24:00+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-6490,
-6491,
-6492,
-6493,
-6494,
-6495,
-6496,
-6497,
-6498,
-6499,
-6500,
-6501,
-6502,
-6503,
-6504
+6505,
+6506,
+6507,
+6508,
+6509,
+6510,
+6511,
+6512,
+6513,
+6514,
+6515,
+6516,
+6517,
+6518,
+6519
 ],
-"last_list": "2026-11-21T12:40:51.140397+00:00",
-"cleared_upto": 6489,
-"last_msg_id": 6504
+"last_list": "2026-11-21T13:31:36.162618+00:00",
+"cleared_upto": 6504,
+"last_msg_id": 6519
 }

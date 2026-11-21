@@ -23847,6 +23847,36 @@
 ],
 "website": ""
 },
+"maps.app.goo.gl": {
+"address": "",
+"city": "",
+"co": 1,
+"country": "",
+"emails": [],
+"first": "2026-11-21",
+"last": "2026-11-21",
+"links": {},
+"name": "",
+"off": 0,
+"offshore_hint": false,
+"phones": [
+"+30660350378",
+"+380660350378"
+],
+"so": 0,
+"sources": [
+"@maritimeforum"
+],
+"telegram": [],
+"total": 1,
+"vessels": [
+"Bulk",
+"Chemical",
+"Container",
+"Tanker"
+],
+"website": "maps.app.goo.gl"
+},
 "marcap.ae": {
 "address": "Abu Dhabi",
 "city": "Abu Dhabi",
@@ -42311,7 +42341,7 @@
 "office@nerey.net"
 ],
 "first": "2026-11-03",
-"last": "2026-11-20",
+"last": "2026-11-21",
 "links": {
 "crewell": "https://crewell.net/en/companies/117446/"
 },
@@ -42326,7 +42356,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 14,
+"total": 16,
 "vessels": [
 "Bulk",
 "Container",
@@ -44420,7 +44450,7 @@
 "@Sofia_OliveCrew",
 "@Svetlana_OliveCrew"
 ],
-"total": 403,
+"total": 404,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -50897,11 +50927,11 @@
 "share.google": {
 "address": "",
 "city": "",
-"co": 23,
+"co": 24,
 "country": "",
 "emails": [],
 "first": "2026-11-05",
-"last": "2026-11-20",
+"last": "2026-11-21",
 "links": {},
 "name": "",
 "off": 1,
@@ -50915,7 +50945,7 @@
 "@maritimeforum"
 ],
 "telegram": [],
-"total": 25,
+"total": 26,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -61894,7 +61924,7 @@
 "crs_vacancies": 3590,
 "cruiseshipjobs": 8,
 "cvcrewcom": 12904,
-"cvsenderseaman": 16756,
+"cvsenderseaman": 16758,
 "ecrewing": 3228,
 "findseajobs": 32570,
 "galaxymaritimeua": 1250,
@@ -61907,7 +61937,7 @@
 "marinejobs": 43834,
 "marinejobz": 194156,
 "marineman_ltd": 48435,
-"maritimeforum": 259124,
+"maritimeforum": 259126,
 "merchantNavyrealjob": 265,
 "morehod_ru": 31175,
 "oceancrewjobs": 32929,
@@ -61915,7 +61945,7 @@
 "offshorecv": 1616,
 "offshorevacancies": 47406,
 "oilrigs": 778,
-"olive_crew": 2963,
+"olive_crew": 2964,
 "onboard_su": 20840,
 "pervoemorskoe": 4539,
 "rekamore_su": 165814,
