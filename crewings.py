@@ -6,9 +6,10 @@
   2. Один раз — старые посты каналов (несколько недель назад).
   3. Каталоги работодателей на сайтах: crewell.net, ukrcrewing.com.ua, seajobs.ru.
      Каталоги обходятся понемногу при каждой проверке и обновляются раз в неделю.
+  4. Компании, которые размещают морские вакансии на LinkedIn.
 
-Всё хранится в crewings.json, в Telegram уходит таблица Excel с двумя листами:
-«Оффшор» (компании, которые набирают в оффшор) и «Все компании».
+Всё хранится в crewings.json, в Telegram уходит таблица Excel с листами:
+«Оффшор», «UK Work Permit», «LinkedIn» и «Все компании».
 
 Каждый шаг защищён: ошибка на одном сайте или канале не ломает бота.
 """
@@ -227,6 +228,33 @@ def from_channels(bot, crew, posts_by_channel):
         crew["tg_hw"][ch] = top
 
 
+# ---------------- 1а. вакансии LinkedIn ----------------
+
+def from_linkedin(bot, crew, cards):
+    """Компании из вакансий LinkedIn. Каждая вакансия считается один раз."""
+    done = crew.setdefault("li_seen", [])
+    today = datetime.now(timezone(timedelta(hours=4))).strftime("%Y-%m-%d")
+    for card in cards:
+        if card["id"] in done:
+            continue
+        rec = company(crew, name=card["company"])
+        if rec is None:
+            continue
+        done.append(card["id"])
+        low = (card["title"] + " " + card["company"]).lower()
+        rec["li"] = rec.get("li", 0) + 1
+        rec["co"] += any(w in low for w in bot.CO_WORDS)
+        rec["so"] += any(w in low for w in bot.SO_WORDS)
+        if bot.is_offshore(low):
+            rec["off"] += 1
+        add_list(rec, "vessels", [v for v, ws in bot.VESSELS.items() if any(w in low for w in ws)], 12)
+        add_list(rec, "sources", ["LinkedIn"], 12)
+        if card.get("link"):
+            rec["links"]["linkedin"] = card["link"]
+        rec["last"] = max(rec["last"], today)
+    crew["li_seen"] = done[-1000:]          # помним последние вакансии, чтобы не считать их дважды
+
+
 # ---------------- 2. старые посты (один раз) ----------------
 
 def backfill(bot, crew, deadline, field="backfill_left", uk_only=False):
@@ -433,6 +461,7 @@ def update(bot, crew, posts_by_channel, seconds=240):
     if "uk_cut" not in crew:      # граница для разового UK-прохода по истории: что новее — разберёт обычная проверка
         crew["uk_cut"] = dict(crew["tg_hw"])
     for step in (lambda: from_channels(bot, crew, posts_by_channel),
+                 lambda: from_linkedin(bot, crew, getattr(bot, "LINKEDIN_CARDS", [])),
                  lambda: backfill(bot, crew, deadline),
                  lambda: backfill(bot, crew, deadline, "uk_backfill_left", uk_only=True),
                  lambda: catalogs(bot, crew, deadline)):
@@ -452,6 +481,10 @@ def is_uk_company(c):
     return c.get("uk", 0) > 0 or c.get("uk_hint")
 
 
+def is_linkedin_company(c):
+    return c.get("li", 0) > 0
+
+
 def to_xlsx(crew):
     try:
         import openpyxl  # noqa: F401
@@ -463,16 +496,16 @@ def to_xlsx(crew):
     from openpyxl.styles import Alignment, Font, PatternFill
     from openpyxl.utils import get_column_letter
 
-    cols = ["Компания", "Оффшор-вакансий", "Вакансий с UK Work Permit", "Вакансий Chief Officer", "Вакансий 2nd Officer", "Всего вакансий (TG)",
+    cols = ["Компания", "Оффшор-вакансий", "Вакансий с UK Work Permit", "Вакансий на LinkedIn", "Вакансий Chief Officer", "Вакансий 2nd Officer", "Всего вакансий (TG)",
             "Последняя вакансия", "Страна", "Город", "Сайт", "E-mail", "Telegram", "Телефон", "Типы судов",
             "Где публикует", "Профиль на сайте", "В справочнике с"]
-    widths = [32, 10, 12, 10, 10, 10, 12, 14, 14, 24, 34, 22, 18, 26, 30, 40, 12]
+    widths = [32, 10, 12, 10, 10, 10, 10, 12, 14, 14, 24, 34, 22, 18, 26, 30, 40, 12]
 
     def row(key, c):
         name = c["name"] or (key if not key.startswith("name:") else key[5:].title())
         site = c["website"] or (key if "." in key and "@" not in key and not key.startswith("name:") else "")
         return [name, c["off"] or ("да" if c.get("offshore_hint") else 0),
-                c.get("uk") or ("да" if c.get("uk_hint") else 0), c["co"], c["so"], c["total"], c["last"],
+                c.get("uk") or ("да" if c.get("uk_hint") else 0), c.get("li", 0), c["co"], c["so"], c["total"], c["last"],
                 c["country"], c["city"], site, ", ".join(c["emails"]), ", ".join(c["telegram"]),
                 ", ".join(c["phones"]), ", ".join(c["vessels"]), ", ".join(c["sources"]),
                 " ".join(c["links"].values()), c["first"]]
@@ -491,8 +524,11 @@ def to_xlsx(crew):
     head_fill = PatternFill("solid", fgColor="1F4E78")
     off_fill = PatternFill("solid", fgColor="DDEBF7")
     uk_fill = PatternFill("solid", fgColor="FFF2CC")
+    li_fill = PatternFill("solid", fgColor="E2EFDA")
+    li_order = lambda kv: (-kv[1].get("li", 0),) + order(kv)
     sheets = [("Оффшор", [kv for kv in items if is_offshore_company(kv[1])]),
               ("UK Work Permit", sorted([kv for kv in items if is_uk_company(kv[1])], key=uk_order)),
+              ("LinkedIn", sorted([kv for kv in items if is_linkedin_company(kv[1])], key=li_order)),
               ("Все компании", items)]
     for idx, (title, rows) in enumerate(sheets):
         ws = wb.active if idx == 0 else wb.create_sheet()
@@ -507,6 +543,11 @@ def to_xlsx(crew):
             if title == "Все компании" and (is_uk_company(c) or is_offshore_company(c)):
                 for cell in ws[ws.max_row]:
                     cell.fill = uk_fill if is_uk_company(c) else off_fill
+            elif title == "Все компании" and is_linkedin_company(c):
+                for cell in ws[ws.max_row]:
+                    cell.fill = li_fill
+            if title == "Все компании" and is_linkedin_company(c):
+                ws.cell(ws.max_row, 1).fill = li_fill   # название компании с LinkedIn всегда зелёное
         for i, w in enumerate(widths, 1):
             ws.column_dimensions[get_column_letter(i)].width = w
         ws.freeze_panes = "B2"
@@ -514,16 +555,16 @@ def to_xlsx(crew):
         ws.row_dimensions[1].height = 32
     buf = io.BytesIO()
     wb.save(buf)
-    return buf.getvalue(), len(sheets[0][1]), len(items), len(sheets[1][1])
+    return buf.getvalue(), len(sheets[0][1]), len(items), len(sheets[1][1]), len(sheets[2][1])
 
 
 def send_file(bot, crew):
-    data, n_off, n_all, n_uk = to_xlsx(crew)
+    data, n_off, n_all, n_uk, n_li = to_xlsx(crew)
     name = f"crewings_{datetime.now(bot.LOCAL_TZ):%Y-%m-%d}.xlsx"
     caption = (f"📇 Справочник крюингов: {n_all} компаний, из них набирают в оффшор: {n_off}, "
-               f"упоминают UK Work Permit: {n_uk}.\n"
-               "Листы «Оффшор» и «UK Work Permit» — отдельные подборки. На листе «Все компании» "
-               "оффшор выделен голубым, UK Work Permit — жёлтым.")
+               f"упоминают UK Work Permit: {n_uk}, с вакансиями на LinkedIn: {n_li}.\n"
+               "Листы «Оффшор», «UK Work Permit» и «LinkedIn» — отдельные подборки. На листе «Все компании» "
+               "оффшор выделен голубым, UK Work Permit — жёлтым, LinkedIn — зелёным.")
     r = bot.requests.post(f"https://api.telegram.org/bot{bot.TOKEN}/sendDocument",
                           data={"chat_id": bot.CHAT_ID, "caption": caption},
                           files={"document": (name, data,

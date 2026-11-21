@@ -344,6 +344,7 @@ LINKEDIN_URL = "https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/
 LINKEDIN_QUERIES = ["Chief Mate", "Dynamic Positioning Operator", "DPO offshore vessel", "JDPO"]
 # «DPO» на LinkedIn — чаще всего Data Protection Officer, такие вакансии отбрасываем
 LINKEDIN_SKIP_RE = re.compile(r"data protection|privacy|gdpr|datenschutz|donn[ée]es|legal|compliance|lawyer", re.I)
+LINKEDIN_CARDS = []   # все морские вакансии LinkedIn за проверку — для справочника крюингов
 LINKEDIN_SURE = ["chief mate", "chief officer", "first mate", "1st mate", "second mate", "2nd mate",
                  "second officer", "2nd officer", "jdpo", "sdpo", "dynamic position", "dp operator"]
 
@@ -351,6 +352,7 @@ LINKEDIN_SURE = ["chief mate", "chief officer", "first mate", "1st mate", "secon
 def get_linkedin():
     """Вакансии LinkedIn: [{'id', 'title', 'url', 'company', 'place'}]."""
     jobs, ids, errors = [], set(), []
+    LINKEDIN_CARDS.clear()
     for n, q in enumerate(LINKEDIN_QUERIES):
         if n:
             time.sleep(2)   # не частим
@@ -371,7 +373,15 @@ def get_linkedin():
             company, place = text("h4", "subtitle"), text("span", "location")
             job_id = "linkedin-" + m.group(1)
             where = (title + " " + company).lower()
-            if job_id in ids or not title or LINKEDIN_SKIP_RE.search(where) or not wanted(title):
+            if job_id in ids or not title or LINKEDIN_SKIP_RE.search(where):
+                continue
+            # В справочник крюингов идут компании с любыми морскими вакансиями, не только с нужными должностями
+            if company and (any(w in title.lower() for w in LINKEDIN_SURE) or any(w in where for w in MARINE_WORDS)):
+                h4 = card.find("h4", class_=re.compile("subtitle"))
+                link = h4.find("a", href=True) if h4 else None
+                LINKEDIN_CARDS.append({"id": m.group(1), "company": company, "title": title, "place": place,
+                                       "link": link["href"].split("?")[0] if link else ""})
+            if not wanted(title):
                 continue
             # Должность названа неоднозначно (просто «DPO», «CO») — берём, только если рядом есть морское слово
             if not any(w in title.lower() for w in LINKEDIN_SURE) and not any(w in where for w in MARINE_WORDS):
