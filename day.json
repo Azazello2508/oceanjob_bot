@@ -980,9 +980,10 @@
 },
 "company": "",
 "place": "",
-"new": true,
+"new": false,
 "repeat": false,
-"time": "2026-11-21T10:08:06+00:00"
+"time": "2026-11-21T10:08:06+00:00",
+"junior_dp": false
 },
 {
 "uk": "",
@@ -1001,9 +1002,10 @@
 },
 "company": "",
 "place": "",
-"new": true,
+"new": false,
 "repeat": false,
-"time": "2026-11-21T10:02:17+00:00"
+"time": "2026-11-21T10:02:17+00:00",
+"junior_dp": false
 },
 {
 "uk": "",
@@ -1023,9 +1025,10 @@
 },
 "company": "",
 "place": "",
-"new": true,
+"new": false,
 "repeat": false,
-"time": "2026-11-21T10:00:29+00:00"
+"time": "2026-11-21T10:00:29+00:00",
+"junior_dp": false
 },
 {
 "uk": "",
@@ -1045,9 +1048,10 @@
 },
 "company": "",
 "place": "",
-"new": true,
+"new": false,
 "repeat": false,
-"time": "2026-11-21T10:00:42+00:00"
+"time": "2026-11-21T10:00:42+00:00",
+"junior_dp": false
 },
 {
 "uk": "",
@@ -1067,28 +1071,142 @@
 },
 "company": "",
 "place": "",
-"new": true,
+"new": false,
 "repeat": false,
-"time": "2026-11-21T10:06:38+00:00"
+"time": "2026-11-21T10:06:38+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/370968",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-21T10:56:23.024685+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "2nd Officer Job on Scientific Research Vessel in Qatar KEYSTONE CONSULT LIMITED",
+"url": "https://maritime-union.com/job/233490",
+"source": "maritime-union.com",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-21T10:56:46.753145+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "OPENING VACANCIES | BITUMEN TANKER",
+"url": "https://t.me/maritimeforum/259121",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-20148cbcb6afb5e6",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer",
+"vessel": "Tanker",
+"salary": "s",
+"joining": "Takeover"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-21T10:31:08+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "CHIEF OFFICER",
+"url": "https://t.me/cvsenderseaman/16752",
+"source": "Telegram: @cvsenderseaman",
+"found": [
+"chief officer"
+],
+"fp": "fp-45bb10a05e2e5004",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Barge",
+"salary": "Negotiable",
+"joining": "ASAP",
+"email": "manning@deltareco.com",
+"company": "deltareco.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-21T10:12:39+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "CHIEF OFFICER",
+"url": "https://t.me/cvsenderseaman/16753",
+"source": "Telegram: @cvsenderseaman",
+"found": [
+"chief officer"
+],
+"fp": "fp-9ab6a70df8b4e4b5",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "AHTS",
+"salary": "Negotiable",
+"joining": "ASAP",
+"email": "israa.albsaisi@selectoffshore.com",
+"company": "selectoffshore.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-21T10:18:39+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-6445,
-6446,
-6447,
-6448,
-6449,
-6450,
-6451,
-6452,
-6453,
-6454,
-6455,
-6456,
-6457,
-6458
+6459,
+6460,
+6461,
+6462,
+6463,
+6464,
+6465,
+6466,
+6467,
+6468,
+6469,
+6470,
+6471,
+6472,
+6473,
+6474
 ],
-"last_list": "2026-11-21T09:57:59.439238+00:00",
-"cleared_upto": 6444,
-"last_msg_id": 6458
+"last_list": "2026-11-21T10:59:24.549295+00:00",
+"cleared_upto": 6458,
+"last_msg_id": 6474
 }

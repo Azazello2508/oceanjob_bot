@@ -13693,7 +13693,7 @@
 "deltareco.com": {
 "address": "",
 "city": "",
-"co": 1,
+"co": 2,
 "country": "",
 "emails": [
 "manning@deltareco.com"
@@ -13701,18 +13701,19 @@
 "first": "2026-11-21",
 "last": "2026-11-21",
 "links": {},
-"name": "",
-"off": 1,
+"name": "Delta Recruitment Consultants PRivate Limited",
+"off": 2,
 "offshore_hint": false,
 "phones": [
 "+918855011561"
 ],
 "so": 0,
 "sources": [
+"@cvsenderseaman",
 "@offshoreatsea"
 ],
 "telegram": [],
-"total": 1,
+"total": 2,
 "vessels": [
 "Offshore"
 ],
@@ -44070,7 +44071,7 @@
 "crewell": "https://crewell.net/en/companies/384531/"
 },
 "name": "Offshore Operations Limited",
-"off": 109,
+"off": 110,
 "offshore_hint": false,
 "phones": [
 "+380674264056"
@@ -44091,7 +44092,7 @@
 "@seamenjob"
 ],
 "telegram": [],
-"total": 109,
+"total": 110,
 "uk": 24,
 "vessels": [
 "Dredger",
@@ -50598,7 +50599,7 @@
 "selectoffshore.com": {
 "address": "68 Lombard Street",
 "city": "London",
-"co": 110,
+"co": 111,
 "country": "United Kingdom",
 "emails": [
 "aaliyah.thurkettle@selectoffshore.com",
@@ -50616,7 +50617,7 @@
 "crewell": "https://crewell.net/en/companies/64960/"
 },
 "name": "Advance Global Recruitment Ltd",
-"off": 618,
+"off": 619,
 "offshore_hint": false,
 "phones": [],
 "so": 65,
@@ -50637,7 +50638,7 @@
 "telegram": [
 "@cvpro_mailing"
 ],
-"total": 619,
+"total": 620,
 "uk": 88,
 "vessels": [
 "Bulk",
@@ -61842,7 +61843,7 @@
 "crs_vacancies": 3590,
 "cruiseshipjobs": 8,
 "cvcrewcom": 12904,
-"cvsenderseaman": 16751,
+"cvsenderseaman": 16754,
 "ecrewing": 3227,
 "findseajobs": 32570,
 "galaxymaritimeua": 1250,
@@ -61855,7 +61856,7 @@
 "marinejobs": 43833,
 "marinejobz": 194156,
 "marineman_ltd": 48435,
-"maritimeforum": 259120,
+"maritimeforum": 259121,
 "merchantNavyrealjob": 265,
 "morehod_ru": 31175,
 "oceancrewjobs": 32929,
