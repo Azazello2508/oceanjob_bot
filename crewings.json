@@ -8515,10 +8515,10 @@
 "country": "",
 "emails": [],
 "first": "2026-11-03",
-"last": "2026-11-19",
+"last": "2026-11-21",
 "links": {},
 "name": "MAN Diesel AS",
-"off": 15,
+"off": 16,
 "offshore_hint": false,
 "phones": [],
 "so": 2,
@@ -8528,7 +8528,7 @@
 "@offshorecv"
 ],
 "telegram": [],
-"total": 41,
+"total": 44,
 "vessels": [
 "Bulk",
 "General cargo",
@@ -31819,6 +31819,31 @@
 "vessels": [],
 "website": ""
 },
+"name:global projects services ag": {
+"address": "",
+"city": "",
+"co": 1,
+"country": "",
+"emails": [],
+"first": "2026-11-21",
+"last": "2026-11-21",
+"li": 1,
+"links": {
+"linkedin": "https://ch.linkedin.com/company/global-projects-services-ag"
+},
+"name": "Global Projects Services AG",
+"off": 0,
+"offshore_hint": false,
+"phones": [],
+"so": 0,
+"sources": [
+"LinkedIn"
+],
+"telegram": [],
+"total": 0,
+"vessels": [],
+"website": ""
+},
 "name:go marine ports management offline united arab emirates member since: jun 2018 no active vacancies we are managing of marine projects we coordinate and carry out activities in marine industry in middle east and around world our central office is located view profile": {
 "address": "",
 "city": "",
@@ -52301,7 +52326,7 @@
 "+380937800894",
 "+380979435590"
 ],
-"so": 60,
+"so": 61,
 "sources": [
 "@CREW_ARIA",
 "@Merchant_Fleet",
@@ -52313,7 +52338,7 @@
 "@supermariner_ua"
 ],
 "telegram": [],
-"total": 338,
+"total": 339,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -59670,7 +59695,8 @@
 "4492302285",
 "4485475425",
 "4493216520",
-"4475751051"
+"4475751051",
+"4468296601"
 ],
 "names": {
 "-tech solutions": "as-tech.pl",
@@ -60391,6 +60417,7 @@
 "global ocean agency": "goa.od.ua",
 "global odessa": "globalodesa.com",
 "global personnel service": "gpscm.net",
+"global projects services ag": "name:global projects services ag",
 "global seaways novorossiysk": "globalseaways.com",
 "global seaways odessa": "globalseaways.com",
 "global service": "globalservice.od.ua",
@@ -61848,7 +61875,7 @@
 "ALPHACREW": 3590,
 "BSMCSCUKRAINE": 4428,
 "CREW_ARIA": 14242,
-"Crew_Radar": 3534,
+"Crew_Radar": 3547,
 "JobForMariners": 1213,
 "Merchant_Fleet": 658,
 "OffshoreFleetJob": 11097,
@@ -61877,16 +61904,16 @@
 "job_for_seaman": 17115,
 "jobfor_seamen": 12783,
 "marinecareerorg": 17769,
-"marinejobs": 43833,
+"marinejobs": 43834,
 "marinejobz": 194156,
 "marineman_ltd": 48435,
-"maritimeforum": 259123,
+"maritimeforum": 259124,
 "merchantNavyrealjob": 265,
 "morehod_ru": 31175,
 "oceancrewjobs": 32929,
 "offshoreatsea": 25614,
 "offshorecv": 1616,
-"offshorevacancies": 47403,
+"offshorevacancies": 47406,
 "oilrigs": 778,
 "olive_crew": 2963,
 "onboard_su": 20840,

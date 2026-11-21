@@ -1229,26 +1229,91 @@
 "repeat": false,
 "time": "2026-11-21T11:05:30+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Mate · Global Projects Services AG · Baku, Baku Ekonomic Zone, Azerbaijan",
+"url": "https://www.linkedin.com/jobs/view/4468296601",
+"source": "LinkedIn",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer"
+},
+"company": "Global Projects Services AG",
+"place": "Baku, Baku Ekonomic Zone, Azerbaijan",
+"new": false,
+"repeat": false,
+"time": "2026-11-21T12:40:08.429484+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "WE NEED",
+"url": "https://t.me/maritimeforum/259124",
+"source": "Telegram: @maritimeforum",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-438bd9dc72f6ddfc",
+"offshore": false,
+"info": {
+"rank": "2nd Officer / 3rd Officer",
+"vessel": "Container",
+"joining": "ASAP",
+"salary": "9300-9600 USD",
+"email": "info@staff-service-expert.com",
+"company": "staff-service-expert.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-21T12:31:01+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "https://jobatsea.online/job/626177/1st-officer-dpo-for-seismic-research-support-vessel-dp2-at-atlas-nextwave/",
+"url": "https://t.me/offshorevacancies/47405",
+"source": "Telegram: @offshorevacancies",
+"found": [
+"1st officer",
+"dpo"
+],
+"fp": "fp-b71eca33203dfb2c",
+"offshore": true,
+"info": {
+"rank": "Chief Officer / DPO"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-21T12:24:55+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-6475,
-6476,
-6477,
-6478,
-6479,
-6480,
-6481,
-6482,
-6483,
-6484,
-6485,
-6486,
-6487,
-6488,
-6489
+6490,
+6491,
+6492,
+6493,
+6494,
+6495,
+6496,
+6497,
+6498,
+6499,
+6500,
+6501,
+6502,
+6503,
+6504
 ],
-"last_list": "2026-11-21T11:50:11.364243+00:00",
-"cleared_upto": 6474,
-"last_msg_id": 6489
+"last_list": "2026-11-21T12:40:51.140397+00:00",
+"cleared_upto": 6489,
+"last_msg_id": 6504
 }
