@@ -447,19 +447,100 @@
 "repeat": false,
 "time": "2026-11-22T10:02:12+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "VACANCIES – BUNKERING TANKER",
+"url": "https://t.me/maritimeforum/259197",
+"source": "Telegram: @maritimeforum",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-a536ae291cadbafe",
+"offshore": false,
+"info": {
+"rank": "2nd Officer / AB",
+"vessel": "Tanker",
+"salary": "after starting operations in W…",
+"contract": "Single voyage",
+"email": "ops@start-manning.com",
+"company": "start-manning.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": true,
+"time": "2026-11-22T10:58:59+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "WE NEED",
+"url": "https://t.me/maritimeforum/259199",
+"source": "Telegram: @maritimeforum",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-03cd3a683d82516a",
+"offshore": false,
+"info": {
+"rank": "2nd Officer / 3rd Officer / AB",
+"vessel": "Chemical tanker",
+"joining": "ASAP",
+"contract": "s are accepted",
+"salary": "4800 USD",
+"email": "info@staff-service-expert.com",
+"company": "staff-service-expert.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-22T11:04:07+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Vacancy code",
+"url": "https://t.me/marinejobs/43840",
+"source": "Telegram: @marinejobs",
+"found": [
+"dpo",
+"2nd off"
+],
+"fp": "fp-9324904d5b0f414f",
+"offshore": true,
+"info": {
+"rank": "2nd Officer / 3rd Officer / DPO",
+"vessel": "PSV, MPSV",
+"salary": "s – 250 EUR per day",
+"joining": "6th of January",
+"contract": "2 weeks",
+"email": "crew@navis.eu",
+"company": "navis.eu"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": true,
+"time": "2026-11-22T11:00:26+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-6612,
-6613,
-6614,
-6615,
-6616,
-6617,
-6618,
-6619
+6620,
+6621,
+6622,
+6623,
+6624,
+6625,
+6626,
+6627,
+6628
 ],
-"last_list": "2026-11-22T10:35:23.472582+00:00",
-"cleared_upto": 6611,
-"last_msg_id": 6619
+"last_list": "2026-11-22T11:26:31.067286+00:00",
+"cleared_upto": 6619,
+"last_msg_id": 6628
 }

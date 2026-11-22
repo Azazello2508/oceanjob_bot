@@ -29917,7 +29917,7 @@
 "country": "",
 "emails": [],
 "first": "2026-11-04",
-"last": "2026-11-21",
+"last": "2026-11-22",
 "links": {},
 "name": "Bermuda Maritime",
 "off": 0,
@@ -29932,7 +29932,7 @@
 "telegram": [
 "@AndreyVStart"
 ],
-"total": 17,
+"total": 18,
 "vessels": [],
 "website": ""
 },
@@ -42103,12 +42103,12 @@
 "d.tomic@onken-offshore.de"
 ],
 "first": "2026-11-03",
-"last": "2026-11-21",
+"last": "2026-11-22",
 "links": {
 "crewell": "https://crewell.net/en/companies/58901/"
 },
 "name": "Navis Crew Management",
-"off": 143,
+"off": 144,
 "offshore_hint": false,
 "phones": [
 "+380507055005",
@@ -42116,7 +42116,7 @@
 "+380735343112",
 "+380735343113"
 ],
-"so": 50,
+"so": 51,
 "sources": [
 "@CREW_ARIA",
 "@Merchant_Fleet",
@@ -42132,7 +42132,7 @@
 "@seamenjob"
 ],
 "telegram": [],
-"total": 145,
+"total": 146,
 "uk": 3,
 "vessels": [
 "Bulk",
@@ -45369,7 +45369,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 194,
+"total": 195,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -52485,7 +52485,7 @@
 "vinfo@staff-service-expert.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-21",
+"last": "2026-11-22",
 "links": {},
 "name": "",
 "off": 51,
@@ -52494,7 +52494,7 @@
 "+380937800894",
 "+380979435590"
 ],
-"so": 62,
+"so": 63,
 "sources": [
 "@CREW_ARIA",
 "@Merchant_Fleet",
@@ -52506,7 +52506,7 @@
 "@supermariner_ua"
 ],
 "telegram": [],
-"total": 341,
+"total": 345,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -52904,7 +52904,7 @@
 "phones": [
 "+380965371779"
 ],
-"so": 33,
+"so": 35,
 "sources": [
 "@CREW_ARIA",
 "@Merchant_Fleet",
@@ -52915,7 +52915,7 @@
 "@maritimeforum"
 ],
 "telegram": [],
-"total": 283,
+"total": 285,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -62064,9 +62064,9 @@
 "TSMexp": 870,
 "Yacht_Vacancies": 290,
 "allcrewing": 3825,
-"andreeyVstart": 1423,
+"andreeyVstart": 1424,
 "balticcareer": 5963,
-"crewingua": 45084,
+"crewingua": 45085,
 "crs_vacancies": 3590,
 "cruiseshipjobs": 8,
 "cvcrewcom": 12904,
@@ -62080,10 +62080,10 @@
 "job_for_seaman": 17115,
 "jobfor_seamen": 12783,
 "marinecareerorg": 17770,
-"marinejobs": 43839,
+"marinejobs": 43840,
 "marinejobz": 194156,
 "marineman_ltd": 48442,
-"maritimeforum": 259196,
+"maritimeforum": 259201,
 "merchantNavyrealjob": 265,
 "morehod_ru": 31186,
 "oceancrewjobs": 32929,
@@ -62092,7 +62092,7 @@
 "offshorevacancies": 47406,
 "oilrigs": 778,
 "olive_crew": 2964,
-"onboard_su": 20843,
+"onboard_su": 20844,
 "pervoemorskoe": 4539,
 "rekamore_su": 165841,
 "roster_marine": 1747,
