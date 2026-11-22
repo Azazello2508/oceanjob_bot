@@ -32071,6 +32071,33 @@
 ],
 "website": ""
 },
+"name:hanwha shipping": {
+"address": "",
+"city": "",
+"co": 0,
+"country": "",
+"emails": [],
+"first": "2026-11-22",
+"last": "2026-11-22",
+"links": {},
+"name": "Hanwha Shipping",
+"off": 1,
+"offshore_hint": false,
+"phones": [],
+"so": 0,
+"sources": [
+"@truemalina_offshore"
+],
+"telegram": [],
+"total": 1,
+"vessels": [
+"Bulk",
+"LPG/LNG",
+"Offshore",
+"Tanker"
+],
+"website": ""
+},
 "name:hanza marine management 3 hours ago latvia member since: oct 2026 4 active vacancies view profile": {
 "address": "",
 "city": "",
@@ -60576,6 +60603,7 @@
 "h&p crewing": "name:h&p crewing",
 "hal offshore": "haloffshore.in",
 "hansa ship management oü": "hansashipping.ee",
+"hanwha shipping": "name:hanwha shipping",
 "hanza marine": "hmm.lv",
 "hanza marine management": "hmm.lv",
 "hanza marine management 3 hours ago latvia member since: oct 2026 4 active vacancies view profile": "name:hanza marine management 3 hours ago latvia member since: oct 2026 4 active vacancies view profile",
@@ -62021,7 +62049,7 @@
 "job_for_seaman": 17115,
 "jobfor_seamen": 12783,
 "marinecareerorg": 17770,
-"marinejobs": 43836,
+"marinejobs": 43839,
 "marinejobz": 194156,
 "marineman_ltd": 48442,
 "maritimeforum": 259194,
@@ -62045,7 +62073,7 @@
 "shipscreweu": 16721,
 "sidantey": 399,
 "supermariner_ua": 3948,
-"truemalina_offshore": 842,
+"truemalina_offshore": 843,
 "ukrcrewing_official": 2395,
 "univis_crewing": 5041,
 "vesselsea": 3159,
