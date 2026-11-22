@@ -102,15 +102,119 @@
 "repeat": false,
 "time": "2026-11-22T05:06:02.494491+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer on Bulk carrier",
+"url": "https://crewell.net/en/vacancies/467275/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Bulk carrier"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-22T07:38:35.952049+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer for Panamax Bulk Carrier Vessel",
+"url": "https://www.seacareer.com/i36882/chief-officer-for-panamax-bulk-carrier-vessel/",
+"source": "seacareer.com",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Bulk carrier"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-22T07:38:45.740742+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Second Officer for Self-Propelled Jack-Up Barge",
+"url": "https://oceancrew.org/vacancies/offshore/2nd-officer/second-officer-for-self-propelled-jack-up-barge_22-11-2026",
+"source": "oceancrew.org",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Jack-up, Barge"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-22T07:39:02.156728+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer for Self-Propelled Jack-Up Barge",
+"url": "https://oceancrew.org/vacancies/offshore/chief-officer/chief-officer-for-self-propelled-jack-up-barge-2_22-11-2026",
+"source": "oceancrew.org",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Jack-up, Barge"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-22T07:39:03.875915+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "SECOND OFFICER",
+"url": "https://t.me/cvsenderseaman/16771",
+"source": "Telegram: @cvsenderseaman",
+"found": [
+"second officer"
+],
+"fp": "fp-1c3aed7e36597647",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Tanker",
+"salary": "Negotiable",
+"joining": "ASAP",
+"contract": "4 m on / 4 m off",
+"email": "vladlena@maritime-universal.com",
+"company": "maritime-universal.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-22T07:22:33+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-6588,
-6589,
-6590,
-6591
+6592,
+6593,
+6594,
+6595,
+6596,
+6597
 ],
-"last_list": "2026-11-22T05:08:20.065034+00:00",
-"cleared_upto": 6587,
-"last_msg_id": 6591
+"last_list": "2026-11-22T07:41:55.400685+00:00",
+"cleared_upto": 6591,
+"last_msg_id": 6597
 }

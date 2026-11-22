@@ -24606,20 +24606,21 @@
 "vladlena@maritime-universal.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-19",
+"last": "2026-11-22",
 "links": {
 "crewell": "https://crewell.net/en/companies/352652/"
 },
 "name": "Global Maritime",
-"off": 11,
+"off": 12,
 "offshore_hint": false,
 "phones": [
 "+380739444940",
 "+971507179371"
 ],
-"so": 6,
+"so": 7,
 "sources": [
 "@Merchant_Fleet",
+"@cvsenderseaman",
 "@galaxymaritimeua",
 "@job_for_seaman",
 "@marinejobs",
@@ -24627,7 +24628,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 31,
+"total": 36,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -60830,6 +60831,7 @@
 "malin group": "malingroup.com",
 "maloemore offline russian federation member since: apr 2023 no active vacancies view profile": "name:maloemore offline russian federation member since: apr 2023 no active vacancies view profile",
 "maltabulk holding": "transship.uа",
+"man b&w me maritime": "maritime-universal.com",
 "man diesel": "balticcareer.eu",
 "manager heavy duty driver marine": "oceancrew.org",
 "mandarin marine": "mandarinmarine.lv",
@@ -61674,6 +61676,7 @@
 "vessel jack-up navis crew management": "navis.eu",
 "vessel lpg ray marine": "raymarinecrewing.com",
 "vessel psv dese crew management": "desecrew.com",
+"vessel psv dp1 maritime": "maritime-universal.com",
 "vessel psv marpo crewing": "marpocrew.com.ua",
 "vessel psv navis crew management": "wayatsea.com",
 "vessel psv pelican marine": "pelicanmarine.ch",
@@ -62039,7 +62042,7 @@
 "crs_vacancies": 3590,
 "cruiseshipjobs": 8,
 "cvcrewcom": 12904,
-"cvsenderseaman": 16768,
+"cvsenderseaman": 16773,
 "ecrewing": 3230,
 "findseajobs": 32570,
 "galaxymaritimeua": 1250,
