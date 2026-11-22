@@ -381,19 +381,85 @@
 "repeat": false,
 "time": "2026-11-22T09:16:33+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "3rd Engineers DP for Long Distance Tug Boats and Offshore Support Vessels",
+"url": "https://oceancrew.org/vacancies/offshore/dpo/3rd-engineers-dp-for-long-distance-tug-boats-and-offshore-support-vessels_22-11-2026",
+"source": "oceancrew.org",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"vessel": "Tug"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-22T10:32:12.294098+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer — LNG Carrier",
+"url": "https://t.me/Crew_Radar/3552",
+"source": "Telegram: @Crew_Radar",
+"found": [
+"chief officer"
+],
+"fp": "fp-adb527593b038e27",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "LNG",
+"salary": "USD 19,200/month",
+"joining": "Mid December 2026",
+"contract": "2-4 months"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-22T10:02:07+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer — LNG Carrier",
+"url": "https://t.me/Crew_Radar/3554",
+"source": "Telegram: @Crew_Radar",
+"found": [
+"chief officer"
+],
+"fp": "fp-a636f6cd1e2aca56",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "LNG",
+"salary": "USD 16,000-17,000/month",
+"joining": "Mid December 2026",
+"contract": "2-4 months"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-22T10:02:12+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-6604,
-6605,
-6606,
-6607,
-6608,
-6609,
-6610,
-6611
+6612,
+6613,
+6614,
+6615,
+6616,
+6617,
+6618,
+6619
 ],
-"last_list": "2026-11-22T09:43:37.963304+00:00",
-"cleared_upto": 6603,
-"last_msg_id": 6611
+"last_list": "2026-11-22T10:35:23.472582+00:00",
+"cleared_upto": 6611,
+"last_msg_id": 6619
 }

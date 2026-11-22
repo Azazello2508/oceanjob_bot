@@ -12781,14 +12781,14 @@
 "crewradar.net": {
 "address": "",
 "city": "",
-"co": 6,
+"co": 7,
 "country": "",
 "emails": [],
 "first": "2026-11-03",
-"last": "2026-11-20",
+"last": "2026-11-22",
 "links": {},
 "name": "Marie Shipping Ltd",
-"off": 17,
+"off": 22,
 "offshore_hint": false,
 "phones": [],
 "so": 0,
@@ -12796,7 +12796,7 @@
 "@Crew_Radar"
 ],
 "telegram": [],
-"total": 39,
+"total": 44,
 "vessels": [
 "LPG/LNG",
 "Offshore"
@@ -19196,18 +19196,18 @@
 "hncrewing.com": {
 "address": "Business Center G32 Gabijos g. 32, 4th Floor, Office 407 Vilnius, Lithuania",
 "city": "Vilnius",
-"co": 11,
+"co": 12,
 "country": "Lithuania",
 "emails": [
 "crew@hncrewing.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-20",
+"last": "2026-11-22",
 "links": {
 "crewell": "https://crewell.net/en/companies/323727/"
 },
 "name": "Helios Nautical Crewing",
-"off": 11,
+"off": 17,
 "offshore_hint": false,
 "phones": [
 "+37066689319"
@@ -19221,7 +19221,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 64,
+"total": 70,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -24395,7 +24395,7 @@
 "soikher.n@marinetec.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-21",
+"last": "2026-11-22",
 "links": {},
 "name": "",
 "off": 0,
@@ -24411,7 +24411,7 @@
 "@seamenjob"
 ],
 "telegram": [],
-"total": 18,
+"total": 19,
 "vessels": [
 "General cargo"
 ],
@@ -62051,7 +62051,7 @@
 "ALPHACREW": 3590,
 "BSMCSCUKRAINE": 4428,
 "CREW_ARIA": 14242,
-"Crew_Radar": 3547,
+"Crew_Radar": 3560,
 "JobForMariners": 1213,
 "Merchant_Fleet": 658,
 "OffshoreFleetJob": 11097,
@@ -62071,7 +62071,7 @@
 "cruiseshipjobs": 8,
 "cvcrewcom": 12904,
 "cvsenderseaman": 16776,
-"ecrewing": 3230,
+"ecrewing": 3231,
 "findseajobs": 32570,
 "galaxymaritimeua": 1250,
 "gm_seaman_cv": 2751,
@@ -62094,7 +62094,7 @@
 "olive_crew": 2964,
 "onboard_su": 20843,
 "pervoemorskoe": 4539,
-"rekamore_su": 165840,
+"rekamore_su": 165841,
 "roster_marine": 1747,
 "seajobfinder": 42645,
 "seamenjob": 106580,
