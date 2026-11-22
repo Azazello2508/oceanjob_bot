@@ -58,14 +58,40 @@
 "repeat": false,
 "time": "2026-11-21T23:39:21.035713+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "Marine Crewing Agency Everest",
+"url": "https://t.me/rekamore_su/165828",
+"source": "Telegram: @rekamore_su",
+"found": [
+"chief officer",
+"c/o"
+],
+"fp": "fp-f9d3600903c7908e",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Aframax, Suezmax",
+"joining": "November/December",
+"contract": "6 месяцев.(можно меньше",
+"salary": "14000$",
+"company": "Marine Crewing Agency Everest"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": true,
+"time": "2026-11-22T00:03:28+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-6582,
-6583,
-6584
+6585,
+6586,
+6587
 ],
-"last_list": "2026-11-21T23:40:06.358306+00:00",
-"cleared_upto": 6581,
-"last_msg_id": 6584
+"last_list": "2026-11-22T00:30:56.037893+00:00",
+"cleared_upto": 6584,
+"last_msg_id": 6587
 }
