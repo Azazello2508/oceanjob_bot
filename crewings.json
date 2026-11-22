@@ -1107,6 +1107,30 @@
 "vessels": [],
 "website": ""
 },
+"@shavragova": {
+"address": "",
+"city": "",
+"co": 0,
+"country": "",
+"emails": [],
+"first": "2026-11-22",
+"last": "2026-11-22",
+"links": {},
+"name": "",
+"off": 0,
+"offshore_hint": false,
+"phones": [],
+"so": 0,
+"sources": [
+"@ecrewing"
+],
+"telegram": [
+"@shavragova"
+],
+"total": 1,
+"vessels": [],
+"website": ""
+},
 "@starpomovich": {
 "address": "",
 "city": "",
@@ -21245,14 +21269,14 @@
 "jobs.nmms.co.uk": {
 "address": "",
 "city": "",
-"co": 13,
+"co": 15,
 "country": "",
 "emails": [],
 "first": "2026-11-03",
-"last": "2026-11-19",
+"last": "2026-11-22",
 "links": {},
 "name": "Northern Marine Manning Services",
-"off": 42,
+"off": 50,
 "offshore_hint": false,
 "phones": [],
 "so": 0,
@@ -21260,7 +21284,7 @@
 "@Crew_Radar"
 ],
 "telegram": [],
-"total": 59,
+"total": 67,
 "vessels": [
 "Chemical",
 "LPG/LNG",
@@ -62051,7 +62075,7 @@
 "ALPHACREW": 3590,
 "BSMCSCUKRAINE": 4428,
 "CREW_ARIA": 14242,
-"Crew_Radar": 3560,
+"Crew_Radar": 3572,
 "JobForMariners": 1213,
 "Merchant_Fleet": 658,
 "OffshoreFleetJob": 11097,
@@ -62071,7 +62095,7 @@
 "cruiseshipjobs": 8,
 "cvcrewcom": 12904,
 "cvsenderseaman": 16776,
-"ecrewing": 3231,
+"ecrewing": 3232,
 "findseajobs": 32570,
 "galaxymaritimeua": 1250,
 "gm_seaman_cv": 2751,

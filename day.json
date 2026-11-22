@@ -527,20 +527,106 @@
 "repeat": true,
 "time": "2026-11-22T11:00:26+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "2nd Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/370978",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-22T12:14:40.468865+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer — LNG Carrier",
+"url": "https://t.me/Crew_Radar/3563",
+"source": "Telegram: @Crew_Radar",
+"found": [
+"chief officer"
+],
+"fp": "fp-74d8e852fafeca4c",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "LNG",
+"salary": "Not specified",
+"joining": "Not specified",
+"contract": "Not specified"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-22T12:04:36+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer — LPG Carrier",
+"url": "https://t.me/Crew_Radar/3570",
+"source": "Telegram: @Crew_Radar",
+"found": [
+"chief officer"
+],
+"fp": "fp-e04bbe7a7623f204",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "LPG",
+"salary": "Not specified",
+"joining": "Not specified",
+"contract": "Not specified"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-22T12:05:05+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Afternoon Vacancy Digest — November 22, 2026",
+"url": "https://t.me/Crew_Radar/3572",
+"source": "Telegram: @Crew_Radar",
+"found": [],
+"fp": "fp-b027c09e14105e4a",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "LPG, LNG"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-22T12:05:12+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-6620,
-6621,
-6622,
-6623,
-6624,
-6625,
-6626,
-6627,
-6628
+6629,
+6630,
+6631,
+6632,
+6633,
+6634,
+6635,
+6636,
+6637,
+6638
 ],
-"last_list": "2026-11-22T11:26:31.067286+00:00",
-"cleared_upto": 6619,
-"last_msg_id": 6628
+"last_list": "2026-11-22T12:17:40.869803+00:00",
+"cleared_upto": 6628,
+"last_msg_id": 6638
 }
