@@ -1239,26 +1239,95 @@
 "repeat": false,
 "time": "2026-11-22T17:02:40+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "2nd Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/370984",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-22T18:29:13.693060+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "HOT MARITIME JOBS OF THE WEEK!",
+"url": "https://t.me/seajobfinder/42647",
+"source": "Telegram: @seajobfinder",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-d15062ce1121aa52",
+"offshore": true,
+"info": {
+"rank": "2nd Officer",
+"vessel": "VLCC, LNG",
+"joining": "ASAP!",
+"contract": "S",
+"salary": "$24,500",
+"company": "HOT MARITIME JOBS OF THE WEEK!"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-22T18:07:38+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Приветствуем, уважаемые коллеги!",
+"url": "https://t.me/rekamore_su/165848",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-c38659e52742637f",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Tug",
+"joining": "срочная, г.Астрахань",
+"email": "resume@mwshipco.com",
+"company": "mwshipco.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-22T17:57:09+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-6678,
-6679,
-6680,
-6681,
-6682,
-6683,
-6684,
-6685,
-6686,
-6687,
-6688,
-6689,
-6690,
-6691,
-6692
+6693,
+6694,
+6695,
+6696,
+6697,
+6698,
+6699,
+6700,
+6701,
+6702,
+6703,
+6704,
+6705,
+6706,
+6707,
+6708
 ],
-"last_list": "2026-11-22T17:41:05.497781+00:00",
-"cleared_upto": 6677,
-"last_msg_id": 6692
+"last_list": "2026-11-22T18:31:51.793037+00:00",
+"cleared_upto": 6692,
+"last_msg_id": 6708
 }

@@ -27416,13 +27416,13 @@
 "mwshipco.com": {
 "address": "",
 "city": "",
-"co": 3,
+"co": 4,
 "country": "",
 "emails": [
 "resume@mwshipco.com"
 ],
 "first": "2026-11-18",
-"last": "2026-11-21",
+"last": "2026-11-22",
 "links": {},
 "name": "",
 "off": 0,
@@ -27435,7 +27435,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 3,
+"total": 4,
 "vessels": [
 "Tug"
 ],
@@ -34112,6 +34112,34 @@
 "telegram": [],
 "total": 0,
 "vessels": [],
+"website": ""
+},
+"name:merchant marine": {
+"address": "",
+"city": "",
+"co": 0,
+"country": "",
+"emails": [],
+"first": "2026-11-22",
+"last": "2026-11-22",
+"links": {},
+"name": "Merchant Marine",
+"off": 2,
+"offshore_hint": false,
+"phones": [],
+"so": 2,
+"sources": [
+"@Sea_format",
+"@seajobfinder"
+],
+"telegram": [],
+"total": 2,
+"vessels": [
+"Container",
+"LPG/LNG",
+"Offshore",
+"Tanker"
+],
 "website": ""
 },
 "name:mikolaj group offline hungary member since: mar 2024 no active vacancies mikolaj group services has safely and successfully executed numerous projects for various oil and gas majors epc contractors seismic survey / diving contractors which includes oc view profile": {
@@ -61036,6 +61064,7 @@
 "mena region gulf marine services": "gretimybe.lt",
 "meratus line": "meratusline.com",
 "mercator crewing": "jobatsea.online",
+"merchant marine": "name:merchant marine",
 "merchant navy resources": "mnrltd.com",
 "mercury maritime enterprises s a": "mercurymaritime.gr",
 "meridian bs": "meridian.bg",
@@ -62135,7 +62164,7 @@
 "OnlyYacht": 2338,
 "SM_job_center": 2521,
 "SeaSeaWorks": 3934,
-"Sea_format": 12357,
+"Sea_format": 12358,
 "TSMexp": 870,
 "Yacht_Vacancies": 290,
 "allcrewing": 3825,
@@ -62169,9 +62198,9 @@
 "olive_crew": 2964,
 "onboard_su": 20844,
 "pervoemorskoe": 4539,
-"rekamore_su": 165847,
+"rekamore_su": 165848,
 "roster_marine": 1747,
-"seajobfinder": 42646,
+"seajobfinder": 42647,
 "seamenjob": 106580,
 "seamenvacancy": 1393,
 "seavacancies": 25275,
