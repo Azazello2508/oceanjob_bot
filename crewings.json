@@ -48006,7 +48006,7 @@
 "rp-shipping@yandex.ru"
 ],
 "first": "2026-11-03",
-"last": "2026-11-21",
+"last": "2026-11-22",
 "links": {},
 "name": "",
 "off": 0,
@@ -48017,7 +48017,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 90,
+"total": 96,
 "vessels": [
 "Tanker"
 ],
@@ -62066,7 +62066,7 @@
 "olive_crew": 2964,
 "onboard_su": 20843,
 "pervoemorskoe": 4539,
-"rekamore_su": 165832,
+"rekamore_su": 165840,
 "roster_marine": 1747,
 "seajobfinder": 42645,
 "seamenjob": 106580,
