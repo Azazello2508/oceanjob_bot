@@ -1307,27 +1307,49 @@
 "repeat": false,
 "time": "2026-11-22T17:57:09+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "Position publishing service was stopped for the night.",
+"url": "https://t.me/marinecareerorg/17771",
+"source": "Telegram: @marinecareerorg",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-7dc8169fa993e6e6",
+"offshore": false,
+"info": {
+"rank": "2nd Officer / AB",
+"vessel": "Product tanker, Bulk carrier"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-22T19:00:20+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-6693,
-6694,
-6695,
-6696,
-6697,
-6698,
-6699,
-6700,
-6701,
-6702,
-6703,
-6704,
-6705,
-6706,
-6707,
-6708
+6709,
+6710,
+6711,
+6712,
+6713,
+6714,
+6715,
+6716,
+6717,
+6718,
+6719,
+6720,
+6721,
+6722,
+6723,
+6724
 ],
-"last_list": "2026-11-22T18:31:51.793037+00:00",
-"cleared_upto": 6692,
-"last_msg_id": 6708
+"last_list": "2026-11-22T19:46:25.441350+00:00",
+"cleared_upto": 6708,
+"last_msg_id": 6724
 }
