@@ -990,25 +990,118 @@
 "repeat": false,
 "time": "2026-11-22T15:38:35+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "2nd Officer",
+"url": "https://t.me/maritimeforum/259329",
+"source": "Telegram: @maritimeforum",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-da5f182e6f32dbb6",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Bulk carrier",
+"contract": "6 months",
+"salary": "$3,800–4,000\n",
+"email": "info@crs-marine.com",
+"company": "crs-marine.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-22T16:09:22+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://t.me/maritimeforum/259346",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-23bcd14f6d1080bf",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "MPP",
+"contract": "4 months",
+"salary": "$8,000–8,500\n",
+"email": "dox@a-m-s.com.ua",
+"company": "a-m-s.com.ua"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-22T16:11:01+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "DECK OFFICERS (46)",
+"url": "https://t.me/marineman_ltd/48444",
+"source": "Telegram: @marineman_ltd",
+"found": [
+"chief officer",
+"second officer"
+],
+"fp": "fp-9f6dc0a9f8211f41",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer / 3rd Officer",
+"vessel": "LNG, Chemical tanker"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-22T16:00:02+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Список закрытых каналов в",
+"url": "https://t.me/rekamore_su/165846",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-de84ab9948b9e3a9",
+"offshore": false,
+"info": {
+"rank": "Chief Officer"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": true,
+"time": "2026-11-22T16:03:01+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-6650,
-6651,
-6652,
-6653,
-6654,
-6655,
-6656,
-6657,
-6658,
-6659,
-6660,
-6661,
-6662,
-6663
+6664,
+6665,
+6666,
+6667,
+6668,
+6669,
+6670,
+6671,
+6672,
+6673,
+6674,
+6675,
+6676,
+6677
 ],
-"last_list": "2026-11-22T15:59:48.378560+00:00",
-"cleared_upto": 6649,
-"last_msg_id": 6663
+"last_list": "2026-11-22T16:50:28.115762+00:00",
+"cleared_upto": 6663,
+"last_msg_id": 6677
 }
