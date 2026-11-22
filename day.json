@@ -612,21 +612,71 @@
 "repeat": false,
 "time": "2026-11-22T12:05:12+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "OPENING VACANCIES | BITUMEN TANKER",
+"url": "https://t.me/maritimeforum/259232",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-20148cbcb6afb5e6",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer",
+"vessel": "Tanker",
+"salary": "s",
+"joining": "Takeover"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": true,
+"time": "2026-11-22T12:43:10+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "ОТКРЫТЫЕ ВАКАНСИИ НА LPG TANKER (VLGC)",
+"url": "https://t.me/maritimeforum/259234",
+"source": "Telegram: @maritimeforum",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-05c04ebe53601cac",
+"offshore": false,
+"info": {
+"rank": "2nd Officer / 3rd Officer",
+"vessel": "LPG",
+"salary": "ы",
+"contract": "а"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": true,
+"time": "2026-11-22T12:44:46+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-6629,
-6630,
-6631,
-6632,
-6633,
-6634,
-6635,
-6636,
-6637,
-6638
+6639,
+6640,
+6641,
+6642,
+6643,
+6644,
+6645,
+6646,
+6647,
+6648,
+6649
 ],
-"last_list": "2026-11-22T12:17:40.869803+00:00",
-"cleared_upto": 6628,
-"last_msg_id": 6638
+"last_list": "2026-11-22T13:08:50.515121+00:00",
+"cleared_upto": 6638,
+"last_msg_id": 6649
 }

@@ -20478,7 +20478,7 @@
 "country": "",
 "emails": [],
 "first": "2026-11-03",
-"last": "2026-11-21",
+"last": "2026-11-22",
 "links": {},
 "name": "",
 "off": 0,
@@ -20491,7 +20491,7 @@
 "@maritimeforum"
 ],
 "telegram": [],
-"total": 229,
+"total": 234,
 "vessels": [
 "Bulk",
 "Container"
@@ -53390,7 +53390,7 @@
 "country": "",
 "emails": [],
 "first": "2026-11-07",
-"last": "2026-11-21",
+"last": "2026-11-22",
 "links": {},
 "name": "AivernIQ Crewing",
 "off": 0,
@@ -53401,7 +53401,7 @@
 "@maritimeforum"
 ],
 "telegram": [],
-"total": 28,
+"total": 29,
 "vessels": [],
 "website": "strong-praline-d91ece.netlify.app"
 },
@@ -62104,10 +62104,10 @@
 "job_for_seaman": 17115,
 "jobfor_seamen": 12783,
 "marinecareerorg": 17770,
-"marinejobs": 43840,
+"marinejobs": 43841,
 "marinejobz": 194156,
 "marineman_ltd": 48442,
-"maritimeforum": 259201,
+"maritimeforum": 259234,
 "merchantNavyrealjob": 265,
 "morehod_ru": 31186,
 "oceancrewjobs": 32929,
