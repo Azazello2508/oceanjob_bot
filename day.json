@@ -1,10 +1,36 @@
 {
 "date": "2026-11-23",
-"jobs": [],
-"msg_ids": [
-6725
+"jobs": [
+{
+"uk": "",
+"title": "На приёмку новых судов проекта RSD 59, DWT 8144",
+"url": "https://t.me/onboard_su/20847",
+"source": "Telegram: @onboard_su",
+"found": [
+"старший помощник"
 ],
-"last_list": "2026-11-22T20:37:38.664065+00:00",
-"cleared_upto": 6724,
-"last_msg_id": 6725
+"fp": "fp-82a617f8ce74b421",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"contract": "4+-1. Оплата проезда. Вак",
+"salary": "280 000 ₽",
+"email": "cv@crewmontenegro.com",
+"company": "crewmontenegro.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-22T20:43:28+00:00",
+"junior_dp": false
+}
+],
+"msg_ids": [
+6726,
+6727
+],
+"last_list": "2026-11-22T21:19:11.037157+00:00",
+"cleared_upto": 6725,
+"last_msg_id": 6727
 }
