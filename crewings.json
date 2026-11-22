@@ -41145,7 +41145,7 @@
 "transoptimalng@mail.ru"
 ],
 "first": "2026-11-03",
-"last": "2026-11-21",
+"last": "2026-11-22",
 "links": {},
 "name": "ООО “Трансоптимал СПБ”",
 "off": 0,
@@ -41157,7 +41157,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 26,
+"total": 27,
 "vessels": [
 "General cargo",
 "LPG/LNG"
@@ -47261,7 +47261,7 @@
 "hr@rechflot.ru"
 ],
 "first": "2026-11-03",
-"last": "2026-11-21",
+"last": "2026-11-22",
 "links": {},
 "name": "ООО \"Речфлот\"",
 "off": 0,
@@ -47274,7 +47274,7 @@
 "@seamenjob"
 ],
 "telegram": [],
-"total": 28,
+"total": 29,
 "vessels": [
 "Passenger"
 ],
@@ -62063,7 +62063,7 @@
 "olive_crew": 2964,
 "onboard_su": 20842,
 "pervoemorskoe": 4539,
-"rekamore_su": 165828,
+"rekamore_su": 165831,
 "roster_marine": 1747,
 "seajobfinder": 42645,
 "seamenjob": 106580,
