@@ -12770,7 +12770,7 @@
 "vicky.ganguly@bs-shipmanagement.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-21",
+"last": "2026-11-23",
 "links": {
 "crewell": "https://crewell.net/en/companies/272756/"
 },
@@ -12786,7 +12786,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 52,
+"total": 53,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -20572,7 +20572,7 @@
 "crewing@sailinga.lt"
 ],
 "first": "2026-11-03",
-"last": "2026-11-21",
+"last": "2026-11-23",
 "links": {
 "crewell": "https://crewell.net/en/companies/198396/"
 },
@@ -20596,12 +20596,14 @@
 "@seajobfinder"
 ],
 "telegram": [],
-"total": 106,
+"total": 107,
 "uk": 13,
 "vessels": [
 "Dredger",
 "Offshore",
 "Passenger",
+"Ro-Ro/PCTC",
+"Tanker",
 "Tug"
 ],
 "website": "ipspowerfulpeople.com"
@@ -62155,7 +62157,7 @@
 "ALPHACREW": 3590,
 "BSMCSCUKRAINE": 4428,
 "CREW_ARIA": 14243,
-"Crew_Radar": 3572,
+"Crew_Radar": 3573,
 "JobForMariners": 1213,
 "Merchant_Fleet": 658,
 "OffshoreFleetJob": 11097,
@@ -62196,12 +62198,12 @@
 "offshorevacancies": 47406,
 "oilrigs": 778,
 "olive_crew": 2964,
-"onboard_su": 20844,
+"onboard_su": 20846,
 "pervoemorskoe": 4539,
 "rekamore_su": 165848,
 "roster_marine": 1747,
 "seajobfinder": 42647,
-"seamenjob": 106580,
+"seamenjob": 106582,
 "seamenvacancy": 1393,
 "seavacancies": 25275,
 "shipjobsindia": 420,
