@@ -1083,25 +1083,182 @@
 "repeat": true,
 "time": "2026-11-22T16:03:01+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "Need Candidates for Tanker Vessels",
+"url": "https://t.me/oceancrewjobs/32930",
+"source": "Telegram: @oceancrewjobs",
+"found": [
+"chief officer"
+],
+"fp": "fp-7ba20bc21c03c383",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / AB",
+"vessel": "Chemical tanker",
+"company": "https://oceancrew.org/vacancies/mer…"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-22T16:58:38+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Hiring for Cruise/ Passenger Vessels",
+"url": "https://t.me/oceancrewjobs/32931",
+"source": "Telegram: @oceancrewjobs",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-15f1afc565f831fa",
+"offshore": false,
+"info": {
+"rank": "2nd Officer / 3rd Officer / AB",
+"vessel": "AHTS, Cruise",
+"company": "https://oceancrew.org/vacancies/cru…"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-22T16:59:06+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Need Candidates for Accommodation Vessel (Brazil)",
+"url": "https://t.me/oceancrewjobs/32933",
+"source": "Telegram: @oceancrewjobs",
+"found": [
+"chief officer",
+"2nd officer",
+"dpo",
+"2nd off"
+],
+"fp": "fp-9944d497007b4300",
+"offshore": true,
+"info": {
+"rank": "Chief Officer / 2nd Officer / 3rd Officer",
+"company": "https://oceancrew.org/vacancies/off…"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-22T17:00:10+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Hiring for AHTS Non-DP Vessels",
+"url": "https://t.me/oceancrewjobs/32934",
+"source": "Telegram: @oceancrewjobs",
+"found": [
+"chief officer"
+],
+"fp": "fp-912ea93a44bf386f",
+"offshore": true,
+"info": {
+"rank": "Chief Officer / AB",
+"vessel": "AHTS",
+"company": "https://oceancrew.org/vacancies/off…"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-22T17:00:31+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Open Vacancies for LNG Tanker Vessel",
+"url": "https://t.me/oceancrewjobs/32935",
+"source": "Telegram: @oceancrewjobs",
+"found": [
+"second officer"
+],
+"fp": "fp-5cb6e7b6e0a330bf",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "LNG",
+"company": "https://oceancrew.org/vacancies/mer…"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-22T17:00:57+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Hiring for VLAC",
+"url": "https://t.me/oceancrewjobs/32936",
+"source": "Telegram: @oceancrewjobs",
+"found": [
+"chief officer"
+],
+"fp": "fp-7cefc3f687c25754",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 3rd Officer",
+"company": "https://oceancrew.org/vacancies/mer…"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-22T17:01:29+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Need Candidates for Motor Yacht",
+"url": "https://t.me/oceancrewjobs/32938",
+"source": "Telegram: @oceancrewjobs",
+"found": [
+"chief officer"
+],
+"fp": "fp-e05c3f000690c17b",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "AHTS, Cruise",
+"company": "https://oceancrew.org/vacancies/cru…"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-22T17:02:40+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-6664,
-6665,
-6666,
-6667,
-6668,
-6669,
-6670,
-6671,
-6672,
-6673,
-6674,
-6675,
-6676,
-6677
+6678,
+6679,
+6680,
+6681,
+6682,
+6683,
+6684,
+6685,
+6686,
+6687,
+6688,
+6689,
+6690,
+6691,
+6692
 ],
-"last_list": "2026-11-22T16:50:28.115762+00:00",
-"cleared_upto": 6663,
-"last_msg_id": 6677
+"last_list": "2026-11-22T17:41:05.497781+00:00",
+"cleared_upto": 6677,
+"last_msg_id": 6692
 }
