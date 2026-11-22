@@ -24597,7 +24597,7 @@
 "maritime-universal.com": {
 "address": "Shams Media Center",
 "city": "",
-"co": 8,
+"co": 9,
 "country": "",
 "emails": [
 "anastasiia@maritime-universal.com",
@@ -24628,7 +24628,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 36,
+"total": 38,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -49634,6 +49634,33 @@
 ],
 "website": "seafactor.com"
 },
+"seafarer.ro": {
+"address": "",
+"city": "",
+"co": 0,
+"country": "",
+"emails": [
+"office@seafarer.ro"
+],
+"first": "2026-11-22",
+"last": "2026-11-22",
+"links": {},
+"name": "Seafarer Solutions Crewing Agency",
+"off": 0,
+"offshore_hint": false,
+"phones": [],
+"so": 0,
+"sources": [
+"@cvsenderseaman"
+],
+"telegram": [],
+"total": 1,
+"vessels": [
+"Chemical",
+"Tanker"
+],
+"website": ""
+},
 "seafarers.co": {
 "address": "C-3, 3RD FLOOR, C-51 TAUHEED COMMERCIAL PHASE V DEFENSE",
 "city": "Karachi",
@@ -52869,7 +52896,7 @@
 "ops@start-manning.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-20",
+"last": "2026-11-22",
 "links": {},
 "name": "Urgent Crewing",
 "off": 4,
@@ -52888,7 +52915,7 @@
 "@maritimeforum"
 ],
 "telegram": [],
-"total": 282,
+"total": 283,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -61353,6 +61380,7 @@
 "seacrew management": "seacrew.co",
 "seacrew management offline cyprus member since: sep 2019 no active vacancies view profile": "name:seacrew management offline cyprus member since: sep 2019 no active vacancies view profile",
 "seafactor": "seafactor.com",
+"seafarer solutions crewing agency": "seafarer.ro",
 "seafarers pvt": "seafarers.co",
 "seafmt": "frachtmortrans.ru",
 "seagate marine services pvt": "seagate.com.pk",
@@ -62042,7 +62070,7 @@
 "crs_vacancies": 3590,
 "cruiseshipjobs": 8,
 "cvcrewcom": 12904,
-"cvsenderseaman": 16773,
+"cvsenderseaman": 16776,
 "ecrewing": 3230,
 "findseajobs": 32570,
 "galaxymaritimeua": 1250,
@@ -62055,7 +62083,7 @@
 "marinejobs": 43839,
 "marinejobz": 194156,
 "marineman_ltd": 48442,
-"maritimeforum": 259194,
+"maritimeforum": 259196,
 "merchantNavyrealjob": 265,
 "morehod_ru": 31186,
 "oceancrewjobs": 32929,
@@ -62075,7 +62103,7 @@
 "shipjobsindia": 420,
 "shipscreweu": 16721,
 "sidantey": 399,
-"supermariner_ua": 3948,
+"supermariner_ua": 3949,
 "truemalina_offshore": 843,
 "ukrcrewing_official": 2395,
 "univis_crewing": 5041,

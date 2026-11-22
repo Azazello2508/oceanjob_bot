@@ -224,17 +224,176 @@
 "repeat": false,
 "time": "2026-11-22T07:58:49.670336+00:00",
 "junior_dp": false
+},
+{
+"uk": "…e. • Valid BOSIET with CA-EBS (mandatory). • UK work permit. • Relevant experience as Able Seafarer (AB)…",
+"title": "AB for DSV (UK)",
+"url": "https://oceancrew.org/vacancies/offshore/ab/ab-for-dsv-uk-2_22-11-2026",
+"source": "oceancrew.org",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "AB",
+"vessel": "DSV"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-22T09:40:57.572345+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "X3 Chief Officers DP for Long Distance Tug Boats and Offshore Support Vessels",
+"url": "https://oceancrew.org/vacancies/offshore/dpo/x3-chief-officers-for-long-distance-tug-boats-and-offshore-support-vessels_22-11-2026",
+"source": "oceancrew.org",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Tug"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-22T09:40:59.167171+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Second Mates DP for Long Distance Tug Boats and Offshore Support Vessels",
+"url": "https://oceancrew.org/vacancies/offshore/dpo/second-mates-dp-for-long-distance-tug-boats-and-offshore-support-vessels_22-11-2026",
+"source": "oceancrew.org",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"vessel": "Tug"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-22T09:41:01.201024+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "X3 Second Officers DP for Long Distance Tug Boats and Offshore Support Vessels",
+"url": "https://oceancrew.org/vacancies/offshore/dpo/x3-second-officers-dp-for-long-distance-tug-boats-and-offshore-support-vessels_22-11-2026",
+"source": "oceancrew.org",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Tug"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-22T09:41:02.806655+00:00",
+"junior_dp": false
+},
+{
+"uk": "…e. • Valid BOSIET with CA-EBS (mandatory). • UK work permit. • Relevant experience as Second Officer…",
+"title": "2nd Officer for DSV (UK)",
+"url": "https://oceancrew.org/vacancies/offshore/2nd-officer/2nd-officer-for-dsv-uk_22-11-2026",
+"source": "oceancrew.org",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "2nd Officer",
+"vessel": "DSV"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-22T09:41:04.433180+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "x3 Chief Officers for Long Distance Tug Boats and Offshore Support Vessels",
+"url": "https://oceancrew.org/vacancies/offshore/chief-officer/x3-chief-officers-for-long-distance-tug-boats-and-offshore-support-vessels-2_22-11-2026",
+"source": "oceancrew.org",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Tug"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-22T09:41:06.052637+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "X3 Second Officers for Long Distance Tug Boats and Offshore Support Vessels",
+"url": "https://oceancrew.org/vacancies/offshore/chief-officer/x3-second-officers-for-long-distance-tug-boats-and-offshore-support-vessels_22-11-2026",
+"source": "oceancrew.org",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Tug"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-22T09:41:07.815833+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "CHIEF OFFICER",
+"url": "https://t.me/cvsenderseaman/16775",
+"source": "Telegram: @cvsenderseaman",
+"found": [
+"chief officer"
+],
+"fp": "fp-627b5a21d9abd167",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Bulk carrier",
+"salary": "Negotiable",
+"joining": "29.01.2027",
+"email": "vladlena@maritime-universal.com",
+"company": "maritime-universal.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-22T09:16:33+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-6598,
-6599,
-6600,
-6601,
-6602,
-6603
+6604,
+6605,
+6606,
+6607,
+6608,
+6609,
+6610,
+6611
 ],
-"last_list": "2026-11-22T08:52:23.975627+00:00",
-"cleared_upto": 6597,
-"last_msg_id": 6603
+"last_list": "2026-11-22T09:43:37.963304+00:00",
+"cleared_upto": 6603,
+"last_msg_id": 6611
 }
