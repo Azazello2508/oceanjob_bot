@@ -7788,35 +7788,542 @@
 "time": "2026-11-23T14:14:56+00:00",
 "junior_dp": false,
 "dp_officer": false
+},
+{
+"uk": "",
+"title": "Chief Officer on Bunkering tanker",
+"url": "https://crewell.net/en/vacancies/467491/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Tanker"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-23T15:19:00.677411+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Chief Officer on Oil/chemical tanker",
+"url": "https://crewell.net/en/vacancies/467498/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Chemical tanker"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-23T15:19:01.392528+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Ordinary Seaman",
+"url": "https://seajobs.ru/ru/vacancy/18382/ordinary-seaman-crude-oil-tanker",
+"source": "seajobs.ru",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"vessel": "Crude oil tanker"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-23T15:19:13.066207+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Chief Officer — Oil/Chemical Tanker",
+"url": "https://seajobs.pro/jobs/chief-officer-oil-chemical-tanker-01f0cd3f-9d83-4048-8d0a-93a7dd2c9fc0",
+"source": "seajobs.pro",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Chemical tanker"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-23T15:19:47.123457+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "2/O with Bulk experiance",
+"url": "https://crewing.portalmorski.pl/en/sea-jobs/2-o-with-bulk-experiance-2/",
+"source": "portalmorski.pl",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Bulk carrier"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-23T15:19:50.928648+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": ",,Золотой Штурвал ,,:",
+"url": "https://t.me/maritimeforum/259595",
+"source": "Telegram: @maritimeforum",
+"found": [
+"старпом"
+],
+"fp": "fp-22786d12ab1d98f7",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Bulk carrier",
+"salary": "3000$ , МОТОРИСТ 1100$.СУДНО…",
+"joining": "В ИЗМАИЛЕ ВСЕ УКРАИНЦЫ. ЗВОНИТ",
+"contract": "3 month)"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-23T14:31:09+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "NEW VACANCIES",
+"url": "https://t.me/maritimeforum/259599",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer",
+"sdpo",
+"dpo"
+],
+"fp": "fp-ff9bf9f88c55b19b",
+"offshore": true,
+"info": {
+"rank": "Chief Officer / SDPO",
+"vessel": "AHTS",
+"salary": "is",
+"joining": "ASAP",
+"contract": "is",
+"email": "cv@tsmexp.com",
+"company": "tsmexp.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-23T15:20:05+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "We are looking for a",
+"url": "https://t.me/onboard_su/20857",
+"source": "Telegram: @onboard_su",
+"found": [
+"2off"
+],
+"fp": "fp-71cb28ffd319c604",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer",
+"vessel": "Chemical tanker, Crude oil tanker",
+"salary": "4450 USD",
+"joining": "Beg of Dec",
+"contract": "Monthly salary: 4450 US",
+"email": "Yulia.Voronina@iqrewing.com",
+"company": "iqrewing.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-23T15:08:57+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Chief Officer – LPG Carrier",
+"url": "https://t.me/marinejobs/43918",
+"source": "Telegram: @marinejobs",
+"found": [
+"chief officer"
+],
+"fp": "fp-d3371ca809f70d9a",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "LPG",
+"joining": "December",
+"contract": "4 months",
+"email": "ua-csc-ode-man@bs-shipmanagement.com",
+"company": "bs-shipmanagement.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-23T14:37:09+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Bulk Carrier Crew Vacancies",
+"url": "https://t.me/marinejobs/43920",
+"source": "Telegram: @marinejobs",
+"found": [
+"chief officer",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-324ccb10c46dc8c1",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer / 3rd Officer",
+"vessel": "Bulk carrier",
+"email": "recruitment@avatarmaritime.com",
+"company": "avatarmaritime.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-23T15:01:10+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Urgent Marine Positions",
+"url": "https://t.me/marinejobs/43922",
+"source": "Telegram: @marinejobs",
+"found": [
+"second officer"
+],
+"fp": "fp-048e56fab4581103",
+"offshore": true,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Crew boat, Jack-up",
+"salary": "250 per day",
+"joining": "ASAP",
+"contract": "2/2 months",
+"email": "cv@ocean-armada.com",
+"company": "ocean-armada.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-23T15:05:11+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Chief Officer Opportunity",
+"url": "https://t.me/marinejobs/43923",
+"source": "Telegram: @marinejobs",
+"found": [
+"chief officer",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-58805bbc74e501fd",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer",
+"vessel": "General cargo",
+"salary": "$6,500–6,800 USD",
+"joining": "26 November in Egypt",
+"contract": "4 months",
+"email": "cv@allcrew.net",
+"company": "allcrew.net"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-23T15:07:33+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "URGENTLY",
+"url": "https://t.me/jobfor_seamen/12799",
+"source": "Telegram: @jobfor_seamen",
+"found": [
+"second officer"
+],
+"fp": "fp-076967c7f8b86b3b",
+"offshore": true,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Crew boat, Jack-up",
+"salary": "250 p/d",
+"joining": "ASAP",
+"contract": "2/2 months",
+"email": "cv@ocean-armada.com",
+"company": "ocean-armada.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-23T14:35:23+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Open Positions for Bulk Carrier Vessels",
+"url": "https://t.me/seamenjob/106630",
+"source": "Telegram: @seamenjob",
+"found": [
+"chief officer",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-3b8056f57cb0d997",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer / 3rd Officer",
+"vessel": "Bulk carrier",
+"email": "recruitment@avatarmaritime.com",
+"company": "avatarmaritime.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-23T14:30:42+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Chief Officer - 6500 -6800 USD / 4 months",
+"url": "https://t.me/allcrewing/3828",
+"source": "Telegram: @allcrewing",
+"found": [
+"chief officer",
+"2nd off"
+],
+"fp": "fp-26505bc1d3a436af",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer",
+"vessel": "General cargo",
+"salary": "6500 -6800 USD",
+"email": "cv@allcrew.net",
+"company": "allcrew.net"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-23T14:30:36+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "MULTIPLE OFFSHORE VACANCIES – AHTS / OSV / DSV",
+"url": "https://t.me/offshorecv/1620",
+"source": "Telegram: @offshorecv",
+"found": [
+"chief officer",
+"2nd officer",
+"2/o",
+"sdpo",
+"dpo",
+"2nd off"
+],
+"fp": "fp-038a087b3087d30b",
+"offshore": true,
+"info": {
+"rank": "Chief Officer / 2nd Officer / SDPO",
+"vessel": "AHTS, OSV",
+"joining": "ASAP",
+"contract": "60 Days ON / 30 Days OFF",
+"email": "crew@goldorion.eu",
+"company": "goldorion.eu"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-23T14:36:58+00:00",
+"junior_dp": false,
+"dp_officer": true
+},
+{
+"uk": "",
+"title": "23-11-2026",
+"url": "https://t.me/TSMexp/872",
+"source": "Telegram: @TSMexp",
+"found": [
+"chief officer",
+"sdpo",
+"dpo"
+],
+"fp": "fp-4f0ff1144a3124c6",
+"offshore": true,
+"info": {
+"rank": "Chief Officer / SDPO",
+"vessel": "AHTS",
+"salary": "320 USD p/day",
+"joining": "beg December",
+"contract": "2 months",
+"email": "cv@tsmexp.com",
+"company": "tsmexp.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-23T15:03:39+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "23-11-2026",
+"url": "https://t.me/TSMexp/873",
+"source": "Telegram: @TSMexp",
+"found": [
+"sdpo",
+"dpo"
+],
+"fp": "fp-88c52c27b65ba04b",
+"offshore": true,
+"info": {
+"rank": "SDPO",
+"vessel": "AHTS",
+"salary": "480 USD p/day",
+"joining": "beg December",
+"contract": "2 months",
+"email": "cv@tsmexp.com",
+"company": "tsmexp.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-23T15:03:43+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://t.me/offshoreatsea/25705",
+"source": "Telegram: @offshoreatsea",
+"found": [
+"chief officer"
+],
+"fp": "fp-8628637bb73597b9",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Tug",
+"contract": "2 months",
+"email": "career@orca-crew.com",
+"company": "orca-crew.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-23T14:53:26+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "OPEN POSITIONS",
+"url": "https://t.me/cvsenderseaman/16869",
+"source": "Telegram: @cvsenderseaman",
+"found": [
+"chief officer"
+],
+"fp": "fp-0a09dffa0ed1374f",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Tug",
+"joining": "ASAP",
+"contract": "2 months",
+"email": "career@orca-crew.com",
+"company": "orca-crew.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-23T15:09:36+00:00",
+"junior_dp": false,
+"dp_officer": false
 }
 ],
 "msg_ids": [
-6954,
-6955,
-6956,
-6957,
-6958,
-6959,
-6960,
-6961,
-6962,
-6963,
-6964,
-6965,
-6966,
-6967,
-6968,
-6969,
-6970,
-6971,
-6972,
-6973,
-6974,
-6975,
-6976,
-6977
+6978,
+6979,
+6980,
+6981,
+6982,
+6983,
+6984,
+6985,
+6986,
+6987,
+6988,
+6989,
+6990,
+6991,
+6992,
+6993,
+6994,
+6995,
+6996,
+6997,
+6998,
+6999,
+7000,
+7001,
+7002
 ],
-"last_list": "2026-11-23T14:30:54.259732+00:00",
-"cleared_upto": 6953,
-"last_msg_id": 6977
+"last_list": "2026-11-23T15:21:46.916787+00:00",
+"cleared_upto": 6977,
+"last_msg_id": 7002
 }
