@@ -7526,34 +7526,297 @@
 "time": "2026-11-23T13:05:35+00:00",
 "junior_dp": false,
 "dp_officer": false
+},
+{
+"uk": "",
+"title": "Chief Officer on Heavy-Lift Carrier",
+"url": "https://crewell.net/en/vacancies/467480/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-23T14:28:14.338610+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://seajobs.ru/ru/vacancy/18377/chief-officer-crude-oil-tanker",
+"source": "seajobs.ru",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Crude oil tanker"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-23T14:28:27.290761+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://seajobs.ru/ru/vacancy/18378/chief-officer-crude-oil-tanker",
+"source": "seajobs.ru",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Crude oil tanker"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-23T14:28:28.214099+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Chief Officer — Bulk Carrier",
+"url": "https://seajobs.pro/jobs/chief-officer-bulk-carrier-bbb27839-d1ac-4b39-9b8c-335ca94d53bd",
+"source": "seajobs.pro",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Bulk carrier"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-23T14:28:57.570969+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Chief officer on General cargo vessel",
+"url": "https://seajobs.pro/jobs/chief-officer-on-general-cargo-vessel-52d043f6-d9f5-4bd9-bf0b-c78776019f7a",
+"source": "seajobs.pro",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-23T14:28:57.720775+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "2/O & 3/E FOR LNG CARRIERS",
+"url": "https://www.ainostri.ro/oferte/maritim/2-o-and-3-e-for-lng-carriers-14439",
+"source": "ainostri.ro",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "LNG"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-23T14:29:06.222004+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "2/O for MR and LR1 tanker vessels",
+"url": "https://www.ainostri.ro/oferte/maritim/2-o-for-mr-and-lr1-tanker-vessels-14445",
+"source": "ainostri.ro",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Tanker"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-23T14:29:06.605452+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "ONLY UKRAINIAN NATIONALITY",
+"url": "https://t.me/BSMCSCUKRAINE/4454",
+"source": "Telegram: @BSMCSCUKRAINE",
+"found": [],
+"fp": "fp-3fa61660c17b9070",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "LPG",
+"joining": "December",
+"contract": "4 Months",
+"email": "ua-csc-ode-man@bs-shipmanagement.com",
+"company": "bs-shipmanagement.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-23T13:56:57+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "https://jobatsea.online/job/626202/oiler-to-join-a-spjub-in-the-uk-from-the-25th-november-for-2-months-at-wrs/",
+"url": "https://t.me/offshorevacancies/47417",
+"source": "Telegram: @offshorevacancies",
+"found": [
+"2/o"
+],
+"fp": "fp-dd0459eb5c52a4ad",
+"offshore": true,
+"info": {
+"rank": "2nd Officer"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-23T13:43:01+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "https://jobatsea.online/job/626210/chief-officer-for-a-tug-at-oj-crew/",
+"url": "https://t.me/offshorevacancies/47420",
+"source": "Telegram: @offshorevacancies",
+"found": [
+"chief officer"
+],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Tug",
+"company": "https://jobatsea.online/job/626210/…"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-23T14:20:36+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "3rd Officer vacancy onboard LPG fleet",
+"url": "https://t.me/gm_seaman_cv/2759",
+"source": "Telegram: @gm_seaman_cv",
+"found": [
+"chief officer",
+"c/o"
+],
+"fp": "fp-98fcf455b2374236",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 3rd Officer",
+"vessel": "LPG, Chemical tanker",
+"salary": "details available at our offic…",
+"joining": "2-3 December",
+"contract": "s",
+"email": "bjangeer@mnrltd.com",
+"company": "mnrltd.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-23T14:14:51+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "CHIEF OFFICER",
+"url": "https://t.me/cvsenderseaman/16857",
+"source": "Telegram: @cvsenderseaman",
+"found": [
+"chief officer"
+],
+"fp": "fp-3c3fb963a101e05e",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "AHTS",
+"salary": "Negotiable",
+"joining": "ASAP",
+"contract": "6 weeks on / 6 weeks off",
+"email": "elbek.juraev@selectoffshore.com",
+"company": "selectoffshore.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-23T14:14:56+00:00",
+"junior_dp": false,
+"dp_officer": false
 }
 ],
 "msg_ids": [
-6931,
-6932,
-6933,
-6934,
-6935,
-6936,
-6937,
-6938,
-6939,
-6940,
-6941,
-6942,
-6943,
-6944,
-6945,
-6946,
-6947,
-6948,
-6949,
-6950,
-6951,
-6952,
-6953
+6954,
+6955,
+6956,
+6957,
+6958,
+6959,
+6960,
+6961,
+6962,
+6963,
+6964,
+6965,
+6966,
+6967,
+6968,
+6969,
+6970,
+6971,
+6972,
+6973,
+6974,
+6975,
+6976,
+6977
 ],
-"last_list": "2026-11-23T13:40:07.697868+00:00",
-"cleared_upto": 6930,
-"last_msg_id": 6953
+"last_list": "2026-11-23T14:30:54.259732+00:00",
+"cleared_upto": 6953,
+"last_msg_id": 6977
 }
