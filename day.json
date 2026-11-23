@@ -116,15 +116,404 @@
 "repeat": true,
 "time": "2026-11-23T04:20:05+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "2nd Officer for DP2 Accommodation Vessel",
+"url": "https://oceancrew.org/vacancies/offshore/2nd-officer/2nd-officer-for-dp2-accommodation-vessel_23-11-2026",
+"source": "oceancrew.org",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "2nd Officer"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-23T05:15:05.182613+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "2nd Officer/Junior DP Operator for DP2 Accommodation Vessel",
+"url": "https://oceancrew.org/vacancies/offshore/2nd-officer/2nd-officerjunior-dp-operator-for-dp2-accommodation-vessel_23-11-2026",
+"source": "oceancrew.org",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "2nd Officer / DPO"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-23T05:15:07.592600+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer for DP2 Accommodation Vessel",
+"url": "https://oceancrew.org/vacancies/offshore/chief-officer/chief-officer-for-dp2-accommodation-vessel_23-11-2026",
+"source": "oceancrew.org",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "Chief Officer"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-23T05:15:09.296883+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "2nd Officer Job - Aframax Tanker (Domestic) PT Soechi Lines Tbk",
+"url": "https://maritime-union.com/job/233532",
+"source": "maritime-union.com",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Aframax"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-23T05:15:15.617957+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "2nd Officer Job on LNG Carrier SeaFormat",
+"url": "https://maritime-union.com/job/233530",
+"source": "maritime-union.com",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "LNG"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-23T05:15:16.275440+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer & 2nd Engineer Job - Bulk Carrier PT. SOLUSI PELAYARAN NUSANTARA (SPN)",
+"url": "https://maritime-union.com/job/233533",
+"source": "maritime-union.com",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Bulk carrier"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-23T05:15:17.098760+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Offshore. Job selection for 23/11/2026",
+"url": "https://t.me/SM_job_center/2522",
+"source": "Telegram: @SM_job_center",
+"found": [
+"chief officer",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-d7158fedaee19dbd",
+"offshore": true,
+"info": {
+"rank": "Chief Officer / 2nd Officer",
+"vessel": "PSV, AHTS",
+"salary": "$400/day",
+"email": "cv@alphacrew.com",
+"company": "alphacrew.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-23T05:04:43+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Компания ООО \"СК \"АСТРОЛ\" приглашает на работу:",
+"url": "https://t.me/rekamore_su/165863",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-fffe5773e27667b7",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo",
+"salary": "253 000 рублей (на руки)",
+"joining": "23 ноября в Санкт-Петербурге",
+"company": "ООО \"СК \"АСТРОЛ\""
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-23T04:42:05+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Компания ООО \"БСК\" приглашает на работу:",
+"url": "https://t.me/rekamore_su/165864",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-d4c9574b93cf4598",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo",
+"salary": "352 000 рублей (на руки)",
+"joining": "первая половина декабря в Турц",
+"contract": "4 месяца",
+"email": "personal@sc-astrol.ru",
+"company": "sc-astrol.ru"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-23T04:42:09+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Компания ООО \"Белозерское пароходство\" приглашает на работу:",
+"url": "https://t.me/rekamore_su/165866",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-375650b643c1ccff",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Tug",
+"email": "k.vasileva@karelkamen.ru",
+"company": "karelkamen.ru"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": true,
+"time": "2026-11-23T04:44:04+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Компания ООО “Азовторгфлот” приглашает на работу:",
+"url": "https://t.me/rekamore_su/165868",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-3a821cea740700c2",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo",
+"salary": "250 000 рублей (на руки)",
+"email": "crew@aztf.ru",
+"company": "aztf.ru"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-23T04:46:02+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Компания ООО НП «Балтийское Морское Пароходство» приглашает на работу:",
+"url": "https://t.me/rekamore_su/165870",
+"source": "Telegram: @rekamore_su",
+"found": [
+"2off"
+],
+"fp": "fp-28143510deb0fa58",
+"offshore": true,
+"info": {
+"vessel": "Tanker",
+"salary": "3500-4500 USD",
+"joining": "ASAP -  KFK // Strait of Hormu",
+"company": "ООО НП «Балтийское Морское Пароходс…"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": true,
+"time": "2026-11-23T04:50:03+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Компания ООО НП «Балтийское Морское Пароходство» приглашает на работу:",
+"url": "https://t.me/rekamore_su/165871",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-53cb10282b74dc9f",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Reefer",
+"salary": "5 500 USD",
+"joining": "СРОЧНАЯ в Санкт-Петербурге",
+"contract": "4+1",
+"company": "ООО НП «Балтийское Морское Пароходс…"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": true,
+"time": "2026-11-23T04:50:07+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Компания ООО НП «Балтийское Морское Пароходство» приглашает на работу:",
+"url": "https://t.me/rekamore_su/165872",
+"source": "Telegram: @rekamore_su",
+"found": [
+"choff"
+],
+"fp": "fp-3e2ed6d6e85baa97",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "LNG, Tug",
+"salary": "350 000 рублей",
+"joining": "СРОЧНАЯ",
+"contract": "2 месяца через 2 месяца",
+"email": "cd@bsc-spb.com",
+"company": "bsc-spb.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": true,
+"time": "2026-11-23T04:50:10+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Судоходная компания \"Eco Shipping\" приглашает на работу:",
+"url": "https://t.me/rekamore_su/165874",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-3e2be08a86d4c374",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo",
+"salary": "365 000 рублей",
+"joining": "ноябрь- декабрь",
+"contract": "5/5 ( +/-1)",
+"email": "e.kievskaya@ecoshp.ru",
+"company": "ecoshp.ru"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": true,
+"time": "2026-11-23T04:52:06+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Компания ГК \"ОТЭКО\" приглашает на  работу:",
+"url": "https://t.me/rekamore_su/165876",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-105216998cd5ccaa",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Tug",
+"email": "e.davydenko@oteko.ru",
+"company": "oteko.ru"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": true,
+"time": "2026-11-23T05:10:05+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Компания ООО “ЕРМАК ШИППИНГ” приглашает на работу:",
+"url": "https://t.me/rekamore_su/165879",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-20cf5ba3e447abfe",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Tanker",
+"salary": "134 000 рублей + премия за кон…",
+"joining": "конец  ноября 2026г",
+"contract": "🚢",
+"email": "crewing@ermakshipping.com",
+"company": "ermakshipping.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": true,
+"time": "2026-11-23T05:16:03+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-6731,
-6732,
-6733,
-6734
+6735,
+6736,
+6737,
+6738,
+6739,
+6740,
+6741,
+6742,
+6743,
+6744
 ],
-"last_list": "2026-11-23T04:26:35.675151+00:00",
-"cleared_upto": 6730,
-"last_msg_id": 6734
+"last_list": "2026-11-23T05:17:49.884312+00:00",
+"cleared_upto": 6734,
+"last_msg_id": 6744
 }
