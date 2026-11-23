@@ -4185,7 +4185,7 @@
 "ukrcrewing": "https://ukrcrewing.com.ua/en/agency/alpha_crew"
 },
 "name": "AlphaCrew Maritime",
-"off": 611,
+"off": 612,
 "offshore_hint": true,
 "phones": [
 "+35726000899",
@@ -4220,7 +4220,7 @@
 "@Olga_Alpha_Crew",
 "@irina_alpha"
 ],
-"total": 657,
+"total": 658,
 "uk": 25,
 "vessels": [
 "Bulk",
@@ -21721,7 +21721,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 56,
+"total": 57,
 "vessels": [
 "Tug"
 ],
@@ -45723,7 +45723,7 @@
 "@seamenjob"
 ],
 "telegram": [],
-"total": 16,
+"total": 17,
 "vessels": [
 "Bulk",
 "Container",
@@ -51113,7 +51113,7 @@
 "victoria@sevenseasrecruitment.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-21",
+"last": "2026-11-23",
 "links": {},
 "name": "",
 "off": 1,
@@ -51131,7 +51131,7 @@
 "@shipscreweu"
 ],
 "telegram": [],
-"total": 69,
+"total": 70,
 "vessels": [
 "Offshore",
 "Passenger"
@@ -58661,7 +58661,7 @@
 "@seamenjob"
 ],
 "telegram": [],
-"total": 9,
+"total": 10,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -62234,7 +62234,7 @@
 "Yacht_Vacancies": 290,
 "allcrewing": 3825,
 "andreeyVstart": 1425,
-"balticcareer": 5971,
+"balticcareer": 5975,
 "crewingua": 45091,
 "crs_vacancies": 3599,
 "cruiseshipjobs": 8,
@@ -62243,19 +62243,19 @@
 "ecrewing": 3232,
 "findseajobs": 32570,
 "galaxymaritimeua": 1250,
-"gm_seaman_cv": 2751,
+"gm_seaman_cv": 2752,
 "help_seafarers": 4910,
 "ismira_agency": 440,
 "job_for_seaman": 17116,
 "jobfor_seamen": 12786,
 "marinecareerorg": 17771,
-"marinejobs": 43851,
+"marinejobs": 43853,
 "marinejobz": 194156,
 "marineman_ltd": 48449,
 "maritimeforum": 259368,
 "merchantNavyrealjob": 265,
 "morehod_ru": 31201,
-"oceancrewjobs": 32938,
+"oceancrewjobs": 32941,
 "offshoreatsea": 25624,
 "offshorecv": 1618,
 "offshorevacancies": 47406,
@@ -62263,10 +62263,10 @@
 "olive_crew": 2964,
 "onboard_su": 20851,
 "pervoemorskoe": 4540,
-"rekamore_su": 165921,
+"rekamore_su": 165922,
 "roster_marine": 1747,
 "seajobfinder": 42647,
-"seamenjob": 106591,
+"seamenjob": 106592,
 "seamenvacancy": 1393,
 "seavacancies": 25275,
 "shipjobsindia": 420,
