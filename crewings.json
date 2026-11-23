@@ -16209,17 +16209,23 @@
 "last": "2026-11-23",
 "links": {},
 "name": "Fair Spirit Shipping Ltd",
-"off": 9,
+"off": 10,
 "offshore_hint": false,
 "phones": [],
 "so": 0,
 "sources": [
-"@cvsenderseaman"
+"@cvsenderseaman",
+"@seamenjob"
 ],
 "telegram": [],
-"total": 9,
+"total": 10,
 "vessels": [
+"Bulk",
+"Container",
 "Offshore",
+"Passenger",
+"Ro-Ro/PCTC",
+"Tanker",
 "Tug"
 ],
 "website": ""
@@ -62746,7 +62752,7 @@
 "rekamore_su": 165964,
 "roster_marine": 1747,
 "seajobfinder": 42688,
-"seamenjob": 106635,
+"seamenjob": 106636,
 "seamenvacancy": 1397,
 "seavacancies": 25275,
 "shipjobsindia": 420,
