@@ -1788,27 +1788,900 @@
 "repeat": false,
 "time": "2026-11-23T06:53:19+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "2nd Officer on Bitumen tanker",
+"url": "https://crewell.net/en/vacancies/467296/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Tanker"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-23T07:49:45.972455+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "2nd Officer on LPG",
+"url": "https://crewell.net/en/vacancies/467301/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "LPG"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-23T07:49:46.669663+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer on Bitumen tanker",
+"url": "https://crewell.net/en/vacancies/467298/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Tanker"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-23T07:49:47.343157+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer on LPG",
+"url": "https://crewell.net/en/vacancies/467302/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "LPG"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-23T07:49:48.016889+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer on Bulk carrier",
+"url": "https://crewell.net/en/vacancies/467311/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Bulk carrier"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-23T07:49:48.689788+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer on Crude oil tanker",
+"url": "https://crewell.net/en/vacancies/467312/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Crude oil tanker"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-23T07:49:49.361913+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/370996",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-23T07:49:51.494650+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Second Officer on General Cargo Marine Man Kherson ·  Deck General Cargo Second Officer Second Officer General Cargo Marine MAN $3,291 - $3,729 per month View J…",
+"url": "https://findseajobs.com/seajobs/478879.html",
+"source": "findseajobs.com",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "General cargo",
+"salary": "$3,291 - $3,729",
+"company": "Second Officer on General Cargo Mar…"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-23T07:51:15.030416+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Second Officer / DPO on AHTS Atlantic Oceanic ·  Deck AHTS Second Officer Second Officer / DPO AHTS Atlantic Oceanic Competitive View Job 32 min ago",
+"url": "https://findseajobs.com/seajobs/478911.html",
+"source": "findseajobs.com",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "2nd Officer / DPO",
+"vessel": "AHTS"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-23T07:51:15.648203+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Second Officer on Cruise ship Excite Recruitment ·  Deck Cruise ship Second Officer Second Officer Cruise ship Excite Recruitment Competitive View Job 30 min ag…",
+"url": "https://findseajobs.com/seajobs/478932.html",
+"source": "findseajobs.com",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Cruise"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-23T07:51:16.262488+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Second Officer on Crude Oil Tanker LLC DS CREWING ·  Deck Crude Oil Tanker Second Officer Second Officer Crude Oil Tanker LLC DS CREWING $5,500 per month View J…",
+"url": "https://findseajobs.com/seajobs/478945.html",
+"source": "findseajobs.com",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Crude oil tanker",
+"salary": "$5,500",
+"company": "Second Officer on Crude Oil Tanker…"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-23T07:51:16.874304+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer on AHTS Select Offshore ·  Deck AHTS Chief Officer Chief Officer AHTS Select Offshore Competitive View Job 47 min ago",
+"url": "https://findseajobs.com/seajobs/478860.html",
+"source": "findseajobs.com",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "AHTS"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-23T07:51:17.493809+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer on Tug Boat OJ Crew ·  Deck Tug Boat Chief Officer Chief Officer Tug Boat OJ Crew Competitive View Job 47 min ago",
+"url": "https://findseajobs.com/seajobs/478864.html",
+"source": "findseajobs.com",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Tug",
+"company": "Chief Officer on Tug Boat OJ Crew ·…"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-23T07:51:18.105703+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer / DPO on Other Ship Type Atlas NextWave ·  Deck Other Ship Type Chief Officer Chief Officer / DPO Other Ship Type Atlas NextWave $340 per month Vi…",
+"url": "https://findseajobs.com/seajobs/478869.html",
+"source": "findseajobs.com",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "Chief Officer / DPO",
+"salary": "$340"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-23T07:51:18.717708+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer on Ro-Ro OSM Thome ·  Deck Ro-Ro Chief Officer Chief Officer Ro-Ro OSM Thome $8,700 per month View Job 46 min ago",
+"url": "https://findseajobs.com/seajobs/478872.html",
+"source": "findseajobs.com",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Ro-Ro",
+"salary": "$8,700"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-23T07:51:19.327165+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer on General Cargo Marine Man Kherson ·  Deck General Cargo Chief Officer Chief Officer General Cargo Marine MAN $5,923 - $6,472 per month View Job…",
+"url": "https://findseajobs.com/seajobs/478881.html",
+"source": "findseajobs.com",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo",
+"salary": "$5,923 - $6,472",
+"company": "Chief Officer on General Cargo Mari…"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-23T07:51:19.943505+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer / SDPO on AHTS Atlantic Oceanic ·  Deck AHTS Chief Officer Chief Officer / SDPO AHTS Atlantic Oceanic Competitive View Job 32 min ago",
+"url": "https://findseajobs.com/seajobs/478910.html",
+"source": "findseajobs.com",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "Chief Officer / SDPO",
+"vessel": "AHTS"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-23T07:51:20.552152+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "First Officer on Cruise ship Excite Recruitment ·  Deck Cruise ship Chief Officer First Officer Cruise ship Excite Recruitment Competitive View Job 30 min ago",
+"url": "https://findseajobs.com/seajobs/478933.html",
+"source": "findseajobs.com",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Cruise"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-23T07:51:21.174855+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer on Motor Yacht Hill Robinson ·  Deck Motor Yacht Chief Officer Chief Officer Motor Yacht Hill Robinson Competitive View Job 30 min ago",
+"url": "https://findseajobs.com/seajobs/478938.html",
+"source": "findseajobs.com",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-23T07:51:21.791352+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer on Chemical Tanker Ariap Shipping Pvt Ltd ·  Deck Chemical Tanker Chief Officer Chief Officer Chemical Tanker Ariap Shipping Pvt Ltd Competitive V…",
+"url": "https://findseajobs.com/seajobs/478948.html",
+"source": "findseajobs.com",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Chemical tanker",
+"company": "Chief Officer on Chemical Tanker Ar…"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-23T07:51:22.401932+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer on Passenger Ship Ukrainian Maritime Service LLC ·  Deck Passenger Ship Chief Officer Chief Officer Passenger Ship Ukrainian Maritime Service LLC…",
+"url": "https://findseajobs.com/seajobs/478950.html",
+"source": "findseajobs.com",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Passenger",
+"salary": "$8,000 - $9,000",
+"company": "Chief Officer on Passenger Ship Ukr…"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-23T07:51:23.023854+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer on LNG Carrier Faststream ·  Deck LNG Carrier Chief Officer Chief Officer LNG Carrier Faststream USD $18,875 per month View Job 20 min ago",
+"url": "https://findseajobs.com/seajobs/478955.html",
+"source": "findseajobs.com",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "LNG",
+"salary": "$18,875"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-23T07:51:23.639603+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer / SDPO on DSV Navis ·  Deck DSV Chief Officer Chief Officer / SDPO DSV Navis Ship Management / Navis Crew Management $500 per month View Job 11 mi…",
+"url": "https://findseajobs.com/seajobs/478965.html",
+"source": "findseajobs.com",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "Chief Officer / SDPO",
+"vessel": "DSV",
+"salary": "$500",
+"company": "Chief Officer / SDPO on DSV Navis ·…"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-23T07:51:24.294899+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Second Officer / DPO on DSV Navis ·  Deck DSV Second Officer Second Officer / DPO DSV Navis Ship Management / Navis Crew Management $400 per month View Job 11 m…",
+"url": "https://findseajobs.com/seajobs/478966.html",
+"source": "findseajobs.com",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "2nd Officer / DPO",
+"vessel": "DSV",
+"salary": "$400",
+"company": "Second Officer / DPO on DSV Navis ·…"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-23T07:51:24.912580+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "DANAOS SHIPPING LTD",
+"url": "https://t.me/marinejobs/43848",
+"source": "Telegram: @marinejobs",
+"found": [
+"2nd off"
+],
+"fp": "fp-20835ab0a22fa540",
+"offshore": false,
+"info": {
+"rank": "2nd Officer / 3rd Officer / AB",
+"vessel": "Bulk carrier, Container",
+"salary": "s",
+"contract": "length: 4±1 months (Offic",
+"email": "danukr@danaos.od.ua",
+"company": "danaos.od.ua"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-23T07:02:43+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "AQUAMARINE SHIPPING LLC",
+"url": "https://t.me/crewingua/45088",
+"source": "Telegram: @crewingua",
+"found": [
+"chief officer",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-fc4b976a35470d24",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer / 3rd Officer",
+"vessel": "Suezmax",
+"joining": "URGENT",
+"email": "application@aquamarine-crew.com",
+"company": "aquamarine-crew.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": true,
+"time": "2026-11-23T07:10:04+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "AQUAMARINE SHIPPING LLC",
+"url": "https://t.me/crewingua/45090",
+"source": "Telegram: @crewingua",
+"found": [
+"chief officer"
+],
+"fp": "fp-e84e6732b461fcc8",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "LNG",
+"joining": "ASAP",
+"email": "application@aquamarine-crew.com",
+"company": "aquamarine-crew.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": true,
+"time": "2026-11-23T07:15:03+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "AQUAMARINE SHIPPING LLC",
+"url": "https://t.me/crewingua/45091",
+"source": "Telegram: @crewingua",
+"found": [
+"chief officer",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-5dfc37f5148786f5",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer / 3rd Officer",
+"email": "application@aquamarine-crew.com",
+"company": "aquamarine-crew.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": true,
+"time": "2026-11-23T07:16:06+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "2ND OFFICER / DPO – DSV",
+"url": "https://t.me/balticcareer/5967",
+"source": "Telegram: @balticcareer",
+"found": [
+"2nd officer",
+"dpo",
+"2nd off"
+],
+"fp": "fp-31404204f03cdae5",
+"offshore": true,
+"info": {
+"rank": "2nd Officer / DPO",
+"vessel": "DSV",
+"salary": "4,646 EUR / Month",
+"contract": "2 Weeks"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-23T07:41:22+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "CHIEF OFFICER – OIL TANKER",
+"url": "https://t.me/balticcareer/5971",
+"source": "Telegram: @balticcareer",
+"found": [
+"chief officer"
+],
+"fp": "fp-13b7fac11162883a",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Crude oil tanker",
+"salary": "11000 USD / month",
+"contract": "4 months (+/-1)"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-23T07:50:03+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Компания ООО «Борская судоходная компания» приглашает на работу:",
+"url": "https://t.me/rekamore_su/165918",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-b78efa551bfaa546",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"salary": "обсуждается при собеседовании",
+"joining": "СРОЧНАЯ , г. Городец, Нижегоро",
+"contract": "4 месяца",
+"email": "kadry@bsklogistic.ru",
+"company": "bsklogistic.ru"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-23T07:09:01+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Компания ООО «Смарт Шиппинг» приглашает на работу:",
+"url": "https://t.me/rekamore_su/165919",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-0d4c35648f3b6a62",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Tanker",
+"salary": "220 000 рублей",
+"joining": "срочная, в Астрахани",
+"email": "anastasya_afanaseva@mail.ru",
+"company": "ООО «Смарт Шиппинг»"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": true,
+"time": "2026-11-23T07:19:01+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Компания ООО \"Руссшип\" приглашает на работу:",
+"url": "https://t.me/rekamore_su/165920",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-7d1ec56ba39b8364",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"salary": "260 000 рублей",
+"email": "CREW@RUSSHIP.COM",
+"company": "rusship.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-23T07:48:01+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "MASTER, CHIEF OFFICER, CHIEF ENGINEER, SECOND ENGINEER",
+"url": "https://t.me/cvsenderseaman/16787",
+"source": "Telegram: @cvsenderseaman",
+"found": [
+"chief officer"
+],
+"fp": "fp-09dc9267a2e8489e",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Bulk carrier",
+"salary": "Negotiable",
+"joining": "ASAP",
+"email": "crewcv@treasg.com",
+"company": "treasg.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-23T07:36:15+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "URGENTLY!!!! We have multiple openings for Officers for VLCC for a reputable Greek company.",
+"url": "https://t.me/crs_vacancies/3594",
+"source": "Telegram: @crs_vacancies",
+"found": [
+"chief officer",
+"second officer"
+],
+"fp": "fp-d3f1b2594e58b639",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer",
+"vessel": "VLCC",
+"salary": "15.000 USD plus 1500 rejoining…",
+"joining": "as per your availability",
+"contract": "4 (+/-1) months",
+"email": "info@thalpis-crs.com",
+"company": "thalpis-crs.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": true,
+"time": "2026-11-23T07:05:23+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "URGENTLY!!!! We have multiple openings for Officers for",
+"url": "https://t.me/crs_vacancies/3595",
+"source": "Telegram: @crs_vacancies",
+"found": [
+"chief officer",
+"second officer"
+],
+"fp": "fp-c882c7a37c30c5a3",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer",
+"vessel": "Suezmax",
+"salary": "14.500 USD plus 1500 rejoining…",
+"joining": "as per your availability",
+"contract": "4 (+/-1) months",
+"email": "info@thalpis-crs.com",
+"company": "thalpis-crs.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": true,
+"time": "2026-11-23T07:10:57+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "URGENTLY!!!! We have multiple openings for  officers for bulk carriers (KAMSARMAX, PANAMAX, CAPE) for a reputable Greek company.",
+"url": "https://t.me/crs_vacancies/3596",
+"source": "Telegram: @crs_vacancies",
+"found": [
+"chief officer",
+"second officer"
+],
+"fp": "fp-081f892a10dc54a2",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer",
+"vessel": "Bulk carrier",
+"salary": "9.500- 10.000 USD/month + rb 7…",
+"joining": "as per your availability",
+"contract": "4 (+/-1) months",
+"email": "info@thalpis-crs.com",
+"company": "thalpis-crs.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": true,
+"time": "2026-11-23T07:11:34+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "URGENTLY!!!! We have multiple openings for Officers for",
+"url": "https://t.me/crs_vacancies/3597",
+"source": "Telegram: @crs_vacancies",
+"found": [
+"chief officer",
+"second officer"
+],
+"fp": "fp-0a17e6e7dabf5f31",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer",
+"vessel": "Aframax",
+"salary": "14.500 USD plus 2000 rejoining…",
+"joining": "as per your availability",
+"contract": "4 (+/-1) months",
+"email": "info@thalpis-crs.com",
+"company": "thalpis-crs.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": true,
+"time": "2026-11-23T07:12:39+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "URGENT / PERMANENT RECRUITMENT – FEEDER CONTAINER VESSELS",
+"url": "https://t.me/crs_vacancies/3598",
+"source": "Telegram: @crs_vacancies",
+"found": [
+"chief officer",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-f211670c483f79e0",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer",
+"vessel": "Container",
+"email": "info@thalpis-crs.com",
+"company": "thalpis-crs.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": true,
+"time": "2026-11-23T07:27:46+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "JOIN OUR TEAM…",
+"url": "https://t.me/crs_vacancies/3599",
+"source": "Telegram: @crs_vacancies",
+"found": [
+"chief officer"
+],
+"fp": "fp-4fe51f336e3ccbaf",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Bulk carrier",
+"salary": "USD 8,000/month",
+"joining": "5–10 December 2026",
+"email": "info@thalpis-crs.com",
+"company": "thalpis-crs.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-23T07:33:29+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-6761,
-6762,
-6763,
-6764,
-6765,
-6766,
-6767,
-6768,
-6769,
-6770,
-6771,
-6772,
-6773,
-6774,
-6775,
-6776
+6777,
+6778,
+6779,
+6780,
+6781,
+6782,
+6783,
+6784,
+6785,
+6786,
+6787,
+6788,
+6789,
+6790,
+6791,
+6792
 ],
-"last_list": "2026-11-23T07:01:37.921907+00:00",
-"cleared_upto": 6760,
-"last_msg_id": 6776
+"last_list": "2026-11-23T07:53:04.375680+00:00",
+"cleared_upto": 6776,
+"last_msg_id": 6792
 }
