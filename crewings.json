@@ -9582,7 +9582,7 @@
 "hr@bmflot.ru"
 ],
 "first": "2026-11-03",
-"last": "2026-11-20",
+"last": "2026-11-23",
 "links": {},
 "name": "",
 "off": 0,
@@ -9598,7 +9598,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 37,
+"total": 39,
 "vessels": [
 "Tanker"
 ],
@@ -52348,7 +52348,7 @@
 "hr@sovfracht.ru"
 ],
 "first": "2026-11-03",
-"last": "2026-11-11",
+"last": "2026-11-23",
 "links": {},
 "name": "АО «Совфрахт»",
 "off": 0,
@@ -52362,8 +52362,9 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 8,
+"total": 9,
 "vessels": [
+"Passenger",
 "Tanker"
 ],
 "website": ""
@@ -62263,7 +62264,7 @@
 "olive_crew": 2964,
 "onboard_su": 20851,
 "pervoemorskoe": 4540,
-"rekamore_su": 165923,
+"rekamore_su": 165926,
 "roster_marine": 1747,
 "seajobfinder": 42647,
 "seamenjob": 106593,
