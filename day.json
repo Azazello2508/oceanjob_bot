@@ -24,13 +24,33 @@
 "repeat": false,
 "time": "2026-11-22T20:43:28+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer on LNG",
+"url": "https://crewell.net/en/vacancies/467280/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "LNG"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-23T00:40:37.601003+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-6726,
-6727
+6728,
+6729,
+6730
 ],
-"last_list": "2026-11-22T21:19:11.037157+00:00",
-"cleared_upto": 6725,
-"last_msg_id": 6727
+"last_list": "2026-11-23T00:43:20.455727+00:00",
+"cleared_upto": 6727,
+"last_msg_id": 6730
 }

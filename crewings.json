@@ -24671,12 +24671,12 @@
 "vladlena@maritime-universal.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-22",
+"last": "2026-11-23",
 "links": {
 "crewell": "https://crewell.net/en/companies/352652/"
 },
 "name": "Global Maritime",
-"off": 12,
+"off": 13,
 "offshore_hint": false,
 "phones": [
 "+380739444940",
@@ -24690,10 +24690,11 @@
 "@job_for_seaman",
 "@marinejobs",
 "@maritimeforum",
+"@vesselsea",
 "crewell.net"
 ],
 "telegram": [],
-"total": 38,
+"total": 39,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -62213,7 +62214,7 @@
 "truemalina_offshore": 843,
 "ukrcrewing_official": 2395,
 "univis_crewing": 5041,
-"vesselsea": 3159,
+"vesselsea": 3161,
 "vshipsoffshore": 1070
 },
 "tg_low": {
