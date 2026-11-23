@@ -10535,6 +10535,46 @@
 "time": "2026-11-23T18:44:37.723231+00:00",
 "junior_dp": false,
 "dp_officer": false
+},
+{
+"uk": "",
+"title": "Master SDPO — AHTS DP2",
+"url": "https://seajobs.pro/jobs/master-sdpo-ahts-dp2-efd1ecc9-8f75-430d-bfda-672457d24412",
+"source": "seajobs.pro",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "SDPO",
+"vessel": "AHTS"
+},
+"company": "",
+"place": "",
+"new": true,
+"repeat": false,
+"time": "2026-11-23T19:04:26.020105+00:00"
+},
+{
+"uk": "",
+"title": "Position publishing service was stopped for the night.",
+"url": "https://t.me/marinecareerorg/17772",
+"source": "Telegram: @marinecareerorg",
+"found": [
+"chief officer",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-62513b498b8a7115",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer",
+"vessel": "Bulk carrier, Ro-Ro"
+},
+"company": "",
+"place": "",
+"new": true,
+"repeat": false,
+"time": "2026-11-23T19:00:20+00:00"
 }
 ],
 "msg_ids": [
