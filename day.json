@@ -43,14 +43,88 @@
 "repeat": false,
 "time": "2026-11-23T00:40:37.601003+00:00",
 "junior_dp": false
+},
+{
+"uk": "",
+"title": "Marine Crewing Agency Everest",
+"url": "https://t.me/onboard_su/20848",
+"source": "Telegram: @onboard_su",
+"found": [],
+"fp": "fp-404b11bd8ecc1821",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Chemical tanker, Crude oil tanker",
+"salary": "График работы: 3 недели / 3 не…",
+"contract": "от 1 года с последующим п",
+"company": "Marine Crewing Agency Everest"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": true,
+"time": "2026-11-23T03:49:47+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Компания ООО \"Легаси Марин\" приглашает на работу:",
+"url": "https://t.me/rekamore_su/165855",
+"source": "Telegram: @rekamore_su",
+"found": [
+"chief officer",
+"старший помощник"
+],
+"fp": "fp-04cff8f8196405d5",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 3rd Officer / AB",
+"vessel": "Aframax",
+"salary": "11 300 USD",
+"contract": "4 + 1 месяц",
+"email": "crew.cv@legacymarine.ru",
+"company": "legacymarine.ru"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": true,
+"time": "2026-11-23T04:12:04+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Компания ООО «Смарт Шиппинг» приглашает на работу:",
+"url": "https://t.me/rekamore_su/165858",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-a3ed5e2a93a97797",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Tanker",
+"salary": "220 000 рублей",
+"joining": "в Темрюке в начале декабря",
+"email": "anastasya_afanaseva@mail.ru",
+"company": "ООО «Смарт Шиппинг»"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": true,
+"time": "2026-11-23T04:20:05+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-6728,
-6729,
-6730
+6731,
+6732,
+6733,
+6734
 ],
-"last_list": "2026-11-23T00:43:20.455727+00:00",
-"cleared_upto": 6727,
-"last_msg_id": 6730
+"last_list": "2026-11-23T04:26:35.675151+00:00",
+"cleared_upto": 6730,
+"last_msg_id": 6734
 }
