@@ -4645,30 +4645,941 @@
 "time": "2026-11-23T10:08:55+00:00",
 "junior_dp": false,
 "dp_officer": false
+},
+{
+"uk": "",
+"title": "2nd Officer on Crude oil tanker",
+"url": "https://crewell.net/en/vacancies/467412/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Crude oil tanker"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-23T11:00:23.881268+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Chief Officer on Crude oil tanker",
+"url": "https://crewell.net/en/vacancies/467409/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Crude oil tanker"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-23T11:00:24.569142+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/371034",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-23T11:00:26.642389+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "2nd Officers / DPOs for CSOV",
+"url": "https://oceancrew.org/vacancies/offshore/dpo/2nd-officers-dpos-for-csov_23-11-2026",
+"source": "oceancrew.org",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "2nd Officer / DPO"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-23T11:01:15.413067+00:00",
+"junior_dp": false,
+"dp_officer": true
+},
+{
+"uk": "",
+"title": "3rd Officers / DPOs for CSOV",
+"url": "https://oceancrew.org/vacancies/offshore/dpo/3rd-officers-dpos-for-csov_23-11-2026",
+"source": "oceancrew.org",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "3rd Officer / DPO"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-23T11:01:17.057867+00:00",
+"junior_dp": false,
+"dp_officer": true
+},
+{
+"uk": "",
+"title": "Chief Officer for CSOV",
+"url": "https://oceancrew.org/vacancies/offshore/chief-officer/chief-officer-for-csov-4_23-11-2026",
+"source": "oceancrew.org",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "Chief Officer"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-23T11:01:18.762131+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "URGENT! OOW - MV MAZARINE  (CLDN)",
+"url": "https://crewing.portalmorski.pl/en/sea-jobs/2off-mv-mazarine-cldn-asap/",
+"source": "portalmorski.pl",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-23T11:01:49.621781+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "2nd Officer for Barge",
+"url": "https://balticcareer.eu/jobs/2nd-officer-for-barge/",
+"source": "balticcareer.eu",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Barge"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-23T11:02:39.755848+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Chief Officer for Bulk Carrier",
+"url": "https://balticcareer.eu/jobs/chief-officer-for-bulk-carrier-40/",
+"source": "balticcareer.eu",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Bulk carrier"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-23T11:02:39.970134+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "2nd Officer for Container Ship",
+"url": "https://balticcareer.eu/jobs/2nd-officer-for-container-ship-5/",
+"source": "balticcareer.eu",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Container"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-23T11:02:40.183671+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "2nd Officer for Oil Tanker",
+"url": "https://balticcareer.eu/jobs/2nd-officer-for-oil-tanker-6/",
+"source": "balticcareer.eu",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Tanker"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-23T11:02:40.402072+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Third Officer (Oficial de Quarto de Convés - DPO) - II/1 - SHUTTLE TANKER - MISC MARINE · MISC Group · Rio de Janeiro, Brazil",
+"url": "https://www.linkedin.com/jobs/view/4416166403",
+"source": "LinkedIn",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "3rd Officer / DPO",
+"vessel": "Tanker",
+"company": "Third Officer (Oficial de Quarto de…"
+},
+"company": "MISC Group",
+"place": "Rio de Janeiro, Brazil",
+"new": false,
+"repeat": false,
+"time": "2026-11-23T11:03:03.124801+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "ONLY UKRAINIAN NATIONALITY",
+"url": "https://t.me/maritimeforum/259467",
+"source": "Telegram: @maritimeforum",
+"found": [],
+"fp": "fp-79dec3d5dcac8d28",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Chemical tanker",
+"joining": "ASAP",
+"email": "ua-csc-ode-man@bs-shipmanagement.com",
+"company": "bs-shipmanagement.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-23T10:20:54+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Vacancy Code 02.7",
+"url": "https://t.me/maritimeforum/259477",
+"source": "Telegram: @maritimeforum",
+"found": [
+"dpo",
+"2nd off"
+],
+"fp": "fp-f97306e0d8a4e89b",
+"offshore": true,
+"info": {
+"rank": "2nd Officer / 3rd Officer / DPO",
+"vessel": "PSV, MPSV",
+"salary": "s – 240 EUR per day",
+"joining": "9th of December",
+"contract": "6 weeks",
+"email": "crew@navis.eu",
+"company": "navis.eu"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-23T10:25:57+00:00",
+"junior_dp": false,
+"dp_officer": true
+},
+{
+"uk": "",
+"title": "Vacancy Code 02.1",
+"url": "https://t.me/maritimeforum/259478",
+"source": "Telegram: @maritimeforum",
+"found": [
+"jdpo",
+"dpo",
+"jdpo",
+"2nd off"
+],
+"fp": "fp-66cb7128e2e93372",
+"offshore": true,
+"info": {
+"rank": "2nd Officer / JDPO / 3rd Officer",
+"vessel": "PSV, MPSV",
+"salary": "s – 180 EUR per day",
+"joining": "9th of December",
+"contract": "6 weeks",
+"email": "crew@navis.eu",
+"company": "navis.eu"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-23T10:26:04+00:00",
+"junior_dp": true,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "WEEKLY OPENINGS #48",
+"url": "https://t.me/maritimeforum/259482",
+"source": "Telegram: @maritimeforum",
+"found": [],
+"fp": "fp-772f9c27c4e1a250",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "LPG, Chemical tanker",
+"salary": "8.500 EUR",
+"email": "cv@tbc-shipmanagement.com",
+"company": "tbc-shipmanagement.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-23T10:26:37+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "2nd Officer",
+"url": "https://t.me/maritimeforum/259486",
+"source": "Telegram: @maritimeforum",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-3aa1ddce7c2f5223",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Bulk carrier",
+"contract": "4 months",
+"salary": "$4,000\n",
+"email": "application@intercrewing.com",
+"company": "intercrewing.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-23T10:40:01+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://t.me/maritimeforum/259490",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-1f370c6ed067bf89",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Bulk carrier",
+"contract": "5 months",
+"salary": "$8,000\n",
+"email": "crewing@smacrewing.com",
+"company": "smacrewing.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-23T10:40:25+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "2nd Officer",
+"url": "https://t.me/maritimeforum/259492",
+"source": "Telegram: @maritimeforum",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-d4db08118e5a47a7",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Tanker",
+"contract": "1 month",
+"salary": "$4,800\n",
+"email": "cv@tenetmarine.com.ua",
+"company": "tenetmarine.com.ua"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-23T10:40:36+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://t.me/maritimeforum/259494",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-6da0125a9b694882",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Bulk carrier",
+"contract": "4 months",
+"salary": "$7,500\n",
+"email": "cv@ojcrew.com",
+"company": "ojcrew.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-23T10:40:48+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "DECKHAND | JACK-UP VESSEL | SPAIN",
+"url": "https://t.me/maritimeforum/259506",
+"source": "Telegram: @maritimeforum",
+"found": [
+"2nd officer",
+"sdpo",
+"dpo",
+"2nd off"
+],
+"fp": "fp-8df9350e5d60bc21",
+"offshore": true,
+"info": {
+"rank": "AB",
+"vessel": "Jack-up",
+"joining": "1 December 2026",
+"contract": "6 weeks on / 6 weeks off",
+"email": "jrocko@atlasnextwave.com",
+"company": "atlasnextwave.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-23T10:42:13+00:00",
+"junior_dp": false,
+"dp_officer": true
+},
+{
+"uk": "",
+"title": "Seafarer vacancies",
+"url": "https://t.me/maritimeforum/259507",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-71ccdd3ea85d5bb4",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / AB",
+"vessel": "LPG, Bulk carrier",
+"contract": "s in rank on same vessel",
+"salary": "7,000 €",
+"email": "cv@admiral-cm.com",
+"company": "admiral-cm.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-23T10:43:04+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Chief Officer Wanted – Oil/Chemical Tanker",
+"url": "https://t.me/marinejobs/43889",
+"source": "Telegram: @marinejobs",
+"found": [
+"chief officer"
+],
+"fp": "fp-f08f2d2592cba726",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Chemical tanker",
+"joining": "ASAP",
+"email": "ua-csc-ode-man@bs-shipmanagement.com",
+"company": "bs-shipmanagement.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-23T10:39:11+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "CAPTAIN - Cat 83ft - Spain",
+"url": "https://t.me/seamenjob/106609",
+"source": "Telegram: @seamenjob",
+"found": [],
+"fp": "fp-7e9d0bd3bd23b79c",
+"offshore": false,
+"info": {
+"salary": "of €7,000 per month, depending…",
+"email": "Crew@diyachting.co.uk",
+"company": "diyachting.co.uk"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-23T11:00:42+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "CHIEF ENGINEER",
+"url": "https://t.me/job_for_seaman/17118",
+"source": "Telegram: @job_for_seaman",
+"found": [
+"chief officer"
+],
+"fp": "fp-fe23e55f1cc4ce6c",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "LPG, Bulk carrier",
+"joining": "26.11.2026 | 3 months",
+"contract": "s in rank & on same vesse",
+"salary": "7,000 €",
+"email": "cv@admiral-cm.com",
+"company": "admiral-cm.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-23T10:14:39+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "2ND OFFICER – BARGE",
+"url": "https://t.me/balticcareer/5984",
+"source": "Telegram: @balticcareer",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-90c90b79750d998d",
+"offshore": false,
+"info": {
+"rank": "2nd Officer / 3rd Officer",
+"vessel": "Barge",
+"salary": "4200 EUR / month",
+"contract": "2 months"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-23T10:16:28+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "CHIEF OFFICER – BULK CARRIER",
+"url": "https://t.me/balticcareer/5987",
+"source": "Telegram: @balticcareer",
+"found": [
+"chief officer"
+],
+"fp": "fp-1068ad66d00db68b",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Bulk carrier",
+"salary": "8000 USD / month",
+"contract": "4 months +/-1"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-23T10:25:58+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "2ND OFFICER – CONTAINER SHIP",
+"url": "https://t.me/balticcareer/5993",
+"source": "Telegram: @balticcareer",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-f726f3af87a41ef1",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Container, Ro-Ro",
+"salary": "4140 EUR / month",
+"contract": "10 weeks +/-1 month"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-23T10:42:17+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "2/O – OIL TANKER",
+"url": "https://t.me/balticcareer/6003",
+"source": "Telegram: @balticcareer",
+"found": [
+"2/o"
+],
+"fp": "fp-ff2ad49707860ce8",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Tanker",
+"salary": "2825 GBP / month",
+"contract": "6 weeks on/off (+ 5-6 day"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-23T11:00:56+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://t.me/olive_crew/2967",
+"source": "Telegram: @olive_crew",
+"found": [
+"chief officer"
+],
+"fp": "fp-fbd9db4d1a1bde18",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo",
+"contract": "4 +/- 1",
+"email": "apply@olivecrew.com",
+"tg": "Elyzaveta_OliveCrew",
+"company": "olivecrew.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-23T11:01:01+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "2nd Officer – ASD Tug",
+"url": "https://t.me/offshoreatsea/25646",
+"source": "Telegram: @offshoreatsea",
+"found": [
+"chief mate",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-2cb74a021735b1e5",
+"offshore": true,
+"info": {
+"rank": "Chief Officer / 2nd Officer",
+"vessel": "Tug",
+"contract": "3 +/- 1 months ON / 1 mon",
+"email": "crewing@marpocrew.com.ua",
+"company": "marpocrew.com.ua"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-23T10:39:38+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "3rd Officer/DPO",
+"url": "https://t.me/offshoreatsea/25652",
+"source": "Telegram: @offshoreatsea",
+"found": [
+"jdpo",
+"dpo",
+"jdpo"
+],
+"fp": "fp-8734d2a720d8e163",
+"offshore": true,
+"info": {
+"rank": "JDPO / 3rd Officer",
+"vessel": "PSV, MPSV",
+"salary": "240 EUR per day",
+"contract": "6 weeks",
+"email": "vovk@navis.eu",
+"company": "navis.eu"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-23T10:40:00+00:00",
+"junior_dp": true,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Second Officer DPO",
+"url": "https://t.me/offshoreatsea/25653",
+"source": "Telegram: @offshoreatsea",
+"found": [
+"second officer",
+"dpo"
+],
+"fp": "fp-96051a9cef7ca960",
+"offshore": true,
+"info": {
+"rank": "2nd Officer / DPO",
+"vessel": "PSV",
+"contract": "2 months on / 2 months of",
+"email": "o.temireva@tospeople.com",
+"company": "tospeople.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-23T10:40:02+00:00",
+"junior_dp": false,
+"dp_officer": true
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://t.me/offshoreatsea/25655",
+"source": "Telegram: @offshoreatsea",
+"found": [
+"chief officer",
+"sdpo",
+"dpo"
+],
+"fp": "fp-66471f26dc60378f",
+"offshore": true,
+"info": {
+"rank": "Chief Officer / SDPO",
+"vessel": "DSV",
+"email": "mab@hightiideship.com",
+"company": "hightiideship.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-23T10:40:08+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "2nd Officer",
+"url": "https://t.me/offshoreatsea/25656",
+"source": "Telegram: @offshoreatsea",
+"found": [
+"2nd officer",
+"dpo",
+"2nd off"
+],
+"fp": "fp-8832a26020883dfa",
+"offshore": true,
+"info": {
+"rank": "2nd Officer / DPO",
+"vessel": "DSV",
+"email": "mab@hightiideship.com",
+"company": "hightiideship.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-23T10:40:10+00:00",
+"junior_dp": false,
+"dp_officer": true
+},
+{
+"uk": "",
+"title": "Chief Mate",
+"url": "https://t.me/offshoreatsea/25658",
+"source": "Telegram: @offshoreatsea",
+"found": [
+"chief mate"
+],
+"fp": "fp-de34a16f591c247f",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Tug, Dredger",
+"salary": "300–350 EUR per day net",
+"contract": "6 weeks",
+"email": "croatia@orca-crew.com",
+"company": "orca-crew.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-23T10:40:15+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "CHIEF OFFICER",
+"url": "https://t.me/cvsenderseaman/16818",
+"source": "Telegram: @cvsenderseaman",
+"found": [
+"chief officer"
+],
+"fp": "fp-6bfc8d1a7e3914fc",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Tug, Dredger",
+"salary": "300–350 EUR per day net",
+"joining": "ASAP",
+"contract": "6 weeks",
+"email": "croatia@orca-crew.com",
+"company": "orca-crew.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-23T10:56:55+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "3RD OFFICER/DPO",
+"url": "https://t.me/cvsenderseaman/16819",
+"source": "Telegram: @cvsenderseaman",
+"found": [
+"dpo"
+],
+"fp": "fp-1ebc15fea26927b2",
+"offshore": true,
+"info": {
+"rank": "3rd Officer / DPO",
+"vessel": "PSV, MPSV",
+"salary": "240 EUR per day",
+"joining": "ASAP",
+"contract": "6 weeks",
+"email": "vovk@navis.eu",
+"company": "navis.eu"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-23T11:02:55+00:00",
+"junior_dp": false,
+"dp_officer": true
 }
 ],
 "msg_ids": [
-6846,
-6847,
-6848,
-6849,
-6850,
-6851,
-6852,
-6853,
-6854,
-6855,
-6856,
-6857,
-6858,
-6859,
-6860,
-6861,
-6862,
-6863,
-6864
+6865,
+6866,
+6867,
+6868,
+6869,
+6870,
+6871,
+6872,
+6873,
+6874,
+6875,
+6876,
+6877,
+6878,
+6879,
+6880,
+6881,
+6882,
+6883,
+6884,
+6885,
+6886
 ],
-"last_list": "2026-11-23T10:12:15.181652+00:00",
-"cleared_upto": 6845,
-"last_msg_id": 6864
+"last_list": "2026-11-23T11:04:09.446223+00:00",
+"cleared_upto": 6864,
+"last_msg_id": 6886
 }
