@@ -418,11 +418,12 @@ def get_site(name):
 
 
 # ---------- LinkedIn ----------
-# Открытая страница поиска вакансий LinkedIn (без входа в аккаунт), вакансии за последние сутки, весь мир.
+# Открытая страница поиска вакансий LinkedIn (без входа в аккаунт), вакансии за последнюю неделю, весь мир.
 # LinkedIn может не отвечать серверам GitHub — тогда источник просто пропускается.
 LINKEDIN_URL = "https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search"
-LINKEDIN_QUERIES = ["Chief Mate", "Dynamic Positioning Operator", "DPO offshore vessel", "JDPO",
-                    "Second Officer vessel", "Junior DPO", "DP Trainee", "DP Basic", "DP Induction"]
+LINKEDIN_QUERIES = ['"2nd Officer" offshore', '"Second Officer" vessel', '"Chief Mate" offshore',
+                    '"Chief Officer" offshore vessel', '"Second Mate" DP', 'deck officer DP vessel offshore',
+                    '"Junior DPO"', '"Dynamic Positioning Officer"']   # проверено 23.11.2026: эти дают морские вакансии
 # DP Basic / Induction / Trainee часто написаны не в названии, а внутри вакансии. Поэтому у палубных
 # вакансий с неподходящим названием бот открывает описание и ищет там эти слова (понемногу за проверку).
 LINKEDIN_JOB_URL = "https://www.linkedin.com/jobs-guest/jobs/api/jobPosting/"
@@ -504,7 +505,7 @@ def get_linkedin():
             time.sleep(2)   # не частим
         r = requests.get(LINKEDIN_URL, headers=HEADERS, timeout=30,
                          params={"keywords": q, "location": "Worldwide", "geoId": "92000000",
-                                 "f_TPR": "r86400", "start": 0})
+                                 "f_TPR": "r604800", "sortBy": "DD", "start": 0})   # за неделю, новые сверху
         if r.status_code != 200:
             errors.append(str(r.status_code))
             continue
