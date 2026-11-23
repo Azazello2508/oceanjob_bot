@@ -453,10 +453,17 @@ LINKEDIN_MARINE_RE = re.compile(r"stcw|vessel|\bships?\b|shipboard|seafar|\bcoc\
                                 r"maritime|\bmarine\b|nautical|bridge watch|\bdp[123]?\b|tanker|bulk carrier|cargo", re.I)
 
 
-def linkedin_is_marine(job_id, state):
-    """True/False — морская ли вакансия по описанию; None — проверить сейчас не удалось (попробуем позже)."""
-    if job_id in state["marine"]:
-        return state["marine"][job_id]
+# Слова в описании, по которым вакансия считается оффшорной / с DP
+LINKEDIN_OFFSHORE_RE = re.compile(r"\boffshore\b|\bpsv\b|\bahts\b|\bosv\b|\bmpsv\b|\bdsv\b|\bc?sov\b|\bdp[ -]?[123]\b|"
+                                  r"dynamic positioning|\bs?dpo\b|anchor handling|subsea|wind ?farm|jack-?up|"
+                                  r"drill ?ship|\bfpso\b|pipe ?lay|cable ?lay|walk to work|\bw2w\b", re.I)
+
+
+def linkedin_kind(job_id, state):
+    """По описанию вакансии: 'o' — оффшор/DP, 'm' — морская, но не оффшор, '' — не морская.
+    None — проверить сейчас не удалось (попробуем в следующую проверку)."""
+    if job_id in state["kind"]:
+        return state["kind"][job_id]
     if state["left"] <= 0:
         return None
     state["left"] -= 1
@@ -466,8 +473,10 @@ def linkedin_is_marine(job_id, state):
         state["left"] = 0
         return None
     text = BeautifulSoup(r.text, "html.parser").get_text(" ", strip=True)
-    state["marine"][job_id] = bool(LINKEDIN_MARINE_RE.search(text))
-    return state["marine"][job_id]
+    state["kind"][job_id] = "o" if LINKEDIN_OFFSHORE_RE.search(text) else "m" if LINKEDIN_MARINE_RE.search(text) else ""
+    return state["kind"][job_id]
+
+
 # «DPO» на LinkedIn — чаще всего Data Protection Officer, такие вакансии отбрасываем
 LINKEDIN_SKIP_RE = re.compile(r"data protection|privacy|gdpr|datenschutz|donn[ée]es|legal|compliance|lawyer"
                               r"|airline|aircraft|aviation|pilot|flight|airbus|boeing", re.I)   # и лётные «First/Second Officer»
@@ -488,8 +497,8 @@ def get_linkedin():
     except Exception:
         saved = []
     if isinstance(saved, list):          # старый формат файла — просто список
-        saved = {"checked": saved, "marine": {}}
-    state = {"checked": saved.get("checked", []), "marine": saved.get("marine", {}), "left": LINKEDIN_DEEP_PER_RUN}
+        saved = {"checked": saved}
+    state = {"checked": saved.get("checked", []), "kind": saved.get("kind", {}), "left": LINKEDIN_DEEP_PER_RUN}
     for n, q in enumerate(LINKEDIN_QUERIES):
         if n:
             time.sleep(2)   # не частим
@@ -526,17 +535,21 @@ def get_linkedin():
                 if not hit:
                     continue
                 title += f" ({hit.upper().replace('BASIC', 'Basic').replace('INDUCTION', 'Induction').replace('TRAINEE', 'Trainee')} — в описании)"
-            # Должность названа неоднозначно (просто «DPO», «CO») — берём, только если рядом есть морское слово
-            elif not any(w in title.lower() for w in LINKEDIN_SURE + JUNIOR_DP_WORDS) \
-                    and not any(w in where for w in MARINE_WORDS):
-                if "dpo" in title.lower() and not re.search(r"officer|mate", title, re.I):
-                    continue                     # голое «DPO» без морских слов — почти всегда защита данных
+            # Раздел LinkedIn — только DP и оффшор. Обычные Chief Mate / Second Officer торгового
+            # и круизного флота не берём.
+            low_t = title.lower()
+            dp_title = bool(is_junior_dp(title) or re.search(r"dynamic position|dp operator|\bdp[ -]?[123]\b", low_t)
+                            or ("dpo" in low_t and (re.search(r"officer|mate", low_t)
+                                                    or any(w in where for w in MARINE_WORDS))))
+            if "dpo" in low_t and not dp_title:
+                continue                         # голое «DPO» без морских слов — почти всегда защита данных
+            if not dp_title and not is_offshore(title + " " + company):
                 try:
-                    marine = linkedin_is_marine(m.group(1), state)
+                    kind = linkedin_kind(m.group(1), state)   # смотрим описание вакансии
                 except Exception as e:
                     print(f"LinkedIn: не открылось описание {m.group(1)}: {e}")
-                    marine = None
-                if not marine:
+                    kind = None
+                if kind != "o":
                     continue
             # В справочник крюингов идут компании только с нужными должностями — теми же, что в списке
             if company:
@@ -551,7 +564,7 @@ def get_linkedin():
     try:
         LINKEDIN_CHECKED_FILE.write_text(json.dumps({
             "checked": state["checked"][-3000:],
-            "marine": dict(list(state["marine"].items())[-3000:])}))
+            "kind": dict(list(state["kind"].items())[-3000:])}))
     except Exception as e:
         print(f"LinkedIn: не сохранил список проверенных описаний: {e}")
     if len(errors) == len(LINKEDIN_QUERIES):
@@ -730,6 +743,16 @@ JUNIOR_DP_WORDS = ["jdpo", "junior dpo", "jr dpo", "jr. dpo", "trainee dpo", "dp
 def is_junior_dp(text):
     t = text.lower()
     return any(w in t for w in JUNIOR_DP_WORDS)
+
+
+DP_OFFICER_RANK_RE = re.compile(r"\b(2nd|second|3rd|third|2/o|3/o|2o|3o|2off|3off|oow)\b|"
+                                r"второй помощник|2-й помощник|третий помощник|3-й помощник|вахтенный помощник", re.I)
+DP_WORD_RE = re.compile(r"\bs?dpo\b|\bdp\b|\bdp[ -]?[123]\b|dynamic position", re.I)
+
+
+def is_dp_officer(text):
+    """2-й/3-й помощник на DP-судне: вакансии, на которые можно пробовать подаваться с DP Induction."""
+    return bool(DP_OFFICER_RANK_RE.search(text) and DP_WORD_RE.search(text))
 
 
 def is_offshore(text):
@@ -989,13 +1012,19 @@ def render(day):
     uk = sorted([j for j in others if j.get("uk")], key=order)
     plain = [j for j in others if not j.get("uk")]   # UK-вакансии показываем отдельным разделом
     jdp = sorted([j for j in plain if j["junior_dp"]], key=order)
-    off = sorted([j for j in plain if j["offshore"] and not j["junior_dp"]], key=order)
-    rest = sorted([j for j in plain if not j["offshore"] and not j["junior_dp"]], key=order)
+    for j in plain:
+        j["dp_officer"] = not j["junior_dp"] and is_dp_officer(
+            j["title"] + " " + " ".join(j.get("found") or []) + " " + (j.get("info") or {}).get("rank", ""))
+    dpo = sorted([j for j in plain if j["dp_officer"]], key=order)
+    special = lambda j: j["junior_dp"] or j["dp_officer"]
+    off = sorted([j for j in plain if j["offshore"] and not special(j)], key=order)
+    rest = sorted([j for j in plain if not j["offshore"] and not special(j)], key=order)
     n_new = sum(j["new"] for j in day["jobs"])
     head = (f"📋 <b>Вакансии за {day['date'][8:10]}.{day['date'][5:7]}</b>\n"
             f"Всего: <b>{len(day['jobs'])}</b>" + (f" · 🆕 новых: <b>{n_new}</b>" if n_new else "") + "\n"
             + (f"🇬🇧 UK Work Permit: {len(uk)} · " if uk else "")
             + (f"🎓 JDPO / DP: {len(jdp)} · " if jdp else "")
+            + (f"🎯 Помощники на DP-судах: {len(dpo)} · " if dpo else "")
             + (f"🔗 LinkedIn: {len(lin)} · " if lin else "")
             + f"🛢 Оффшор: {len(off)} · 🚢 Торговый флот: {len(rest)}\n"
             f"(обновлено в {datetime.now(LOCAL_TZ):%H:%M})\n")
@@ -1036,6 +1065,8 @@ def render(day):
         sections.append(("🇬🇧 UK WORK PERMIT / ВИЗА UK", uk))
     if jdp:
         sections.append(("🎓 JDPO / DP TRAINEE / DP BASIC", jdp))
+    if dpo:
+        sections.append(("🎯 2nd/3rd OFFICER НА DP-СУДАХ", dpo))
     if lin:
         sections.append(("🔗 LINKEDIN", lin))
     if off:
