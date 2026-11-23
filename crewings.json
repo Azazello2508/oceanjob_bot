@@ -13083,7 +13083,7 @@
 "csm-ua.com": {
 "address": "3 Sabanskiy Lane, Office 11n",
 "city": "Odessa",
-"co": 133,
+"co": 134,
 "country": "Ukraine",
 "emails": [
 "cv@csm-idn.com",
@@ -13094,12 +13094,12 @@
 "t.kobzar@csm-ua.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-22",
+"last": "2026-11-23",
 "links": {
 "crewell": "https://crewell.net/en/companies/262765/"
 },
 "name": "COLUMBIA Shipmanagement",
-"off": 79,
+"off": 80,
 "offshore_hint": true,
 "phones": [
 "+380503241376",
@@ -13129,7 +13129,7 @@
 "telegram": [
 "@sitelia_world"
 ],
-"total": 311,
+"total": 312,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -13973,7 +13973,7 @@
 "dept.crew@gmail.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-20",
+"last": "2026-11-23",
 "links": {},
 "name": "",
 "off": 0,
@@ -13982,12 +13982,12 @@
 "+38097111632",
 "+380971116323"
 ],
-"so": 12,
+"so": 13,
 "sources": [
 "@crewingua"
 ],
 "telegram": [],
-"total": 56,
+"total": 57,
 "vessels": [
 "Bulk",
 "General cargo"
@@ -43370,7 +43370,7 @@
 "north-alliance.com": {
 "address": "",
 "city": "",
-"co": 38,
+"co": 40,
 "country": "",
 "emails": [
 "vacancy@north-alliance.com"
@@ -43391,7 +43391,7 @@
 "@vesselsea"
 ],
 "telegram": [],
-"total": 143,
+"total": 145,
 "vessels": [
 "Offshore",
 "Passenger",
@@ -62235,7 +62235,7 @@
 "allcrewing": 3825,
 "andreeyVstart": 1425,
 "balticcareer": 5975,
-"crewingua": 45091,
+"crewingua": 45092,
 "crs_vacancies": 3599,
 "cruiseshipjobs": 8,
 "cvcrewcom": 12904,
@@ -62254,7 +62254,7 @@
 "marineman_ltd": 48449,
 "maritimeforum": 259368,
 "merchantNavyrealjob": 265,
-"morehod_ru": 31201,
+"morehod_ru": 31202,
 "oceancrewjobs": 32941,
 "offshoreatsea": 25624,
 "offshorecv": 1618,
@@ -62263,10 +62263,10 @@
 "olive_crew": 2964,
 "onboard_su": 20851,
 "pervoemorskoe": 4540,
-"rekamore_su": 165922,
+"rekamore_su": 165923,
 "roster_marine": 1747,
 "seajobfinder": 42647,
-"seamenjob": 106592,
+"seamenjob": 106593,
 "seamenvacancy": 1393,
 "seavacancies": 25275,
 "shipjobsindia": 420,

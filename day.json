@@ -2676,9 +2676,10 @@
 },
 "company": "",
 "place": "",
-"new": true,
+"new": false,
 "repeat": false,
-"time": "2026-11-23T08:09:28.804429+00:00"
+"time": "2026-11-23T08:09:28.804429+00:00",
+"junior_dp": false
 },
 {
 "uk": "",
@@ -2694,9 +2695,10 @@
 },
 "company": "",
 "place": "",
-"new": true,
+"new": false,
 "repeat": false,
-"time": "2026-11-23T08:09:29.504528+00:00"
+"time": "2026-11-23T08:09:29.504528+00:00",
+"junior_dp": false
 },
 {
 "uk": "",
@@ -2712,9 +2714,10 @@
 },
 "company": "",
 "place": "",
-"new": true,
+"new": false,
 "repeat": false,
-"time": "2026-11-23T08:09:30.169298+00:00"
+"time": "2026-11-23T08:09:30.169298+00:00",
+"junior_dp": false
 },
 {
 "uk": "",
@@ -2730,9 +2733,10 @@
 },
 "company": "",
 "place": "",
-"new": true,
+"new": false,
 "repeat": false,
-"time": "2026-11-23T08:09:30.854736+00:00"
+"time": "2026-11-23T08:09:30.854736+00:00",
+"junior_dp": false
 },
 {
 "uk": "",
@@ -2748,9 +2752,10 @@
 },
 "company": "",
 "place": "",
-"new": true,
+"new": false,
 "repeat": false,
-"time": "2026-11-23T08:09:31.525929+00:00"
+"time": "2026-11-23T08:09:31.525929+00:00",
+"junior_dp": false
 },
 {
 "uk": "",
@@ -2766,9 +2771,10 @@
 },
 "company": "",
 "place": "",
-"new": true,
+"new": false,
 "repeat": false,
-"time": "2026-11-23T08:09:32.205316+00:00"
+"time": "2026-11-23T08:09:32.205316+00:00",
+"junior_dp": false
 },
 {
 "uk": "",
@@ -2783,9 +2789,10 @@
 },
 "company": "",
 "place": "",
-"new": true,
+"new": false,
 "repeat": false,
-"time": "2026-11-23T08:09:34.314507+00:00"
+"time": "2026-11-23T08:09:34.314507+00:00",
+"junior_dp": false
 },
 {
 "uk": "",
@@ -2805,9 +2812,10 @@
 },
 "company": "",
 "place": "",
-"new": true,
+"new": false,
 "repeat": false,
-"time": "2026-11-23T07:54:12+00:00"
+"time": "2026-11-23T07:54:12+00:00",
+"junior_dp": false
 },
 {
 "uk": "",
@@ -2831,30 +2839,160 @@
 },
 "company": "",
 "place": "",
-"new": true,
+"new": false,
 "repeat": false,
-"time": "2026-11-23T07:54:24+00:00"
+"time": "2026-11-23T07:54:24+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer on Crude oil tanker",
+"url": "https://crewell.net/en/vacancies/467335/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Crude oil tanker"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-23T08:16:57.767554+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer on Crude oil tanker",
+"url": "https://crewell.net/en/vacancies/467336/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Crude oil tanker"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-23T08:16:58.463206+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer on Crude oil tanker",
+"url": "https://crewell.net/en/vacancies/467340/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Crude oil tanker"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-23T08:16:59.145581+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "General  Cargo/YB 2012/4500dwt",
+"url": "https://t.me/crewingua/45092",
+"source": "Telegram: @crewingua",
+"found": [
+"2/o"
+],
+"fp": "fp-d9c05320eccf328c",
+"offshore": false,
+"info": {
+"rank": "2nd Officer / 3rd Officer / AB",
+"salary": "5100Eur",
+"email": "dept.crew@gmail.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": true,
+"time": "2026-11-23T08:13:03+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "URGENT | AHTS DP2 |",
+"url": "https://t.me/seamenjob/106593",
+"source": "Telegram: @seamenjob",
+"found": [
+"chief officer"
+],
+"fp": "fp-935ce958609e27bb",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "AHTS",
+"email": "forcv@csm-ua.com",
+"company": "csm-ua.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": true,
+"time": "2026-11-23T08:16:09+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Компания “Северный Альянс” приглашает на работу:",
+"url": "https://t.me/rekamore_su/165923",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-f0e83213ca5c250f",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / AB",
+"vessel": "Tug",
+"salary": "396 900 р. (на руки)",
+"joining": "СРОЧНАЯ (Турция переход в Маро",
+"email": "vacancy@north-alliance.com",
+"company": "north-alliance.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-23T08:17:02+00:00",
+"junior_dp": false
 }
 ],
 "msg_ids": [
-6777,
-6778,
-6779,
-6780,
-6781,
-6782,
-6783,
-6784,
-6785,
-6786,
-6787,
-6788,
-6789,
-6790,
-6791,
-6792
+6793,
+6794,
+6795,
+6796,
+6797,
+6798,
+6799,
+6800,
+6801,
+6802,
+6803,
+6804,
+6805,
+6806,
+6807,
+6808,
+6809,
+6810
 ],
-"last_list": "2026-11-23T07:53:04.375680+00:00",
-"cleared_upto": 6776,
-"last_msg_id": 6792
+"last_list": "2026-11-23T08:20:52.691188+00:00",
+"cleared_upto": 6792,
+"last_msg_id": 6810
 }
