@@ -358,6 +358,12 @@ SITES = {
         "base": "https://deltamarinecrewing.nl",
         "offshore": True,
     },
+    "balticcareer.eu": {          # BalticCareer (крюинг): 2nd Officer / DPO на DSV, танкеры, круизные
+        "pages": ["https://balticcareer.eu/jobs/"],
+        "pattern": r"balticcareer\.eu/jobs/([\w-]+)/?$",
+        "base": "https://balticcareer.eu",
+        "clean": r"(?i)\s*balticcareer\s+posted.*$",   # в ссылке после названия идёт «BalticCareer Posted 5 minutes ago»
+    },
     "huntukvisasponsors.com": {   # вакансии от компаний с лицензией спонсора виз UK
         "pages": ["https://huntukvisasponsors.com/uk-visa-occupation-eligibility/3512-ship-and-hovercraft-officers"],
         "pattern": r"/job/([\w-]+)/?$",   # страница профессии «офицеры судов» — вакансии там уже морские
