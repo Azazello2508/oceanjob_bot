@@ -51156,7 +51156,7 @@
 "application@seawell.com.ua"
 ],
 "first": "2026-11-03",
-"last": "2026-11-12",
+"last": "2026-11-24",
 "links": {},
 "name": "",
 "off": 1,
@@ -51172,7 +51172,7 @@
 "@Offshore_Vacancies"
 ],
 "telegram": [],
-"total": 7,
+"total": 15,
 "vessels": [
 "General cargo",
 "LPG/LNG",
@@ -62705,10 +62705,10 @@
 "tg_hw": {
 "ALPHACREW": 3596,
 "BSMCSCUKRAINE": 4455,
-"CREW_ARIA": 14265,
+"CREW_ARIA": 14269,
 "Crew_Radar": 3587,
 "JobForMariners": 1213,
-"Merchant_Fleet": 663,
+"Merchant_Fleet": 667,
 "OffshoreFleetJob": 11098,
 "Offshore_Vacancies": 1011,
 "OnlyOffshore": 39230,
