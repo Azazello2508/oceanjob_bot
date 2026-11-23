@@ -6882,13 +6882,13 @@
 "ashipping.ru": {
 "address": "",
 "city": "",
-"co": 33,
+"co": 34,
 "country": "",
 "emails": [
 "rabota@ashipping.ru"
 ],
 "first": "2026-11-03",
-"last": "2026-11-20",
+"last": "2026-11-23",
 "links": {},
 "name": "ООО “ТК Северный проект”",
 "off": 0,
@@ -6902,7 +6902,7 @@
 "@seamenjob"
 ],
 "telegram": [],
-"total": 45,
+"total": 47,
 "vessels": [
 "General cargo",
 "Tanker"
@@ -7381,7 +7381,7 @@
 "kalinin_k@aston.ru"
 ],
 "first": "2026-11-03",
-"last": "2026-11-20",
+"last": "2026-11-23",
 "links": {
 "ukrcrewing": "https://ukrcrewing.com.ua/en/agency/aston_rostov"
 },
@@ -7398,7 +7398,7 @@
 "ukrcrewing.com.ua"
 ],
 "telegram": [],
-"total": 24,
+"total": 25,
 "vessels": [
 "Bulk"
 ],
@@ -7407,14 +7407,14 @@
 "astonfleet.com": {
 "address": "",
 "city": "",
-"co": 27,
+"co": 28,
 "country": "",
 "emails": [
 "evtushenko_a@astonfleet.com",
 "gavrilova_o@astonfleet.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-20",
+"last": "2026-11-23",
 "links": {},
 "name": "ООО “Трэвелер Шиппинг”",
 "off": 0,
@@ -7426,7 +7426,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 27,
+"total": 28,
 "vessels": [
 "Tanker"
 ],
@@ -8652,14 +8652,14 @@
 "balticss.com": {
 "address": "Pobeda sq. 4? office 18",
 "city": "Kaliningrad",
-"co": 23,
+"co": 24,
 "country": "Russia",
 "emails": [
 "crew@balticss.com",
 "info@balticss.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-20",
+"last": "2026-11-23",
 "links": {
 "crewell": "https://crewell.net/en/companies/262841/"
 },
@@ -8676,7 +8676,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 41,
+"total": 43,
 "vessels": [
 "Bulk"
 ],
@@ -9252,6 +9252,32 @@
 "total": 3,
 "vessels": [
 "Bulk"
+],
+"website": ""
+},
+"bhnoffshore.com": {
+"address": "",
+"city": "",
+"co": 0,
+"country": "",
+"emails": [
+"jobs@bhnoffshore.com"
+],
+"first": "2026-11-23",
+"last": "2026-11-23",
+"links": {},
+"name": "BHN Offshore Services Pvt Ltd",
+"off": 1,
+"offshore_hint": false,
+"phones": [],
+"so": 1,
+"sources": [
+"@seamenjob"
+],
+"telegram": [],
+"total": 1,
+"vessels": [
+"Offshore"
 ],
 "website": ""
 },
@@ -13748,7 +13774,7 @@
 "staff@delta152.ru"
 ],
 "first": "2026-11-03",
-"last": "2026-11-20",
+"last": "2026-11-23",
 "links": {},
 "name": "ООО «Дельта»",
 "off": 0,
@@ -13765,7 +13791,7 @@
 "@seamenjob"
 ],
 "telegram": [],
-"total": 54,
+"total": 57,
 "vessels": [
 "General cargo"
 ],
@@ -14396,7 +14422,7 @@
 "crew@donmastershipping.ru"
 ],
 "first": "2026-11-03",
-"last": "2026-11-21",
+"last": "2026-11-23",
 "links": {},
 "name": "ООО \"Донмастер\"",
 "off": 0,
@@ -14413,7 +14439,7 @@
 "@seamenjob"
 ],
 "telegram": [],
-"total": 26,
+"total": 27,
 "vessels": [
 "General cargo"
 ],
@@ -16494,13 +16520,13 @@
 "flot-ok@yandex.ru": {
 "address": "",
 "city": "",
-"co": 2,
+"co": 4,
 "country": "",
 "emails": [
 "flot-ok@yandex.ru"
 ],
 "first": "2026-11-18",
-"last": "2026-11-18",
+"last": "2026-11-23",
 "links": {},
 "name": "",
 "off": 0,
@@ -16512,7 +16538,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 2,
+"total": 4,
 "vessels": [
 "General cargo"
 ],
@@ -19780,13 +19806,13 @@
 "imt-mgt.com": {
 "address": "",
 "city": "",
-"co": 12,
+"co": 13,
 "country": "",
 "emails": [
 "ok@imt-mgt.com"
 ],
 "first": "2026-11-05",
-"last": "2026-11-20",
+"last": "2026-11-23",
 "links": {},
 "name": "",
 "off": 0,
@@ -19801,7 +19827,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 20,
+"total": 22,
 "vessels": [
 "Tanker"
 ],
@@ -26924,7 +26950,7 @@
 "ok@mortrast.com"
 ],
 "first": "2026-11-11",
-"last": "2026-11-18",
+"last": "2026-11-23",
 "links": {},
 "name": "",
 "off": 0,
@@ -26936,7 +26962,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 4,
+"total": 6,
 "vessels": [
 "Tanker"
 ],
@@ -42415,7 +42441,7 @@
 "crew@ncplus.ru"
 ],
 "first": "2026-11-03",
-"last": "2026-11-20",
+"last": "2026-11-23",
 "links": {},
 "name": "",
 "off": 0,
@@ -42429,7 +42455,7 @@
 "@seamenjob"
 ],
 "telegram": [],
-"total": 30,
+"total": 31,
 "vessels": [
 "Reefer"
 ],
@@ -43339,13 +43365,13 @@
 "north-alliance.com": {
 "address": "",
 "city": "",
-"co": 36,
+"co": 38,
 "country": "",
 "emails": [
 "vacancy@north-alliance.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-20",
+"last": "2026-11-23",
 "links": {},
 "name": "",
 "off": 36,
@@ -43360,7 +43386,7 @@
 "@vesselsea"
 ],
 "telegram": [],
-"total": 137,
+"total": 143,
 "vessels": [
 "Offshore",
 "Passenger",
@@ -48181,7 +48207,7 @@
 "zalikovaaa@rusgeology.ru"
 ],
 "first": "2026-11-03",
-"last": "2026-11-21",
+"last": "2026-11-23",
 "links": {
 "crewell": "https://crewell.net/en/companies/266347/"
 },
@@ -48196,7 +48222,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 30,
+"total": 32,
 "vessels": [],
 "website": "rusgeology.ru"
 },
@@ -59600,7 +59626,7 @@
 "hannah@yoacrew.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-22",
+"last": "2026-11-23",
 "links": {},
 "name": "",
 "off": 6,
@@ -59613,7 +59639,7 @@
 "@Yacht_Vacancies"
 ],
 "telegram": [],
-"total": 58,
+"total": 61,
 "vessels": [
 "Chemical",
 "Offshore",
@@ -60344,6 +60370,7 @@
 "bgi arkhangelsk": "bgicrew.com",
 "bgi kaliningrad": "bgicrew.com",
 "bgi st petersburg": "bgicrew.com",
+"bhn offshore services pvt": "bhnoffshore.com",
 "bims": "bims.lv",
 "bims offline latvia member since: nov 2016 no active vacancies bims is a well reputable and one of first established latvian crewing agencies specializing in supplying seafarers from latvia and other baltic states well from russia view profile": "name:bims offline latvia member since: nov 2016 no active vacancies bims is a well reputable and one of first established latvian crewing agencies specializing in supplying seafarers from latvia and other baltic states well from russia view profile",
 "biscay marine": "name:biscay marine",
@@ -62164,7 +62191,7 @@
 "OffshoreFleetJob": 11097,
 "Offshore_Vacancies": 1000,
 "OnlyOffshore": 39194,
-"OnlyYacht": 2340,
+"OnlyYacht": 2343,
 "SM_job_center": 2522,
 "SeaSeaWorks": 3934,
 "Sea_format": 12358,
@@ -62192,26 +62219,26 @@
 "marineman_ltd": 48449,
 "maritimeforum": 259366,
 "merchantNavyrealjob": 265,
-"morehod_ru": 31192,
+"morehod_ru": 31196,
 "oceancrewjobs": 32938,
 "offshoreatsea": 25624,
 "offshorecv": 1616,
 "offshorevacancies": 47406,
 "oilrigs": 778,
 "olive_crew": 2964,
-"onboard_su": 20848,
-"pervoemorskoe": 4539,
-"rekamore_su": 165879,
+"onboard_su": 20849,
+"pervoemorskoe": 4540,
+"rekamore_su": 165902,
 "roster_marine": 1747,
 "seajobfinder": 42647,
-"seamenjob": 106585,
+"seamenjob": 106587,
 "seamenvacancy": 1393,
 "seavacancies": 25275,
 "shipjobsindia": 420,
 "shipscreweu": 16723,
 "sidantey": 399,
 "supermariner_ua": 3951,
-"truemalina_offshore": 843,
+"truemalina_offshore": 844,
 "ukrcrewing_official": 2395,
 "univis_crewing": 5041,
 "vesselsea": 3161,
