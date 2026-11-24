@@ -2609,29 +2609,517 @@
 "time": "2026-11-24T08:01:00+00:00",
 "junior_dp": false,
 "dp_officer": false
+},
+{
+"uk": "",
+"title": "2nd Officer on Container Ship",
+"url": "https://crewell.net/en/vacancies/467567/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Container"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-24T09:24:48.478337+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "2nd Officer on Bulk carrier",
+"url": "https://crewell.net/en/vacancies/467585/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Bulk carrier"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-24T09:24:49.556688+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "2nd Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/371162",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-24T09:24:51.954259+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Need Chief Officer & ETO for for Cable Laying vessel. Ires Ship Management LLP",
+"url": "https://maritime-union.com/job/233545",
+"source": "maritime-union.com",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"company": "Need Chief Officer & ETO for for Ca…"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-24T09:25:22.003417+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Need 2ND OFF DPO, CO DPO, 2ND ENG & ETO with AHTS DP2, PSV DP2 experience. Ires Ship Management LLP",
+"url": "https://maritime-union.com/job/233546",
+"source": "maritime-union.com",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "Chief Officer / 2nd Officer / DPO",
+"vessel": "PSV, AHTS",
+"company": "Need 2ND OFF DPO, CO DPO, 2ND ENG &…"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-24T09:25:23.474393+00:00",
+"junior_dp": false,
+"dp_officer": true
+},
+{
+"uk": "",
+"title": "Chief Officer for Oil Tanker",
+"url": "https://balticcareer.eu/jobs/chief-officer-for-oil-tanker-11/",
+"source": "balticcareer.eu",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Tanker"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-24T09:26:41.239559+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "2ND OFFICER / DPO – PSV",
+"url": "https://balticcareer.eu/jobs/2nd-officer-dpo-psv-2/",
+"source": "balticcareer.eu",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "2nd Officer / DPO",
+"vessel": "PSV"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-24T09:26:41.930661+00:00",
+"junior_dp": false,
+"dp_officer": true
+},
+{
+"uk": "",
+"title": "2nd Officer / DPO, Deckhands,Bosun – JACK UP",
+"url": "https://balticcareer.eu/jobs/2nd-officer-dpo-deckhandsbosun-jack-up/",
+"source": "balticcareer.eu",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "2nd Officer / DPO",
+"vessel": "Jack-up"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-24T09:26:42.596208+00:00",
+"junior_dp": false,
+"dp_officer": true
+},
+{
+"uk": "",
+"title": "2nd Officer for PSV",
+"url": "https://balticcareer.eu/jobs/2nd-officer-for-psv-10/",
+"source": "balticcareer.eu",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "2nd Officer",
+"vessel": "PSV"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-24T09:26:43.312495+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "crew for DP Vessels and NON DP vessel - Location KSA - UAE",
+"url": "https://t.me/seajobfinder/42691",
+"source": "Telegram: @seajobfinder",
+"found": [
+"chief officer",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-6cd0464d6635f576",
+"offshore": true,
+"info": {
+"rank": "Chief Officer / 2nd Officer",
+"vessel": "AHTS",
+"email": "momin.idrees@alisglobal.com",
+"company": "alisglobal.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-24T08:51:15+00:00",
+"junior_dp": false,
+"dp_officer": true
+},
+{
+"uk": "",
+"title": "WE ARE HIRING – OFFSHORE VESSELS (DP2)",
+"url": "https://t.me/seajobfinder/42692",
+"source": "Telegram: @seajobfinder",
+"found": [
+"chief officer",
+"2nd officer",
+"dpo",
+"2nd off"
+],
+"fp": "fp-48b38d09a4d34ba4",
+"offshore": true,
+"info": {
+"rank": "Chief Officer / 2nd Officer / DPO",
+"vessel": "PSV, AHTS",
+"email": "mumbai@iresshipmanagement.com",
+"company": "iresshipmanagement.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-24T09:00:32+00:00",
+"junior_dp": false,
+"dp_officer": true
+},
+{
+"uk": "",
+"title": "Chief Officer needed on container vessel!",
+"url": "https://t.me/marinejobs/43953",
+"source": "Telegram: @marinejobs",
+"found": [
+"chief officer"
+],
+"fp": "fp-48d35672e49e72fc",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Container",
+"salary": "$8500",
+"joining": "07.12.2026",
+"contract": "4 months",
+"email": "forcv@eurocrew-ua.com",
+"company": "eurocrew-ua.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-24T08:33:03+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Crew Wanted — Offshore Supply Vessel",
+"url": "https://t.me/marinejobs/43956",
+"source": "Telegram: @marinejobs",
+"found": [
+"chief officer",
+"second officer",
+"2/o"
+],
+"fp": "fp-d5856660a7502e5a",
+"offshore": true,
+"info": {
+"rank": "Chief Officer / 2nd Officer / 3rd Officer",
+"email": "andri@ptkrb.com",
+"company": "ptkrb.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-24T09:00:36+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "OPEN VACANCIES ON BULKER",
+"url": "https://t.me/seamenjob/106651",
+"source": "Telegram: @seamenjob",
+"found": [
+"chief officer",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-41cff11f900411e5",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer / 3rd Officer",
+"vessel": "Bulk carrier",
+"salary": "paid in",
+"joining": "15.12.2026",
+"contract": "4-5 months",
+"email": "forcv@eurocrew-ua.com",
+"company": "eurocrew-ua.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": true,
+"time": "2026-11-24T09:04:30+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "CHIEF OFFICER – OIL TANKER",
+"url": "https://t.me/balticcareer/6027",
+"source": "Telegram: @balticcareer",
+"found": [
+"chief officer"
+],
+"fp": "fp-bb165c7b67bee1d6",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Tanker",
+"salary": "11000 USD / month",
+"contract": "1 month (+/-1)"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-24T08:44:45+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "MULTIPLE OFFSHORE VACANCIES – JACK-UP VESSEL",
+"url": "https://t.me/balticcareer/6033",
+"source": "Telegram: @balticcareer",
+"found": [
+"2nd officer",
+"dpo",
+"2nd off"
+],
+"fp": "fp-5a0105c1ede02902",
+"offshore": true,
+"info": {
+"rank": "2nd Officer / DPO",
+"vessel": "Jack-up",
+"joining": "7 December 2026",
+"contract": "5 Weeks (+/-)"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-24T09:10:53+00:00",
+"junior_dp": false,
+"dp_officer": true
+},
+{
+"uk": "",
+"title": "2ND OFFICER – PSV",
+"url": "https://t.me/balticcareer/6037",
+"source": "Telegram: @balticcareer",
+"found": [
+"chief officer",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-97df1e6520466ca5",
+"offshore": true,
+"info": {
+"rank": "Chief Officer / 2nd Officer",
+"vessel": "PSV",
+"salary": "9000 USD / month",
+"contract": "8 weeks on/off"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-24T09:20:54+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Компания ООО «Малое море» приглашает на работу:",
+"url": "https://t.me/rekamore_su/166049",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-8ecb1af787632321",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Bulk carrier, General cargo",
+"salary": "135 000 рублей первые 4 мес.,…",
+"joining": "срочная, до 25 ноября, п.Новор",
+"contract": "4+1",
+"company": "ООО «Малое море»"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": true,
+"time": "2026-11-24T09:00:07+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "АКТУАЛЬНЫЕ ВАКАНСИИ",
+"url": "https://t.me/rekamore_su/166050",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-5dc2f035aea0671d",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "AHTS, Tug",
+"email": "resume@ai.mwship.ru",
+"company": "ai.mwship.ru"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": true,
+"time": "2026-11-24T09:00:11+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Positions for CTPT/Parcel Chemical Tanker Vessel",
+"url": "https://t.me/oceancrewjobs/32951",
+"source": "Telegram: @oceancrewjobs",
+"found": [
+"chief officer"
+],
+"fp": "fp-6054c1c2664bc811",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / AB",
+"vessel": "Chemical tanker",
+"company": "https://oceancrew.org/vacancies/mer…"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-24T09:00:11+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Personnel for LPG Tanker Vessel",
+"url": "https://t.me/oceancrewjobs/32952",
+"source": "Telegram: @oceancrewjobs",
+"found": [
+"chief mate",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-49952b434343b968",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer / 3rd Officer",
+"vessel": "LPG",
+"company": "https://oceancrew.org/vacancies/mer…"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-24T09:00:42+00:00",
+"junior_dp": false,
+"dp_officer": false
 }
 ],
 "msg_ids": [
-7193,
-7194,
-7195,
-7196,
-7197,
-7198,
-7199,
-7200,
-7201,
-7202,
-7203,
-7204,
-7205,
-7206,
-7207,
-7208,
-7209,
-7210
+7211,
+7212,
+7213,
+7214,
+7215,
+7216,
+7217,
+7218,
+7219,
+7220,
+7221,
+7222,
+7223,
+7224,
+7225,
+7226,
+7227,
+7228
 ],
-"last_list": "2026-11-24T08:33:30.475121+00:00",
-"cleared_upto": 7192,
-"last_msg_id": 7210
+"last_list": "2026-11-24T09:27:53.036248+00:00",
+"cleared_upto": 7210,
+"last_msg_id": 7228
 }
