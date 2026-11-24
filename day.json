@@ -1,10 +1,32 @@
 {
 "date": "2026-11-24",
-"jobs": [],
-"msg_ids": [
-7146
+"jobs": [
+{
+"uk": "",
+"title": "2nd Officer on LPG",
+"url": "https://crewell.net/en/vacancies/467516/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "LPG"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-24T00:29:37.660563+00:00",
+"junior_dp": false,
+"dp_officer": false
+}
 ],
-"last_list": "2026-11-23T20:49:01.957453+00:00",
-"cleared_upto": 7145,
-"last_msg_id": 7146
+"msg_ids": [
+7147,
+7148
+],
+"last_list": "2026-11-24T00:32:33.206953+00:00",
+"cleared_upto": 7146,
+"last_msg_id": 7148
 }
