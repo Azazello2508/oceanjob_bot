@@ -442,9 +442,11 @@
 },
 "company": "",
 "place": "",
-"new": true,
+"new": false,
 "repeat": false,
-"time": "2026-11-24T05:55:17.881529+00:00"
+"time": "2026-11-24T05:55:17.881529+00:00",
+"junior_dp": false,
+"dp_officer": false
 },
 {
 "uk": "",
@@ -460,9 +462,11 @@
 },
 "company": "",
 "place": "",
-"new": true,
+"new": false,
 "repeat": false,
-"time": "2026-11-24T05:56:22.915095+00:00"
+"time": "2026-11-24T05:56:22.915095+00:00",
+"junior_dp": false,
+"dp_officer": false
 },
 {
 "uk": "",
@@ -479,9 +483,11 @@
 },
 "company": "",
 "place": "",
-"new": true,
+"new": false,
 "repeat": false,
-"time": "2026-11-24T05:56:23.508580+00:00"
+"time": "2026-11-24T05:56:23.508580+00:00",
+"junior_dp": false,
+"dp_officer": false
 },
 {
 "uk": "",
@@ -498,9 +504,11 @@
 },
 "company": "",
 "place": "",
-"new": true,
+"new": false,
 "repeat": false,
-"time": "2026-11-24T05:56:24.171335+00:00"
+"time": "2026-11-24T05:56:24.171335+00:00",
+"junior_dp": false,
+"dp_officer": false
 },
 {
 "uk": "",
@@ -516,9 +524,11 @@
 },
 "company": "",
 "place": "",
-"new": true,
+"new": false,
 "repeat": false,
-"time": "2026-11-24T05:56:24.767576+00:00"
+"time": "2026-11-24T05:56:24.767576+00:00",
+"junior_dp": true,
+"dp_officer": false
 },
 {
 "uk": "",
@@ -535,9 +545,11 @@
 },
 "company": "",
 "place": "",
-"new": true,
+"new": false,
 "repeat": false,
-"time": "2026-11-24T05:56:25.367511+00:00"
+"time": "2026-11-24T05:56:25.367511+00:00",
+"junior_dp": false,
+"dp_officer": false
 },
 {
 "uk": "",
@@ -553,9 +565,11 @@
 },
 "company": "",
 "place": "",
-"new": true,
+"new": false,
 "repeat": false,
-"time": "2026-11-24T05:56:26.036342+00:00"
+"time": "2026-11-24T05:56:26.036342+00:00",
+"junior_dp": false,
+"dp_officer": false
 },
 {
 "uk": "",
@@ -572,9 +586,11 @@
 },
 "company": "",
 "place": "",
-"new": true,
+"new": false,
 "repeat": false,
-"time": "2026-11-24T05:56:26.700589+00:00"
+"time": "2026-11-24T05:56:26.700589+00:00",
+"junior_dp": false,
+"dp_officer": false
 },
 {
 "uk": "",
@@ -589,9 +605,11 @@
 },
 "company": "",
 "place": "",
-"new": true,
+"new": false,
 "repeat": false,
-"time": "2026-11-24T05:56:27.298541+00:00"
+"time": "2026-11-24T05:56:27.298541+00:00",
+"junior_dp": false,
+"dp_officer": false
 },
 {
 "uk": "",
@@ -607,9 +625,11 @@
 },
 "company": "",
 "place": "",
-"new": true,
+"new": false,
 "repeat": false,
-"time": "2026-11-24T05:56:27.891335+00:00"
+"time": "2026-11-24T05:56:27.891335+00:00",
+"junior_dp": false,
+"dp_officer": false
 },
 {
 "uk": "",
@@ -626,9 +646,11 @@
 },
 "company": "",
 "place": "",
-"new": true,
+"new": false,
 "repeat": false,
-"time": "2026-11-24T05:56:28.533950+00:00"
+"time": "2026-11-24T05:56:28.533950+00:00",
+"junior_dp": false,
+"dp_officer": false
 },
 {
 "uk": "",
@@ -646,9 +668,11 @@
 },
 "company": "",
 "place": "",
-"new": true,
+"new": false,
 "repeat": false,
-"time": "2026-11-24T05:56:29.131487+00:00"
+"time": "2026-11-24T05:56:29.131487+00:00",
+"junior_dp": false,
+"dp_officer": true
 },
 {
 "uk": "",
@@ -666,9 +690,11 @@
 },
 "company": "",
 "place": "",
-"new": true,
+"new": false,
 "repeat": false,
-"time": "2026-11-24T05:56:29.796316+00:00"
+"time": "2026-11-24T05:56:29.796316+00:00",
+"junior_dp": false,
+"dp_officer": false
 },
 {
 "uk": "",
@@ -685,9 +711,11 @@
 },
 "company": "",
 "place": "",
-"new": true,
+"new": false,
 "repeat": false,
-"time": "2026-11-24T05:56:30.400385+00:00"
+"time": "2026-11-24T05:56:30.400385+00:00",
+"junior_dp": false,
+"dp_officer": true
 },
 {
 "uk": "",
@@ -706,9 +734,11 @@
 },
 "company": "",
 "place": "",
-"new": true,
+"new": false,
 "repeat": true,
-"time": "2026-11-24T05:40:08+00:00"
+"time": "2026-11-24T05:40:08+00:00",
+"junior_dp": false,
+"dp_officer": false
 },
 {
 "uk": "",
@@ -730,9 +760,11 @@
 },
 "company": "",
 "place": "",
-"new": true,
+"new": false,
 "repeat": true,
-"time": "2026-11-24T05:40:19+00:00"
+"time": "2026-11-24T05:40:19+00:00",
+"junior_dp": false,
+"dp_officer": false
 },
 {
 "uk": "",
@@ -753,9 +785,11 @@
 },
 "company": "",
 "place": "",
-"new": true,
+"new": false,
 "repeat": true,
-"time": "2026-11-24T05:42:05+00:00"
+"time": "2026-11-24T05:42:05+00:00",
+"junior_dp": false,
+"dp_officer": false
 },
 {
 "uk": "",
@@ -778,23 +812,690 @@
 },
 "company": "",
 "place": "",
-"new": true,
+"new": false,
 "repeat": true,
-"time": "2026-11-24T05:45:07+00:00"
+"time": "2026-11-24T05:45:07+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Chief Officer for Non DP AHTS Vessel",
+"url": "https://www.seacareer.com/i36891/chief-officer-for-non-dp-ahts-vessel/",
+"source": "seacareer.com",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "AHTS"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-24T06:46:00.382837+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Second Officer - LPG Carrier Ross & Marine (Rossmarine) ·  Deck LPG Carrier Second Officer Second Officer LPG Carrier Ross & Marine $4,800 per month View Job 46…",
+"url": "https://findseajobs.com/seajobs/479413.html",
+"source": "findseajobs.com",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "LPG",
+"salary": "$4,800",
+"company": "Second Officer - LPG Carrier Ross &…"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-24T06:47:27.008107+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Second Officer on General Cargo Marine Man Kherson ·  Deck General Cargo Second Officer second officer general cargo indonesia Competitive View Job 36 min ago",
+"url": "https://findseajobs.com/seajobs/479427.html",
+"source": "findseajobs.com",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "General cargo",
+"company": "Second Officer on General Cargo Mar…"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-24T06:47:27.677496+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Second Officer on Bulk Carrier Marine Man Kherson ·  Deck Bulk Carrier Second Officer second officer bulk carrier indonesia Competitive View Job 36 min ago",
+"url": "https://findseajobs.com/seajobs/479428.html",
+"source": "findseajobs.com",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Bulk carrier",
+"company": "Second Officer on Bulk Carrier Mari…"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-24T06:47:28.325619+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Second Officer on Suezmax Oil Tanker Aquamarine Crew Agency ·  Deck Oil Tanker Second Officer second officer Suezmax oil tanker urgent $4,750 per month View Job…",
+"url": "https://findseajobs.com/seajobs/479486.html",
+"source": "findseajobs.com",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Suezmax",
+"salary": "$4,750",
+"company": "Second Officer on Suezmax Oil Tanke…"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-24T06:47:28.926717+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Second Officer on Crude Oil Tanker RIA Marine LLC ·  Deck Crude Oil Tanker Second Officer second officer crude oil tanker tanker ASAP $5,600 - $6,100 per month…",
+"url": "https://findseajobs.com/seajobs/479490.html",
+"source": "findseajobs.com",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Crude oil tanker",
+"salary": "$5,600 - $6,100",
+"company": "Second Officer on Crude Oil Tanker…"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-24T06:47:29.592212+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Second Officer on Oil/Chemical Tanker RIA Marine LLC ·  Deck Oil/Chemical Tanker Second Officer second officer oil tanker chemical tanker $5,600 - $6,100 per mo…",
+"url": "https://findseajobs.com/seajobs/479494.html",
+"source": "findseajobs.com",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Chemical tanker",
+"salary": "$5,600 - $6,100",
+"company": "Second Officer on Oil/Chemical Tank…"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-24T06:47:30.195217+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Chief Officer - LNG Carrier Ross & Marine (Rossmarine) ·  Deck LNG Carrier Chief Officer Chief Officer LNG Carrier Ross & Marine $18,000 per month View Job 47 m…",
+"url": "https://findseajobs.com/seajobs/479399.html",
+"source": "findseajobs.com",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "LNG",
+"salary": "$18,000",
+"company": "Chief Officer - LNG Carrier Ross &…"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-24T06:47:30.805010+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Chief Officer on Bulk Carrier NBI ·  Deck Bulk Carrier Chief Officer Chief Officer Bulk Carrier Sunrise $8,000 per month View Job 40 min ago",
+"url": "https://findseajobs.com/seajobs/479420.html",
+"source": "findseajobs.com",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Bulk carrier",
+"salary": "$8,000"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-24T06:47:31.482925+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Chief Officer on General Cargo Marine Man Kherson ·  Deck General Cargo Chief Officer chief officer general cargo indonesia Competitive View Job 36 min ago",
+"url": "https://findseajobs.com/seajobs/479424.html",
+"source": "findseajobs.com",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo",
+"company": "Chief Officer on General Cargo Mari…"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-24T06:47:32.086041+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Chief Officer on Chemical/Product Tanker Marine Man Kherson ·  Deck Chemical/Product Tanker Chief Officer chief officer chemical tanker product tanker indonesia…",
+"url": "https://findseajobs.com/seajobs/479425.html",
+"source": "findseajobs.com",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Chemical tanker, Product tanker",
+"company": "Chief Officer on Chemical/Product T…"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-24T06:47:32.686916+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Chief Officer on Bulk Carrier Marine Man Kherson ·  Deck Bulk Carrier Chief Officer chief officer bulk carrier indonesia Competitive View Job 36 min ago",
+"url": "https://findseajobs.com/seajobs/479426.html",
+"source": "findseajobs.com",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Bulk carrier",
+"company": "Chief Officer on Bulk Carrier Marin…"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-24T06:47:33.321952+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Chief Officer on Bulk Carrier AVREK Co. ·  Deck Bulk Carrier Chief Officer chief officer bulk carrier US visa $8,400 per month View Job 29 min ago",
+"url": "https://findseajobs.com/seajobs/479461.html",
+"source": "findseajobs.com",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Bulk carrier",
+"salary": "$8,400"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-24T06:47:33.920266+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Chief Officer on LNG Carrier Aquamarine Crew Agency ·  Deck LNG Carrier Chief Officer chief officer LNG gas tanker urgent $17,100 per month View Job 29 min ago",
+"url": "https://findseajobs.com/seajobs/479463.html",
+"source": "findseajobs.com",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "LNG",
+"salary": "$17,100",
+"company": "Chief Officer on LNG Carrier Aquama…"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-24T06:47:34.515295+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Chief Officer on LPG Carrier (VLGC) Aquamarine Crew Agency ·  Deck LPG Carrier Chief Officer chief officer LPG VLGC gas tanker $12,250 per month View Job 27 min…",
+"url": "https://findseajobs.com/seajobs/479471.html",
+"source": "findseajobs.com",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "LPG",
+"salary": "$12,250",
+"company": "Chief Officer on LPG Carrier (VLGC)…"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-24T06:47:35.122007+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Chief Officer on Suezmax Oil Tanker Aquamarine Crew Agency ·  Deck Oil Tanker Chief Officer chief officer Suezmax oil tanker urgent $11,637 per month View Job 2…",
+"url": "https://findseajobs.com/seajobs/479481.html",
+"source": "findseajobs.com",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Suezmax",
+"salary": "$11,637",
+"company": "Chief Officer on Suezmax Oil Tanker…"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-24T06:47:35.722126+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Chief Officer on Bitumen Oil Tanker RIA Marine LLC ·  Deck Oil Tanker Chief Officer chief officer bitumen tanker asphalt tanker oil tanker $11,000 per month Vie…",
+"url": "https://findseajobs.com/seajobs/479489.html",
+"source": "findseajobs.com",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Tanker",
+"salary": "$11,000",
+"company": "Chief Officer on Bitumen Oil Tanker…"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-24T06:47:36.329887+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Second Officer on LPG Carrier Astrum maritime LTD ·  Deck LPG Carrier Second Officer second officer LPG gas tanker promotion $3,800 - $4,500 per month View Job…",
+"url": "https://findseajobs.com/seajobs/479510.html",
+"source": "findseajobs.com",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "LPG",
+"salary": "$3,800 - $4,500",
+"company": "Second Officer on LPG Carrier Astru…"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-24T06:47:36.931112+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Second Officer on Bulk Carrier Marine Man Kherson ·  Deck Bulk Carrier Second Officer second officer bulk carrier liberia From $3,375 per month View Job 0 min a…",
+"url": "https://findseajobs.com/seajobs/479525.html",
+"source": "findseajobs.com",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Bulk carrier",
+"salary": "$3,375",
+"company": "Second Officer on Bulk Carrier Mari…"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-24T06:47:37.590269+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Chief Officer on General Cargo Marineman ·  Deck General Cargo Chief Officer chief officer general cargo schengen €5,400 - €5,900 per month View Job 0 min ago",
+"url": "https://findseajobs.com/seajobs/479526.html",
+"source": "findseajobs.com",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo",
+"salary": "€5,400 - €5,900"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-24T06:47:38.192344+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "URGENT VACANCIES",
+"url": "https://t.me/maritimeforum/259755",
+"source": "Telegram: @maritimeforum",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-ea80846e7a2aa5ec",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "LPG",
+"joining": "ASAP"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-24T06:29:20+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "На приёмку новых судов проекта RSD 59, DWT 8144",
+"url": "https://t.me/onboard_su/20859",
+"source": "Telegram: @onboard_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-4dfa42dfe4ef15c0",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"contract": "4+-1. Оплата проезда. Вак",
+"salary": "224.000 ₽",
+"email": "cv@crewmontenegro.com",
+"company": "crewmontenegro.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-24T06:27:46+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Latest Maritime Vacancies",
+"url": "https://t.me/marinejobs/43941",
+"source": "Telegram: @marinejobs",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-cd02b1ce43917cff",
+"offshore": false,
+"info": {
+"rank": "2nd Officer / 3rd Officer",
+"vessel": "LPG, LNG",
+"joining": "28 Nov 2026 | 6-month contract",
+"contract": "🌍",
+"salary": "$1,700",
+"email": "apply@staff-centre.com",
+"company": "staff-centre.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-24T06:33:26+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "OILER",
+"url": "https://t.me/job_for_seaman/17122",
+"source": "Telegram: @job_for_seaman",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-3ed733ce93d68325",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "LPG, LNG",
+"joining": "28.11.2026 | 6 months",
+"contract": "s in rank",
+"salary": "1,700 $",
+"email": "apply@staff-centre.com",
+"company": "staff-centre.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-24T06:28:01+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Seven Seas Recruitment is currently recruiting for the following position:",
+"url": "https://t.me/OnlyYacht/2346",
+"source": "Telegram: @OnlyYacht",
+"found": [
+"chief officer",
+"chief mate"
+],
+"fp": "fp-7432011d0e193a3a",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"salary": "Very competitive salary on off…",
+"contract": "AL CHIEF OFFICER for an 8"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-24T06:07:43+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "В судоходную компанию на постоянной основе требуются:",
+"url": "https://t.me/rekamore_su/166015",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-b7e9ebdcaea866e8",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Tanker",
+"salary": "от 380 000 рублей",
+"contract": "4 месяца",
+"email": "Hr-flot@yandex.ru"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": true,
+"time": "2026-11-24T06:00:03+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Судоходная компания приглашает на работу:",
+"url": "https://t.me/rekamore_su/166018",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-5dfd3ef2b0bb7a0f",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Chemical tanker",
+"joining": "Санкт-Петербург",
+"email": "kuznetsova@midvolga.com",
+"company": "midvolga.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": true,
+"time": "2026-11-24T06:10:05+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Компания ООО «Борская судоходная компания» приглашает на работу:",
+"url": "https://t.me/rekamore_su/166021",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-b78efa551bfaa546",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"salary": "обсуждается при собеседовании",
+"joining": "СРОЧНАЯ , г. Городец, Нижегоро",
+"contract": "4 месяца",
+"email": "kadry@bsklogistic.ru",
+"company": "bsklogistic.ru"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": true,
+"time": "2026-11-24T06:18:04+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Компания \"Речмортранс\" приглашает на работу:",
+"url": "https://t.me/rekamore_su/166024",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-af0d9660fe976f23",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo",
+"email": "okrmt@rechmortrans.ru",
+"company": "rechmortrans.ru"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": true,
+"time": "2026-11-24T06:22:06+00:00",
+"junior_dp": false,
+"dp_officer": false
 }
 ],
 "msg_ids": [
-7153,
-7154,
-7155,
-7156,
-7157,
-7158,
-7159,
-7160,
-7161
+7162,
+7163,
+7164,
+7165,
+7166,
+7167,
+7168,
+7169,
+7170,
+7171,
+7172,
+7173,
+7174,
+7175,
+7176
 ],
-"last_list": "2026-11-24T05:38:31.542755+00:00",
-"cleared_upto": 7152,
-"last_msg_id": 7161
+"last_list": "2026-11-24T06:48:58.991614+00:00",
+"cleared_upto": 7161,
+"last_msg_id": 7176
 }
