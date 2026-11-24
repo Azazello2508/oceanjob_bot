@@ -20,13 +20,147 @@
 "time": "2026-11-24T00:29:37.660563+00:00",
 "junior_dp": false,
 "dp_officer": false
+},
+{
+"uk": "",
+"title": "Компания ООО \"Легаси Марин\" приглашает на работу:",
+"url": "https://t.me/rekamore_su/165969",
+"source": "Telegram: @rekamore_su",
+"found": [
+"chief officer",
+"старший помощник"
+],
+"fp": "fp-6ab32fd1cea10272",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 3rd Officer / AB",
+"vessel": "Aframax",
+"salary": "200 000 руб. на руки",
+"joining": "в ближайшее время",
+"contract": "6-8 недель",
+"email": "crew.cv@legacymarine.ru",
+"company": "legacymarine.ru"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": true,
+"time": "2026-11-24T04:12:05+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Компания \"Polluks Star\" приглашает на работу:",
+"url": "https://t.me/rekamore_su/165970",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-7b980034f2c3aa70",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo",
+"salary": "7300 евро",
+"joining": "01 декабря",
+"contract": "4 месяца",
+"email": "info@polluks-star.com",
+"company": "polluks-star.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-24T04:14:03+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Компания ООО «Смарт Шиппинг» приглашает на работу:",
+"url": "https://t.me/rekamore_su/165972",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-0d4c35648f3b6a62",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Tanker",
+"salary": "220 000 рублей",
+"joining": "срочная, в Астрахани",
+"email": "anastasya_afanaseva@mail.ru",
+"company": "ООО «Смарт Шиппинг»"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": true,
+"time": "2026-11-24T04:20:04+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Компания ООО \"СК \"АСТРОЛ\" приглашает на работу:",
+"url": "https://t.me/rekamore_su/165978",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-57e30ceb778b5197",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo",
+"salary": "297 000 рублей (на руки)",
+"joining": "❗️",
+"email": "personal@sc-astrol.ru",
+"company": "sc-astrol.ru"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": true,
+"time": "2026-11-24T04:42:04+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Компания ООО “Азовторгфлот” приглашает на работу:",
+"url": "https://t.me/rekamore_su/165982",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-3a821cea740700c2",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo",
+"salary": "250 000 рублей (на руки)",
+"email": "crew@aztf.ru",
+"company": "aztf.ru"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": true,
+"time": "2026-11-24T04:46:03+00:00",
+"junior_dp": false,
+"dp_officer": false
 }
 ],
 "msg_ids": [
-7147,
-7148
+7149,
+7150,
+7151,
+7152
 ],
-"last_list": "2026-11-24T00:32:33.206953+00:00",
-"cleared_upto": 7146,
-"last_msg_id": 7148
+"last_list": "2026-11-24T04:47:34.431216+00:00",
+"cleared_upto": 7148,
+"last_msg_id": 7152
 }
