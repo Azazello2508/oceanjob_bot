@@ -25475,17 +25475,18 @@
 "crewell": "https://crewell.net/en/companies/329639/"
 },
 "name": "Marlow Navigation Poland",
-"off": 2,
+"off": 3,
 "offshore_hint": false,
 "phones": [],
 "so": 0,
 "sources": [
 "@OnlyOffshore",
+"@marinejobs",
 "@seajobfinder",
 "crewell.net"
 ],
 "telegram": [],
-"total": 2,
+"total": 3,
 "vessels": [
 "Offshore"
 ],
@@ -63454,7 +63455,7 @@
 "job_for_seaman": 17126,
 "jobfor_seamen": 12817,
 "marinecareerorg": 17774,
-"marinejobs": 44002,
+"marinejobs": 44003,
 "marinejobz": 194156,
 "marineman_ltd": 48470,
 "maritimeforum": 259962,
