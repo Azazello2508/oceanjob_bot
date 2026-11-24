@@ -88,7 +88,7 @@ CHANNELS = [
     "Official_SSA", "seavacancies", "oceancrewjobs", "stellamarine_public", "crs_vacancies", "sea111work", "MarineOdessa",
     # @cwyjh и @teamspirit — группы, у них нет открытой веб-страницы, читать нельзя,
     "pervoemorskoe", "ecrewing", "SeaSeaWorks",  # добавлены: проверены, публичные, с вакансиями
-    "RBGroupVacancies", "Seamanwork",  # RB Group (Батуми) и канал, на который ссылается maritimeforum
+    "RBGroupVacancies", "Seamanwork", "SeaViewMaritime",  # RB Group (Батуми) и канал, на который ссылается maritimeforum
 ]
 
 # Страницы crewell: старшие офицеры (Chief Officer) и вахтенные (2nd Officer)
