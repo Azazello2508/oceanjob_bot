@@ -3015,7 +3015,7 @@
 "aje.ae": {
 "address": "",
 "city": "",
-"co": 1,
+"co": 2,
 "country": "",
 "emails": [
 "mohammad.rasul@aje.ae"
@@ -3033,7 +3033,7 @@
 "@offshoreatsea"
 ],
 "telegram": [],
-"total": 4,
+"total": 6,
 "vessels": [],
 "website": ""
 },
@@ -4326,7 +4326,7 @@
 "@Olga_Alpha_Crew",
 "@irina_alpha"
 ],
-"total": 690,
+"total": 691,
 "uk": 25,
 "vessels": [
 "Bulk",
@@ -5814,18 +5814,19 @@
 "last": "2026-11-24",
 "links": {},
 "name": "",
-"off": 11,
+"off": 13,
 "offshore_hint": false,
 "phones": [],
 "so": 1,
 "sources": [
+"@cvsenderseaman",
 "@marinejobs",
 "@maritimeforum",
 "@offshoreatsea",
 "@seamenjob"
 ],
 "telegram": [],
-"total": 11,
+"total": 13,
 "vessels": [
 "Offshore",
 "Tug"
@@ -21038,7 +21039,7 @@
 "@seajobfinder"
 ],
 "telegram": [],
-"total": 122,
+"total": 123,
 "uk": 13,
 "vessels": [
 "Dredger",
@@ -23978,7 +23979,7 @@
 "cv@lscgroup.lv"
 ],
 "first": "2026-11-03",
-"last": "2026-11-18",
+"last": "2026-11-24",
 "links": {
 "crewell": "https://crewell.net/en/companies/57743/"
 },
@@ -23996,7 +23997,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 21,
+"total": 22,
 "vessels": [
 "Chemical",
 "LPG/LNG",
@@ -32737,6 +32738,31 @@
 "so": 0,
 "sources": [
 "seajobs.ru"
+],
+"telegram": [],
+"total": 0,
+"vessels": [],
+"website": ""
+},
+"name:helix energy solutions group": {
+"address": "",
+"city": "",
+"co": 1,
+"country": "",
+"emails": [],
+"first": "2026-11-24",
+"last": "2026-11-24",
+"li": 1,
+"links": {
+"linkedin": "https://www.linkedin.com/company/helix-energy-solutions-group"
+},
+"name": "Helix Energy Solutions Group",
+"off": 1,
+"offshore_hint": false,
+"phones": [],
+"so": 0,
+"sources": [
+"LinkedIn"
 ],
 "telegram": [],
 "total": 0,
@@ -53921,7 +53947,7 @@
 "start-manning.com": {
 "address": "",
 "city": "",
-"co": 98,
+"co": 100,
 "country": "",
 "emails": [
 "ops@start-manning.com"
@@ -53946,7 +53972,7 @@
 "@maritimeforum"
 ],
 "telegram": [],
-"total": 289,
+"total": 291,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -56895,14 +56921,14 @@
 "ultramarin.lv": {
 "address": "17A Duntes str.",
 "city": "Riga",
-"co": 7,
+"co": 9,
 "country": "Latvia",
 "emails": [
 "cv@ultramarin.lv",
 "forcv@eurocrew-ua.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-20",
+"last": "2026-11-24",
 "links": {
 "crewell": "https://crewell.net/en/companies/287784/"
 },
@@ -56926,7 +56952,7 @@
 "@seajobfinder"
 ],
 "telegram": [],
-"total": 79,
+"total": 83,
 "uk": 3,
 "vessels": [
 "Chemical",
@@ -61103,7 +61129,8 @@
 "4468296601",
 "4485618583",
 "4416166403",
-"4393418726"
+"4393418726",
+"4494170552"
 ],
 "names": {
 "-tech solutions": "as-tech.pl",
@@ -61898,6 +61925,7 @@
 "headway": "headway-crew.com",
 "helios nautical crewing": "hncrewing.com",
 "helios nautical crewing 23 hours ago lithuania member since: oct 2026 3 active vacancies view profile": "name:helios nautical crewing 23 hours ago lithuania member since: oct 2026 3 active vacancies view profile",
+"helix energy solutions group": "name:helix energy solutions group",
 "hellenic sea lines sc": "hellenicsealines.gr",
 "hermes ship management pvt": "hsmpl.com",
 "hidramar": "hidramarintl.com",
@@ -63335,10 +63363,10 @@
 "tg_hw": {
 "ALPHACREW": 3597,
 "BSMCSCUKRAINE": 4459,
-"CREW_ARIA": 14276,
+"CREW_ARIA": 14280,
 "Crew_Radar": 3667,
 "JobForMariners": 1214,
-"Merchant_Fleet": 668,
+"Merchant_Fleet": 674,
 "OffshoreFleetJob": 11098,
 "Offshore_Vacancies": 1018,
 "OnlyOffshore": 39266,
@@ -63356,7 +63384,7 @@
 "crs_vacancies": 3601,
 "cruiseshipjobs": 8,
 "cvcrewcom": 12907,
-"cvsenderseaman": 17009,
+"cvsenderseaman": 17013,
 "ecrewing": 3244,
 "findseajobs": 32572,
 "galaxymaritimeua": 1250,
@@ -63364,9 +63392,9 @@
 "help_seafarers": 4910,
 "ismira_agency": 440,
 "job_for_seaman": 17126,
-"jobfor_seamen": 12816,
+"jobfor_seamen": 12817,
 "marinecareerorg": 17773,
-"marinejobs": 43999,
+"marinejobs": 44000,
 "marinejobz": 194156,
 "marineman_ltd": 48470,
 "maritimeforum": 259777,
@@ -63375,7 +63403,7 @@
 "oceancrewjobs": 32968,
 "offshoreatsea": 25821,
 "offshorecv": 1622,
-"offshorevacancies": 47455,
+"offshorevacancies": 47456,
 "oilrigs": 778,
 "olive_crew": 2977,
 "onboard_su": 20864,
