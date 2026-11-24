@@ -25466,23 +25466,29 @@
 "city": "",
 "co": 0,
 "country": "",
-"emails": [],
+"emails": [
+"applications@marlow.pl"
+],
 "first": "2026-11-03",
-"last": "",
+"last": "2026-11-25",
 "links": {
 "crewell": "https://crewell.net/en/companies/329639/"
 },
 "name": "Marlow Navigation Poland",
-"off": 0,
+"off": 2,
 "offshore_hint": false,
 "phones": [],
 "so": 0,
 "sources": [
+"@OnlyOffshore",
+"@seajobfinder",
 "crewell.net"
 ],
 "telegram": [],
-"total": 0,
-"vessels": [],
+"total": 2,
+"vessels": [
+"Offshore"
+],
 "website": "marlow.pl"
 },
 "marlowgroup.com": {
@@ -63423,7 +63429,7 @@
 "Merchant_Fleet": 674,
 "OffshoreFleetJob": 11098,
 "Offshore_Vacancies": 1024,
-"OnlyOffshore": 39266,
+"OnlyOffshore": 39267,
 "OnlyYacht": 2349,
 "SM_job_center": 2529,
 "SeaSeaWorks": 3934,
@@ -63464,7 +63470,7 @@
 "pervoemorskoe": 4542,
 "rekamore_su": 166083,
 "roster_marine": 1749,
-"seajobfinder": 42733,
+"seajobfinder": 42734,
 "seamenjob": 106671,
 "seamenvacancy": 1397,
 "seavacancies": 25275,
