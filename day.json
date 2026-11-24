@@ -7502,33 +7502,479 @@
 "time": "2026-11-24T13:50:21+00:00",
 "junior_dp": false,
 "dp_officer": false
+},
+{
+"uk": "",
+"title": "2nd Officer on General Cargo Vessel",
+"url": "https://crewell.net/en/vacancies/467676/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "General cargo"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-24T14:46:26.651453+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "2nd Officer",
+"url": "https://seajobs.ru/ru/vacancy/18400/2nd-officer-chemicaloil-products-tanker",
+"source": "seajobs.ru",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Chemical tanker"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-24T14:46:39.109888+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "We are looking for 2Off/SDPO to join PSV DP2. Start: mid of Dec; rotation: 2/2 months; location: Mediterranean Sea. DP Full and proven experience on PSV . Pleas…",
+"url": "https://t.me/seajobfinder/42710",
+"source": "Telegram: @seajobfinder",
+"found": [
+"sdpo",
+"dpo",
+"2off"
+],
+"fp": "fp-31f7604ec41a65b1",
+"offshore": true,
+"info": {
+"rank": "2nd Officer / SDPO",
+"vessel": "PSV",
+"contract": "2/2 months; location: Med",
+"email": "alyona@tospeople.com",
+"company": "tospeople.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-24T14:10:14+00:00",
+"junior_dp": false,
+"dp_officer": true
+},
+{
+"uk": "",
+"title": "WE ARE HIRING – SDPO | 2O DPO - AHTS DP2",
+"url": "https://t.me/seajobfinder/42722",
+"source": "Telegram: @seajobfinder",
+"found": [
+"2nd officer",
+"sdpo",
+"dpo",
+"2nd off"
+],
+"fp": "fp-0db4293c4dec4260",
+"offshore": true,
+"info": {
+"rank": "2nd Officer / SDPO",
+"vessel": "AHTS",
+"joining": "Approximately 3 December 2026",
+"contract": "Around 7 weeks",
+"email": "Y.Shabatura@tospeople.com",
+"company": "tospeople.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-24T14:14:45+00:00",
+"junior_dp": false,
+"dp_officer": true
+},
+{
+"uk": "",
+"title": "Chief Officer DPO",
+"url": "https://t.me/seajobfinder/42728",
+"source": "Telegram: @seajobfinder",
+"found": [
+"chief officer",
+"dpo"
+],
+"fp": "fp-558ffa0730db0c75",
+"offshore": true,
+"info": {
+"rank": "Chief Officer / DPO",
+"vessel": "PSV",
+"joining": "Angola (visa can take up to 4",
+"contract": "s",
+"email": "joe.carey@selectoffshore.com",
+"company": "selectoffshore.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-24T14:21:06+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "ONLY UKRAINIAN NATIONALITY",
+"url": "https://t.me/BSMCSCUKRAINE/4459",
+"source": "Telegram: @BSMCSCUKRAINE",
+"found": [
+"chief officer"
+],
+"fp": "fp-832d701c7c1f2b00",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Bulk carrier",
+"joining": "29/30 November",
+"contract": "4 months",
+"email": "Svitlana.Zubovych@bs-shipmanagement.com",
+"company": "bs-shipmanagement.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-24T14:45:37+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "https://jobatsea.online/job/626284/co-to-join-ahts-440-usdday-03122026-at-oj-crew/",
+"url": "https://t.me/offshorevacancies/47449",
+"source": "Telegram: @offshorevacancies",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "AHTS",
+"salary": "440 USD/day",
+"company": "https://jobatsea.online/job/626284/…"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-24T14:26:45+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "WE ARE HIRING – CO | SDPO | 2O - AHTS DP2",
+"url": "https://t.me/OnlyOffshore/39241",
+"source": "Telegram: @OnlyOffshore",
+"found": [
+"chief officer",
+"2nd officer",
+"sdpo",
+"dpo",
+"2nd off"
+],
+"fp": "fp-caa066c7cb8fad56",
+"offshore": true,
+"info": {
+"rank": "Chief Officer / 2nd Officer / SDPO",
+"vessel": "AHTS",
+"joining": "Approximately 3 December 2026",
+"contract": "Around 7 weeks",
+"email": "a.gulabyan@tospeople.com",
+"company": "tospeople.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-24T14:06:55+00:00",
+"junior_dp": false,
+"dp_officer": true
+},
+{
+"uk": "",
+"title": "OPEN VACANCIES - EU Passport Holders ONLY due to project location",
+"url": "https://t.me/OnlyOffshore/39263",
+"source": "Telegram: @OnlyOffshore",
+"found": [
+"2nd officer",
+"2/o",
+"dpo",
+"2nd off"
+],
+"fp": "fp-5f03a693933709f6",
+"offshore": true,
+"info": {
+"rank": "2nd Officer / DPO",
+"vessel": "Jack-up",
+"email": "joe.carey@selectoffshore.com",
+"company": "selectoffshore.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-24T14:20:55+00:00",
+"junior_dp": false,
+"dp_officer": true
+},
+{
+"uk": "",
+"title": "TODAY’S HOTTEST MARITIME & OFFSHORE JOBS!",
+"url": "https://t.me/Sea_format/12360",
+"source": "Telegram: @Sea_format",
+"found": [
+"chief officer",
+"second officer",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-f914513eea7b6450",
+"offshore": true,
+"info": {
+"rank": "Chief Officer / 2nd Officer / 3rd Officer",
+"vessel": "LPG, PSV",
+"salary": "advertised for qualifying High…",
+"joining": "16 December 2026",
+"contract": "? Today’s SeaFormat Selec",
+"company": "TODAY’S HOTTEST MARITIME & OFFSHORE…"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-24T14:10:32+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "SDPO",
+"url": "https://t.me/offshoreatsea/25812",
+"source": "Telegram: @offshoreatsea",
+"found": [
+"sdpo",
+"dpo"
+],
+"fp": "fp-2621939577f72841",
+"offshore": true,
+"info": {
+"rank": "SDPO",
+"vessel": "AHTS",
+"salary": "400 USD/day",
+"contract": "8 weeks (+/- 2 weeks)",
+"email": "Natalie@ojcrew.com",
+"company": "ojcrew.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-24T14:37:39+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "2nd Officer DPO",
+"url": "https://t.me/offshoreatsea/25813",
+"source": "Telegram: @offshoreatsea",
+"found": [
+"2nd officer",
+"dpo",
+"2nd off"
+],
+"fp": "fp-830f147716b82d4c",
+"offshore": true,
+"info": {
+"rank": "2nd Officer / DPO",
+"vessel": "Jack-up",
+"contract": "5 weeks +/",
+"email": "aaliyah.thurkettle@selectoffshore.com",
+"company": "selectoffshore.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-24T14:37:40+00:00",
+"junior_dp": false,
+"dp_officer": true
+},
+{
+"uk": "",
+"title": "2nd Officer DPO",
+"url": "https://t.me/offshoreatsea/25816",
+"source": "Telegram: @offshoreatsea",
+"found": [
+"2nd officer",
+"dpo",
+"2nd off"
+],
+"fp": "fp-a11a91c3fd2362b2",
+"offshore": true,
+"info": {
+"rank": "2nd Officer / DPO",
+"email": "ae.careers@angloeastern.com",
+"company": "angloeastern.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-24T14:37:48+00:00",
+"junior_dp": false,
+"dp_officer": true
+},
+{
+"uk": "",
+"title": "URGENT – OPEN POSITIONS",
+"url": "https://t.me/gm_seaman_cv/2765",
+"source": "Telegram: @gm_seaman_cv",
+"found": [
+"sdpo",
+"dpo",
+"2off"
+],
+"fp": "fp-1fbf63989ffed4f7",
+"offshore": true,
+"info": {
+"rank": "2nd Officer / SDPO / AB",
+"vessel": "PSV",
+"joining": "ASAP",
+"contract": "2+2 months / 1+1 month",
+"salary": "2,000 USD/month",
+"email": "anna.k@desecrew.com",
+"company": "desecrew.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-24T14:10:56+00:00",
+"junior_dp": false,
+"dp_officer": true
+},
+{
+"uk": "",
+"title": "SECOND OFFICER",
+"url": "https://t.me/cvsenderseaman/16983",
+"source": "Telegram: @cvsenderseaman",
+"found": [
+"second officer",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-11e85811f15a905c",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Container",
+"salary": "Negotiable",
+"joining": "07.01.2027",
+"email": "aparyniuk@lowland.com.ua",
+"company": "lowland.com.ua"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-24T14:14:21+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "MASTER",
+"url": "https://t.me/cvsenderseaman/16985",
+"source": "Telegram: @cvsenderseaman",
+"found": [],
+"fp": "fp-c791c3fe646a5d16",
+"offshore": true,
+"info": {
+"salary": "Negotiable",
+"joining": "As soon as possible",
+"contract": "At least 3 weeks",
+"email": "p.us@tospeople.com",
+"company": "tospeople.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-24T14:26:22+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "2ND OFFICER DPO POSITION AVAILABLE",
+"url": "https://t.me/cvsenderseaman/16987",
+"source": "Telegram: @cvsenderseaman",
+"found": [
+"2nd officer",
+"dpo",
+"2nd off"
+],
+"fp": "fp-76e8f60d77ff01dc",
+"offshore": true,
+"info": {
+"rank": "2nd Officer / DPO",
+"vessel": "AHTS, OSV",
+"salary": "Negotiable",
+"joining": "ASAP",
+"contract": "s",
+"email": "mihai.aanicai@lowland.com",
+"company": "lowland.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-24T14:38:21+00:00",
+"junior_dp": false,
+"dp_officer": true
 }
 ],
 "msg_ids": [
-7313,
-7314,
-7315,
-7316,
-7317,
-7318,
-7319,
-7320,
-7321,
-7322,
-7323,
-7324,
-7325,
-7326,
-7327,
-7328,
-7329,
-7330,
-7331,
-7332,
-7333,
-7334
+7335,
+7336,
+7337,
+7338,
+7339,
+7340,
+7341,
+7342,
+7343,
+7344,
+7345,
+7346,
+7347,
+7348,
+7349,
+7350,
+7351,
+7352,
+7353,
+7354,
+7355,
+7356,
+7357
 ],
-"last_list": "2026-11-24T13:58:19.186254+00:00",
-"cleared_upto": 7312,
-"last_msg_id": 7334
+"last_list": "2026-11-24T14:49:06.892440+00:00",
+"cleared_upto": 7334,
+"last_msg_id": 7357
 }
