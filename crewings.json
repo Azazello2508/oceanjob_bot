@@ -13338,7 +13338,7 @@
 "csm-ua.com": {
 "address": "3 Sabanskiy Lane, Office 11n",
 "city": "Odessa",
-"co": 156,
+"co": 158,
 "country": "Ukraine",
 "emails": [
 "cv@csm-idn.com",
@@ -13384,7 +13384,7 @@
 "telegram": [
 "@sitelia_world"
 ],
-"total": 339,
+"total": 341,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -13704,7 +13704,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 34,
+"total": 35,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -16959,7 +16959,7 @@
 "last": "2026-11-25",
 "links": {},
 "name": "",
-"off": 38,
+"off": 39,
 "offshore_hint": false,
 "phones": [],
 "so": 0,
@@ -16975,8 +16975,8 @@
 "@shipscreweu"
 ],
 "telegram": [],
-"total": 38,
-"uk": 8,
+"total": 39,
+"uk": 9,
 "vessels": [
 "Offshore",
 "Passenger"
@@ -19004,7 +19004,7 @@
 "last": "2026-11-25",
 "links": {},
 "name": "",
-"off": 41,
+"off": 42,
 "offshore_hint": false,
 "phones": [],
 "so": 0,
@@ -19022,7 +19022,7 @@
 "@seamenjob"
 ],
 "telegram": [],
-"total": 41,
+"total": 42,
 "uk": 1,
 "vessels": [
 "Offshore"
@@ -24203,7 +24203,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 25,
+"total": 26,
 "vessels": [
 "Chemical",
 "LPG/LNG",
@@ -25830,7 +25830,7 @@
 "last": "2026-11-25",
 "links": {},
 "name": "MARPO Crewing",
-"off": 108,
+"off": 109,
 "offshore_hint": false,
 "phones": [
 "+380500726878",
@@ -25860,7 +25860,7 @@
 "telegram": [
 "@cvpro_mailing"
 ],
-"total": 117,
+"total": 118,
 "uk": 6,
 "vessels": [
 "Dredger",
@@ -31501,6 +31501,33 @@
 "telegram": [],
 "total": 0,
 "vessels": [],
+"website": ""
+},
+"name:crowley": {
+"address": "",
+"city": "",
+"co": 0,
+"country": "",
+"emails": [],
+"first": "2026-11-25",
+"last": "2026-11-25",
+"li": 1,
+"links": {
+"linkedin": "https://www.linkedin.com/company/crowley"
+},
+"name": "Crowley",
+"off": 0,
+"offshore_hint": false,
+"phones": [],
+"so": 0,
+"sources": [
+"LinkedIn"
+],
+"telegram": [],
+"total": 0,
+"vessels": [
+"Tug"
+],
 "website": ""
 },
 "name:csm baltija 09 07 2026 latvia member since: nov 2024 5 active vacancies we at csm baltija are committed to continuously satisfy our principals by ensuring quality manning services which are focused on customers’ requirements with aim of enhan view profile": {
@@ -58053,7 +58080,7 @@
 "telegram": [
 "@univisltd"
 ],
-"total": 296,
+"total": 300,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -59433,7 +59460,7 @@
 "last": "2026-11-25",
 "links": {},
 "name": "V.Ships Marine Services",
-"off": 241,
+"off": 242,
 "offshore_hint": false,
 "phones": [
 "+306972280603",
@@ -59444,7 +59471,7 @@
 "+380753933155",
 "+380754672735"
 ],
-"so": 14,
+"so": 15,
 "sources": [
 "@CREW_ARIA",
 "@Merchant_Fleet",
@@ -59460,7 +59487,7 @@
 "@marinejobs"
 ],
 "telegram": [],
-"total": 400,
+"total": 401,
 "uk": 17,
 "vessels": [
 "Bulk",
@@ -60026,7 +60053,7 @@
 "wilhelmsen.com": {
 "address": "Rodła 8",
 "city": "Szczecin",
-"co": 22,
+"co": 23,
 "country": "Poland",
 "emails": [
 "crew.odessa@wilhelmsen.com",
@@ -60044,7 +60071,7 @@
 "crewell": "https://crewell.net/en/companies/263723/"
 },
 "name": "Wilhelmsen Marine",
-"off": 17,
+"off": 18,
 "offshore_hint": false,
 "phones": [
 "+306974079056",
@@ -60056,7 +60083,7 @@
 "+380686845597",
 "+380930211837"
 ],
-"so": 15,
+"so": 16,
 "sources": [
 "@CREW_ARIA",
 "@Offshore_Vacancies",
@@ -60072,7 +60099,7 @@
 "@shipscreweu"
 ],
 "telegram": [],
-"total": 55,
+"total": 56,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -61651,7 +61678,8 @@
 "4393418726",
 "4494170552",
 "4494387989",
-"4486471564"
+"4486471564",
+"4478754218"
 ],
 "names": {
 "-tech solutions": "as-tech.pl",
@@ -62180,6 +62208,7 @@
 "crewplanet manning agency": "crewplanet.eu",
 "crewtide maritime": "crew-tide.com",
 "crossworld marine services": "crossworldmarine.com",
+"crowley": "name:crowley",
 "crs": "crs-marine.com",
 "crs marine": "crs-marine.com",
 "csc crewing": "jobatsea.online",
@@ -63937,7 +63966,7 @@
 "marinejobs": 44085,
 "marinejobz": 194156,
 "marineman_ltd": 48478,
-"maritimeforum": 260054,
+"maritimeforum": 260067,
 "merchantNavyrealjob": 265,
 "morehod_ru": 31290,
 "oceancrewjobs": 32994,
