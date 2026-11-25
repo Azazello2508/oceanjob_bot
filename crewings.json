@@ -16959,7 +16959,7 @@
 "last": "2026-11-25",
 "links": {},
 "name": "",
-"off": 36,
+"off": 38,
 "offshore_hint": false,
 "phones": [],
 "so": 0,
@@ -16975,8 +16975,8 @@
 "@shipscreweu"
 ],
 "telegram": [],
-"total": 36,
-"uk": 6,
+"total": 38,
+"uk": 8,
 "vessels": [
 "Offshore",
 "Passenger"
@@ -19004,11 +19004,13 @@
 "last": "2026-11-25",
 "links": {},
 "name": "",
-"off": 39,
+"off": 41,
 "offshore_hint": false,
 "phones": [],
 "so": 0,
 "sources": [
+"@CREW_ARIA",
+"@Offshore_Vacancies",
 "@OnlyOffshore",
 "@cvsenderseaman",
 "@findseajobs",
@@ -19020,7 +19022,7 @@
 "@seamenjob"
 ],
 "telegram": [],
-"total": 39,
+"total": 41,
 "uk": 1,
 "vessels": [
 "Offshore"
@@ -21130,7 +21132,7 @@
 "@maritimeforum"
 ],
 "telegram": [],
-"total": 264,
+"total": 269,
 "vessels": [
 "Bulk",
 "Container"
@@ -25828,7 +25830,7 @@
 "last": "2026-11-25",
 "links": {},
 "name": "MARPO Crewing",
-"off": 106,
+"off": 108,
 "offshore_hint": false,
 "phones": [
 "+380500726878",
@@ -25858,7 +25860,7 @@
 "telegram": [
 "@cvpro_mailing"
 ],
-"total": 115,
+"total": 117,
 "uk": 6,
 "vessels": [
 "Dredger",
@@ -58027,7 +58029,7 @@
 "operator@univis.com.ua"
 ],
 "first": "2026-11-03",
-"last": "2026-11-24",
+"last": "2026-11-25",
 "links": {},
 "name": "",
 "off": 0,
@@ -58051,7 +58053,7 @@
 "telegram": [
 "@univisltd"
 ],
-"total": 292,
+"total": 296,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -60024,7 +60026,7 @@
 "wilhelmsen.com": {
 "address": "Rodła 8",
 "city": "Szczecin",
-"co": 20,
+"co": 22,
 "country": "Poland",
 "emails": [
 "crew.odessa@wilhelmsen.com",
@@ -60042,7 +60044,7 @@
 "crewell": "https://crewell.net/en/companies/263723/"
 },
 "name": "Wilhelmsen Marine",
-"off": 15,
+"off": 17,
 "offshore_hint": false,
 "phones": [
 "+306974079056",
@@ -60054,7 +60056,7 @@
 "+380686845597",
 "+380930211837"
 ],
-"so": 13,
+"so": 15,
 "sources": [
 "@CREW_ARIA",
 "@Offshore_Vacancies",
@@ -60070,7 +60072,7 @@
 "@shipscreweu"
 ],
 "telegram": [],
-"total": 53,
+"total": 55,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -63901,12 +63903,12 @@
 "tg_hw": {
 "ALPHACREW": 3598,
 "BSMCSCUKRAINE": 4471,
-"CREW_ARIA": 14296,
+"CREW_ARIA": 14301,
 "Crew_Radar": 3668,
 "JobForMariners": 1214,
-"Merchant_Fleet": 674,
+"Merchant_Fleet": 675,
 "OffshoreFleetJob": 11106,
-"Offshore_Vacancies": 1025,
+"Offshore_Vacancies": 1030,
 "OnlyOffshore": 39296,
 "OnlyYacht": 2350,
 "SM_job_center": 2532,
@@ -63935,13 +63937,13 @@
 "marinejobs": 44085,
 "marinejobz": 194156,
 "marineman_ltd": 48478,
-"maritimeforum": 260036,
+"maritimeforum": 260054,
 "merchantNavyrealjob": 265,
 "morehod_ru": 31290,
 "oceancrewjobs": 32994,
 "offshoreatsea": 25947,
 "offshorecv": 1627,
-"offshorevacancies": 47490,
+"offshorevacancies": 47491,
 "oilrigs": 778,
 "olive_crew": 2984,
 "onboard_su": 20874,
@@ -63958,7 +63960,7 @@
 "supermariner_ua": 3961,
 "truemalina_offshore": 849,
 "ukrcrewing_official": 2398,
-"univis_crewing": 5045,
+"univis_crewing": 5049,
 "vesselsea": 3168,
 "vshipsoffshore": 1070
 },
