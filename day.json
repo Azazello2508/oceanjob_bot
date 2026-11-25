@@ -5674,32 +5674,519 @@
 "time": "2026-11-25T11:37:21+00:00",
 "junior_dp": false,
 "dp_officer": false
+},
+{
+"uk": "",
+"title": "2nd Officer on Oil/chemical tanker",
+"url": "https://crewell.net/en/vacancies/467843/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Chemical tanker"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-25T12:40:08.143855+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Chief Officer on Bulk carrier",
+"url": "https://crewell.net/en/vacancies/467833/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Bulk carrier"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-25T12:40:08.748470+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Master/Chief Officer/Chief Engineer Job - Marine Assurance Woodside Energy",
+"url": "https://maritime-union.com/job/233549",
+"source": "maritime-union.com",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"company": "Master/Chief Officer/Chief Engineer…"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-25T12:40:26.740110+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "SDPO Job on AHTS Vessel OJ Crew",
+"url": "https://maritime-union.com/job/233571",
+"source": "maritime-union.com",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "SDPO",
+"vessel": "AHTS",
+"company": "SDPO Job on AHTS Vessel OJ Crew 233…"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-25T12:40:27.568532+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Chief Officer SDPO Job on OSV DP2 Vessel in UAE World Maritime Crewing LTD",
+"url": "https://maritime-union.com/job/233570",
+"source": "maritime-union.com",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "Chief Officer / SDPO",
+"vessel": "OSV",
+"company": "Chief Officer SDPO Job on OSV DP2 V…"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-25T12:40:28.424773+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Chief Officer SDPO & ETO DP Jobs on Offshore DP2 DSV World Maritime Crewing LTD",
+"url": "https://maritime-union.com/job/233575",
+"source": "maritime-union.com",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "Chief Officer / SDPO",
+"vessel": "DSV",
+"company": "Chief Officer SDPO & ETO DP Jobs on…"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-25T12:40:29.346942+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "WE NEED",
+"url": "https://t.me/maritimeforum/260031",
+"source": "Telegram: @maritimeforum",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-9fcffd796176eaa7",
+"offshore": false,
+"info": {
+"rank": "2nd Officer / AB",
+"joining": "ASAP",
+"salary": "8600 USD",
+"email": "info@staff-service-expert.com",
+"company": "staff-service-expert.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": true,
+"time": "2026-11-25T12:25:27+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Position:",
+"url": "https://t.me/CREW_ARIA/14292",
+"source": "Telegram: @CREW_ARIA",
+"found": [
+"2nd officer",
+"dpo",
+"dp basic",
+"2nd off"
+],
+"fp": "fp-7fe5a1a3881ff5fe",
+"offshore": true,
+"info": {
+"rank": "2nd Officer / DPO / DP Basic/Induction",
+"vessel": "AHTS, Tug",
+"salary": "350 USD  day",
+"joining": "13 Dec",
+"contract": "5 weeks +-2 weeks",
+"email": "kateryna.hadiatska@vships.com",
+"company": "vships.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-25T12:26:35+00:00",
+"junior_dp": true,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "VLGC Gas Tanker Crew Needed",
+"url": "https://t.me/marinejobs/44045",
+"source": "Telegram: @marinejobs",
+"found": [
+"chief officer"
+],
+"fp": "fp-420f87d17fbddc85",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / AB",
+"vessel": "Tanker",
+"salary": "& Contract",
+"joining": "Immediate / ASAP",
+"contract": "Competitive package per i",
+"email": "fleet@dwelloship.com",
+"company": "dwelloship.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-25T12:01:04+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "2nd Officer (DPO)",
+"url": "https://t.me/marinejobs/44047",
+"source": "Telegram: @marinejobs",
+"found": [
+"2nd officer",
+"dpo",
+"dp basic",
+"2nd off"
+],
+"fp": "fp-212b29ef29cc0a6b",
+"offshore": true,
+"info": {
+"rank": "2nd Officer / DPO / DP Basic/Induction",
+"vessel": "AHTS",
+"joining": "13 Dec",
+"contract": "5 weeks ±2 weeks",
+"salary": "350 USD/day",
+"email": "kateryna.hadiatska@vships.com",
+"company": "vships.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-25T12:05:23+00:00",
+"junior_dp": true,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Chief Officer Vacancy — Oil Tanker",
+"url": "https://t.me/marinejobs/44050",
+"source": "Telegram: @marinejobs",
+"found": [
+"chief officer"
+],
+"fp": "fp-92e5eec9fb0760c9",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Tanker",
+"salary": "$10,500 – $11,000 + bonuses",
+"joining": "November 2026",
+"contract": "4 months",
+"email": "forcv@eurocrew-ua.com",
+"company": "eurocrew-ua.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-25T12:33:12+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "SIA Astor Shipmanagement (part of Scorpio Group) is hiring!",
+"url": "https://t.me/crewingua/45142",
+"source": "Telegram: @crewingua",
+"found": [
+"2off"
+],
+"fp": "fp-6e6bba080096c052",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Chemical tanker, Crude oil tanker",
+"email": "crewapplication@astorship.com",
+"company": "astorship.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": true,
+"time": "2026-11-25T12:37:04+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "CHIEF OFFICER FOR OIL TANKER",
+"url": "https://t.me/seamenjob/106702",
+"source": "Telegram: @seamenjob",
+"found": [
+"chief officer",
+"c/o"
+],
+"fp": "fp-c79a85845723ead1",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Tanker",
+"salary": "10500 - 11000 $",
+"joining": "November 2026",
+"contract": "4 months",
+"email": "forcv@eurocrew-ua.com",
+"company": "eurocrew-ua.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": true,
+"time": "2026-11-25T12:03:58+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Chief Officer for Motor Yacht",
+"url": "https://t.me/seamenjob/106704",
+"source": "Telegram: @seamenjob",
+"found": [
+"chief officer"
+],
+"fp": "fp-5c63113413e38ef4",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"email": "admin@lighthouse-careers.com",
+"company": "lighthouse-careers.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-25T12:30:41+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "URGENT",
+"url": "https://t.me/job_for_seaman/17135",
+"source": "Telegram: @job_for_seaman",
+"found": [],
+"fp": "fp-92b7d8f5a7142b50",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo",
+"salary": "Negotiable",
+"joining": "03.12.2026 in UK",
+"contract": "2-4 months"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-25T12:31:08+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "https://jobatsea.online/job/626391/2nd-officer-for-an-operating-psv-at-wilhelmsen-marine-personnel/",
+"url": "https://t.me/offshorevacancies/47473",
+"source": "Telegram: @offshorevacancies",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-fdd94067134d3c2d",
+"offshore": true,
+"info": {
+"rank": "2nd Officer",
+"vessel": "PSV",
+"company": "https://jobatsea.online/job/626391/…"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-25T11:53:33+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "AB/Welder to join a Geotechnical drill vessel in Amsterdam from the 2nd December, for 8 weeks.",
+"url": "https://t.me/gm_seaman_cv/2770",
+"source": "Telegram: @gm_seaman_cv",
+"found": [
+"chief mate",
+"2/o",
+"dpo"
+],
+"fp": "fp-22370db719bce73d",
+"offshore": true,
+"info": {
+"rank": "2nd Officer / DPO / AB",
+"vessel": "General cargo, AHTS",
+"joining": "DSV | SHORT-TERM DRY DOCK PR",
+"contract": "Short-term project – appr",
+"email": "Tilly.M@worldwide-rs.com",
+"company": "worldwide-rs.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-25T12:39:59+00:00",
+"junior_dp": false,
+"dp_officer": true
+},
+{
+"uk": "",
+"title": "3RD ENGINEER",
+"url": "https://t.me/cvsenderseaman/17075",
+"source": "Telegram: @cvsenderseaman",
+"found": [],
+"fp": "fp-234521d8e7c3113e",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Cruise, Passenger",
+"salary": "6,250 Euro",
+"joining": "ASAP",
+"contract": "until 19th Jan 2027, sala",
+"email": "recruitment@seaway-international.com",
+"company": "seaway-international.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-25T12:13:21+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "CHIEF OFFICER",
+"url": "https://t.me/cvsenderseaman/17077",
+"source": "Telegram: @cvsenderseaman",
+"found": [
+"chief officer"
+],
+"fp": "fp-0961ea71a88b6aa0",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Container",
+"salary": "Negotiable",
+"joining": "ASAP"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-25T12:19:23+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "3RD ENGINEER",
+"url": "https://t.me/cvsenderseaman/17081",
+"source": "Telegram: @cvsenderseaman",
+"found": [],
+"fp": "fp-7a164a9ad9fa7554",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Cruise, Passenger",
+"salary": "6,250 Euro",
+"joining": "ASAP",
+"contract": "until 19th Jan 2027",
+"email": "recruitment@seaway-international.com",
+"company": "seaway-international.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-25T12:43:21+00:00",
+"junior_dp": false,
+"dp_officer": false
 }
 ],
 "msg_ids": [
-7622,
-7623,
-7624,
-7625,
-7626,
-7627,
-7628,
-7629,
-7630,
-7631,
-7632,
-7633,
-7634,
-7635,
-7636,
-7637,
-7638,
-7639,
-7640,
-7641,
-7642
+7643,
+7644,
+7645,
+7646,
+7647,
+7648,
+7649,
+7650,
+7651,
+7652,
+7653,
+7654,
+7655,
+7656,
+7657,
+7658,
+7659,
+7660,
+7661,
+7662,
+7663
 ],
-"last_list": "2026-11-25T11:52:02.386381+00:00",
-"cleared_upto": 7621,
-"last_msg_id": 7642
+"last_list": "2026-11-25T12:44:24.031460+00:00",
+"cleared_upto": 7642,
+"last_msg_id": 7663
 }
