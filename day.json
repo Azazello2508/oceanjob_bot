@@ -6787,32 +6787,516 @@
 "time": "2026-11-25T13:13:22+00:00",
 "junior_dp": false,
 "dp_officer": false
+},
+{
+"uk": "",
+"title": "2nd Officer on Bulk carrier",
+"url": "https://crewell.net/en/vacancies/467878/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Bulk carrier"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-25T14:24:38.900783+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Chief Officer on Bulk carrier",
+"url": "https://crewell.net/en/vacancies/467871/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Bulk carrier"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-25T14:24:39.489341+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Chief Officer on Bulk carrier",
+"url": "https://crewell.net/en/vacancies/467877/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Bulk carrier"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-25T14:24:40.076116+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://seajobs.ru/ru/vacancy/18434/chief-officer-container-ship",
+"source": "seajobs.ru",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Container"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-25T14:24:48.622382+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "2nd Officer for Container Ship",
+"url": "https://balticcareer.eu/jobs/2nd-officer-for-container-ship-7/",
+"source": "balticcareer.eu",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Container"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-25T14:27:47.780870+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Chief Officer – 50m Private Motor Yacht",
+"url": "https://balticcareer.eu/jobs/chief-officer-50m-private-motor-yacht/",
+"source": "balticcareer.eu",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-25T14:27:48.275182+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "ASAP",
+"url": "https://t.me/maritimeforum/260033",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-e861e88927fa8c1b",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Container",
+"joining": "Thursday, 26 November · Fujair",
+"salary": "$7,500\n",
+"email": "companyUkraine@ukr.net"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-25T14:09:01+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "NEW MARINE ROLE ALERT – AB/Crane Operator – DSV/Construction – US Visa",
+"url": "https://t.me/seajobfinder/42749",
+"source": "Telegram: @seajobfinder",
+"found": [],
+"fp": "fp-eaf1230cdca9f555",
+"offshore": true,
+"info": {
+"rank": "AB",
+"vessel": "DSV",
+"contract": "Candidates must have ex",
+"email": "marine@etpm.co.uk",
+"company": "etpm.co.uk"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": true,
+"time": "2026-11-25T13:39:38+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "WE ARE HIRING: Master and CO on SPJUB | ADNOC",
+"url": "https://t.me/seajobfinder/42750",
+"source": "Telegram: @seajobfinder",
+"found": [],
+"fp": "fp-c8a0d19558829450",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"salary": "Negotiable",
+"joining": "ASAP",
+"email": "crewing@marpocrew.com.ua",
+"company": "marpocrew.com.ua"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-25T13:40:31+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Multiple Offshore Vacancies – Jack-Up Vessel | Denmark",
+"url": "https://t.me/seajobfinder/42752",
+"source": "Telegram: @seajobfinder",
+"found": [
+"2nd mate",
+"dpo"
+],
+"fp": "fp-5bd8f7d90a3ed860",
+"offshore": true,
+"info": {
+"rank": "DPO",
+"vessel": "Jack-up",
+"contract": "5 weeks",
+"email": "elbek.juraev@selectoffshore.com",
+"company": "selectoffshore.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-25T13:42:36+00:00",
+"junior_dp": false,
+"dp_officer": true
+},
+{
+"uk": "",
+"title": "We have below urgent requirement:",
+"url": "https://t.me/seajobfinder/42753",
+"source": "Telegram: @seajobfinder",
+"found": [
+"chief officer",
+"dpo"
+],
+"fp": "fp-feabe9d45db244ed",
+"offshore": true,
+"info": {
+"rank": "Chief Officer / DPO",
+"vessel": "Crew boat",
+"email": "applications@ryanship.com",
+"company": "ryanship.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-25T13:43:09+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "AB or OS for UK PSV - UK Right to work required We are currently taking application…",
+"title": "AB or OS for UK PSV - UK Right to work required",
+"url": "https://t.me/seajobfinder/42756",
+"source": "Telegram: @seajobfinder",
+"found": [],
+"fp": "fp-404a95963c5f2edf",
+"offshore": true,
+"info": {
+"rank": "AB",
+"vessel": "PSV",
+"contract": "5 weeks (ongoing assignme",
+"email": "recruitment@fletcher-group.com",
+"company": "fletcher-group.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-25T13:52:21+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "Chief Officer (CO) wanted for",
+"url": "https://t.me/marinejobs/44057",
+"source": "Telegram: @marinejobs",
+"found": [
+"chief officer"
+],
+"fp": "fp-11005e82cccd4fa6",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "AHTS",
+"salary": "440 USD/day",
+"joining": "03.12.2026 in Dili",
+"contract": "8 weeks (+/- 2 weeks)",
+"email": "Natalie@ojcrew.com",
+"company": "ojcrew.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-25T13:41:03+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Crew Openings on",
+"url": "https://t.me/marinejobs/44060",
+"source": "Telegram: @marinejobs",
+"found": [
+"chief officer"
+],
+"fp": "fp-154bec2b79c918f2",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 3rd Officer / AB",
+"vessel": "Container",
+"email": "hello@interworldships.com",
+"company": "interworldships.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-25T14:00:34+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "…⛴️ Required documents : UK/Irish passport or UK Right-to-work / Frontier Workers permit. 📄 Compensation &…",
+"title": "Job opening",
+"url": "https://t.me/marinejobs/44062",
+"source": "Telegram: @marinejobs",
+"found": [],
+"fp": "fp-048807dd174e5585",
+"offshore": true,
+"info": {
+"rank": "AB",
+"vessel": "PSV, Passenger",
+"email": "recruitment@fletcher-group.com",
+"company": "fletcher-group.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-25T14:04:46+00:00",
+"junior_dp": false
+},
+{
+"uk": "",
+"title": "2ND OFFICER – CONTAINER SHIP",
+"url": "https://t.me/balticcareer/6125",
+"source": "Telegram: @balticcareer",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-f726f3af87a41ef1",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Container, Ro-Ro",
+"salary": "4140 EUR / month",
+"contract": "10 weeks +/-1 month"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": true,
+"time": "2026-11-25T13:47:29+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "CHIEF OFFICER – 50M PRIVATE MOTOR YACHT",
+"url": "https://t.me/balticcareer/6129",
+"source": "Telegram: @balticcareer",
+"found": [
+"chief officer"
+],
+"fp": "fp-1b1444702856d193",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"joining": "19 December 2026",
+"contract": "al"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-25T14:14:04+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "https://jobatsea.online/job/626287/vacancy-for-2nd-officer-on-ahts-eu-citizen-at-crewing-agency-saga/",
+"url": "https://t.me/offshorevacancies/47478",
+"source": "Telegram: @offshorevacancies",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-ac89a188cf396e65",
+"offshore": true,
+"info": {
+"rank": "2nd Officer",
+"vessel": "AHTS"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-25T13:36:07+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "OILER FOR A TUG!",
+"url": "https://t.me/gm_seaman_cv/2771",
+"source": "Telegram: @gm_seaman_cv",
+"found": [
+"chief officer"
+],
+"fp": "fp-bc0cb9adb98c46ca",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "LNG, General cargo",
+"salary": "Negotiable EUR/day NET",
+"joining": "December 10",
+"contract": "8 weeks (rotation)",
+"email": "cv@ojcrew.com",
+"company": "ojcrew.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-25T13:42:38+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "MASTER",
+"url": "https://t.me/cvsenderseaman/17093",
+"source": "Telegram: @cvsenderseaman",
+"found": [
+"chief officer"
+],
+"fp": "fp-fa0dc665e6358517",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"salary": "Negotiable",
+"joining": "ASAP",
+"email": "arthik@shipworkz.com",
+"company": "shipworkz.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-25T13:50:02+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "SECOND OFFICER",
+"url": "https://t.me/cvsenderseaman/17094",
+"source": "Telegram: @cvsenderseaman",
+"found": [
+"second officer"
+],
+"fp": "fp-8fc6c987a925b360",
+"offshore": true,
+"info": {
+"rank": "2nd Officer",
+"salary": "Negotiable",
+"joining": "ASAP",
+"email": "arthik@shipworkz.com",
+"company": "shipworkz.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-25T13:56:03+00:00",
+"junior_dp": false,
+"dp_officer": false
 }
 ],
 "msg_ids": [
-7664,
-7665,
-7666,
-7667,
-7668,
-7669,
-7670,
-7671,
-7672,
-7673,
-7674,
-7675,
-7676,
-7677,
-7678,
-7679,
-7680,
-7681,
-7682,
-7683,
-7684
+7685,
+7686,
+7687,
+7688,
+7689,
+7690,
+7691,
+7692,
+7693,
+7694,
+7695,
+7696,
+7697,
+7698,
+7699,
+7700,
+7701,
+7702,
+7703,
+7704,
+7705,
+7706
 ],
-"last_list": "2026-11-25T13:36:33.299740+00:00",
-"cleared_upto": 7663,
-"last_msg_id": 7684
+"last_list": "2026-11-25T14:28:44.791216+00:00",
+"cleared_upto": 7684,
+"last_msg_id": 7706
 }
