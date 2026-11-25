@@ -44464,6 +44464,32 @@
 "vessels": [],
 "website": "oathmarineservices.com"
 },
+"obl.ru": {
+"address": "",
+"city": "",
+"co": 0,
+"country": "",
+"emails": [
+"levashova@obl.ru"
+],
+"first": "2026-11-25",
+"last": "2026-11-25",
+"links": {},
+"name": "",
+"off": 0,
+"offshore_hint": false,
+"phones": [],
+"so": 0,
+"sources": [
+"@rekamore_su"
+],
+"telegram": [],
+"total": 1,
+"vessels": [
+"Ro-Ro/PCTC"
+],
+"website": ""
+},
 "oca-crewing.com": {
 "address": "Pushkinska 56",
 "city": "Odessa",
@@ -63470,7 +63496,7 @@
 "olive_crew": 2977,
 "onboard_su": 20864,
 "pervoemorskoe": 4542,
-"rekamore_su": 166083,
+"rekamore_su": 166085,
 "roster_marine": 1749,
 "seajobfinder": 42734,
 "seamenjob": 106671,
