@@ -79,15 +79,98 @@
 "time": "2026-11-24T20:14:58.677927+00:00",
 "junior_dp": false,
 "dp_officer": false
+},
+{
+"uk": "",
+"title": "Компания ООО \"Легаси Марин\" приглашает на работу:",
+"url": "https://t.me/rekamore_su/166089",
+"source": "Telegram: @rekamore_su",
+"found": [
+"chief officer",
+"старший помощник"
+],
+"fp": "fp-6ab32fd1cea10272",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 3rd Officer / AB",
+"vessel": "Aframax",
+"salary": "200 000 руб. на руки",
+"joining": "в ближайшее время",
+"contract": "6-8 недель",
+"email": "crew.cv@legacymarine.ru",
+"company": "legacymarine.ru"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": true,
+"time": "2026-11-25T04:12:02+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Компания \"Polluks Star\" приглашает на работу:",
+"url": "https://t.me/rekamore_su/166090",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-7b980034f2c3aa70",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo",
+"salary": "7300 евро",
+"joining": "01 декабря",
+"contract": "4 месяца",
+"email": "info@polluks-star.com",
+"company": "polluks-star.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": true,
+"time": "2026-11-25T04:14:03+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Компания ООО «Смарт Шиппинг» приглашает на работу:",
+"url": "https://t.me/rekamore_su/166093",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-0d4c35648f3b6a62",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Tanker",
+"salary": "220 000 рублей",
+"joining": "срочная, в Астрахани",
+"email": "anastasya_afanaseva@mail.ru",
+"company": "ООО «Смарт Шиппинг»"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": true,
+"time": "2026-11-25T04:20:03+00:00",
+"junior_dp": false,
+"dp_officer": false
 }
 ],
 "msg_ids": [
-7491,
-7492,
-7493,
-7494
+7495,
+7496,
+7497,
+7498,
+7499,
+7500
 ],
-"last_list": "2026-11-24T21:07:09.076692+00:00",
-"cleared_upto": 7490,
-"last_msg_id": 7494
+"last_list": "2026-11-25T04:37:49.894575+00:00",
+"cleared_upto": 7494,
+"last_msg_id": 7500
 }
