@@ -1544,7 +1544,7 @@
 "mavolzhan@aari.ru"
 ],
 "first": "2026-11-03",
-"last": "2026-11-24",
+"last": "2026-11-25",
 "links": {},
 "name": "",
 "off": 5,
@@ -1559,7 +1559,7 @@
 "@seamenjob"
 ],
 "telegram": [],
-"total": 20,
+"total": 21,
 "vessels": [
 "Reefer"
 ],
@@ -6993,13 +6993,13 @@
 "ashipping.ru": {
 "address": "",
 "city": "",
-"co": 37,
+"co": 38,
 "country": "",
 "emails": [
 "rabota@ashipping.ru"
 ],
 "first": "2026-11-03",
-"last": "2026-11-24",
+"last": "2026-11-25",
 "links": {},
 "name": "ООО “ТК Северный проект”",
 "off": 0,
@@ -7013,7 +7013,7 @@
 "@seamenjob"
 ],
 "telegram": [],
-"total": 54,
+"total": 57,
 "vessels": [
 "General cargo",
 "Tanker"
@@ -8801,14 +8801,14 @@
 "balticss.com": {
 "address": "Pobeda sq. 4? office 18",
 "city": "Kaliningrad",
-"co": 25,
+"co": 26,
 "country": "Russia",
 "emails": [
 "crew@balticss.com",
 "info@balticss.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-24",
+"last": "2026-11-25",
 "links": {
 "crewell": "https://crewell.net/en/companies/262841/"
 },
@@ -8825,7 +8825,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 45,
+"total": 47,
 "vessels": [
 "Bulk"
 ],
@@ -10335,13 +10335,13 @@
 "bsklogistic.ru": {
 "address": "",
 "city": "",
-"co": 14,
+"co": 15,
 "country": "",
 "emails": [
 "kadry@bsklogistic.ru"
 ],
 "first": "2026-11-03",
-"last": "2026-11-24",
+"last": "2026-11-25",
 "links": {},
 "name": "ООО «Борская судоходная компания»",
 "off": 0,
@@ -10355,7 +10355,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 32,
+"total": 33,
 "vessels": [],
 "website": ""
 },
@@ -11199,7 +11199,7 @@
 "personal@cdc.business"
 ],
 "first": "2026-11-03",
-"last": "2026-11-24",
+"last": "2026-11-25",
 "links": {},
 "name": "ООО «Строительная дноуглубительная компания»",
 "off": 0,
@@ -11213,7 +11213,7 @@
 "@seamenjob"
 ],
 "telegram": [],
-"total": 30,
+"total": 31,
 "vessels": [
 "Dredger"
 ],
@@ -14622,7 +14622,7 @@
 "crew@donmastershipping.ru"
 ],
 "first": "2026-11-03",
-"last": "2026-11-24",
+"last": "2026-11-25",
 "links": {},
 "name": "ООО \"Донмастер\"",
 "off": 0,
@@ -14639,7 +14639,7 @@
 "@seamenjob"
 ],
 "telegram": [],
-"total": 34,
+"total": 35,
 "vessels": [
 "General cargo"
 ],
@@ -16941,6 +16941,32 @@
 "vessels": [
 "General cargo",
 "Tanker"
+],
+"website": ""
+},
+"fontisenergy.com": {
+"address": "",
+"city": "",
+"co": 0,
+"country": "",
+"emails": [
+"mexico.recruitment@fontisenergy.com"
+],
+"first": "2026-11-25",
+"last": "2026-11-25",
+"links": {},
+"name": "",
+"off": 1,
+"offshore_hint": false,
+"phones": [],
+"so": 0,
+"sources": [
+"@seamenjob"
+],
+"telegram": [],
+"total": 1,
+"vessels": [
+"Offshore"
 ],
 "website": ""
 },
@@ -26839,7 +26865,7 @@
 "kuznetsova@midvolga.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-24",
+"last": "2026-11-25",
 "links": {},
 "name": "",
 "off": 0,
@@ -26853,7 +26879,7 @@
 "@seamenjob"
 ],
 "telegram": [],
-"total": 43,
+"total": 44,
 "vessels": [
 "General cargo",
 "Tanker"
@@ -43588,7 +43614,7 @@
 "nkcrew@nkflot.ru"
 ],
 "first": "2026-11-03",
-"last": "2026-11-24",
+"last": "2026-11-25",
 "links": {},
 "name": "ООО \"НК-Флот\"",
 "off": 0,
@@ -43602,7 +43628,7 @@
 "@seamenjob"
 ],
 "telegram": [],
-"total": 42,
+"total": 43,
 "vessels": [
 "Tanker",
 "Tug"
@@ -44064,13 +44090,13 @@
 "north-alliance.com": {
 "address": "",
 "city": "",
-"co": 45,
+"co": 47,
 "country": "",
 "emails": [
 "vacancy@north-alliance.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-24",
+"last": "2026-11-25",
 "links": {},
 "name": "",
 "off": 36,
@@ -44085,7 +44111,7 @@
 "@vesselsea"
 ],
 "telegram": [],
-"total": 156,
+"total": 162,
 "vessels": [
 "Offshore",
 "Passenger",
@@ -48719,7 +48745,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 46,
+"total": 48,
 "vessels": [
 "Bulk"
 ],
@@ -49109,7 +49135,7 @@
 "zalikovaaa@rusgeology.ru"
 ],
 "first": "2026-11-03",
-"last": "2026-11-24",
+"last": "2026-11-25",
 "links": {
 "crewell": "https://crewell.net/en/companies/266347/"
 },
@@ -49124,7 +49150,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 35,
+"total": 37,
 "vessels": [],
 "website": "rusgeology.ru"
 },
@@ -49137,7 +49163,7 @@
 "crew@rusship.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-24",
+"last": "2026-11-25",
 "links": {},
 "name": "ООО \"Руссшип\"",
 "off": 0,
@@ -49151,7 +49177,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 41,
+"total": 42,
 "vessels": [],
 "website": ""
 },
@@ -49517,7 +49543,7 @@
 "info.poland@tospeople.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-24",
+"last": "2026-11-25",
 "links": {
 "crewell": "https://crewell.net/en/companies/47322/"
 },
@@ -49541,7 +49567,7 @@
 "@offshoreatsea"
 ],
 "telegram": [],
-"total": 50,
+"total": 52,
 "uk": 4,
 "vessels": [
 "Bulk",
@@ -49647,7 +49673,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 12,
+"total": 14,
 "vessels": [
 "Passenger"
 ],
@@ -52980,7 +53006,7 @@
 "cv@smacrewing.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-24",
+"last": "2026-11-25",
 "links": {
 "crewell": "https://crewell.net/en/companies/165163/"
 },
@@ -53005,7 +53031,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 57,
+"total": 60,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -60333,7 +60359,7 @@
 "info@xt-romania.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-20",
+"last": "2026-11-25",
 "links": {
 "crewell": "https://crewell.net/en/companies/263731/"
 },
@@ -60351,7 +60377,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 13,
+"total": 14,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -63471,7 +63497,7 @@
 "allcrewing": 3829,
 "andreeyVstart": 1428,
 "balticcareer": 6077,
-"crewingua": 45124,
+"crewingua": 45125,
 "crs_vacancies": 3601,
 "cruiseshipjobs": 8,
 "cvcrewcom": 12907,
@@ -63485,12 +63511,12 @@
 "job_for_seaman": 17126,
 "jobfor_seamen": 12817,
 "marinecareerorg": 17774,
-"marinejobs": 44005,
+"marinejobs": 44008,
 "marinejobz": 194156,
 "marineman_ltd": 48470,
 "maritimeforum": 259997,
 "merchantNavyrealjob": 265,
-"morehod_ru": 31260,
+"morehod_ru": 31263,
 "oceancrewjobs": 32976,
 "offshoreatsea": 25864,
 "offshorecv": 1623,
@@ -63499,14 +63525,14 @@
 "olive_crew": 2977,
 "onboard_su": 20864,
 "pervoemorskoe": 4542,
-"rekamore_su": 166120,
+"rekamore_su": 166141,
 "roster_marine": 1749,
-"seajobfinder": 42734,
-"seamenjob": 106674,
+"seajobfinder": 42735,
+"seamenjob": 106676,
 "seamenvacancy": 1397,
 "seavacancies": 25275,
 "shipjobsindia": 420,
-"shipscreweu": 16743,
+"shipscreweu": 16744,
 "sidantey": 399,
 "supermariner_ua": 3959,
 "truemalina_offshore": 846,
