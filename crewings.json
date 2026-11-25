@@ -4291,7 +4291,7 @@
 "ukrcrewing": "https://ukrcrewing.com.ua/en/agency/alpha_crew"
 },
 "name": "AlphaCrew Maritime",
-"off": 646,
+"off": 647,
 "offshore_hint": true,
 "phones": [
 "+35726000899",
@@ -4327,7 +4327,7 @@
 "@Olga_Alpha_Crew",
 "@irina_alpha"
 ],
-"total": 699,
+"total": 700,
 "uk": 25,
 "vessels": [
 "Bulk",
@@ -5360,7 +5360,7 @@
 "angloeastern.com": {
 "address": "Citadeles 12",
 "city": "Riga",
-"co": 24,
+"co": 25,
 "country": "Latvia",
 "emails": [
 "ae-mism-mhr-cv@angloeastern.com",
@@ -5386,7 +5386,7 @@
 "+380487340787",
 "+380996409990+380930333042"
 ],
-"so": 30,
+"so": 31,
 "sources": [
 "@CREW_ARIA",
 "@OffshoreFleetJob",
@@ -5402,7 +5402,7 @@
 "@marinejobs"
 ],
 "telegram": [],
-"total": 138,
+"total": 139,
 "uk": 15,
 "vessels": [
 "Bulk",
@@ -16094,7 +16094,7 @@
 "@supermariner_ua"
 ],
 "telegram": [],
-"total": 279,
+"total": 281,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -43320,7 +43320,7 @@
 "@seamenjob"
 ],
 "telegram": [],
-"total": 35,
+"total": 36,
 "vessels": [
 "Reefer"
 ],
@@ -52765,7 +52765,7 @@
 "crewell": "https://crewell.net/en/companies/361473/"
 },
 "name": "Shipworkz",
-"off": 15,
+"off": 17,
 "offshore_hint": false,
 "phones": [],
 "so": 2,
@@ -52777,7 +52777,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 15,
+"total": 17,
 "vessels": [
 "Offshore"
 ],
@@ -53609,7 +53609,7 @@
 "hr@sovfracht.ru"
 ],
 "first": "2026-11-03",
-"last": "2026-11-24",
+"last": "2026-11-25",
 "links": {},
 "name": "АО «Совфрахт»",
 "off": 0,
@@ -53623,7 +53623,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 12,
+"total": 13,
 "vessels": [
 "Passenger",
 "Tanker"
@@ -63800,7 +63800,7 @@
 "crs_vacancies": 3601,
 "cruiseshipjobs": 8,
 "cvcrewcom": 12908,
-"cvsenderseaman": 17099,
+"cvsenderseaman": 17101,
 "ecrewing": 3249,
 "findseajobs": 32572,
 "galaxymaritimeua": 1250,
@@ -63810,7 +63810,7 @@
 "job_for_seaman": 17135,
 "jobfor_seamen": 12826,
 "marinecareerorg": 17774,
-"marinejobs": 44066,
+"marinejobs": 44070,
 "marinejobz": 194156,
 "marineman_ltd": 48470,
 "maritimeforum": 260033,
@@ -63819,15 +63819,15 @@
 "oceancrewjobs": 32991,
 "offshoreatsea": 25915,
 "offshorecv": 1627,
-"offshorevacancies": 47481,
+"offshorevacancies": 47482,
 "oilrigs": 778,
 "olive_crew": 2984,
 "onboard_su": 20872,
 "pervoemorskoe": 4542,
-"rekamore_su": 166202,
+"rekamore_su": 166203,
 "roster_marine": 1751,
 "seajobfinder": 42759,
-"seamenjob": 106715,
+"seamenjob": 106716,
 "seamenvacancy": 1397,
 "seavacancies": 25275,
 "shipjobsindia": 420,

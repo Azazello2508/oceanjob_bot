@@ -7270,6 +7270,84 @@
 "time": "2026-11-25T13:56:03+00:00",
 "junior_dp": false,
 "dp_officer": false
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/371348",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer"
+},
+"company": "",
+"place": "",
+"new": true,
+"repeat": false,
+"time": "2026-11-25T14:37:02.249886+00:00"
+},
+{
+"uk": "",
+"title": "Chief Officer — VLGC",
+"url": "https://seajobs.pro/jobs/chief-officer-vlgc-0e40d0a5-ee80-488b-b0c7-691601ae8dad",
+"source": "seajobs.pro",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer"
+},
+"company": "",
+"place": "",
+"new": true,
+"repeat": false,
+"time": "2026-11-25T14:37:47.072787+00:00"
+},
+{
+"uk": "",
+"title": "Crew for Open-Hatch Gantry Crane Vessels",
+"url": "https://t.me/seamenjob/106716",
+"source": "Telegram: @seamenjob",
+"found": [
+"chief officer",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-f7955f3849ff922e",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer / AB",
+"email": "recruitmentmnl@angloeastern.com",
+"company": "angloeastern.com"
+},
+"company": "",
+"place": "",
+"new": true,
+"repeat": false,
+"time": "2026-11-25T14:30:47+00:00"
+},
+{
+"uk": "",
+"title": "https://jobatsea.online/job/626384/hiring-chief-officer-dpo-psv-dp2-at-select-offshore/",
+"url": "https://t.me/offshorevacancies/47482",
+"source": "Telegram: @offshorevacancies",
+"found": [
+"chief officer",
+"dpo"
+],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "Chief Officer / DPO",
+"vessel": "PSV"
+},
+"company": "",
+"place": "",
+"new": true,
+"repeat": false,
+"time": "2026-11-25T14:31:56+00:00"
 }
 ],
 "msg_ids": [
