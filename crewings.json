@@ -22470,10 +22470,11 @@
 "country": "",
 "emails": [
 "a.krasnova@kld.gazpromflot.ru",
-"application@kld.gazpromflot.ru"
+"application@kld.gazpromflot.ru",
+"y.magranova@kld.gazpromflot.ru"
 ],
 "first": "2026-11-12",
-"last": "2026-11-16",
+"last": "2026-11-25",
 "links": {},
 "name": "",
 "off": 0,
@@ -22484,7 +22485,7 @@
 "@vesselsea"
 ],
 "telegram": [],
-"total": 2,
+"total": 3,
 "vessels": [
 "Chemical",
 "LPG/LNG",
@@ -63482,7 +63483,7 @@
 "truemalina_offshore": 846,
 "ukrcrewing_official": 2397,
 "univis_crewing": 5045,
-"vesselsea": 3167,
+"vesselsea": 3168,
 "vshipsoffshore": 1070
 },
 "tg_low": {
