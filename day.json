@@ -597,25 +597,44 @@
 "time": "2026-11-25T20:11:21+00:00",
 "junior_dp": true,
 "dp_officer": false
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/371395",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-25T21:45:11.845596+00:00",
+"junior_dp": false,
+"dp_officer": false
 }
 ],
 "msg_ids": [
-7856,
-7857,
-7858,
-7859,
-7860,
-7861,
-7862,
-7863,
-7864,
-7865,
-7866,
-7867,
-7868
+7869,
+7870,
+7871,
+7872,
+7873,
+7874,
+7875,
+7876,
+7877,
+7878,
+7879,
+7880,
+7881
 ],
-"last_list": "2026-11-25T20:57:02.252265+00:00",
-"cleared_upto": 7855,
+"last_list": "2026-11-25T21:48:14.150300+00:00",
+"cleared_upto": 7868,
 "force": true,
-"last_msg_id": 7868
+"last_msg_id": 7881
 }
