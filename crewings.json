@@ -38447,6 +38447,31 @@
 "vessels": [],
 "website": ""
 },
+"name:taylor maritime": {
+"address": "",
+"city": "",
+"co": 0,
+"country": "",
+"emails": [],
+"first": "2026-11-26",
+"last": "2026-11-26",
+"links": {},
+"name": "Taylor Maritime",
+"off": 1,
+"offshore_hint": false,
+"phones": [],
+"so": 0,
+"sources": [
+"@seamenjob"
+],
+"telegram": [],
+"total": 1,
+"vessels": [
+"Offshore",
+"Tanker"
+],
+"website": ""
+},
 "name:team ship crew offline germany member since: may 2022 no active vacancies view profile": {
 "address": "",
 "city": "",
@@ -45247,28 +45272,31 @@
 "co": 0,
 "country": "India",
 "emails": [
-"crewing2@oceanicstarshipping.com"
+"crewing2@oceanicstarshipping.com",
+"info@oceanicstarshipping.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-24",
+"last": "2026-11-26",
 "links": {
 "crewell": "https://crewell.net/en/companies/206654/"
 },
 "name": "Oceanic Star Shipping Pvt Ltd",
-"off": 0,
+"off": 2,
 "offshore_hint": false,
 "phones": [],
 "so": 0,
 "sources": [
 "@marinejobs",
 "@maritimeforum",
+"@offshoreatsea",
 "@seamenjob",
 "crewell.net"
 ],
 "telegram": [],
-"total": 3,
+"total": 5,
 "vessels": [
 "Chemical",
+"Offshore",
 "Tanker"
 ],
 "website": "oceanicstarshipping.com"
@@ -52743,7 +52771,7 @@
 "victoria@sevenseasrecruitment.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-24",
+"last": "2026-11-26",
 "links": {},
 "name": "",
 "off": 2,
@@ -52761,7 +52789,7 @@
 "@shipscreweu"
 ],
 "telegram": [],
-"total": 76,
+"total": 78,
 "vessels": [
 "Offshore",
 "Passenger"
@@ -63791,6 +63819,7 @@
 "tankers pt winning logistics ship management": "winninglogistic.com",
 "tankship management": "tankshipmanagement.com",
 "tanto intim line": "tantonet.com",
+"taylor maritime": "name:taylor maritime",
 "tbc shipmanagement": "tbc-shipmanagement.com",
 "tbs shipping": "tsmshipping.com.ua",
 "team ship crew & kg": "teamship.de",
@@ -64324,8 +64353,8 @@
 "OffshoreFleetJob": 11106,
 "Offshore_Vacancies": 1041,
 "OnlyOffshore": 39332,
-"OnlyYacht": 2350,
-"SM_job_center": 2537,
+"OnlyYacht": 2352,
+"SM_job_center": 2538,
 "SeaSeaWorks": 3934,
 "SeaViewMaritime": 591,
 "Sea_format": 12362,
@@ -64347,15 +64376,15 @@
 "ismira_agency": 440,
 "job_for_seaman": 17143,
 "jobfor_seamen": 12842,
-"marinecareerorg": 17775,
-"marinejobs": 44162,
+"marinecareerorg": 17776,
+"marinejobs": 44163,
 "marinejobz": 194156,
 "marineman_ltd": 48486,
 "maritimeforum": 260457,
 "merchantNavyrealjob": 265,
 "morehod_ru": 31319,
 "oceancrewjobs": 33012,
-"offshoreatsea": 26017,
+"offshoreatsea": 26019,
 "offshorecv": 1628,
 "offshorevacancies": 47530,
 "oilrigs": 778,
@@ -64365,13 +64394,13 @@
 "rekamore_su": 166317,
 "roster_marine": 1751,
 "seajobfinder": 42808,
-"seamenjob": 106752,
+"seamenjob": 106753,
 "seamenvacancy": 1403,
 "seavacancies": 25275,
 "shipjobsindia": 420,
 "shipscreweu": 16760,
 "sidantey": 399,
-"supermariner_ua": 3965,
+"supermariner_ua": 3966,
 "truemalina_offshore": 851,
 "ukrcrewing_official": 2399,
 "univis_crewing": 5053,
