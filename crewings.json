@@ -26040,7 +26040,7 @@
 "last": "2026-11-26",
 "links": {},
 "name": "MARPO Crewing",
-"off": 112,
+"off": 113,
 "offshore_hint": false,
 "phones": [
 "+380500726878",
@@ -26070,7 +26070,7 @@
 "telegram": [
 "@cvpro_mailing"
 ],
-"total": 121,
+"total": 122,
 "uk": 6,
 "vessels": [
 "Dredger",
@@ -58416,7 +58416,7 @@
 "univis.com.ua": {
 "address": "",
 "city": "",
-"co": 68,
+"co": 69,
 "country": "",
 "emails": [
 "hr@univis.com.ua",
@@ -58435,7 +58435,7 @@
 "+380983194698",
 "+380983286698"
 ],
-"so": 60,
+"so": 61,
 "sources": [
 "@cvsenderseaman",
 "@job_for_seaman",
@@ -58447,7 +58447,7 @@
 "telegram": [
 "@univisltd"
 ],
-"total": 304,
+"total": 308,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -64351,7 +64351,7 @@
 "marinejobs": 44162,
 "marinejobz": 194156,
 "marineman_ltd": 48486,
-"maritimeforum": 260450,
+"maritimeforum": 260456,
 "merchantNavyrealjob": 265,
 "morehod_ru": 31319,
 "oceancrewjobs": 33011,
