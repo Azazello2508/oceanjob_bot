@@ -6994,33 +6994,757 @@
 "time": "2026-11-26T12:50:56+00:00",
 "junior_dp": false,
 "dp_officer": false
+},
+{
+"uk": "",
+"title": "2nd Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/371525",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-26T14:04:34.878725+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/371527",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-26T14:04:35.959663+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Chief Officer — Offshore Vessel",
+"url": "https://seajobs.pro/jobs/chief-officer-offshore-vessel-affd0d16-efe5-48e2-98e6-168c7d5ffd0f",
+"source": "seajobs.pro",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "Chief Officer"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-26T14:05:15.940835+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Second Officer on Offshore Vessel OceanCrew ·  Deck Second Officer second officer offshore vessel Competitive View Job 46 min ago",
+"url": "https://findseajobs.com/seajobs/481212.html",
+"source": "findseajobs.com",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "2nd Officer"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-26T14:05:48.566026+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Chief Officer on Motor Yacht OceanCrew ·  Deck Motor Yacht Chief Officer chief officer motor yacht Competitive View Job 46 min ago",
+"url": "https://findseajobs.com/seajobs/481199.html",
+"source": "findseajobs.com",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-26T14:05:49.719649+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Chief Officer on Offshore Vessel OceanCrew ·  Deck Chief Officer chief officer offshore vessel Competitive View Job 46 min ago",
+"url": "https://findseajobs.com/seajobs/481211.html",
+"source": "findseajobs.com",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "Chief Officer"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-26T14:05:50.210962+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Chief Officer on Ro-Ro BSC Odessa ·  Deck Ro-Ro Chief Officer chief officer ro-ro $7,200 - $7,500 per month View Job 46 min ago",
+"url": "https://findseajobs.com/seajobs/481239.html",
+"source": "findseajobs.com",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Ro-Ro",
+"salary": "$7,200 - $7,500"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-26T14:05:50.637441+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "We are looking for Ch Off/SDPO to join AHTS DP2. Start: 10/01/2027; rotation: 2/2 months; location: Tunisia. Please send your CV to alyona@tospeople.com",
+"url": "https://t.me/maritimeforum/260392",
+"source": "Telegram: @maritimeforum",
+"found": [
+"sdpo",
+"dpo"
+],
+"fp": "fp-411f3c83fef924e9",
+"offshore": true,
+"info": {
+"rank": "SDPO",
+"vessel": "AHTS",
+"contract": "2/2 months; location: Tun",
+"email": "alyona@tospeople.com",
+"company": "tospeople.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-26T13:39:25+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": ",,Золотой Штурвал ,,:",
+"url": "https://t.me/maritimeforum/260393",
+"source": "Telegram: @maritimeforum",
+"found": [
+"старпом"
+],
+"fp": "fp-45b10b0c13946194",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Bulk carrier",
+"salary": "10.000$ 12.000двт.Английский я…",
+"joining": "12.11",
+"contract": "6+-1"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-26T13:39:53+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "На Балкер 70.000двт.Фитер Китайцы с Визой и Английский язык  обезательно  2500$-3000$",
+"url": "https://t.me/maritimeforum/260394",
+"source": "Telegram: @maritimeforum",
+"found": [
+"старпом"
+],
+"fp": "fp-0e7f8e28e0481289",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Bulk carrier",
+"salary": "3000$ ЗВОНИТЕ МЕНЕДЖЕР ИРИНА В…",
+"joining": "ASAP",
+"contract": "6+-1"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-26T13:39:53+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "We Are Hiring – AHTS DP2 | Tunisia",
+"url": "https://t.me/maritimeforum/260397",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer",
+"2nd officer",
+"sdpo",
+"dpo",
+"2nd off"
+],
+"fp": "fp-af1ba9fbdb3f1865",
+"offshore": true,
+"info": {
+"rank": "Chief Officer / 2nd Officer / SDPO",
+"vessel": "AHTS",
+"email": "Y.Shabatura@tospeople.com",
+"company": "tospeople.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-26T13:40:31+00:00",
+"junior_dp": false,
+"dp_officer": true
+},
+{
+"uk": "",
+"title": "ONLY UKRAINIAN NATIONALITY",
+"url": "https://t.me/maritimeforum/260400",
+"source": "Telegram: @maritimeforum",
+"found": [],
+"fp": "fp-d90563df99944973",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "LPG",
+"joining": "for Feb",
+"contract": "4 Months",
+"email": "ua-csc-ode-man@bs-shipmanagement.com",
+"company": "bs-shipmanagement.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": true,
+"time": "2026-11-26T13:41:30+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "ONLY UKRAINIAN NATIONALITY",
+"url": "https://t.me/maritimeforum/260402",
+"source": "Telegram: @maritimeforum",
+"found": [],
+"fp": "fp-67a618f9987f7158",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "LPG",
+"joining": "beg January",
+"contract": "4 months",
+"email": "ua-csc-ode-man@bs-shipmanagement.com",
+"company": "bs-shipmanagement.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-26T13:42:01+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Position:",
+"url": "https://t.me/maritimeforum/260404",
+"source": "Telegram: @maritimeforum",
+"found": [
+"dpo"
+],
+"fp": "fp-fd2005ea894e68ee",
+"offshore": true,
+"info": {
+"rank": "DPO",
+"vessel": "PSV",
+"salary": "220 $",
+"email": "cv@tsmexp.com",
+"company": "tsmexp.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-26T13:43:03+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "𝗪𝗲 𝗮𝗿𝗲 𝗵𝗶𝗿𝗶𝗻𝗴 | FPSO (Offshore)",
+"url": "https://t.me/seajobfinder/42767",
+"source": "Telegram: @seajobfinder",
+"found": [
+"chief officer"
+],
+"fp": "fp-0435d4c19356d1e9",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "VLCC",
+"contract": "6 weeks on / 6 weeks off"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-26T13:26:50+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Officer SDPO for W2W vessel * Joining date: 25 Nov * Duration: 6 weeks",
+"url": "https://t.me/seajobfinder/42770",
+"source": "Telegram: @seajobfinder",
+"found": [
+"sdpo",
+"dpo"
+],
+"fp": "fp-cbee4649ea6d5f3e",
+"offshore": true,
+"info": {
+"rank": "SDPO",
+"joining": "25 Nov  Duration: 6 weeks  4",
+"contract": "6 weeks  42770"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-26T13:28:39+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "WRS - Worldwide Recruitment Solutions are looking for a 2nd officer to join a pipe lay vessel in Trinidad on the 19th of December for 3 weeks.",
+"url": "https://t.me/seajobfinder/42786",
+"source": "Telegram: @seajobfinder",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-42309a638e4a8583",
+"offshore": true,
+"info": {
+"rank": "2nd Officer",
+"email": "Tilly.M@worldwide-rs.com",
+"company": "worldwide-rs.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-26T13:45:19+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "2x Master DPO Vacancies – Guyana",
+"url": "https://t.me/seajobfinder/42787",
+"source": "Telegram: @seajobfinder",
+"found": [
+"dpo"
+],
+"fp": "fp-ae312aefecd7abef",
+"offshore": true,
+"info": {
+"rank": "DPO",
+"vessel": "Tanker",
+"joining": "Once visa is issued (minimum 2",
+"contract": "60 days ± 30 days",
+"email": "elbek.juraev@selectoffshore.com",
+"company": "selectoffshore.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-26T13:46:53+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "MADO",
+"url": "https://t.me/marinejobs/44140",
+"source": "Telegram: @marinejobs",
+"found": [
+"chief officer"
+],
+"fp": "fp-2367e93db94fe6b2",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "LPG",
+"contract": "❗️",
+"email": "ua-csc-ode-man@bs-shipmanagement.com",
+"company": "bs-shipmanagement.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-26T13:46:56+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Data Processing Officer (DPO)",
+"url": "https://t.me/marinejobs/44143",
+"source": "Telegram: @marinejobs",
+"found": [
+"dpo"
+],
+"fp": "fp-8b64084d6a59d6de",
+"offshore": true,
+"info": {
+"rank": "DPO",
+"vessel": "PSV",
+"salary": "220 USD per day",
+"joining": "Beginning December 2026",
+"contract": "2 months",
+"email": "cv@tsmexp.com",
+"company": "tsmexp.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-26T14:02:52+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Urgent Opening: 2O/DPO for PSV DP2",
+"url": "https://t.me/marinejobs/44144",
+"source": "Telegram: @marinejobs",
+"found": [
+"dpo",
+"2off",
+"2o/dpo"
+],
+"fp": "fp-83a8c739ba809b6f",
+"offshore": true,
+"info": {
+"rank": "2nd Officer / DPO",
+"vessel": "PSV",
+"salary": "220 USD per day",
+"joining": "Early December",
+"contract": "2 months",
+"email": "cv@tsmexp.com",
+"company": "tsmexp.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-26T14:05:01+00:00",
+"junior_dp": false,
+"dp_officer": true
+},
+{
+"uk": "",
+"title": "Searching for 2nd Off for AHT. Start 08.01.2027, duration 3 months, salary 160 usd pd. Location: Guyana. Previous experience on similar vessels. Good English le…",
+"url": "https://t.me/jobfor_seamen/12841",
+"source": "Telegram: @jobfor_seamen",
+"found": [
+"2nd off"
+],
+"fp": "fp-20088dce1f2ff404",
+"offshore": true,
+"info": {
+"rank": "2nd Officer",
+"salary": "160 usd pd. Location: Guyana.…",
+"contract": "3 months, salary 160 usd",
+"email": "crewing@bsc-odessa.com.ua",
+"company": "bsc-odessa.com.ua"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-26T13:19:02+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Offshore. Job selection for 26/11/2026",
+"url": "https://t.me/SM_job_center/2536",
+"source": "Telegram: @SM_job_center",
+"found": [
+"chief officer"
+],
+"fp": "fp-7519498888019179",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "AHTS, OSV",
+"salary": "$500-$600/day",
+"email": "info@asteamshipmanagement.com",
+"company": "asteamshipmanagement.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-26T13:43:59+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "2nd 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 – Accommodation Barge",
+"url": "https://t.me/gm_seaman_cv/2778",
+"source": "Telegram: @gm_seaman_cv",
+"found": [
+"chief officer",
+"2nd officer",
+"sdpo",
+"dpo",
+"2nd off"
+],
+"fp": "fp-0a0e33ef2c8c5b33",
+"offshore": true,
+"info": {
+"rank": "Chief Officer / 2nd Officer / SDPO",
+"vessel": "AHTS, Tug",
+"joining": "begining of February",
+"contract": "10W, +/- 4W",
+"email": "Y.Shabatura@tospeople.com",
+"company": "tospeople.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-26T13:54:17+00:00",
+"junior_dp": false,
+"dp_officer": true
+},
+{
+"uk": "",
+"title": "OPEN POSITIONS",
+"url": "https://t.me/cvsenderseaman/17209",
+"source": "Telegram: @cvsenderseaman",
+"found": [
+"chief officer"
+],
+"fp": "fp-e515e69cfc342901",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Bulk carrier",
+"joining": "05.01.2027",
+"salary": "9500 $",
+"email": "cv@statusconstanta.ro",
+"company": "statusconstanta.ro"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-26T13:32:55+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "1ST OFFICER SDPO",
+"url": "https://t.me/cvsenderseaman/17211",
+"source": "Telegram: @cvsenderseaman",
+"found": [
+"1st officer",
+"sdpo",
+"dpo"
+],
+"fp": "fp-900ae31cda34f402",
+"offshore": true,
+"info": {
+"rank": "Chief Officer / SDPO",
+"salary": "9.211 EUR",
+"joining": "08.12",
+"contract": "details",
+"email": "romania@stodig.no",
+"company": "stodig.no"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-26T13:38:55+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "SECOND OFFICER",
+"url": "https://t.me/cvsenderseaman/17213",
+"source": "Telegram: @cvsenderseaman",
+"found": [
+"second officer"
+],
+"fp": "fp-e6b7265f8d6525f5",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "LPG",
+"salary": "5000-5500 $ per month",
+"joining": "16.12.2026",
+"contract": "4 months",
+"email": "office@astmaritime.com",
+"company": "astmaritime.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-26T13:50:55+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "NEED STAFF ONBOARD CRUISE LINER",
+"url": "https://t.me/oceancrewjobs/33000",
+"source": "Telegram: @oceancrewjobs",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-2adcba3a97c9b92b",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Bulk carrier, AHTS",
+"company": "https://oceancrew.org/vacancies/cru…"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-26T13:18:07+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "WE ARE HIRING ON BULK CARRIER VESSEL",
+"url": "https://t.me/oceancrewjobs/33001",
+"source": "Telegram: @oceancrewjobs",
+"found": [
+"chief officer",
+"second officer"
+],
+"fp": "fp-36ed0fd252a81513",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer / 3rd Officer",
+"vessel": "Bulk carrier, Container",
+"company": "https://oceancrew.org/vacancies/mer…"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-26T13:18:14+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "OPEN POSITIONS FOR OFFSHORE VESSELS",
+"url": "https://t.me/oceancrewjobs/33002",
+"source": "Telegram: @oceancrewjobs",
+"found": [
+"second mate",
+"dpo"
+],
+"fp": "fp-8eb67d92ca85a0d7",
+"offshore": true,
+"info": {
+"rank": "DPO / AB",
+"vessel": "PSV, Barge",
+"company": "https://oceancrew.org/vacancies/off…"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-26T13:18:21+00:00",
+"junior_dp": false,
+"dp_officer": true
 }
 ],
 "msg_ids": [
-8078,
-8079,
-8080,
-8081,
-8082,
-8083,
-8084,
-8085,
-8086,
-8087,
-8088,
-8089,
-8090,
-8091,
-8092,
-8093,
-8094,
-8095,
-8096,
-8097,
-8098,
-8099
+8100,
+8101,
+8102,
+8103,
+8104,
+8105,
+8106,
+8107,
+8108,
+8109,
+8110,
+8111,
+8112,
+8113,
+8114,
+8115,
+8116,
+8117,
+8118,
+8119,
+8120,
+8121,
+8122
 ],
-"last_list": "2026-11-26T13:16:26.740572+00:00",
-"cleared_upto": 8077,
-"last_msg_id": 8099
+"last_list": "2026-11-26T14:07:09.121710+00:00",
+"cleared_upto": 8099,
+"last_msg_id": 8122
 }
