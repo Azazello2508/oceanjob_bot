@@ -19606,7 +19606,7 @@
 "heldermaritiem.com": {
 "address": "",
 "city": "",
-"co": 10,
+"co": 11,
 "country": "",
 "emails": [
 "diana.bimane@heldermaritiem.com",
@@ -19634,7 +19634,7 @@
 "@shipscreweu"
 ],
 "telegram": [],
-"total": 52,
+"total": 53,
 "uk": 10,
 "vessels": [
 "Dredger",
@@ -64354,7 +64354,7 @@
 "ALPHACREW": 3598,
 "BSMCSCUKRAINE": 4480,
 "CREW_ARIA": 14318,
-"Crew_Radar": 3693,
+"Crew_Radar": 3694,
 "JobForMariners": 1215,
 "Merchant_Fleet": 680,
 "OffshoreFleetJob": 11106,
@@ -64387,7 +64387,7 @@
 "marinejobs": 44163,
 "marinejobz": 194156,
 "marineman_ltd": 48486,
-"maritimeforum": 260503,
+"maritimeforum": 260514,
 "merchantNavyrealjob": 265,
 "morehod_ru": 31319,
 "oceancrewjobs": 33013,
@@ -64400,7 +64400,7 @@
 "pervoemorskoe": 4547,
 "rekamore_su": 166317,
 "roster_marine": 1751,
-"seajobfinder": 42808,
+"seajobfinder": 42809,
 "seamenjob": 106753,
 "seamenvacancy": 1403,
 "seavacancies": 25275,
