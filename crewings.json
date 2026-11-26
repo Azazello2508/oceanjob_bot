@@ -5410,14 +5410,14 @@
 "ukrcrewing": "https://ukrcrewing.com.ua/en/agency/anglo_eastern"
 },
 "name": "Advanced Marine",
-"off": 139,
+"off": 140,
 "offshore_hint": false,
 "phones": [
 "+37168688362",
 "+380487340787",
 "+380996409990+380930333042"
 ],
-"so": 39,
+"so": 40,
 "sources": [
 "@CREW_ARIA",
 "@OffshoreFleetJob",
@@ -5433,7 +5433,7 @@
 "@marinejobs"
 ],
 "telegram": [],
-"total": 167,
+"total": 168,
 "uk": 15,
 "vessels": [
 "Bulk",
@@ -11437,15 +11437,16 @@
 "last": "2026-11-26",
 "links": {},
 "name": "",
-"off": 6,
+"off": 8,
 "offshore_hint": false,
 "phones": [],
 "so": 0,
 "sources": [
+"@cvsenderseaman",
 "@offshoreatsea"
 ],
 "telegram": [],
-"total": 6,
+"total": 8,
 "vessels": [
 "Offshore"
 ],
@@ -20296,19 +20297,20 @@
 "last": "2026-11-26",
 "links": {},
 "name": "Barge Foreman Barge Superintendent Marine",
-"off": 11,
+"off": 12,
 "offshore_hint": false,
 "phones": [],
 "so": 0,
 "sources": [
 "@Sea_format",
+"@cvsenderseaman",
 "@marinejobs",
 "@maritimeforum",
 "@offshoreatsea",
 "@seamenjob"
 ],
 "telegram": [],
-"total": 11,
+"total": 12,
 "vessels": [
 "Offshore"
 ],
@@ -24355,7 +24357,7 @@
 "last": "2026-11-26",
 "links": {},
 "name": "",
-"off": 7,
+"off": 8,
 "offshore_hint": false,
 "phones": [
 "+380487000230"
@@ -24371,7 +24373,7 @@
 "@shipscreweu"
 ],
 "telegram": [],
-"total": 11,
+"total": 12,
 "uk": 2,
 "vessels": [
 "Chemical",
@@ -26038,7 +26040,7 @@
 "last": "2026-11-26",
 "links": {},
 "name": "MARPO Crewing",
-"off": 110,
+"off": 112,
 "offshore_hint": false,
 "phones": [
 "+380500726878",
@@ -26068,7 +26070,7 @@
 "telegram": [
 "@cvpro_mailing"
 ],
-"total": 119,
+"total": 121,
 "uk": 6,
 "vessels": [
 "Dredger",
@@ -45852,7 +45854,7 @@
 "crewell": "https://crewell.net/en/companies/296784/"
 },
 "name": "OJ Crew Poland",
-"off": 215,
+"off": 216,
 "offshore_hint": false,
 "phones": [],
 "so": 21,
@@ -45871,7 +45873,7 @@
 "@offshorecv"
 ],
 "telegram": [],
-"total": 312,
+"total": 313,
 "uk": 12,
 "vessels": [
 "Bulk",
@@ -52586,7 +52588,7 @@
 "crewell": "https://crewell.net/en/companies/64960/"
 },
 "name": "Advance Global Recruitment Ltd",
-"off": 736,
+"off": 737,
 "offshore_hint": false,
 "phones": [
 "+971585312348"
@@ -52609,7 +52611,7 @@
 "telegram": [
 "@cvpro_mailing"
 ],
-"total": 737,
+"total": 738,
 "uk": 98,
 "vessels": [
 "Bulk",
@@ -56725,7 +56727,7 @@
 "tospeople.com": {
 "address": "33 B, SHEVCHENKO AVE., OFF, 6, ODESSA, UA",
 "city": "ODESSA",
-"co": 84,
+"co": 85,
 "country": "Ukraine",
 "emails": [
 "a.gulabyan@tospeople.com",
@@ -56743,12 +56745,12 @@
 "crewell": "https://crewell.net/en/companies/194804/"
 },
 "name": "Transport & Offshore Services Ukraine",
-"off": 304,
+"off": 305,
 "offshore_hint": false,
 "phones": [
 "+380672802995"
 ],
-"so": 87,
+"so": 88,
 "sources": [
 "@OffshoreFleetJob",
 "@Offshore_Vacancies",
@@ -56764,7 +56766,7 @@
 "@maritimeforum"
 ],
 "telegram": [],
-"total": 347,
+"total": 348,
 "uk": 15,
 "vessels": [
 "Bulk",
@@ -57768,7 +57770,7 @@
 "ultramarin.lv": {
 "address": "17A Duntes str.",
 "city": "Riga",
-"co": 11,
+"co": 12,
 "country": "Latvia",
 "emails": [
 "cv@ultramarin.lv",
@@ -57783,7 +57785,7 @@
 "off": 1,
 "offshore_hint": false,
 "phones": [],
-"so": 5,
+"so": 6,
 "sources": [
 "@CREW_ARIA",
 "@Merchant_Fleet",
@@ -57799,7 +57801,7 @@
 "@seajobfinder"
 ],
 "telegram": [],
-"total": 93,
+"total": 97,
 "uk": 3,
 "vessels": [
 "Chemical",
@@ -58414,14 +58416,14 @@
 "univis.com.ua": {
 "address": "",
 "city": "",
-"co": 67,
+"co": 68,
 "country": "",
 "emails": [
 "hr@univis.com.ua",
 "operator@univis.com.ua"
 ],
 "first": "2026-11-03",
-"last": "2026-11-25",
+"last": "2026-11-26",
 "links": {},
 "name": "",
 "off": 0,
@@ -58433,7 +58435,7 @@
 "+380983194698",
 "+380983286698"
 ],
-"so": 59,
+"so": 60,
 "sources": [
 "@cvsenderseaman",
 "@job_for_seaman",
@@ -58445,7 +58447,7 @@
 "telegram": [
 "@univisltd"
 ],
-"total": 300,
+"total": 304,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -62871,6 +62873,7 @@
 "horizon maritime": "name:horizon maritime",
 "hot vacancies in vita maritime": "vitamaritime.com.ua",
 "hsm ship management pvt": "hsmship.com",
+"hydro marine": "hydroeg.com",
 "iberian navigation": "iberian-navigation.com.ge",
 "ibs 24 07 2026 russian federation member since: may 2026 no active vacancies view profile": "name:ibs 24 07 2026 russian federation member since: may 2026 no active vacancies view profile",
 "icg offline russian federation member since: nov 2016 no active vacancies работаем с иностранными судовладельцами рыбаки танкера трубоукладчики offshor view profile": "name:icg offline russian federation member since: nov 2016 no active vacancies работаем с иностранными судовладельцами рыбаки танкера трубоукладчики offshor view profile",
@@ -64314,12 +64317,12 @@
 "tg_hw": {
 "ALPHACREW": 3598,
 "BSMCSCUKRAINE": 4480,
-"CREW_ARIA": 14317,
+"CREW_ARIA": 14318,
 "Crew_Radar": 3693,
 "JobForMariners": 1214,
 "Merchant_Fleet": 680,
 "OffshoreFleetJob": 11106,
-"Offshore_Vacancies": 1040,
+"Offshore_Vacancies": 1041,
 "OnlyOffshore": 39332,
 "OnlyYacht": 2350,
 "SM_job_center": 2537,
@@ -64329,13 +64332,13 @@
 "TSMexp": 881,
 "Yacht_Vacancies": 290,
 "allcrewing": 3834,
-"andreeyVstart": 1430,
+"andreeyVstart": 1431,
 "balticcareer": 6175,
 "crewingua": 45165,
 "crs_vacancies": 3610,
 "cruiseshipjobs": 8,
 "cvcrewcom": 12910,
-"cvsenderseaman": 17243,
+"cvsenderseaman": 17248,
 "ecrewing": 3254,
 "findseajobs": 32573,
 "galaxymaritimeua": 1250,
@@ -64348,18 +64351,18 @@
 "marinejobs": 44162,
 "marinejobz": 194156,
 "marineman_ltd": 48486,
-"maritimeforum": 260440,
+"maritimeforum": 260450,
 "merchantNavyrealjob": 265,
 "morehod_ru": 31319,
-"oceancrewjobs": 33002,
+"oceancrewjobs": 33011,
 "offshoreatsea": 26017,
 "offshorecv": 1628,
-"offshorevacancies": 47528,
+"offshorevacancies": 47530,
 "oilrigs": 778,
 "olive_crew": 2986,
 "onboard_su": 20884,
 "pervoemorskoe": 4547,
-"rekamore_su": 166316,
+"rekamore_su": 166317,
 "roster_marine": 1751,
 "seajobfinder": 42808,
 "seamenjob": 106752,
@@ -64371,7 +64374,7 @@
 "supermariner_ua": 3965,
 "truemalina_offshore": 851,
 "ukrcrewing_official": 2399,
-"univis_crewing": 5049,
+"univis_crewing": 5053,
 "vesselsea": 3172,
 "vshipsoffshore": 1070
 },
