@@ -6277,6 +6277,131 @@
 "time": "2026-11-26T11:30:19+00:00",
 "junior_dp": false,
 "dp_officer": true
+},
+{
+"uk": "",
+"title": "Chief Officer — Ro-Ro Vessel",
+"url": "https://seajobs.pro/jobs/chief-officer-ro-ro-vessel-5b3945d6-847e-4236-9249-20e5764f53dc",
+"source": "seajobs.pro",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Ro-Ro"
+},
+"company": "",
+"place": "",
+"new": true,
+"repeat": false,
+"time": "2026-11-26T12:24:07.318557+00:00"
+},
+{
+"uk": "",
+"title": "2nd Officer / OOW – General Cargo",
+"url": "https://balticcareer.eu/jobs/2nd-officer-oow-general-cargo/",
+"source": "balticcareer.eu",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "General cargo"
+},
+"company": "",
+"place": "",
+"new": true,
+"repeat": false,
+"time": "2026-11-26T12:24:47.393897+00:00"
+},
+{
+"uk": "",
+"title": "2nd Officer for General Cargo / MPP",
+"url": "https://balticcareer.eu/jobs/2nd-officer-for-general-cargo-mpp-9/",
+"source": "balticcareer.eu",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "General cargo, MPP"
+},
+"company": "",
+"place": "",
+"new": true,
+"repeat": false,
+"time": "2026-11-26T12:24:47.881632+00:00"
+},
+{
+"uk": "",
+"title": "MASTER",
+"url": "https://t.me/maritimeforum/260332",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer",
+"second officer"
+],
+"fp": "fp-3829daaaff9256bd",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer / 3rd Officer",
+"vessel": "Chemical tanker, Container",
+"salary": "8,250 USD",
+"joining": "ASAP"
+},
+"company": "",
+"place": "",
+"new": true,
+"repeat": false,
+"time": "2026-11-26T12:06:04+00:00"
+},
+{
+"uk": "",
+"title": "2ND OFFICER – GENERAL CARGO / MPP",
+"url": "https://t.me/balticcareer/6162",
+"source": "Telegram: @balticcareer",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-2b962622c7ff2434",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "General cargo, MPP",
+"salary": "7000 EUR / month",
+"contract": "2.5 months +/- 2 weeks"
+},
+"company": "",
+"place": "",
+"new": true,
+"repeat": false,
+"time": "2026-11-26T12:20:27+00:00"
+},
+{
+"uk": "",
+"title": "Компания \"Polluks Star\" приглашает на работу:",
+"url": "https://t.me/rekamore_su/166303",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-c56a252379b2ece3",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo",
+"salary": "7300 евро",
+"joining": "01 декабря",
+"contract": "4 месяца",
+"email": "info@polluks-star.com",
+"company": "polluks-star.com"
+},
+"company": "",
+"place": "",
+"new": true,
+"repeat": false,
+"time": "2026-11-26T12:10:03+00:00"
 }
 ],
 "msg_ids": [
