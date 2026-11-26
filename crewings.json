@@ -7422,7 +7422,7 @@
 "cv@assedo.net"
 ],
 "first": "2026-11-03",
-"last": "2026-11-25",
+"last": "2026-11-26",
 "links": {
 "ukrcrewing": "https://ukrcrewing.com.ua/en/agency/assedo"
 },
@@ -7445,7 +7445,7 @@
 "ukrcrewing.com.ua"
 ],
 "telegram": [],
-"total": 46,
+"total": 47,
 "vessels": [
 "Ro-Ro/PCTC"
 ],
@@ -10419,7 +10419,7 @@
 "bsklogistic.ru": {
 "address": "",
 "city": "",
-"co": 16,
+"co": 18,
 "country": "",
 "emails": [
 "kadry@bsklogistic.ru"
@@ -10439,7 +10439,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 34,
+"total": 36,
 "vessels": [],
 "website": ""
 },
@@ -43784,7 +43784,7 @@
 "parulkara@angloeastern.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-25",
+"last": "2026-11-26",
 "links": {
 "crewell": "https://crewell.net/en/companies/274401/"
 },
@@ -43809,7 +43809,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 45,
+"total": 46,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -63947,7 +63947,7 @@
 "tg_hw": {
 "ALPHACREW": 3598,
 "BSMCSCUKRAINE": 4471,
-"CREW_ARIA": 14306,
+"CREW_ARIA": 14307,
 "Crew_Radar": 3668,
 "JobForMariners": 1214,
 "Merchant_Fleet": 678,
@@ -63964,7 +63964,7 @@
 "allcrewing": 3831,
 "andreeyVstart": 1429,
 "balticcareer": 6131,
-"crewingua": 45144,
+"crewingua": 45145,
 "crs_vacancies": 3601,
 "cruiseshipjobs": 8,
 "cvcrewcom": 12908,
@@ -63976,14 +63976,14 @@
 "help_seafarers": 4917,
 "ismira_agency": 440,
 "job_for_seaman": 17136,
-"jobfor_seamen": 12826,
+"jobfor_seamen": 12827,
 "marinecareerorg": 17775,
 "marinejobs": 44089,
 "marinejobz": 194156,
 "marineman_ltd": 48478,
 "maritimeforum": 260188,
 "merchantNavyrealjob": 265,
-"morehod_ru": 31294,
+"morehod_ru": 31295,
 "oceancrewjobs": 32997,
 "offshoreatsea": 25947,
 "offshorecv": 1627,
@@ -63992,7 +63992,7 @@
 "olive_crew": 2984,
 "onboard_su": 20874,
 "pervoemorskoe": 4543,
-"rekamore_su": 166267,
+"rekamore_su": 166268,
 "roster_marine": 1751,
 "seajobfinder": 42766,
 "seamenjob": 106727,
