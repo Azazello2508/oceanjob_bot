@@ -6441,7 +6441,7 @@
 "ukrcrewing.com.ua"
 ],
 "telegram": [],
-"total": 66,
+"total": 68,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -18283,7 +18283,7 @@
 "@marinejobs"
 ],
 "telegram": [],
-"total": 44,
+"total": 45,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -22407,7 +22407,7 @@
 "ukrcrewing.com.ua"
 ],
 "telegram": [],
-"total": 137,
+"total": 138,
 "uk": 1,
 "vessels": [
 "Dredger",
@@ -48644,7 +48644,7 @@
 "@seamenjob"
 ],
 "telegram": [],
-"total": 2,
+"total": 3,
 "vessels": [
 "Container",
 "Ro-Ro/PCTC"
@@ -49208,15 +49208,16 @@
 "last": "2026-11-27",
 "links": {},
 "name": "",
-"off": 1,
+"off": 2,
 "offshore_hint": false,
 "phones": [],
 "so": 0,
 "sources": [
+"@marinejobs",
 "@seamenjob"
 ],
 "telegram": [],
-"total": 1,
+"total": 2,
 "vessels": [
 "Offshore"
 ],
@@ -64837,7 +64838,7 @@
 "allcrewing": 3834,
 "andreeyVstart": 1432,
 "balticcareer": 6214,
-"crewingua": 45189,
+"crewingua": 45190,
 "crs_vacancies": 3610,
 "cruiseshipjobs": 12,
 "cvcrewcom": 12912,
@@ -64851,16 +64852,16 @@
 "job_for_seaman": 17147,
 "jobfor_seamen": 12847,
 "marinecareerorg": 17776,
-"marinejobs": 44219,
+"marinejobs": 44220,
 "marinejobz": 194156,
 "marineman_ltd": 48488,
-"maritimeforum": 260631,
+"maritimeforum": 260633,
 "merchantNavyrealjob": 265,
 "morehod_ru": 31350,
-"oceancrewjobs": 33017,
+"oceancrewjobs": 33020,
 "offshoreatsea": 26116,
 "offshorecv": 1629,
-"offshorevacancies": 47550,
+"offshorevacancies": 47552,
 "oilrigs": 778,
 "olive_crew": 2994,
 "onboard_su": 20893,
@@ -64868,7 +64869,7 @@
 "rekamore_su": 166434,
 "roster_marine": 1751,
 "seajobfinder": 42831,
-"seamenjob": 106786,
+"seamenjob": 106787,
 "seamenvacancy": 1410,
 "seavacancies": 25275,
 "shipjobsindia": 420,
