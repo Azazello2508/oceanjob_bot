@@ -7079,6 +7079,289 @@
 "time": "2026-11-27T13:31:11+00:00",
 "junior_dp": false,
 "dp_officer": false
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://ukrcrewing.com.ua/en/vacancy/371668",
+"source": "ukrcrewing.com.ua",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer"
+},
+"company": "",
+"place": "",
+"new": true,
+"repeat": false,
+"time": "2026-11-27T14:26:21.465981+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "2nd Officer (2/O) | Atlantica Trader | 18.12.2026 | Offshore - PSV | North Sea",
+"url": "https://crewing.portalmorski.pl/en/sea-jobs/2nd-officer-2-o-atlantica-trader-18-12-2026-offshore-psv-north-sea/",
+"source": "portalmorski.pl",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "2nd Officer",
+"vessel": "PSV"
+},
+"company": "",
+"place": "",
+"new": true,
+"repeat": false,
+"time": "2026-11-27T14:27:13.062038+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "BARKLAV angajeaza Chief Officer pentru container",
+"url": "https://www.ainostri.ro/oferte/maritim/barklav-angajeaza-chief-officer-pentru-container-14570",
+"source": "ainostri.ro",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Container"
+},
+"company": "",
+"place": "",
+"new": true,
+"repeat": false,
+"time": "2026-11-27T14:27:17.559116+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "LPG Carrier Vacancies",
+"url": "https://t.me/marinejobs/44214",
+"source": "Telegram: @marinejobs",
+"found": [
+"chief officer"
+],
+"fp": "fp-cca52913190fa4de",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "LPG",
+"salary": "extra for Hormuz Strait transi…",
+"joining": "ASAP",
+"contract": "4 months on / 2 months of",
+"email": "cv@crew-hunter.com",
+"company": "crew-hunter.com"
+},
+"company": "",
+"place": "",
+"new": true,
+"repeat": false,
+"time": "2026-11-27T14:05:11+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "https://jobatsea.online/job/626502/offshore-hse-advisor-north-sea-at-rmi-global-solutions/#google_vignette",
+"url": "https://t.me/offshorevacancies/47546",
+"source": "Telegram: @offshorevacancies",
+"found": [
+"2/off",
+"2/o",
+"2/off"
+],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "2nd Officer"
+},
+"company": "",
+"place": "",
+"new": true,
+"repeat": false,
+"time": "2026-11-27T14:13:43+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "https://jobatsea.online/job/626561/chief-officer-large-and-extensive-ahts-experience-required-at-select-offshore/",
+"url": "https://t.me/offshorevacancies/47547",
+"source": "Telegram: @offshorevacancies",
+"found": [
+"chief officer"
+],
+"fp": "fp-5bbf1b0ce42045aa",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "AHTS"
+},
+"company": "",
+"place": "",
+"new": true,
+"repeat": false,
+"time": "2026-11-27T14:20:16+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://t.me/offshoreatsea/26048",
+"source": "Telegram: @offshoreatsea",
+"found": [
+"chief officer"
+],
+"fp": "fp-ba761cb8016aab7c",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"contract": "8 weeks on / 8 weeks off",
+"email": "Tilly.M@worldwide-rs.com",
+"company": "worldwide-rs.com"
+},
+"company": "",
+"place": "",
+"new": true,
+"repeat": false,
+"time": "2026-11-27T14:14:07+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Vessel: Geotechnical drilling vessel",
+"url": "https://t.me/offshoreatsea/26049",
+"source": "Telegram: @offshoreatsea",
+"found": [
+"dpo"
+],
+"fp": "fp-652307acd922dbe9",
+"offshore": true,
+"info": {
+"rank": "DPO",
+"contract": "8 weeks on / 8 weeks off",
+"email": "Tilly.M@worldwide-rs.com",
+"company": "worldwide-rs.com"
+},
+"company": "",
+"place": "",
+"new": true,
+"repeat": false,
+"time": "2026-11-27T14:14:08+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "2nd Officer",
+"url": "https://t.me/offshoreatsea/26052",
+"source": "Telegram: @offshoreatsea",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-b8f07e865f65143f",
+"offshore": true,
+"info": {
+"rank": "2nd Officer",
+"vessel": "AHTS",
+"salary": "$6,000/month",
+"email": "crewing@seacover.com.ua",
+"company": "seacover.com.ua"
+},
+"company": "",
+"place": "",
+"new": true,
+"repeat": false,
+"time": "2026-11-27T14:17:45+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Vessel: DSV",
+"url": "https://t.me/offshoreatsea/26053",
+"source": "Telegram: @offshoreatsea",
+"found": [
+"sdpo",
+"dpo"
+],
+"fp": "fp-8683dad875c17ab5",
+"offshore": true,
+"info": {
+"rank": "SDPO",
+"vessel": "DSV",
+"salary": "£350/day",
+"email": "greg.livermore@seamariner.com",
+"company": "seamariner.com"
+},
+"company": "",
+"place": "",
+"new": true,
+"repeat": false,
+"time": "2026-11-27T14:17:47+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://t.me/offshoreatsea/26054",
+"source": "Telegram: @offshoreatsea",
+"found": [
+"chief officer"
+],
+"fp": "fp-96ff29cf49f602d3",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Tug",
+"contract": "2+/-1 Months On / 1 Month",
+"email": "mumbai@starseamanagement.com",
+"company": "starseamanagement.com"
+},
+"company": "",
+"place": "",
+"new": true,
+"repeat": false,
+"time": "2026-11-27T14:28:32+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "CHIEF OFFICER",
+"url": "https://t.me/cvsenderseaman/17335",
+"source": "Telegram: @cvsenderseaman",
+"found": [
+"chief officer"
+],
+"fp": "fp-7f43dd6eb56e3d89",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Bulk carrier",
+"salary": "9,500-10,500 $",
+"joining": "ASAP",
+"contract": "5 mo",
+"email": "tvoronina@globalseaways.com",
+"company": "globalseaways.com"
+},
+"company": "",
+"place": "",
+"new": true,
+"repeat": false,
+"time": "2026-11-27T14:07:12+00:00",
+"junior_dp": false,
+"dp_officer": false
 }
 ],
 "msg_ids": [
@@ -7109,5 +7392,5 @@
 ],
 "last_list": "2026-11-27T13:38:12.543885+00:00",
 "cleared_upto": 8455,
-"last_msg_id": 8479
+"last_msg_id": 8488
 }
