@@ -27574,7 +27574,7 @@
 "info@orions-group.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-26",
+"last": "2026-11-27",
 "links": {
 "crewell": "https://crewell.net/en/companies/179919/"
 },
@@ -27590,13 +27590,14 @@
 "@cvcrewcom",
 "@gm_seaman_cv",
 "@help_seafarers",
+"@marinejobs",
 "@maritimeforum",
 "@offshoreatsea",
 "@seajobfinder",
 "crewell.net"
 ],
 "telegram": [],
-"total": 27,
+"total": 30,
 "uk": 5,
 "vessels": [
 "Chemical",
@@ -55214,7 +55215,7 @@
 "last": "2026-11-27",
 "links": {},
 "name": "ROMANIA SRL",
-"off": 33,
+"off": 34,
 "offshore_hint": false,
 "phones": [
 "+385994639663",
@@ -55237,7 +55238,7 @@
 "@seajobfinder"
 ],
 "telegram": [],
-"total": 49,
+"total": 50,
 "vessels": [
 "Bulk",
 "Offshore",
@@ -64360,7 +64361,7 @@
 "Merchant_Fleet": 680,
 "OffshoreFleetJob": 11106,
 "Offshore_Vacancies": 1041,
-"OnlyOffshore": 39333,
+"OnlyOffshore": 39334,
 "OnlyYacht": 2352,
 "SM_job_center": 2538,
 "SeaSeaWorks": 3934,
@@ -64385,7 +64386,7 @@
 "job_for_seaman": 17143,
 "jobfor_seamen": 12842,
 "marinecareerorg": 17776,
-"marinejobs": 44163,
+"marinejobs": 44165,
 "marinejobz": 194156,
 "marineman_ltd": 48486,
 "maritimeforum": 260514,
@@ -64401,7 +64402,7 @@
 "pervoemorskoe": 4547,
 "rekamore_su": 166317,
 "roster_marine": 1751,
-"seajobfinder": 42810,
+"seajobfinder": 42811,
 "seamenjob": 106753,
 "seamenvacancy": 1403,
 "seavacancies": 25275,
