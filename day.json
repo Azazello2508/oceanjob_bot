@@ -8874,6 +8874,25 @@
 "time": "2026-11-27T17:01:37+00:00",
 "junior_dp": false,
 "dp_officer": false
+},
+{
+"uk": "",
+"title": "Chief Officer — Geotechnical Drilling Vessel",
+"url": "https://seajobs.pro/jobs/chief-officer-geotechnical-drilling-vessel-7a1b4097-1647-4df7-bea8-3a6da6efd262",
+"source": "seajobs.pro",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer"
+},
+"company": "",
+"place": "",
+"new": true,
+"repeat": false,
+"time": "2026-11-27T18:13:16.074059+00:00",
+"junior_dp": false,
+"dp_officer": false
 }
 ],
 "msg_ids": [
@@ -8904,5 +8923,5 @@
 ],
 "last_list": "2026-11-27T17:24:24.641546+00:00",
 "cleared_upto": 8537,
-"last_msg_id": 8561
+"last_msg_id": 8582
 }
