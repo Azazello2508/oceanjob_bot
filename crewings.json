@@ -55211,12 +55211,13 @@
 "romania@stodig.no"
 ],
 "first": "2026-11-03",
-"last": "2026-11-26",
+"last": "2026-11-27",
 "links": {},
 "name": "ROMANIA SRL",
-"off": 31,
+"off": 33,
 "offshore_hint": false,
 "phones": [
+"+385994639663",
 "+48502399288",
 "+48603979700"
 ],
@@ -55236,7 +55237,7 @@
 "@seajobfinder"
 ],
 "telegram": [],
-"total": 47,
+"total": 49,
 "vessels": [
 "Bulk",
 "Offshore",
@@ -64359,7 +64360,7 @@
 "Merchant_Fleet": 680,
 "OffshoreFleetJob": 11106,
 "Offshore_Vacancies": 1041,
-"OnlyOffshore": 39332,
+"OnlyOffshore": 39333,
 "OnlyYacht": 2352,
 "SM_job_center": 2538,
 "SeaSeaWorks": 3934,
@@ -64400,7 +64401,7 @@
 "pervoemorskoe": 4547,
 "rekamore_su": 166317,
 "roster_marine": 1751,
-"seajobfinder": 42809,
+"seajobfinder": 42810,
 "seamenjob": 106753,
 "seamenvacancy": 1403,
 "seavacancies": 25275,
