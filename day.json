@@ -2071,26 +2071,815 @@
 "time": "2026-11-27T06:22:09+00:00",
 "junior_dp": false,
 "dp_officer": false
+},
+{
+"uk": "",
+"title": "Chief Officer — VLGC",
+"url": "https://seajobs.pro/jobs/chief-officer-vlgc-db39f430-fdcf-4dd9-b3a8-ac4d10699664",
+"source": "seajobs.pro",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-27T07:19:44.333678+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Chief Officer — TSM (Top Side Maintenance)",
+"url": "https://seajobs.pro/jobs/chief-officer-tsm-top-side-maintenance-b740bfa5-77f3-4a8b-8aff-13c61894eae0",
+"source": "seajobs.pro",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-27T07:19:44.545459+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "2ND OFFICER + 3RD ENGINEER FOR A NEW AFRAMAX",
+"url": "https://www.ainostri.ro/oferte/maritim/2nd-officer-and-3rd-engineer-for-a-new-aframax-14543",
+"source": "ainostri.ro",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Aframax"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-27T07:19:51.685918+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Second Officer / SDPO on PSV DP2 TOS ·  Deck PSV Second Officer second officer / sdpo psv dp2 offshore Competitive View Job 50 min ago",
+"url": "https://findseajobs.com/seajobs/481838.html",
+"source": "findseajobs.com",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "2nd Officer / SDPO",
+"vessel": "PSV"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-27T07:20:23.555400+00:00",
+"junior_dp": false,
+"dp_officer": true
+},
+{
+"uk": "",
+"title": "Second Officer on General Cargo / Cable Layer Vessel UVIS UG ·  Deck General Cargo Second Officer second officer 2o general cargo cable layer $3,105/month per m…",
+"url": "https://findseajobs.com/seajobs/481844.html",
+"source": "findseajobs.com",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "2nd Officer",
+"vessel": "General cargo",
+"salary": "$3,105"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-27T07:20:24.106624+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Second Officer on Crew Boat Ryan Ship Management ·  Deck Other Ship Type Second Officer second officer crew boat ryan ship management saudi arabia $150/day per…",
+"url": "https://findseajobs.com/seajobs/481864.html",
+"source": "findseajobs.com",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Crew boat",
+"salary": "$150",
+"company": "Second Officer on Crew Boat Ryan Sh…"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-27T07:20:24.716631+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Second Officer on LNG Carrier Stargate Crewing ·  Deck LNG Carrier Second Officer second officer second mate 2o lng Competitive View Job 42 min ago",
+"url": "https://findseajobs.com/seajobs/481869.html",
+"source": "findseajobs.com",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "LNG"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-27T07:20:25.321454+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Second Officer on PSV Sailinga Ltd ·  Deck PSV Second Officer second officer dpo psv dp2 €7,400/month gross per month View Job 34 min ago",
+"url": "https://findseajobs.com/seajobs/481880.html",
+"source": "findseajobs.com",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "2nd Officer / DPO",
+"vessel": "PSV",
+"salary": "€7,400",
+"company": "Second Officer on PSV Sailinga Ltd…"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-27T07:20:25.866634+00:00",
+"junior_dp": false,
+"dp_officer": true
+},
+{
+"uk": "",
+"title": "Second Officer / SDPO on PSV DP2 TOS People ·  Deck PSV Second Officer second officer psv tos people Competitive View Job 25 min ago",
+"url": "https://findseajobs.com/seajobs/481905.html",
+"source": "findseajobs.com",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "2nd Officer / SDPO",
+"vessel": "PSV"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-27T07:20:26.409701+00:00",
+"junior_dp": false,
+"dp_officer": true
+},
+{
+"uk": "",
+"title": "Second Officer on LPG Carrier Maris Crew Agency ·  Deck LPG Carrier Second Officer second officer lpg carrier maris crew agency ukraine $6,500/month per month V…",
+"url": "https://findseajobs.com/seajobs/481915.html",
+"source": "findseajobs.com",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "LPG",
+"salary": "$6,500",
+"company": "Second Officer on LPG Carrier Maris…"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-27T07:20:27.012350+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Second Officer / DPO on PSV DP2 TSM (Total Ship Management) ·  Deck PSV Second Officer second officer / dpo psv dp2 total shipmanagement spain $220/day per mont…",
+"url": "https://findseajobs.com/seajobs/481922.html",
+"source": "findseajobs.com",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "2nd Officer / DPO",
+"vessel": "PSV",
+"salary": "$220",
+"company": "Second Officer / DPO on PSV DP2 TSM…"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-27T07:20:27.576929+00:00",
+"junior_dp": false,
+"dp_officer": true
+},
+{
+"uk": "",
+"title": "Second Officer / Junior DPO on DP2 Accommodation Vessel BHN Offshore Ltd ·  Deck Accommodation Ship Second Officer second officer dpo dp2 accommodation ship Com…",
+"url": "https://findseajobs.com/seajobs/481940.html",
+"source": "findseajobs.com",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "2nd Officer / JDPO",
+"company": "Second Officer / Junior DPO on DP2…"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-27T07:20:28.115299+00:00",
+"junior_dp": true,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Second Officer / DPO on Offshore DP2 Vessel IRES Ship Management LLP ·  Deck Other Ship Type Second Officer second officer / dpo offshore dp2 vessel Competitive…",
+"url": "https://findseajobs.com/seajobs/481969.html",
+"source": "findseajobs.com",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "2nd Officer / DPO",
+"company": "Second Officer / DPO on Offshore DP…"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-27T07:20:28.716460+00:00",
+"junior_dp": false,
+"dp_officer": true
+},
+{
+"uk": "",
+"title": "Second Officer on Cruise ship V.Group Ltd ·  Deck Cruise ship Second Officer second officer cruise ship Competitive View Job 7 min ago",
+"url": "https://findseajobs.com/seajobs/481976.html",
+"source": "findseajobs.com",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Cruise",
+"company": "Second Officer on Cruise ship V.Gro…"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-27T07:20:29.325656+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Second Officer on Bulk Carrier Lianson ·  Deck Bulk Carrier Second Officer second officer bulk carrier Competitive View Job 7 min ago",
+"url": "https://findseajobs.com/seajobs/481990.html",
+"source": "findseajobs.com",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Bulk carrier"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-27T07:20:29.888249+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Second Officer on Offshore Vessel Advance Global Recruitment Ltd ·  Deck Other Ship Type Second Officer second officer offshore vessel Competitive View Job 7 mi…",
+"url": "https://findseajobs.com/seajobs/482005.html",
+"source": "findseajobs.com",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "2nd Officer",
+"company": "Second Officer on Offshore Vessel A…"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-27T07:20:30.432121+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Second Officer on Cruise ship Carnival Cruise Line ·  Deck Cruise ship Second Officer second officer cruise ship Competitive View Job 7 min ago",
+"url": "https://findseajobs.com/seajobs/482019.html",
+"source": "findseajobs.com",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Cruise"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-27T07:20:30.997808+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Chief Officer on DP2 FSIV / Crew Boat Ryan Ship Management ·  Deck FSIV Chief Officer chief officer dp2 fsiv / crew boat ryan ship management saudi arabia $350/…",
+"url": "https://findseajobs.com/seajobs/481860.html",
+"source": "findseajobs.com",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Crew boat",
+"salary": "$350",
+"company": "Chief Officer on DP2 FSIV / Crew Bo…"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-27T07:20:31.545101+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Chief Officer on LNG Carrier Stargate Crewing ·  Deck LNG Carrier Chief Officer chief officer chief mate lng gas carrier Competitive View Job 42 min ago",
+"url": "https://findseajobs.com/seajobs/481868.html",
+"source": "findseajobs.com",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "LNG"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-27T07:20:32.120710+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Chief Officer on Bulk Carrier Univis Ltd ·  Deck Bulk Carrier Chief Officer chief officer bulk carrier marine agency univis $8,600/month per month View Job 36 m…",
+"url": "https://findseajobs.com/seajobs/481875.html",
+"source": "findseajobs.com",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Bulk carrier",
+"salary": "$8,600",
+"company": "Chief Officer on Bulk Carrier Univi…"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-27T07:20:32.721371+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Chief Officer on Offshore Support Vessel Stodig Ship Management Poland sp. z o.o. ·  Deck Other Ship Type Chief Officer chief officer osv offshore stodig $17,00…",
+"url": "https://findseajobs.com/seajobs/481884.html",
+"source": "findseajobs.com",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "OSV",
+"salary": "$17,000",
+"company": "Chief Officer on Offshore Support V…"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-27T07:20:33.259421+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Chief Officer on AHTS DP2 TSM (Total Ship Management) ·  Deck AHTS Chief Officer chief officer ahts offshore total shipmanagement $320/day per month View Job 29…",
+"url": "https://findseajobs.com/seajobs/481897.html",
+"source": "findseajobs.com",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "AHTS",
+"salary": "$320",
+"company": "Chief Officer on AHTS DP2 TSM (Tota…"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-27T07:20:33.796858+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Chief Officer on Motor Yacht Lighthouse Careers ·  Deck Motor Yacht Chief Officer chief officer motor yacht lighthouse careers Competitive View Job 25 min ago",
+"url": "https://findseajobs.com/seajobs/481911.html",
+"source": "findseajobs.com",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-27T07:20:34.340189+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Chief Officer on Crew Boat Marpo Crew ·  Deck Other Ship Type Chief Officer chief officer crew boat marpo uae - adnoc Negotiable per month View Job 18 min ago",
+"url": "https://findseajobs.com/seajobs/481928.html",
+"source": "findseajobs.com",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Crew boat",
+"company": "Chief Officer on Crew Boat Marpo Cr…"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-27T07:20:34.893992+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Chief Officer / SDPO on DP2 Accommodation Vessel BHN Offshore Ltd ·  Deck Accommodation Ship Chief Officer chief officer / sdpo dp2 accommodation vessel Competi…",
+"url": "https://findseajobs.com/seajobs/481944.html",
+"source": "findseajobs.com",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "Chief Officer / SDPO",
+"company": "Chief Officer / SDPO on DP2 Accommo…"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-27T07:20:35.462577+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Chief Officer on Motor Yacht Hill Maritime Group ·  Deck Motor Yacht Chief Officer chief officer motor yacht Competitive View Job 7 min ago",
+"url": "https://findseajobs.com/seajobs/481953.html",
+"source": "findseajobs.com",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"company": "Chief Officer on Motor Yacht Hill M…"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-27T07:20:36.004670+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Chief Officer / DPO on Offshore DP2 Vessel IRES Ship Management LLP ·  Deck Other Ship Type Chief Officer chief officer / dpo offshore dp2 vessel Competitive Vi…",
+"url": "https://findseajobs.com/seajobs/481968.html",
+"source": "findseajobs.com",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "Chief Officer / DPO",
+"company": "Chief Officer / DPO on Offshore DP2…"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-27T07:20:36.566042+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Chief Officer on Bulk Carrier Lianson ·  Deck Bulk Carrier Chief Officer chief officer bulk carrier Competitive View Job 7 min ago",
+"url": "https://findseajobs.com/seajobs/481989.html",
+"source": "findseajobs.com",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Bulk carrier"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-27T07:20:37.108192+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Chief Officer Needed — Bulk Carrier",
+"url": "https://t.me/marinejobs/44168",
+"source": "Telegram: @marinejobs",
+"found": [
+"chief officer",
+"chief mate"
+],
+"fp": "fp-1c1158be6ebe2464",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Bulk carrier",
+"salary": "8,000 USD / month",
+"joining": "December",
+"contract": "5 months ± 1"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-27T06:33:34+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://t.me/marinejobs/44170",
+"source": "Telegram: @marinejobs",
+"found": [
+"chief officer"
+],
+"fp": "fp-99b160f050ae9146",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo",
+"salary": "6000 EUR Worldwide",
+"contract": "awaits",
+"email": "riga@ojcrew.com",
+"company": "ojcrew.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-27T07:01:28+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Chief Officer Needed",
+"url": "https://t.me/marinejobs/44173",
+"source": "Telegram: @marinejobs",
+"found": [
+"chief officer"
+],
+"fp": "fp-ee34f69b78253b87",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Bulk carrier",
+"salary": "$7,500 USD per month",
+"joining": "December",
+"contract": "4 months +/- 1"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-27T07:07:54+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "AQUAMARINE SHIPPING LLC",
+"url": "https://t.me/crewingua/45172",
+"source": "Telegram: @crewingua",
+"found": [
+"chief officer",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-fc4b976a35470d24",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer / 3rd Officer",
+"vessel": "Suezmax",
+"joining": "URGENT",
+"email": "application@aquamarine-crew.com",
+"company": "aquamarine-crew.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": true,
+"time": "2026-11-27T07:12:05+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "AQUAMARINE SHIPPING LLC",
+"url": "https://t.me/crewingua/45173",
+"source": "Telegram: @crewingua",
+"found": [
+"chief officer"
+],
+"fp": "fp-e84e6732b461fcc8",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "LNG",
+"joining": "ASAP",
+"email": "application@aquamarine-crew.com",
+"company": "aquamarine-crew.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": true,
+"time": "2026-11-27T07:13:03+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Always Hiring: Chief Officer on General Cargo",
+"url": "https://t.me/seamenjob/106757",
+"source": "Telegram: @seamenjob",
+"found": [
+"chief officer"
+],
+"fp": "fp-d14eb1f6e49ffc0b",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo",
+"salary": "6000 EUR Worldwide. Location:…",
+"contract": "at sea? Certificate of Co",
+"email": "riga@ojcrew.com",
+"company": "ojcrew.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-27T06:30:41+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "OPEN POSITIONS",
+"url": "https://t.me/cvsenderseaman/17250",
+"source": "Telegram: @cvsenderseaman",
+"found": [
+"chief officer"
+],
+"fp": "fp-a1e8d16593ca259f",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 3rd Officer",
+"vessel": "Container",
+"joining": "ASAP",
+"salary": "11000-11700$",
+"email": "hr@univis.com.ua",
+"company": "univis.com.ua"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-27T07:00:18+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "1ST OFFICER SDPO",
+"url": "https://t.me/cvsenderseaman/17255",
+"source": "Telegram: @cvsenderseaman",
+"found": [
+"1st officer",
+"sdpo",
+"dpo"
+],
+"fp": "fp-0d0391fe9824c9c8",
+"offshore": true,
+"info": {
+"rank": "Chief Officer / SDPO",
+"vessel": "OSV",
+"salary": "9.211 EUR",
+"joining": "08.12",
+"contract": "6 weeks",
+"email": "romania@stodig.no",
+"company": "stodig.no"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-27T07:18:18+00:00",
+"junior_dp": false,
+"dp_officer": false
 }
 ],
 "msg_ids": [
-8298,
-8299,
-8300,
-8301,
-8302,
-8303,
-8304,
-8305,
-8306,
-8307,
-8308,
-8309,
-8310,
-8311,
-8312
+8313,
+8314,
+8315,
+8316,
+8317,
+8318,
+8319,
+8320,
+8321,
+8322,
+8323,
+8324,
+8325,
+8326,
+8327,
+8328,
+8329,
+8330
 ],
-"last_list": "2026-11-27T06:30:49.738746+00:00",
-"cleared_upto": 8297,
-"last_msg_id": 8312
+"last_list": "2026-11-27T07:21:50.673830+00:00",
+"cleared_upto": 8312,
+"last_msg_id": 8330
 }
