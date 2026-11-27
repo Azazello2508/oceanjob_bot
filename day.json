@@ -5052,9 +5052,11 @@
 },
 "company": "",
 "place": "",
-"new": true,
+"new": false,
 "repeat": false,
-"time": "2026-11-27T10:11:58.403864+00:00"
+"time": "2026-11-27T10:11:58.403864+00:00",
+"junior_dp": false,
+"dp_officer": false
 },
 {
 "uk": "",
@@ -5069,9 +5071,11 @@
 },
 "company": "",
 "place": "",
-"new": true,
+"new": false,
 "repeat": false,
-"time": "2026-11-27T10:12:01.097350+00:00"
+"time": "2026-11-27T10:12:01.097350+00:00",
+"junior_dp": false,
+"dp_officer": false
 },
 {
 "uk": "",
@@ -5087,9 +5091,11 @@
 },
 "company": "",
 "place": "",
-"new": true,
+"new": false,
 "repeat": false,
-"time": "2026-11-27T10:12:57.150021+00:00"
+"time": "2026-11-27T10:12:57.150021+00:00",
+"junior_dp": false,
+"dp_officer": false
 },
 {
 "uk": "",
@@ -5112,9 +5118,11 @@
 },
 "company": "",
 "place": "",
-"new": true,
+"new": false,
 "repeat": false,
-"time": "2026-11-27T10:06:48+00:00"
+"time": "2026-11-27T10:06:48+00:00",
+"junior_dp": false,
+"dp_officer": false
 },
 {
 "uk": "",
@@ -5130,9 +5138,11 @@
 },
 "company": "",
 "place": "",
-"new": true,
+"new": false,
 "repeat": false,
-"time": "2026-11-27T10:00:48+00:00"
+"time": "2026-11-27T10:00:48+00:00",
+"junior_dp": false,
+"dp_officer": false
 },
 {
 "uk": "",
@@ -5157,9 +5167,11 @@
 },
 "company": "",
 "place": "",
-"new": true,
+"new": false,
 "repeat": false,
-"time": "2026-11-27T10:02:43+00:00"
+"time": "2026-11-27T10:02:43+00:00",
+"junior_dp": false,
+"dp_officer": false
 },
 {
 "uk": "",
@@ -5180,9 +5192,11 @@
 },
 "company": "",
 "place": "",
-"new": true,
+"new": false,
 "repeat": false,
-"time": "2026-11-27T10:00:53+00:00"
+"time": "2026-11-27T10:00:53+00:00",
+"junior_dp": false,
+"dp_officer": false
 },
 {
 "uk": "",
@@ -5205,37 +5219,234 @@
 },
 "company": "",
 "place": "",
-"new": true,
+"new": false,
 "repeat": false,
-"time": "2026-11-27T10:06:19+00:00"
+"time": "2026-11-27T10:06:19+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "2nd Officer on Reefer",
+"url": "https://crewell.net/en/vacancies/468185/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Reefer"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-27T11:02:39.690798+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Chief Officer on LPG",
+"url": "https://crewell.net/en/vacancies/468183/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "LPG"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-27T11:02:40.217449+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Chief Officer on Bunkering tanker",
+"url": "https://crewell.net/en/vacancies/468189/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Tanker"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-27T11:02:41.175162+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "2nd Officer DPO for PSV DP2",
+"url": "https://balticcareer.eu/jobs/2nd-officer-dpo-for-psv-dp2-3/",
+"source": "balticcareer.eu",
+"found": [],
+"fp": null,
+"offshore": true,
+"info": {
+"rank": "2nd Officer / DPO",
+"vessel": "PSV"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-27T11:04:13.913379+00:00",
+"junior_dp": false,
+"dp_officer": true
+},
+{
+"uk": "",
+"title": "Asap- vacancy for 2nd Officer on Ch./Oil tanker- Eu citizen Crewing agency \"Saga\" Posted 14 minutes ago",
+"url": "https://balticcareer.eu/jobs/asap-vacancy-for-2nd-officer-on-ch-oil-tanker-eu-citizen/",
+"source": "balticcareer.eu",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Tanker"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-27T11:04:14.598387+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Chief Officer for LNG BV",
+"url": "https://balticcareer.eu/jobs/chief-officer-for-lng-bv-7/",
+"source": "balticcareer.eu",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "LNG"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-27T11:04:14.950497+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "NEW PCTC VESSEL | DUAL FUEL | SENIOR OFFICERS",
+"url": "https://t.me/maritimeforum/260598",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-7934faac66a645ce",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Ro-Ro, PCTC",
+"joining": "mid of December 2026 – Top 4 t",
+"email": "forcv@csm-ua.com",
+"company": "csm-ua.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-27T10:49:02+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "2/O DPO – PSV DP2",
+"url": "https://t.me/balticcareer/6199",
+"source": "Telegram: @balticcareer",
+"found": [
+"2/o",
+"dpo"
+],
+"fp": "fp-6386a0eb65a97961",
+"offshore": true,
+"info": {
+"rank": "2nd Officer / DPO",
+"vessel": "PSV",
+"salary": "265 EUR / day",
+"contract": "8/8 weeks on off"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-27T10:25:04+00:00",
+"junior_dp": false,
+"dp_officer": true
+},
+{
+"uk": "",
+"title": "CHIEF OFFICER – LNG VESSEL",
+"url": "https://t.me/balticcareer/6202",
+"source": "Telegram: @balticcareer",
+"found": [
+"chief officer"
+],
+"fp": "fp-d723603767cf7cd0",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "LNG",
+"salary": "17300 USD / month",
+"contract": "2,5 months +/-2 weeks"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-27T10:57:16+00:00",
+"junior_dp": false,
+"dp_officer": false
 }
 ],
 "msg_ids": [
-8371,
-8372,
-8373,
-8374,
-8375,
-8376,
-8377,
-8378,
-8379,
-8380,
-8381,
-8382,
-8383,
-8384,
-8385,
-8386,
-8387,
-8388,
-8389,
-8390,
-8391,
-8392,
-8393
+8394,
+8395,
+8396,
+8397,
+8398,
+8399,
+8400,
+8401,
+8402,
+8403,
+8404,
+8405,
+8406,
+8407,
+8408,
+8409,
+8410,
+8411,
+8412,
+8413,
+8414,
+8415,
+8416,
+8417
 ],
-"last_list": "2026-11-27T09:55:41.370209+00:00",
-"cleared_upto": 8370,
-"last_msg_id": 8393
+"last_list": "2026-11-27T11:05:28.636763+00:00",
+"cleared_upto": 8393,
+"last_msg_id": 8417
 }
