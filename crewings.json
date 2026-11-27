@@ -20331,7 +20331,7 @@
 "crew@i-muromets.ru"
 ],
 "first": "2026-11-03",
-"last": "2026-11-26",
+"last": "2026-11-27",
 "links": {
 "crewell": "https://crewell.net/en/companies/302158/"
 },
@@ -20351,7 +20351,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 33,
+"total": 34,
 "vessels": [
 "Chemical",
 "Tanker"
@@ -22291,7 +22291,7 @@
 "kormacheva@jsbunker.ru"
 ],
 "first": "2026-11-06",
-"last": "2026-11-26",
+"last": "2026-11-27",
 "links": {},
 "name": "АО «Бункерная компания»",
 "off": 0,
@@ -22305,7 +22305,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 24,
+"total": 25,
 "vessels": [
 "Tanker"
 ],
@@ -23693,14 +23693,14 @@
 "legacymarine.ru": {
 "address": "",
 "city": "",
-"co": 39,
+"co": 40,
 "country": "",
 "emails": [
 "crew.cv@legacymarine.ru",
 "crew2@legacymarine.ru"
 ],
 "first": "2026-11-03",
-"last": "2026-11-26",
+"last": "2026-11-27",
 "links": {},
 "name": "ООО \"Легаси Марин\"",
 "off": 0,
@@ -23719,7 +23719,7 @@
 "@vesselsea"
 ],
 "telegram": [],
-"total": 49,
+"total": 50,
 "vessels": [
 "Tanker"
 ],
@@ -42217,13 +42217,13 @@
 "name:смарт шиппинг": {
 "address": "",
 "city": "",
-"co": 14,
+"co": 15,
 "country": "",
 "emails": [
 "anastasya_afanaseva@mail.ru"
 ],
 "first": "2026-11-05",
-"last": "2026-11-26",
+"last": "2026-11-27",
 "links": {},
 "name": "ООО «Смарт Шиппинг»",
 "off": 0,
@@ -42238,7 +42238,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 32,
+"total": 33,
 "vessels": [
 "Tanker"
 ],
@@ -47750,13 +47750,13 @@
 "polluks-star.com": {
 "address": "11 Varkausa str.",
 "city": "Petrozavodsk",
-"co": 19,
+"co": 20,
 "country": "Russia",
 "emails": [
 "info@polluks-star.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-26",
+"last": "2026-11-27",
 "links": {
 "crewell": "https://crewell.net/en/companies/161823/"
 },
@@ -47775,7 +47775,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 41,
+"total": 42,
 "vessels": [
 "General cargo"
 ],
@@ -50250,7 +50250,7 @@
 "hr@sakhpasflot.ru"
 ],
 "first": "2026-11-19",
-"last": "2026-11-26",
+"last": "2026-11-27",
 "links": {},
 "name": "АО “СахПасФлот”",
 "off": 0,
@@ -50263,7 +50263,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 16,
+"total": 17,
 "vessels": [
 "Passenger"
 ],
@@ -64400,7 +64400,7 @@
 "olive_crew": 2986,
 "onboard_su": 20884,
 "pervoemorskoe": 4547,
-"rekamore_su": 166317,
+"rekamore_su": 166324,
 "roster_marine": 1751,
 "seajobfinder": 42811,
 "seamenjob": 106753,
@@ -64409,7 +64409,7 @@
 "shipjobsindia": 420,
 "shipscreweu": 16761,
 "sidantey": 399,
-"supermariner_ua": 3966,
+"supermariner_ua": 3967,
 "truemalina_offshore": 851,
 "ukrcrewing_official": 2399,
 "univis_crewing": 5053,
