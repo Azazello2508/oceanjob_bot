@@ -8717,7 +8717,7 @@
 "ok@bluewaveshipping.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-26",
+"last": "2026-11-27",
 "links": {},
 "name": "ООО «СК «Голубая Волна»",
 "off": 0,
@@ -8731,7 +8731,7 @@
 "@seamenjob"
 ],
 "telegram": [],
-"total": 33,
+"total": 34,
 "vessels": [
 "General cargo",
 "Passenger"
@@ -8747,7 +8747,7 @@
 "crew@aztf.ru"
 ],
 "first": "2026-11-17",
-"last": "2026-11-26",
+"last": "2026-11-27",
 "links": {},
 "name": "ООО “Азовторгфлот”",
 "off": 0,
@@ -8759,7 +8759,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 22,
+"total": 23,
 "vessels": [
 "General cargo"
 ],
@@ -22525,7 +22525,7 @@
 "k.vasileva@karelkamen.ru"
 ],
 "first": "2026-11-03",
-"last": "2026-11-26",
+"last": "2026-11-27",
 "links": {},
 "name": "ООО \"Белозерское пароходство\"",
 "off": 0,
@@ -22537,7 +22537,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 63,
+"total": 64,
 "vessels": [
 "Tug"
 ],
@@ -27617,7 +27617,7 @@
 "mntp_staff@mail.ru"
 ],
 "first": "2026-11-03",
-"last": "2026-11-26",
+"last": "2026-11-27",
 "links": {},
 "name": "",
 "off": 0,
@@ -27629,7 +27629,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 13,
+"total": 14,
 "vessels": [
 "Bulk"
 ],
@@ -42198,7 +42198,7 @@
 "ok_flot@mail.ru"
 ],
 "first": "2026-11-03",
-"last": "2026-11-26",
+"last": "2026-11-27",
 "links": {},
 "name": "ООО \"СК ТРАНСФЛОТ\"",
 "off": 0,
@@ -42210,7 +42210,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 28,
+"total": 29,
 "vessels": [],
 "website": ""
 },
@@ -46589,13 +46589,13 @@
 "oteko.ru": {
 "address": "",
 "city": "",
-"co": 24,
+"co": 26,
 "country": "",
 "emails": [
 "e.davydenko@oteko.ru"
 ],
 "first": "2026-11-03",
-"last": "2026-11-26",
+"last": "2026-11-27",
 "links": {},
 "name": "",
 "off": 0,
@@ -46607,7 +46607,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 52,
+"total": 54,
 "vessels": [
 "Dredger",
 "Tug"
@@ -49299,7 +49299,7 @@
 "n.gunchenko@fersol.pro"
 ],
 "first": "2026-11-03",
-"last": "2026-11-26",
+"last": "2026-11-27",
 "links": {},
 "name": "ООО \"Роктри ВГК Стивидор\"",
 "off": 0,
@@ -49311,7 +49311,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 49,
+"total": 51,
 "vessels": [
 "Bulk"
 ],
@@ -50508,13 +50508,13 @@
 "sc-astrol.ru": {
 "address": "",
 "city": "",
-"co": 59,
+"co": 60,
 "country": "",
 "emails": [
 "personal@sc-astrol.ru"
 ],
 "first": "2026-11-03",
-"last": "2026-11-26",
+"last": "2026-11-27",
 "links": {},
 "name": "ООО \"СК \"",
 "off": 0,
@@ -50526,7 +50526,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 98,
+"total": 101,
 "vessels": [
 "General cargo",
 "Tanker"
@@ -64386,7 +64386,7 @@
 "job_for_seaman": 17143,
 "jobfor_seamen": 12842,
 "marinecareerorg": 17776,
-"marinejobs": 44165,
+"marinejobs": 44166,
 "marinejobz": 194156,
 "marineman_ltd": 48486,
 "maritimeforum": 260514,
@@ -64400,7 +64400,7 @@
 "olive_crew": 2986,
 "onboard_su": 20884,
 "pervoemorskoe": 4547,
-"rekamore_su": 166324,
+"rekamore_su": 166336,
 "roster_marine": 1751,
 "seajobfinder": 42811,
 "seamenjob": 106753,
@@ -64410,7 +64410,7 @@
 "shipscreweu": 16761,
 "sidantey": 399,
 "supermariner_ua": 3967,
-"truemalina_offshore": 851,
+"truemalina_offshore": 852,
 "ukrcrewing_official": 2399,
 "univis_crewing": 5053,
 "vesselsea": 3172,

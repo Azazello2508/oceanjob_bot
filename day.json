@@ -238,6 +238,53 @@
 "time": "2026-11-27T04:20:03+00:00",
 "junior_dp": false,
 "dp_officer": false
+},
+{
+"uk": "",
+"title": "Компания ГК \"ОТЭКО\" приглашает на  работу:",
+"url": "https://t.me/rekamore_su/166325",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-74a7f3c58da84381",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Tug",
+"contract": "ной основе",
+"email": "e.davydenko@oteko.ru",
+"company": "oteko.ru"
+},
+"company": "",
+"place": "",
+"new": true,
+"repeat": false,
+"time": "2026-11-27T04:26:57+00:00"
+},
+{
+"uk": "",
+"title": "Компания ООО \"СК \"АСТРОЛ\" приглашает на работу:",
+"url": "https://t.me/rekamore_su/166331",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-57e30ceb778b5197",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo",
+"salary": "297 000 рублей (на руки)",
+"joining": "в Астрахани",
+"email": "personal@sc-astrol.ru",
+"company": "sc-astrol.ru"
+},
+"company": "",
+"place": "",
+"new": true,
+"repeat": true,
+"time": "2026-11-27T04:42:04+00:00"
 }
 ],
 "msg_ids": [
