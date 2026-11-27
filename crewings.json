@@ -7611,14 +7611,14 @@
 "astonfleet.com": {
 "address": "",
 "city": "",
-"co": 33,
+"co": 34,
 "country": "",
 "emails": [
 "evtushenko_a@astonfleet.com",
 "gavrilova_o@astonfleet.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-26",
+"last": "2026-11-27",
 "links": {},
 "name": "ООО “Трэвелер Шиппинг”",
 "off": 0,
@@ -7630,7 +7630,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 33,
+"total": 34,
 "vessels": [
 "Tanker"
 ],
@@ -8731,7 +8731,7 @@
 "@seamenjob"
 ],
 "telegram": [],
-"total": 34,
+"total": 35,
 "vessels": [
 "General cargo",
 "Passenger"
@@ -10467,7 +10467,7 @@
 "bsc-spb.com": {
 "address": "2 Liter-D, Vidanvskaya street",
 "city": "Saint-Petersburg",
-"co": 36,
+"co": 38,
 "country": "Russia",
 "emails": [
 "cd@bsc-spb.com",
@@ -10475,15 +10475,15 @@
 "ed@bsc-spb.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-26",
+"last": "2026-11-27",
 "links": {
 "crewell": "https://crewell.net/en/companies/48029/"
 },
 "name": "CHINA at New Times Shipbuilding Co Ltd",
-"off": 37,
+"off": 38,
 "offshore_hint": false,
 "phones": [],
-"so": 29,
+"so": 30,
 "sources": [
 "@maritimeforum",
 "@morehod_ru",
@@ -10491,7 +10491,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 86,
+"total": 89,
 "vessels": [
 "Bulk",
 "LPG/LNG",
@@ -14182,7 +14182,7 @@
 "staff@delta152.ru"
 ],
 "first": "2026-11-03",
-"last": "2026-11-25",
+"last": "2026-11-27",
 "links": {},
 "name": "ООО «Дельта»",
 "off": 0,
@@ -14199,7 +14199,7 @@
 "@seamenjob"
 ],
 "telegram": [],
-"total": 62,
+"total": 63,
 "vessels": [
 "General cargo"
 ],
@@ -15417,14 +15417,14 @@
 "ecoshp.ru": {
 "address": "",
 "city": "",
-"co": 31,
+"co": 32,
 "country": "",
 "emails": [
 "e.kievskaya@ecoshp.ru",
 "k.korelskaya@ecoshp.ru"
 ],
 "first": "2026-11-03",
-"last": "2026-11-26",
+"last": "2026-11-27",
 "links": {},
 "name": "Eco Shipping",
 "off": 0,
@@ -15437,7 +15437,7 @@
 "@vesselsea"
 ],
 "telegram": [],
-"total": 51,
+"total": 53,
 "vessels": [
 "General cargo"
 ],
@@ -16077,7 +16077,7 @@
 "crewing@ermakshipping.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-26",
+"last": "2026-11-27",
 "links": {},
 "name": "ООО “ЕРМАК ШИППИНГ”",
 "off": 0,
@@ -16093,7 +16093,7 @@
 "@seamenjob"
 ],
 "telegram": [],
-"total": 43,
+"total": 44,
 "vessels": [
 "Tanker"
 ],
@@ -20578,13 +20578,13 @@
 "imt-mgt.com": {
 "address": "",
 "city": "",
-"co": 18,
+"co": 19,
 "country": "",
 "emails": [
 "ok@imt-mgt.com"
 ],
 "first": "2026-11-05",
-"last": "2026-11-26",
+"last": "2026-11-27",
 "links": {},
 "name": "",
 "off": 0,
@@ -20599,7 +20599,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 32,
+"total": 34,
 "vessels": [
 "Tanker"
 ],
@@ -42279,7 +42279,7 @@
 "tempkadr@mail.ru"
 ],
 "first": "2026-11-09",
-"last": "2026-11-26",
+"last": "2026-11-27",
 "links": {},
 "name": "ООО «Темп+»",
 "off": 0,
@@ -42294,7 +42294,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 26,
+"total": 27,
 "vessels": [
 "Chemical",
 "General cargo"
@@ -42454,7 +42454,7 @@
 "transoptimalng@mail.ru"
 ],
 "first": "2026-11-03",
-"last": "2026-11-26",
+"last": "2026-11-27",
 "links": {},
 "name": "ООО “Трансоптимал СПБ”",
 "off": 0,
@@ -42466,7 +42466,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 33,
+"total": 34,
 "vessels": [
 "General cargo",
 "LPG/LNG"
@@ -46589,7 +46589,7 @@
 "oteko.ru": {
 "address": "",
 "city": "",
-"co": 26,
+"co": 27,
 "country": "",
 "emails": [
 "e.davydenko@oteko.ru"
@@ -46607,7 +46607,7 @@
 "@rekamore_su"
 ],
 "telegram": [],
-"total": 54,
+"total": 56,
 "vessels": [
 "Dredger",
 "Tug"
@@ -59688,7 +59688,7 @@
 "n.yakusheva@volgaflot.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-26",
+"last": "2026-11-27",
 "links": {},
 "name": "АО \"Судоходная компания \"",
 "off": 0,
@@ -59704,7 +59704,7 @@
 "@seamenjob"
 ],
 "telegram": [],
-"total": 19,
+"total": 20,
 "vessels": [
 "General cargo"
 ],
@@ -64391,7 +64391,7 @@
 "marineman_ltd": 48486,
 "maritimeforum": 260514,
 "merchantNavyrealjob": 265,
-"morehod_ru": 31319,
+"morehod_ru": 31324,
 "oceancrewjobs": 33013,
 "offshoreatsea": 26019,
 "offshorecv": 1628,
@@ -64400,10 +64400,10 @@
 "olive_crew": 2986,
 "onboard_su": 20884,
 "pervoemorskoe": 4547,
-"rekamore_su": 166336,
+"rekamore_su": 166353,
 "roster_marine": 1751,
 "seajobfinder": 42811,
-"seamenjob": 106753,
+"seamenjob": 106755,
 "seamenvacancy": 1403,
 "seavacancies": 25275,
 "shipjobsindia": 420,

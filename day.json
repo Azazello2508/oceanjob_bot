@@ -258,9 +258,11 @@
 },
 "company": "",
 "place": "",
-"new": true,
+"new": false,
 "repeat": false,
-"time": "2026-11-27T04:26:57+00:00"
+"time": "2026-11-27T04:26:57+00:00",
+"junior_dp": false,
+"dp_officer": false
 },
 {
 "uk": "",
@@ -282,20 +284,719 @@
 },
 "company": "",
 "place": "",
-"new": true,
+"new": false,
 "repeat": true,
-"time": "2026-11-27T04:42:04+00:00"
+"time": "2026-11-27T04:42:04+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "2nd Officer on Oil tanker",
+"url": "https://crewell.net/en/vacancies/468091/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Tanker"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-27T05:36:56.653631+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Second Officer on LPG Carrier Trident Maritime Agency ·  Deck LPG Carrier Second Officer second officer lpg carrier trident maritime Negotiable per month View J…",
+"url": "https://findseajobs.com/seajobs/481486.html",
+"source": "findseajobs.com",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "LPG",
+"company": "Second Officer on LPG Carrier Tride…"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-27T05:38:22.523258+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Second Officer on General Cargo Olive Crew ·  Deck General Cargo Second Officer second officer general cargo €3,726 per month View Job 12 min ago",
+"url": "https://findseajobs.com/seajobs/481496.html",
+"source": "findseajobs.com",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "General cargo",
+"salary": "€3,726",
+"company": "Second Officer on General Cargo Oli…"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-27T05:38:23.096274+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Second Officer on Bulk Carrier AZARA Sifservice ·  Deck Bulk Carrier Second Officer second officer bulk carrier AZARA $2,500 per month View Job 11 min ago",
+"url": "https://findseajobs.com/seajobs/481498.html",
+"source": "findseajobs.com",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Bulk carrier",
+"salary": "$2,500"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-27T05:38:23.644084+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Second Officer on LPG Carrier Raymarine Crewing ·  Deck LPG Carrier Second Officer second officer lpg carrier ray marine crewing $3,800 - $4,500 per month View…",
+"url": "https://findseajobs.com/seajobs/481503.html",
+"source": "findseajobs.com",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "LPG",
+"salary": "$3,800 - $4,500",
+"company": "Second Officer on LPG Carrier Rayma…"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-27T05:38:24.253986+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Second Officer on Heavy Lift Vessel Vita Maritime Ltd ·  Deck Other Ship Type Second Officer second officer heavy lift vessel vita maritime ltd $3,800 per month…",
+"url": "https://findseajobs.com/seajobs/481525.html",
+"source": "findseajobs.com",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"salary": "$3,800",
+"company": "Second Officer on Heavy Lift Vessel…"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-27T05:38:24.866802+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Second Officer on Chemical Tanker Vita Maritime Ltd ·  Deck Chemical Tanker Second Officer second officer chemical tanker vita maritime ltd $4,600 per month Vie…",
+"url": "https://findseajobs.com/seajobs/481526.html",
+"source": "findseajobs.com",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Chemical tanker",
+"salary": "$4,600",
+"company": "Second Officer on Chemical Tanker V…"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-27T05:38:25.404110+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Second Officer on Crude Oil Tanker RIA Marine LLC ·  Deck Crude Oil Tanker Second Officer second officer crude oil tanker tanker $5,600 - $6,100/month per month…",
+"url": "https://findseajobs.com/seajobs/481536.html",
+"source": "findseajobs.com",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Crude oil tanker",
+"salary": "$5,600 - $6,100",
+"company": "Second Officer on Crude Oil Tanker…"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-27T05:38:25.946503+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Second Officer on Oil/Chemical Tanker RIA Marine LLC ·  Deck Oil/Chemical Tanker Second Officer second officer oil/chemical tanker tanker $5,600 - $6,100/month…",
+"url": "https://findseajobs.com/seajobs/481540.html",
+"source": "findseajobs.com",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Chemical tanker",
+"salary": "$5,600 - $6,100",
+"company": "Second Officer on Oil/Chemical Tank…"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-27T05:38:26.487110+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Second Officer on LPG Carrier Nikolaev Maritime Agency ·  Deck LPG Carrier Second Officer second officer lpg carrier $5,462 + $6,000 bonus per month View Job 8…",
+"url": "https://findseajobs.com/seajobs/481547.html",
+"source": "findseajobs.com",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "LPG",
+"salary": "$5,462",
+"company": "Second Officer on LPG Carrier Nikol…"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-27T05:38:27.027882+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Second Officer on Chemical Tanker TBC Shipmanagement ·  Deck Chemical Tanker Second Officer second officer chemical tanker $4,300 - $4,600 per month View Job 7…",
+"url": "https://findseajobs.com/seajobs/481561.html",
+"source": "findseajobs.com",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Chemical tanker",
+"salary": "$4,300 - $4,600"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-27T05:38:27.571180+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Second Officer on LPG Carrier TBC Shipmanagement ·  Deck LPG Carrier Second Officer second officer lpg carrier $4,500 - $5,400 per month View Job 7 min ago",
+"url": "https://findseajobs.com/seajobs/481564.html",
+"source": "findseajobs.com",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "LPG",
+"salary": "$4,500 - $5,400"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-27T05:38:28.119941+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Chief Officer on General Cargo Olive Crew ·  Deck General Cargo Chief Officer chief officer general cargo €6,000 per month View Job 12 min ago",
+"url": "https://findseajobs.com/seajobs/481489.html",
+"source": "findseajobs.com",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo",
+"salary": "€6,000",
+"company": "Chief Officer on General Cargo Oliv…"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-27T05:38:28.657201+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Chief Officer on Bulk Carrier Olive Crew ·  Deck Bulk Carrier Chief Officer chief officer bulk carrier capesize EUR (amount unspecified) per month View Job 12 m…",
+"url": "https://findseajobs.com/seajobs/481491.html",
+"source": "findseajobs.com",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Bulk carrier",
+"company": "Chief Officer on Bulk Carrier Olive…"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-27T05:38:29.216502+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Chief Officer on General Cargo Raymarine Crewing ·  Deck General Cargo Chief Officer chief officer general cargo ray marine crewing $6,000 per month View Job 9…",
+"url": "https://findseajobs.com/seajobs/481508.html",
+"source": "findseajobs.com",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo",
+"salary": "$6,000",
+"company": "Chief Officer on General Cargo Raym…"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-27T05:38:29.795140+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Chief Officer on LPG Carrier Raymarine Crewing ·  Deck LPG Carrier Chief Officer chief officer lpg carrier ray marine crewing $11,000 - $13,000 per month View J…",
+"url": "https://findseajobs.com/seajobs/481511.html",
+"source": "findseajobs.com",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "LPG",
+"salary": "$11,000 - $13,000",
+"company": "Chief Officer on LPG Carrier Raymar…"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-27T05:38:30.327635+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Chief Officer on Car Carrier Vita Maritime Ltd ·  Deck Car Carrier Chief Officer chief officer car carrier vita maritime ltd Negotiable per month View Job 9 min…",
+"url": "https://findseajobs.com/seajobs/481520.html",
+"source": "findseajobs.com",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "PCTC",
+"company": "Chief Officer on Car Carrier Vita M…"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-27T05:38:30.969689+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Chief Officer on General Cargo Vita Maritime Ltd ·  Deck General Cargo Chief Officer chief officer general cargo vita maritime ltd €6,700 per month View Job 9 m…",
+"url": "https://findseajobs.com/seajobs/481521.html",
+"source": "findseajobs.com",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo",
+"salary": "€6,700",
+"company": "Chief Officer on General Cargo Vita…"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-27T05:38:31.511152+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Chief Officer on Container Vessel Vita Maritime Ltd ·  Deck Container Vessel Chief Officer chief officer container vessel vita maritime ltd $7,600 - $7,800 per…",
+"url": "https://findseajobs.com/seajobs/481522.html",
+"source": "findseajobs.com",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Container",
+"salary": "$7,600 - $7,800",
+"company": "Chief Officer on Container Vessel V…"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-27T05:38:32.049434+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Chief Officer on Heavy Lift Vessel Vita Maritime Ltd ·  Deck Other Ship Type Chief Officer chief officer heavy lift vessel vita maritime ltd $7,200 - $7,500 per…",
+"url": "https://findseajobs.com/seajobs/481523.html",
+"source": "findseajobs.com",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"salary": "$7,200 - $7,500",
+"company": "Chief Officer on Heavy Lift Vessel…"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-27T05:38:32.585044+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Chief Officer on Chemical Tanker Vita Maritime Ltd ·  Deck Chemical Tanker Chief Officer chief officer chemical tanker vita maritime ltd $11,300 per month View…",
+"url": "https://findseajobs.com/seajobs/481524.html",
+"source": "findseajobs.com",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Chemical tanker",
+"salary": "$11,300",
+"company": "Chief Officer on Chemical Tanker Vi…"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-27T05:38:33.131167+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Chief Officer on Bitumen Oil Tanker RIA Marine LLC ·  Deck Other Ship Type Chief Officer chief officer bitumen oil tanker tanker $11,000/month per month View Jo…",
+"url": "https://findseajobs.com/seajobs/481535.html",
+"source": "findseajobs.com",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Tanker",
+"salary": "$11,000",
+"company": "Chief Officer on Bitumen Oil Tanker…"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-27T05:38:33.702064+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Chief Officer on LPG Carrier Nikolaev Maritime Agency ·  Deck LPG Carrier Chief Officer chief officer lpg carrier $11,637 + $7,000 bonus per month View Job 8 mi…",
+"url": "https://findseajobs.com/seajobs/481546.html",
+"source": "findseajobs.com",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "LPG",
+"salary": "$11,637",
+"company": "Chief Officer on LPG Carrier Nikola…"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-27T05:38:34.243441+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Chief Officer on Chemical Tanker TBC Shipmanagement ·  Deck Chemical Tanker Chief Officer chief officer chemical tanker $10,500 - $11,500 per month View Job 7 m…",
+"url": "https://findseajobs.com/seajobs/481560.html",
+"source": "findseajobs.com",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Chemical tanker",
+"salary": "$10,500 - $11,500"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-27T05:38:34.788871+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Chief Officer on LNG Carrier Ross & Marine ·  Deck LNG Carrier Chief Officer chief officer lng carrier $15,000 per month View Job 5 min ago",
+"url": "https://findseajobs.com/seajobs/481580.html",
+"source": "findseajobs.com",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "LNG",
+"salary": "$15,000",
+"company": "Chief Officer on LNG Carrier Ross &…"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-27T05:38:35.384282+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Компания ООО НП «Балтийское Морское Пароходство» приглашает на работу:",
+"url": "https://t.me/rekamore_su/166337",
+"source": "Telegram: @rekamore_su",
+"found": [
+"2off"
+],
+"fp": "fp-28143510deb0fa58",
+"offshore": true,
+"info": {
+"vessel": "Tanker",
+"salary": "3500-4500 USD",
+"joining": "ASAP -  KFK // Strait of Hormu",
+"company": "ООО НП «Балтийское Морское Пароходс…"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": true,
+"time": "2026-11-27T04:50:04+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Компания ООО НП «Балтийское Морское Пароходство» приглашает на работу:",
+"url": "https://t.me/rekamore_su/166338",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-53cb10282b74dc9f",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Reefer",
+"salary": "5 500 USD",
+"joining": "СРОЧНАЯ в Санкт-Петербурге",
+"contract": "4+1",
+"company": "ООО НП «Балтийское Морское Пароходс…"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": true,
+"time": "2026-11-27T04:50:08+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Компания ООО НП «Балтийское Морское Пароходство» приглашает на работу:",
+"url": "https://t.me/rekamore_su/166339",
+"source": "Telegram: @rekamore_su",
+"found": [
+"choff"
+],
+"fp": "fp-3e2ed6d6e85baa97",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "LNG, Tug",
+"salary": "350 000 рублей",
+"joining": "СРОЧНАЯ",
+"contract": "2 месяца через 2 месяца",
+"email": "cd@bsc-spb.com",
+"company": "bsc-spb.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": true,
+"time": "2026-11-27T04:50:12+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Судоходная компания \"Eco Shipping\" приглашает на работу:",
+"url": "https://t.me/rekamore_su/166341",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-3e2be08a86d4c374",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo",
+"salary": "365 000 рублей",
+"joining": "ноябрь- декабрь",
+"contract": "5/5 ( +/-1)",
+"email": "e.kievskaya@ecoshp.ru",
+"company": "ecoshp.ru"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": true,
+"time": "2026-11-27T04:52:07+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Компания ООО “Трэвелер Шиппинг” приглашает на работу:",
+"url": "https://t.me/rekamore_su/166348",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-f73df8b5d80918f0",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Chemical tanker",
+"joining": "декабрь 2026г",
+"email": "gavrilova_o@astonfleet.com",
+"company": "astonfleet.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": true,
+"time": "2026-11-27T05:18:04+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Компания  “Инмортерминал” приглашает на работу:",
+"url": "https://t.me/rekamore_su/166350",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-f2075f0a0ec16e58",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Tanker",
+"salary": "418 252 рублей на руки, 480 99…"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": true,
+"time": "2026-11-27T05:20:08+00:00",
+"junior_dp": false,
+"dp_officer": false
 }
 ],
 "msg_ids": [
-8280,
-8281,
-8282,
-8283,
-8284,
-8285
+8286,
+8287,
+8288,
+8289,
+8290,
+8291,
+8292,
+8293,
+8294,
+8295,
+8296,
+8297
 ],
-"last_list": "2026-11-27T04:25:59.185442+00:00",
-"cleared_upto": 8279,
-"last_msg_id": 8285
+"last_list": "2026-11-27T05:39:47.342834+00:00",
+"cleared_upto": 8285,
+"last_msg_id": 8297
 }
