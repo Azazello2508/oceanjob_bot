@@ -8743,36 +8743,166 @@
 "time": "2026-11-27T15:58:50+00:00",
 "junior_dp": false,
 "dp_officer": false
+},
+{
+"uk": "",
+"title": "2nd Mate for Container (Less 2000 TEU)",
+"url": "https://t.me/maritimeforum/260722",
+"source": "Telegram: @maritimeforum",
+"found": [
+"2nd mate",
+"2off"
+],
+"fp": "fp-99d4843f7449c655",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Container",
+"salary": "4274 USD",
+"joining": "08-12-2026",
+"contract": "Monthly salary: 4274 US",
+"email": "Yulia.Voronina@iqrewing.com",
+"company": "iqrewing.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-27T16:39:54+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://t.me/maritimeforum/260735",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-c10b8b6e84a73518",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Tug",
+"email": "alfie.smart@selectoffshore.com",
+"company": "selectoffshore.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-27T16:42:07+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://t.me/maritimeforum/260767",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-1f796b2d8d100e35",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Ro-Ro",
+"contract": "4 months",
+"salary": "$8,100\n",
+"email": "cv@well.lv",
+"company": "well.lv"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-27T16:47:42+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "URGENT: CHIEF OFFICER NEEDED",
+"url": "https://t.me/marinejobs/44227",
+"source": "Telegram: @marinejobs",
+"found": [
+"chief officer"
+],
+"fp": "fp-cb3e5b0135024a38",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Chemical tanker",
+"salary": "13000–14000 USD per month",
+"joining": "ASAP",
+"contract": "3 months",
+"email": "cv@alphacrew.com",
+"company": "alphacrew.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-27T16:35:58+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://t.me/marinejobs/44229",
+"source": "Telegram: @marinejobs",
+"found": [
+"chief officer"
+],
+"fp": "fp-badb1b1e226f43d4",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Tug",
+"joining": "10th January",
+"contract": "length: 6 weeks",
+"email": "alfie.smart@selectoffshore.com",
+"company": "selectoffshore.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-27T17:01:37+00:00",
+"junior_dp": false,
+"dp_officer": false
 }
 ],
 "msg_ids": [
-8513,
-8514,
-8515,
-8516,
-8517,
-8518,
-8519,
-8520,
-8521,
-8522,
-8523,
-8524,
-8525,
-8526,
-8527,
-8528,
-8529,
-8530,
-8531,
-8532,
-8533,
-8534,
-8535,
-8536,
-8537
+8538,
+8539,
+8540,
+8541,
+8542,
+8543,
+8544,
+8545,
+8546,
+8547,
+8548,
+8549,
+8550,
+8551,
+8552,
+8553,
+8554,
+8555,
+8556,
+8557,
+8558,
+8559,
+8560,
+8561
 ],
-"last_list": "2026-11-27T16:33:35.949886+00:00",
-"cleared_upto": 8512,
-"last_msg_id": 8537
+"last_list": "2026-11-27T17:24:24.641546+00:00",
+"cleared_upto": 8537,
+"last_msg_id": 8561
 }
