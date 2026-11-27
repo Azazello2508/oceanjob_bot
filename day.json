@@ -7985,9 +7985,11 @@
 },
 "company": "",
 "place": "",
-"new": true,
+"new": false,
 "repeat": false,
-"time": "2026-11-27T15:40:33.364712+00:00"
+"time": "2026-11-27T15:40:33.364712+00:00",
+"junior_dp": true,
+"dp_officer": false
 },
 {
 "uk": "",
@@ -8003,9 +8005,11 @@
 },
 "company": "",
 "place": "",
-"new": true,
+"new": false,
 "repeat": false,
-"time": "2026-11-27T15:40:33.896268+00:00"
+"time": "2026-11-27T15:40:33.896268+00:00",
+"junior_dp": false,
+"dp_officer": false
 },
 {
 "uk": "",
@@ -8021,9 +8025,11 @@
 },
 "company": "",
 "place": "",
-"new": true,
+"new": false,
 "repeat": false,
-"time": "2026-11-27T15:40:34.593624+00:00"
+"time": "2026-11-27T15:40:34.593624+00:00",
+"junior_dp": false,
+"dp_officer": false
 },
 {
 "uk": "",
@@ -8038,9 +8044,11 @@
 },
 "company": "",
 "place": "",
-"new": true,
+"new": false,
 "repeat": false,
-"time": "2026-11-27T15:40:36.390918+00:00"
+"time": "2026-11-27T15:40:36.390918+00:00",
+"junior_dp": false,
+"dp_officer": false
 },
 {
 "uk": "",
@@ -8058,9 +8066,11 @@
 },
 "company": "",
 "place": "",
-"new": true,
+"new": false,
 "repeat": false,
-"time": "2026-11-27T15:41:01.428828+00:00"
+"time": "2026-11-27T15:41:01.428828+00:00",
+"junior_dp": false,
+"dp_officer": false
 },
 {
 "uk": "",
@@ -8076,9 +8086,11 @@
 },
 "company": "",
 "place": "",
-"new": true,
+"new": false,
 "repeat": false,
-"time": "2026-11-27T15:41:25.515746+00:00"
+"time": "2026-11-27T15:41:25.515746+00:00",
+"junior_dp": false,
+"dp_officer": false
 },
 {
 "uk": "",
@@ -8100,9 +8112,11 @@
 },
 "company": "",
 "place": "",
-"new": true,
+"new": false,
 "repeat": false,
-"time": "2026-11-27T15:25:45+00:00"
+"time": "2026-11-27T15:25:45+00:00",
+"junior_dp": false,
+"dp_officer": false
 },
 {
 "uk": "",
@@ -8120,9 +8134,11 @@
 },
 "company": "",
 "place": "",
-"new": true,
+"new": false,
 "repeat": false,
-"time": "2026-11-27T15:22:01+00:00"
+"time": "2026-11-27T15:22:01+00:00",
+"junior_dp": false,
+"dp_officer": false
 },
 {
 "uk": "",
@@ -8139,9 +8155,11 @@
 },
 "company": "",
 "place": "",
-"new": true,
+"new": false,
 "repeat": false,
-"time": "2026-11-27T15:33:28+00:00"
+"time": "2026-11-27T15:33:28+00:00",
+"junior_dp": false,
+"dp_officer": false
 },
 {
 "uk": "",
@@ -8160,9 +8178,11 @@
 },
 "company": "",
 "place": "",
-"new": true,
+"new": false,
 "repeat": false,
-"time": "2026-11-27T15:40:06+00:00"
+"time": "2026-11-27T15:40:06+00:00",
+"junior_dp": false,
+"dp_officer": false
 },
 {
 "uk": "",
@@ -8184,38 +8204,575 @@
 },
 "company": "",
 "place": "",
-"new": true,
+"new": false,
 "repeat": false,
-"time": "2026-11-27T15:40:13+00:00"
+"time": "2026-11-27T15:40:13+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://t.me/maritimeforum/260639",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-37bdf19f5de81619",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"contract": "4 months",
+"salary": "$7,200–7,500\n",
+"email": "applications@vitamaritime.com.ua",
+"company": "vitamaritime.com.ua"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-27T16:11:57+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://t.me/maritimeforum/260643",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-5ed3f586093d4832",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo",
+"contract": "4 months",
+"salary": "$6,250–6,500\n",
+"email": "crew@techmarine.com.ua",
+"company": "techmarine.com.ua"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-27T16:12:21+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://t.me/maritimeforum/260647",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-f270eb0b916e9052",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Container",
+"contract": "4 months",
+"salary": "$7,600–7,800\n",
+"email": "cv@amergogroup.com",
+"company": "amergogroup.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-27T16:13:12+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "2nd Officer",
+"url": "https://t.me/maritimeforum/260649",
+"source": "Telegram: @maritimeforum",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-d54e5fd2750ae674",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "MPP",
+"contract": "4 months",
+"salary": "$3,800\n",
+"email": "crewing@nautilus.mk.ua",
+"company": "nautilus.mk.ua"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-27T16:13:24+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://t.me/maritimeforum/260652",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-58628d5dc166ae47",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"contract": "4 months",
+"salary": "$6,500–6,800\n",
+"email": "applications@vitamaritime.com.ua",
+"company": "vitamaritime.com.ua"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-27T16:13:41+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "2nd Officer",
+"url": "https://t.me/maritimeforum/260655",
+"source": "Telegram: @maritimeforum",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-56e6c28d506663ae",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Bulk carrier",
+"contract": "6 months",
+"salary": "$4,190\n",
+"email": "applications@mw-maritime.com",
+"company": "mw-maritime.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-27T16:13:58+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "WRS - Worldwide Recruitment Solutions are looking for an ETO, Chief Officer and 2xDPOs to join a Geotechnical drilling vessel in the Black Sea (outside high ris…",
+"url": "https://t.me/seajobfinder/42836",
+"source": "Telegram: @seajobfinder",
+"found": [
+"chief officer",
+"dpo"
+],
+"fp": "fp-dd47503a6f5dc162",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / DPO",
+"contract": "s",
+"email": "Tilly.M@worldwide-rs.com",
+"company": "worldwide-rs.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-27T15:51:53+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Position:",
+"url": "https://t.me/CREW_ARIA/14328",
+"source": "Telegram: @CREW_ARIA",
+"found": [
+"chief mate"
+],
+"fp": "fp-69503dfc3eb7aa69",
+"offshore": true,
+"info": {
+"rank": "Chief Officer / AB",
+"vessel": "Jack-up",
+"contract": "Approximately 4 weeks",
+"email": "jobs@heldermaritiem.com",
+"company": "heldermaritiem.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-27T16:18:00+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "URGENT CREW REQUIREMENTS — GEOTECHNICAL DRILLING VESSEL",
+"url": "https://t.me/marinejobs/44224",
+"source": "Telegram: @marinejobs",
+"found": [
+"chief officer",
+"dpo"
+],
+"fp": "fp-c5e4be8c09587bc7",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / DPO",
+"joining": "8th December",
+"contract": "8/8",
+"email": "Tilly.M@worldwide-rs.com",
+"company": "worldwide-rs.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-27T16:06:26+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Container Fleet – Open Sea Jobs",
+"url": "https://t.me/marinejobs/44225",
+"source": "Telegram: @marinejobs",
+"found": [
+"chief officer",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-129c7e62d8d82197",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer / 3rd Officer",
+"vessel": "Container",
+"salary": "$11,000–11,700\n",
+"email": "hr@univis.com.ua",
+"company": "univis.com.ua"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-27T16:30:49+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "𝗔𝗟𝗣𝗛𝗔 𝗖𝗥𝗘𝗪 𝗚𝗥𝗢𝗨𝗣 𝗜𝗦 𝗨𝗥𝗚𝗘𝗡𝗧𝗟𝗬 𝗟𝗢𝗢𝗞𝗜𝗡𝗚 𝗙𝗢𝗥:",
+"url": "https://t.me/jobfor_seamen/12848",
+"source": "Telegram: @jobfor_seamen",
+"found": [
+"chief officer"
+],
+"fp": "fp-c6510097a99b1661",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Chemical tanker",
+"salary": "13000–14000 USD p/m",
+"joining": "ASAP",
+"contract": "3 MONTHS",
+"email": "cv@alphacrew.com",
+"tg": "Ekaterina_Alpha_Crew",
+"company": "alphacrew.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-27T16:14:33+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "OPEN VACANCIES FOR CONTAINER FLEET",
+"url": "https://t.me/seamenjob/106788",
+"source": "Telegram: @seamenjob",
+"found": [
+"chief officer",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-0dbecf4252e59370",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer / 3rd Officer",
+"vessel": "Container",
+"salary": "11000-11700$",
+"contract": "4 +/-1",
+"email": "hr@univis.com.ua",
+"tg": "univisltd",
+"company": "univis.com.ua"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": true,
+"time": "2026-11-27T16:02:50+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "DECK OFFICERS (39)",
+"url": "https://t.me/marineman_ltd/48490",
+"source": "Telegram: @marineman_ltd",
+"found": [
+"chief officer",
+"second officer"
+],
+"fp": "fp-1402cb169ca08b68",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer / 3rd Officer",
+"vessel": "LNG, Chemical tanker"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-27T16:00:03+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "https://jobatsea.online/job/626552/offshore-fleet-3e-for-plvccv-dp3-400usd-pd-at-sia-gold-orion-ltd/",
+"url": "https://t.me/offshorevacancies/47553",
+"source": "Telegram: @offshorevacancies",
+"found": [
+"2/off",
+"2/o",
+"2/off"
+],
+"fp": "fp-b59d0c21f8a85746",
+"offshore": true,
+"info": {
+"rank": "2nd Officer",
+"salary": "400usd",
+"company": "https://jobatsea.online/job/626552/…"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-27T15:47:25+00:00",
+"junior_dp": false,
+"dp_officer": true
+},
+{
+"uk": "",
+"title": "https://jobatsea.online/job/626569/2nd-officer-jdpo-to-join-a-sov-in-brazil-on-the-4th-of-december-at-wrs/",
+"url": "https://t.me/offshorevacancies/47554",
+"source": "Telegram: @offshorevacancies",
+"found": [
+"jdpo",
+"2nd officer",
+"dpo",
+"jdpo",
+"2nd off"
+],
+"fp": "fp-4847df6c120c9d8b",
+"offshore": true,
+"info": {
+"rank": "2nd Officer / JDPO"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-27T15:55:49+00:00",
+"junior_dp": true,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "https://jobatsea.online/job/626540/2nd-officer-sdpo-psv-dp2-offshore-opportunities-at-tos-energy-maritime-crew/",
+"url": "https://t.me/offshorevacancies/47558",
+"source": "Telegram: @offshorevacancies",
+"found": [
+"2nd officer",
+"sdpo",
+"dpo",
+"2nd off"
+],
+"fp": "fp-8c3faef57a2a46a2",
+"offshore": true,
+"info": {
+"rank": "2nd Officer / SDPO",
+"vessel": "PSV",
+"company": "https://jobatsea.online/job/626540/…"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-27T16:27:06+00:00",
+"junior_dp": false,
+"dp_officer": true
+},
+{
+"uk": "",
+"title": "Список закрытых каналов в",
+"url": "https://t.me/rekamore_su/166435",
+"source": "Telegram: @rekamore_su",
+"found": [
+"старший помощник"
+],
+"fp": "fp-de84ab9948b9e3a9",
+"offshore": false,
+"info": {
+"rank": "Chief Officer"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": true,
+"time": "2026-11-27T16:03:01+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://t.me/offshoreatsea/26124",
+"source": "Telegram: @offshoreatsea",
+"found": [
+"chief officer"
+],
+"fp": "fp-159683302081020f",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "AHTS",
+"salary": "Competitive rates",
+"contract": "6 weeks on / 6 weeks off",
+"email": "taylor.ansellquinton@selectoffshore.com",
+"company": "selectoffshore.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-27T15:57:35+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Vessel: Offshore Installation Vessel",
+"url": "https://t.me/offshoreatsea/26130",
+"source": "Telegram: @offshoreatsea",
+"found": [],
+"fp": "fp-3152a43114f0bf1c",
+"offshore": true,
+"info": {
+"rank": "AB",
+"salary": "230-270 EUR per day",
+"contract": "6-7 weeks",
+"email": "croatia@orca-crew.com",
+"company": "orca-crew.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-27T15:57:52+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "DP Operator",
+"url": "https://t.me/offshoreatsea/26134",
+"source": "Telegram: @offshoreatsea",
+"found": [
+"dp operator"
+],
+"fp": "fp-6b1f80a3790fc344",
+"offshore": true,
+"info": {
+"rank": "DPO",
+"contract": "4 weeks",
+"email": "joy@sa-world.com",
+"company": "sa-world.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-27T15:57:59+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://t.me/offshoreatsea/26137",
+"source": "Telegram: @offshoreatsea",
+"found": [
+"chief officer"
+],
+"fp": "fp-bc4fa516b7662613",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Tug",
+"contract": "6 weeks",
+"email": "alfie.smart@selectoffshore.com",
+"company": "selectoffshore.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-27T15:58:50+00:00",
+"junior_dp": false,
+"dp_officer": false
 }
 ],
 "msg_ids": [
-8489,
-8490,
-8491,
-8492,
-8493,
-8494,
-8495,
-8496,
-8497,
-8498,
-8499,
-8500,
-8501,
-8502,
-8503,
-8504,
-8505,
-8506,
-8507,
-8508,
-8509,
-8510,
-8511,
-8512
+8513,
+8514,
+8515,
+8516,
+8517,
+8518,
+8519,
+8520,
+8521,
+8522,
+8523,
+8524,
+8525,
+8526,
+8527,
+8528,
+8529,
+8530,
+8531,
+8532,
+8533,
+8534,
+8535,
+8536,
+8537
 ],
-"last_list": "2026-11-27T15:20:13.585780+00:00",
-"cleared_upto": 8488,
-"last_msg_id": 8512
+"last_list": "2026-11-27T16:33:35.949886+00:00",
+"cleared_upto": 8512,
+"last_msg_id": 8537
 }
