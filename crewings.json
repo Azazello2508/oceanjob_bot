@@ -8743,7 +8743,7 @@
 "dalmarin@aziaship.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-27",
+"last": "2026-11-28",
 "links": {},
 "name": "ООО \"СК АЗИА\"",
 "off": 0,
@@ -8760,7 +8760,7 @@
 "@seamenjob"
 ],
 "telegram": [],
-"total": 10,
+"total": 11,
 "vessels": [
 "General cargo"
 ],
@@ -52317,7 +52317,7 @@
 "@maritimeforum"
 ],
 "telegram": [],
-"total": 148,
+"total": 149,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -54912,7 +54912,7 @@
 "+380937800894",
 "+380979435590"
 ],
-"so": 73,
+"so": 74,
 "sources": [
 "@CREW_ARIA",
 "@Merchant_Fleet",
@@ -54924,7 +54924,7 @@
 "@supermariner_ua"
 ],
 "telegram": [],
-"total": 394,
+"total": 397,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -64944,21 +64944,21 @@
 "job_for_seaman": 17148,
 "jobfor_seamen": 12848,
 "marinecareerorg": 17777,
-"marinejobs": 44233,
+"marinejobs": 44234,
 "marinejobz": 194156,
 "marineman_ltd": 48496,
-"maritimeforum": 260849,
+"maritimeforum": 260853,
 "merchantNavyrealjob": 265,
 "morehod_ru": 31363,
 "oceancrewjobs": 33030,
 "offshoreatsea": 26142,
 "offshorecv": 1630,
-"offshorevacancies": 47559,
+"offshorevacancies": 47560,
 "oilrigs": 778,
 "olive_crew": 2994,
 "onboard_su": 20898,
 "pervoemorskoe": 4548,
-"rekamore_su": 166455,
+"rekamore_su": 166456,
 "roster_marine": 1751,
 "seajobfinder": 42840,
 "seamenjob": 106790,
@@ -64968,7 +64968,7 @@
 "shipscreweu": 16761,
 "sidantey": 399,
 "supermariner_ua": 3972,
-"truemalina_offshore": 853,
+"truemalina_offshore": 855,
 "ukrcrewing_official": 2401,
 "univis_crewing": 5057,
 "vesselsea": 3172,
