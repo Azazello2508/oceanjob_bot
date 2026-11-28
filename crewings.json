@@ -12329,6 +12329,32 @@
 "vessels": [],
 "website": "comshipbd.com"
 },
+"conaro.com": {
+"address": "",
+"city": "",
+"co": 0,
+"country": "",
+"emails": [
+"crew.dep@conaro.com"
+],
+"first": "2026-11-28",
+"last": "2026-11-28",
+"links": {},
+"name": "АО \"Конаро-Шиппинг\"",
+"off": 0,
+"offshore_hint": false,
+"phones": [],
+"so": 0,
+"sources": [
+"@rekamore_su"
+],
+"telegram": [],
+"total": 1,
+"vessels": [
+"Tanker"
+],
+"website": ""
+},
 "concord.od.ua": {
 "address": "",
 "city": "Odesa",
@@ -57634,7 +57660,7 @@
 "trident-maritime.com": {
 "address": "French boulevard 22/1, office 3",
 "city": "Odesa",
-"co": 17,
+"co": 19,
 "country": "Ukraine",
 "emails": [
 "application@trident-maritime.com",
@@ -57647,12 +57673,12 @@
 "crew@nykicrew.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-27",
+"last": "2026-11-28",
 "links": {
 "crewell": "https://crewell.net/en/companies/238248/"
 },
 "name": "Trident Maritime",
-"off": 12,
+"off": 14,
 "offshore_hint": false,
 "phones": [
 "+13056100913",
@@ -57678,7 +57704,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 96,
+"total": 106,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -64727,6 +64753,7 @@
 "кмк offline russian federation member since: aug 2022 no active vacancies view profile": "name:кмк offline russian federation member since: aug 2022 no active vacancies view profile",
 "компания инок карелия offline russian federation member since: jan 2018 no active vacancies view profile": "name:компания инок карелия offline russian federation member since: jan 2018 no active vacancies view profile",
 "компания нт offline russian federation member since: nov 2016 no active vacancies начиная с 1997 года компания осуществляет оперирование судами в основном работали с риферными судами бананавозами и глубокой заморозки обеспечивали работу на линии континент-пе view profile": "name:компания нт offline russian federation member since: nov 2016 no active vacancies начиная с 1997 года компания осуществляет оперирование судами в основном работали с риферными судами бананавозами и глубокой заморозки обеспечивали работу на линии континент-пе view profile",
+"конаро-шиппинг": "conaro.com",
 "контур спб": "konturspb.ru",
 "контур спб offline russian federation member since: apr 2025 no active vacancies view profile": "name:контур спб offline russian federation member since: apr 2025 no active vacancies view profile",
 "корд-бункер": "kordoil.com",
@@ -64886,12 +64913,12 @@
 "tg_hw": {
 "ALPHACREW": 3599,
 "BSMCSCUKRAINE": 4482,
-"CREW_ARIA": 14332,
-"Crew_Radar": 3745,
+"CREW_ARIA": 14333,
+"Crew_Radar": 3769,
 "JobForMariners": 1215,
-"Merchant_Fleet": 685,
+"Merchant_Fleet": 686,
 "OffshoreFleetJob": 11113,
-"Offshore_Vacancies": 1050,
+"Offshore_Vacancies": 1051,
 "OnlyOffshore": 39367,
 "OnlyYacht": 2352,
 "SM_job_center": 2542,
@@ -64908,13 +64935,13 @@
 "cruiseshipjobs": 12,
 "cvcrewcom": 12912,
 "cvsenderseaman": 17338,
-"ecrewing": 3262,
+"ecrewing": 3263,
 "findseajobs": 32574,
 "galaxymaritimeua": 1250,
 "gm_seaman_cv": 2783,
 "help_seafarers": 4917,
 "ismira_agency": 440,
-"job_for_seaman": 17147,
+"job_for_seaman": 17148,
 "jobfor_seamen": 12848,
 "marinecareerorg": 17777,
 "marinejobs": 44233,
@@ -64926,12 +64953,12 @@
 "oceancrewjobs": 33030,
 "offshoreatsea": 26142,
 "offshorecv": 1630,
-"offshorevacancies": 47558,
+"offshorevacancies": 47559,
 "oilrigs": 778,
 "olive_crew": 2994,
 "onboard_su": 20898,
 "pervoemorskoe": 4548,
-"rekamore_su": 166454,
+"rekamore_su": 166455,
 "roster_marine": 1751,
 "seajobfinder": 42840,
 "seamenjob": 106790,

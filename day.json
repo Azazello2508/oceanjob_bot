@@ -2368,27 +2368,73 @@
 "time": "2026-11-28T10:48:41+00:00",
 "junior_dp": false,
 "dp_officer": false
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://t.me/Crew_Radar/3750",
+"source": "Telegram: @Crew_Radar",
+"found": [
+"chief officer"
+],
+"fp": "fp-0516bc4b53eaf89f",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "LNG",
+"joining": "Mid-December 2026"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": true,
+"time": "2026-11-28T12:00:10+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Afternoon Vacancy Digest — 2026-11-28",
+"url": "https://t.me/Crew_Radar/3757",
+"source": "Telegram: @Crew_Radar",
+"found": [
+"chief officer"
+],
+"fp": "fp-ac4f5fde395e158f",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "LPG, LNG",
+"company": "1. Gas Engineer — LNG Carrier — Tri…"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-28T12:00:20+00:00",
+"junior_dp": false,
+"dp_officer": false
 }
 ],
 "msg_ids": [
-8753,
-8754,
-8755,
-8756,
-8757,
-8758,
-8759,
-8760,
-8761,
-8762,
-8763,
-8764,
-8765,
-8766,
-8767,
-8768
+8769,
+8770,
+8771,
+8772,
+8773,
+8774,
+8775,
+8776,
+8777,
+8778,
+8779,
+8780,
+8781,
+8782,
+8783,
+8784
 ],
-"last_list": "2026-11-28T11:31:04.563880+00:00",
-"cleared_upto": 8752,
-"last_msg_id": 8768
+"last_list": "2026-11-28T12:22:25.902222+00:00",
+"cleared_upto": 8768,
+"last_msg_id": 8784
 }
