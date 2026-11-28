@@ -12261,7 +12261,7 @@
 "@maritimeforum"
 ],
 "telegram": [],
-"total": 49,
+"total": 50,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -22453,14 +22453,14 @@
 "jobs.nmms.co.uk": {
 "address": "",
 "city": "",
-"co": 18,
+"co": 20,
 "country": "",
 "emails": [],
 "first": "2026-11-03",
-"last": "2026-11-24",
+"last": "2026-11-28",
 "links": {},
 "name": "Northern Marine Manning Services",
-"off": 55,
+"off": 62,
 "offshore_hint": false,
 "phones": [],
 "so": 2,
@@ -22468,7 +22468,7 @@
 "@Crew_Radar"
 ],
 "telegram": [],
-"total": 90,
+"total": 97,
 "vessels": [
 "Chemical",
 "LPG/LNG",
@@ -47205,7 +47205,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 224,
+"total": 225,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -64861,7 +64861,7 @@
 "ALPHACREW": 3599,
 "BSMCSCUKRAINE": 4482,
 "CREW_ARIA": 14332,
-"Crew_Radar": 3736,
+"Crew_Radar": 3745,
 "JobForMariners": 1215,
 "Merchant_Fleet": 685,
 "OffshoreFleetJob": 11113,
@@ -64894,7 +64894,7 @@
 "marinejobs": 44233,
 "marinejobz": 194156,
 "marineman_ltd": 48496,
-"maritimeforum": 260835,
+"maritimeforum": 260836,
 "merchantNavyrealjob": 265,
 "morehod_ru": 31361,
 "oceancrewjobs": 33030,
@@ -64903,7 +64903,7 @@
 "offshorevacancies": 47558,
 "oilrigs": 778,
 "olive_crew": 2994,
-"onboard_su": 20895,
+"onboard_su": 20898,
 "pervoemorskoe": 4548,
 "rekamore_su": 166453,
 "roster_marine": 1751,

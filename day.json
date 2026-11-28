@@ -2200,27 +2200,93 @@
 "time": "2026-11-28T09:13:27+00:00",
 "junior_dp": false,
 "dp_officer": false
+},
+{
+"uk": "",
+"title": "Chief Officer on LNG",
+"url": "https://crewell.net/en/vacancies/468337/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "LNG"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-28T10:36:47.386153+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Chief Officer — LNG Carrier",
+"url": "https://t.me/Crew_Radar/3737",
+"source": "Telegram: @Crew_Radar",
+"found": [
+"chief officer"
+],
+"fp": "fp-f8a43e7f2c227a9a",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "LNG",
+"salary": "To be discussed"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-28T10:06:02+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Chief Officer — LPG Carrier",
+"url": "https://t.me/Crew_Radar/3744",
+"source": "Telegram: @Crew_Radar",
+"found": [
+"chief officer"
+],
+"fp": "fp-9fffd60ffa5bff78",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "LPG",
+"salary": "To be discussed"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-28T10:06:20+00:00",
+"junior_dp": false,
+"dp_officer": false
 }
 ],
 "msg_ids": [
-8721,
-8722,
-8723,
-8724,
-8725,
-8726,
-8727,
-8728,
-8729,
-8730,
-8731,
-8732,
-8733,
-8734,
-8735,
-8736
+8737,
+8738,
+8739,
+8740,
+8741,
+8742,
+8743,
+8744,
+8745,
+8746,
+8747,
+8748,
+8749,
+8750,
+8751,
+8752
 ],
-"last_list": "2026-11-28T09:48:38.368472+00:00",
-"cleared_upto": 8720,
-"last_msg_id": 8736
+"last_list": "2026-11-28T10:39:51.271698+00:00",
+"cleared_upto": 8736,
+"last_msg_id": 8752
 }
