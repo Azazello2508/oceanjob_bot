@@ -47264,7 +47264,7 @@
 "partner-dv.com": {
 "address": "г. Владивосток, ул. Кирова, д. 23, офис 208.",
 "city": "Владивосток",
-"co": 44,
+"co": 45,
 "country": "Russia",
 "emails": [
 "everest_sea_nhk@mail.ru",
@@ -47280,7 +47280,7 @@
 "off": 0,
 "offshore_hint": false,
 "phones": [],
-"so": 12,
+"so": 13,
 "sources": [
 "@cvsenderseaman",
 "@morehod_ru",
@@ -47289,7 +47289,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 229,
+"total": 230,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -65017,7 +65017,7 @@
 "offshorevacancies": 47560,
 "oilrigs": 778,
 "olive_crew": 2994,
-"onboard_su": 20898,
+"onboard_su": 20900,
 "pervoemorskoe": 4548,
 "rekamore_su": 166463,
 "roster_marine": 1751,
