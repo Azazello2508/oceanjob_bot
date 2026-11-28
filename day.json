@@ -1936,24 +1936,50 @@
 "time": "2026-11-27T22:01:18.745258+00:00",
 "junior_dp": false,
 "dp_officer": false
+},
+{
+"uk": "",
+"title": "Marine Crewing Agency Everest",
+"url": "https://t.me/morehod_ru/31356",
+"source": "Telegram: @morehod_ru",
+"found": [
+"chief officer",
+"second officer"
+],
+"fp": "fp-0e014f18ef8f66a5",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer / 3rd Officer",
+"vessel": "Bulk carrier",
+"salary": ")  дальше компенсация 50% посл…",
+"contract": "6 месяцев. Район плавания",
+"company": "Marine Crewing Agency Everest"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": true,
+"time": "2026-11-28T03:24:08+00:00",
+"junior_dp": false,
+"dp_officer": false
 }
 ],
 "msg_ids": [
-8651,
-8652,
-8653,
-8654,
-8655,
-8656,
-8657,
-8658,
-8659,
-8660,
-8661,
-8662,
-8663
+8664,
+8665,
+8666,
+8667,
+8668,
+8669,
+8670,
+8671,
+8672,
+8673,
+8674,
+8675,
+8676
 ],
-"last_list": "2026-11-27T22:02:41.154145+00:00",
-"cleared_upto": 8650,
-"last_msg_id": 8663
+"last_list": "2026-11-28T03:27:01.882474+00:00",
+"cleared_upto": 8663,
+"last_msg_id": 8676
 }
