@@ -2002,25 +2002,153 @@
 "time": "2026-11-28T08:03:16.755650+00:00",
 "junior_dp": false,
 "dp_officer": false
+},
+{
+"uk": "",
+"title": "WE NEED",
+"url": "https://t.me/maritimeforum/260834",
+"source": "Telegram: @maritimeforum",
+"found": [
+"2nd off"
+],
+"fp": "fp-7caab74a08ca4078",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "LPG",
+"joining": "ASAP",
+"salary": "12000-13000 USD",
+"email": "info@staff-service-expert.com",
+"company": "staff-service-expert.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": true,
+"time": "2026-11-28T08:10:22+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "DID YOU MISS THESE JOBS THIS WEEK?!",
+"url": "https://t.me/Sea_format/12365",
+"source": "Telegram: @Sea_format",
+"found": [
+"chief officer",
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-5d043519ebdfab1e",
+"offshore": true,
+"info": {
+"rank": "Chief Officer / 2nd Officer",
+"vessel": "LNG, Bulk carrier",
+"contract": "terms",
+"salary": "$24,850"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-28T08:36:58+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Crew for Tug Boat",
+"url": "https://t.me/oceancrewjobs/33025",
+"source": "Telegram: @oceancrewjobs",
+"found": [
+"chief officer",
+"second officer"
+],
+"fp": "fp-34816119cf2a724f",
+"offshore": true,
+"info": {
+"rank": "Chief Officer / 2nd Officer / AB",
+"vessel": "Tug",
+"company": "Crew for Tug Boat"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-28T08:52:27+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Open Vacancies for Jack Up Barge/AHTS",
+"url": "https://t.me/oceancrewjobs/33026",
+"source": "Telegram: @oceancrewjobs",
+"found": [
+"chief officer",
+"2nd officer",
+"sdpo",
+"dpo",
+"2nd off"
+],
+"fp": "fp-41d9d84780883199",
+"offshore": true,
+"info": {
+"rank": "Chief Officer / 2nd Officer / SDPO",
+"vessel": "PSV, AHTS",
+"company": "https://oceancrew.org/vacancies/off…"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-28T08:52:46+00:00",
+"junior_dp": false,
+"dp_officer": true
+},
+{
+"uk": "",
+"title": "Need Candidates for Motor Yacht",
+"url": "https://t.me/oceancrewjobs/33029",
+"source": "Telegram: @oceancrewjobs",
+"found": [
+"chief officer"
+],
+"fp": "fp-9e59d7aaa029c4db",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "AHTS, Cruise",
+"company": "https://oceancrew.org/vacancies/cru…"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-28T08:54:11+00:00",
+"junior_dp": false,
+"dp_officer": false
 }
 ],
 "msg_ids": [
-8691,
-8692,
-8693,
-8694,
-8695,
-8696,
-8697,
-8698,
-8699,
-8700,
-8701,
-8702,
-8703,
-8704
+8705,
+8706,
+8707,
+8708,
+8709,
+8710,
+8711,
+8712,
+8713,
+8714,
+8715,
+8716,
+8717,
+8718,
+8719,
+8720
 ],
-"last_list": "2026-11-28T08:06:15.174377+00:00",
-"cleared_upto": 8690,
-"last_msg_id": 8704
+"last_list": "2026-11-28T08:57:26.775615+00:00",
+"cleared_upto": 8704,
+"last_msg_id": 8720
 }
