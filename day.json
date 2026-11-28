@@ -1982,25 +1982,45 @@
 "time": "2026-11-28T06:46:50.972730+00:00",
 "junior_dp": false,
 "dp_officer": false
+},
+{
+"uk": "",
+"title": "Chief Officer on LPG",
+"url": "https://crewell.net/en/vacancies/468332/",
+"source": "crewell.net",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "LPG"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-28T08:03:16.755650+00:00",
+"junior_dp": false,
+"dp_officer": false
 }
 ],
 "msg_ids": [
-8677,
-8678,
-8679,
-8680,
-8681,
-8682,
-8683,
-8684,
-8685,
-8686,
-8687,
-8688,
-8689,
-8690
+8691,
+8692,
+8693,
+8694,
+8695,
+8696,
+8697,
+8698,
+8699,
+8700,
+8701,
+8702,
+8703,
+8704
 ],
-"last_list": "2026-11-28T06:48:34.529896+00:00",
-"cleared_upto": 8676,
-"last_msg_id": 8690
+"last_list": "2026-11-28T08:06:15.174377+00:00",
+"cleared_upto": 8690,
+"last_msg_id": 8704
 }
