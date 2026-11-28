@@ -2503,27 +2503,255 @@
 "time": "2026-11-28T13:40:56+00:00",
 "junior_dp": false,
 "dp_officer": false
+},
+{
+"uk": "",
+"title": "URGENT OFFSHORE CREW VACANCIES – IMMEDIATE JOINING",
+"url": "https://t.me/maritimeforum/260858",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-68369a4ea8e67465",
+"offshore": true,
+"info": {
+"rank": "Chief Officer / AB",
+"vessel": "DSV",
+"salary": "expectations to",
+"joining": "International Recruit Ltd is u",
+"email": "info@recruitltd.com",
+"company": "recruitltd.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-28T15:31:14+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Chief Officer vacancy onboard",
+"url": "https://t.me/maritimeforum/260860",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-badb1b1e226f43d4",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Tug",
+"joining": "10th January",
+"contract": "length: 6 weeks",
+"email": "alfie.smart@selectoffshore.com",
+"company": "selectoffshore.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": true,
+"time": "2026-11-28T15:31:52+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://t.me/maritimeforum/260869",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-4037d3e8330f6871",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Bulk carrier",
+"contract": "3–5 months",
+"salary": "$7,800–8,500\n",
+"email": "inna.fidek@wilhelmsen.com",
+"company": "wilhelmsen.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-28T15:38:37+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://t.me/maritimeforum/260871",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-996badb096e8496a",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "General cargo",
+"contract": "3 months",
+"salary": "$5,000\n",
+"email": "resources@sagaagency.com",
+"company": "sagaagency.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-28T15:38:51+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "2nd Officer",
+"url": "https://t.me/maritimeforum/260876",
+"source": "Telegram: @maritimeforum",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-010f2c3cbbb2c3c4",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"contract": "2 months",
+"salary": "€3,900\n",
+"email": "office@arrivashipping.eu",
+"company": "arrivashipping.eu"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-28T15:39:25+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Chief Officer",
+"url": "https://t.me/maritimeforum/260880",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-198f7abd375ad1f1",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Bulk carrier",
+"contract": "4 months",
+"salary": "$7,500\n",
+"email": "office@navita-crewing.com",
+"company": "navita-crewing.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-28T15:39:56+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "2nd Officer",
+"url": "https://t.me/maritimeforum/260895",
+"source": "Telegram: @maritimeforum",
+"found": [
+"2nd officer",
+"2nd off"
+],
+"fp": "fp-bf2c0b8230d6b1e9",
+"offshore": false,
+"info": {
+"rank": "2nd Officer",
+"vessel": "Container",
+"contract": "3 months",
+"salary": "€3,700\n",
+"email": "office@navita-crewing.com",
+"company": "navita-crewing.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-28T15:41:32+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "DECK OFFICERS (39)",
+"url": "https://t.me/marineman_ltd/48498",
+"source": "Telegram: @marineman_ltd",
+"found": [
+"chief officer",
+"second officer"
+],
+"fp": "fp-1402cb169ca08b68",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 2nd Officer / 3rd Officer",
+"vessel": "LNG, Chemical tanker"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": true,
+"time": "2026-11-28T16:00:03+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Список закрытых каналов в",
+"url": "https://t.me/morehod_ru/31370",
+"source": "Telegram: @morehod_ru",
+"found": [
+"старший помощник"
+],
+"fp": "fp-de84ab9948b9e3a9",
+"offshore": false,
+"info": {
+"rank": "Chief Officer"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": true,
+"time": "2026-11-28T16:03:01+00:00",
+"junior_dp": false,
+"dp_officer": false
 }
 ],
 "msg_ids": [
-8801,
-8802,
-8803,
-8804,
-8805,
-8806,
-8807,
-8808,
-8809,
-8810,
-8811,
-8812,
-8813,
-8814,
-8815,
-8816
+8817,
+8818,
+8819,
+8820,
+8821,
+8822,
+8823,
+8824,
+8825,
+8826,
+8827,
+8828,
+8829,
+8830,
+8831,
+8832,
+8833
 ],
-"last_list": "2026-11-28T14:22:32.302138+00:00",
-"cleared_upto": 8800,
-"last_msg_id": 8816
+"last_list": "2026-11-28T16:03:26.905193+00:00",
+"cleared_upto": 8816,
+"last_msg_id": 8833
 }
