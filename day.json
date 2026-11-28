@@ -1962,24 +1962,45 @@
 "time": "2026-11-28T03:24:08+00:00",
 "junior_dp": false,
 "dp_officer": false
+},
+{
+"uk": "",
+"title": "Chief Officer — Tug",
+"url": "https://seajobs.pro/jobs/chief-officer-tug-5d10cf52-90e3-4762-b08b-0bb2fcdbf847",
+"source": "seajobs.pro",
+"found": [],
+"fp": null,
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "Tug"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-28T06:46:50.972730+00:00",
+"junior_dp": false,
+"dp_officer": false
 }
 ],
 "msg_ids": [
-8664,
-8665,
-8666,
-8667,
-8668,
-8669,
-8670,
-8671,
-8672,
-8673,
-8674,
-8675,
-8676
+8677,
+8678,
+8679,
+8680,
+8681,
+8682,
+8683,
+8684,
+8685,
+8686,
+8687,
+8688,
+8689,
+8690
 ],
-"last_list": "2026-11-28T03:27:01.882474+00:00",
-"cleared_upto": 8663,
-"last_msg_id": 8676
+"last_list": "2026-11-28T06:48:34.529896+00:00",
+"cleared_upto": 8676,
+"last_msg_id": 8690
 }
