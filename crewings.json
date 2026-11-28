@@ -31260,7 +31260,7 @@
 "country": "",
 "emails": [],
 "first": "2026-11-04",
-"last": "2026-11-27",
+"last": "2026-11-28",
 "links": {},
 "name": "Bermuda Maritime",
 "off": 0,
@@ -31275,7 +31275,7 @@
 "telegram": [
 "@AndreyVStart"
 ],
-"total": 23,
+"total": 24,
 "vessels": [],
 "website": ""
 },
@@ -47232,7 +47232,7 @@
 "partner-dv.com": {
 "address": "г. Владивосток, ул. Кирова, д. 23, офис 208.",
 "city": "Владивосток",
-"co": 42,
+"co": 44,
 "country": "Russia",
 "emails": [
 "everest_sea_nhk@mail.ru",
@@ -47248,7 +47248,7 @@
 "off": 0,
 "offshore_hint": false,
 "phones": [],
-"so": 10,
+"so": 12,
 "sources": [
 "@cvsenderseaman",
 "@morehod_ru",
@@ -47257,7 +47257,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 227,
+"total": 229,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -64930,7 +64930,7 @@
 "allcrewing": 3834,
 "andreeyVstart": 1432,
 "balticcareer": 6217,
-"crewingua": 45192,
+"crewingua": 45193,
 "crs_vacancies": 3610,
 "cruiseshipjobs": 12,
 "cvcrewcom": 12912,
@@ -64949,7 +64949,7 @@
 "marineman_ltd": 48496,
 "maritimeforum": 260853,
 "merchantNavyrealjob": 265,
-"morehod_ru": 31363,
+"morehod_ru": 31365,
 "oceancrewjobs": 33030,
 "offshoreatsea": 26142,
 "offshorecv": 1630,
@@ -64958,7 +64958,7 @@
 "olive_crew": 2994,
 "onboard_su": 20898,
 "pervoemorskoe": 4548,
-"rekamore_su": 166456,
+"rekamore_su": 166457,
 "roster_marine": 1751,
 "seajobfinder": 42840,
 "seamenjob": 106790,
