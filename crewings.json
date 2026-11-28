@@ -52318,7 +52318,7 @@
 "@maritimeforum"
 ],
 "telegram": [],
-"total": 149,
+"total": 150,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -55318,7 +55318,7 @@
 "ops@start-manning.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-27",
+"last": "2026-11-28",
 "links": {},
 "name": "Urgent Crewing",
 "off": 4,
@@ -55338,7 +55338,7 @@
 "@maritimeforum"
 ],
 "telegram": [],
-"total": 303,
+"total": 304,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -64929,7 +64929,7 @@
 "TSMexp": 881,
 "Yacht_Vacancies": 290,
 "allcrewing": 3834,
-"andreeyVstart": 1432,
+"andreeyVstart": 1433,
 "balticcareer": 6218,
 "crewingua": 45193,
 "crs_vacancies": 3610,
@@ -64948,9 +64948,9 @@
 "marinejobs": 44234,
 "marinejobz": 194156,
 "marineman_ltd": 48496,
-"maritimeforum": 260855,
+"maritimeforum": 260856,
 "merchantNavyrealjob": 265,
-"morehod_ru": 31366,
+"morehod_ru": 31367,
 "oceancrewjobs": 33030,
 "offshoreatsea": 26142,
 "offshorecv": 1630,
@@ -64959,7 +64959,7 @@
 "olive_crew": 2994,
 "onboard_su": 20898,
 "pervoemorskoe": 4548,
-"rekamore_su": 166459,
+"rekamore_su": 166460,
 "roster_marine": 1751,
 "seajobfinder": 42840,
 "seamenjob": 106790,
