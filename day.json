@@ -2266,27 +2266,129 @@
 "time": "2026-11-28T10:06:20+00:00",
 "junior_dp": false,
 "dp_officer": false
+},
+{
+"uk": "",
+"title": "VLGC FLEET",
+"url": "https://t.me/maritimeforum/260841",
+"source": "Telegram: @maritimeforum",
+"found": [
+"2nd off"
+],
+"fp": "fp-07c8fe8fe28f9ab0",
+"offshore": false,
+"info": {
+"rank": "2nd Officer / 3rd Officer / AB",
+"salary": "+ Bonus + HRA !!!",
+"joining": "Port: Singapore / South Korea",
+"email": "office@seamanwork.com",
+"company": "seamanwork.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": true,
+"time": "2026-11-28T10:48:40+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Container Ship",
+"url": "https://t.me/maritimeforum/260842",
+"source": "Telegram: @maritimeforum",
+"found": [
+"2nd off"
+],
+"fp": "fp-dd02c96e28258b53",
+"offshore": false,
+"info": {
+"rank": "2nd Officer / 3rd Officer",
+"vessel": "Container",
+"joining": "Port: Port Everglades, USA",
+"salary": "7 500 – 8 000 $",
+"email": "office@seamanwork.com",
+"company": "seamanwork.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": true,
+"time": "2026-11-28T10:48:40+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "CRUDE OIL TANKER",
+"url": "https://t.me/maritimeforum/260843",
+"source": "Telegram: @maritimeforum",
+"found": [
+"2nd off"
+],
+"fp": "fp-44bc38dd75378b37",
+"offshore": false,
+"info": {
+"rank": "2nd Officer / 3rd Officer / AB",
+"vessel": "Crude oil tanker",
+"salary": "+ Bonus + HRA !!!",
+"email": "office@seamanwork.com",
+"company": "seamanwork.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": true,
+"time": "2026-11-28T10:48:41+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Flag: Malta",
+"url": "https://t.me/maritimeforum/260844",
+"source": "Telegram: @maritimeforum",
+"found": [
+"c/o"
+],
+"fp": "fp-7979493d5198f1b3",
+"offshore": false,
+"info": {
+"rank": "Chief Officer",
+"vessel": "LNG",
+"joining": "TBA",
+"salary": "22 000 - 24 000 $",
+"email": "office@seamanwork.com",
+"company": "seamanwork.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": true,
+"time": "2026-11-28T10:48:41+00:00",
+"junior_dp": false,
+"dp_officer": false
 }
 ],
 "msg_ids": [
-8737,
-8738,
-8739,
-8740,
-8741,
-8742,
-8743,
-8744,
-8745,
-8746,
-8747,
-8748,
-8749,
-8750,
-8751,
-8752
+8753,
+8754,
+8755,
+8756,
+8757,
+8758,
+8759,
+8760,
+8761,
+8762,
+8763,
+8764,
+8765,
+8766,
+8767,
+8768
 ],
-"last_list": "2026-11-28T10:39:51.271698+00:00",
-"cleared_upto": 8736,
-"last_msg_id": 8752
+"last_list": "2026-11-28T11:31:04.563880+00:00",
+"cleared_upto": 8752,
+"last_msg_id": 8768
 }

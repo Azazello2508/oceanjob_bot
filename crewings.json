@@ -12261,7 +12261,7 @@
 "@maritimeforum"
 ],
 "telegram": [],
-"total": 50,
+"total": 51,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -14521,6 +14521,32 @@
 "Tanker"
 ],
 "website": "deniz-maritime.com.ua"
+},
+"denkirs.ru": {
+"address": "",
+"city": "",
+"co": 0,
+"country": "",
+"emails": [
+"hr@denkirs.ru"
+],
+"first": "2026-11-28",
+"last": "2026-11-28",
+"links": {},
+"name": "",
+"off": 0,
+"offshore_hint": false,
+"phones": [
+"+79252484935"
+],
+"so": 0,
+"sources": [
+"@ecrewing"
+],
+"telegram": [],
+"total": 1,
+"vessels": [],
+"website": ""
 },
 "denmax-ua.com": {
 "address": "",
@@ -47205,7 +47231,7 @@
 "crewell.net"
 ],
 "telegram": [],
-"total": 225,
+"total": 227,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -52244,13 +52270,13 @@
 "seamanwork.com": {
 "address": "",
 "city": "",
-"co": 9,
+"co": 10,
 "country": "",
 "emails": [
 "office@seamanwork.com"
 ],
 "first": "2026-11-03",
-"last": "2026-11-27",
+"last": "2026-11-28",
 "links": {},
 "name": "",
 "off": 0,
@@ -52259,13 +52285,13 @@
 "+380982840100",
 "+40799627444"
 ],
-"so": 51,
+"so": 54,
 "sources": [
 "@SM_job_center",
 "@maritimeforum"
 ],
 "telegram": [],
-"total": 137,
+"total": 148,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -54872,7 +54898,7 @@
 "@supermariner_ua"
 ],
 "telegram": [],
-"total": 393,
+"total": 394,
 "vessels": [
 "Bulk",
 "Chemical",
@@ -64882,7 +64908,7 @@
 "cruiseshipjobs": 12,
 "cvcrewcom": 12912,
 "cvsenderseaman": 17338,
-"ecrewing": 3261,
+"ecrewing": 3262,
 "findseajobs": 32574,
 "galaxymaritimeua": 1250,
 "gm_seaman_cv": 2783,
@@ -64894,9 +64920,9 @@
 "marinejobs": 44233,
 "marinejobz": 194156,
 "marineman_ltd": 48496,
-"maritimeforum": 260836,
+"maritimeforum": 260849,
 "merchantNavyrealjob": 265,
-"morehod_ru": 31361,
+"morehod_ru": 31363,
 "oceancrewjobs": 33030,
 "offshoreatsea": 26142,
 "offshorecv": 1630,
@@ -64905,7 +64931,7 @@
 "olive_crew": 2994,
 "onboard_su": 20898,
 "pervoemorskoe": 4548,
-"rekamore_su": 166453,
+"rekamore_su": 166454,
 "roster_marine": 1751,
 "seajobfinder": 42840,
 "seamenjob": 106790,
