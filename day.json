@@ -2128,27 +2128,99 @@
 "time": "2026-11-28T08:54:11+00:00",
 "junior_dp": false,
 "dp_officer": false
+},
+{
+"uk": "",
+"title": "СРОЧНЫЕ ВАКАНСИИ НА ХИМОВОЗЫ (Chemical/Oil Products Tankers)",
+"url": "https://t.me/maritimeforum/260835",
+"source": "Telegram: @maritimeforum",
+"found": [
+"chief officer"
+],
+"fp": "fp-46f501a8a596d849",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 3rd Officer",
+"vessel": "Chemical tanker",
+"contract": "а",
+"salary": "10 500 – 11 500 USD"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": false,
+"time": "2026-11-28T08:55:47+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "СРОЧНАЯ ПОСАДКА",
+"url": "https://t.me/crewingua/45192",
+"source": "Telegram: @crewingua",
+"found": [],
+"fp": "fp-562d20a8d9cf37e7",
+"offshore": false,
+"info": {
+"rank": "Chief Officer / 3rd Officer",
+"vessel": "Chemical tanker, Product tanker",
+"joining": "‼️",
+"salary": "4500$",
+"email": "globalust71@gmail.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": true,
+"time": "2026-11-28T09:14:03+00:00",
+"junior_dp": false,
+"dp_officer": false
+},
+{
+"uk": "",
+"title": "Offshore. Job selection for 27/11/2026",
+"url": "https://t.me/supermariner_ua/3972",
+"source": "Telegram: @supermariner_ua",
+"found": [
+"chief officer"
+],
+"fp": "fp-deb0da25b3c33a00",
+"offshore": true,
+"info": {
+"rank": "Chief Officer",
+"vessel": "AHTS, OSV",
+"salary": "$500-$600/day",
+"email": "info@asteamshipmanagement.com",
+"company": "asteamshipmanagement.com"
+},
+"company": "",
+"place": "",
+"new": false,
+"repeat": true,
+"time": "2026-11-28T09:13:27+00:00",
+"junior_dp": false,
+"dp_officer": false
 }
 ],
 "msg_ids": [
-8705,
-8706,
-8707,
-8708,
-8709,
-8710,
-8711,
-8712,
-8713,
-8714,
-8715,
-8716,
-8717,
-8718,
-8719,
-8720
+8721,
+8722,
+8723,
+8724,
+8725,
+8726,
+8727,
+8728,
+8729,
+8730,
+8731,
+8732,
+8733,
+8734,
+8735,
+8736
 ],
-"last_list": "2026-11-28T08:57:26.775615+00:00",
-"cleared_upto": 8704,
-"last_msg_id": 8720
+"last_list": "2026-11-28T09:48:38.368472+00:00",
+"cleared_upto": 8720,
+"last_msg_id": 8736
 }
